@@ -1,0 +1,74 @@
+[
+  {
+    "date": "14/03/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Adelaide Olympic Reserve 10-0 Eastern United Reserve",
+    "homeTeam": "Adelaide Olympic Reserve",
+    "awayTeam": "Eastern United Reserve",
+    "score": "10-0",
+    "matchId": "5051783",
+    "targetMatchId": "5073946",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Eastern United Reserve Hist",
+    "title": "Eastern United Reserve 1-2 The Cove FC Reserve",
+    "homeTeam": "Eastern United Reserve",
+    "awayTeam": "The Cove FC Reserve",
+    "score": "1-2",
+    "matchId": "5072159",
+    "targetMatchId": "5073946",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "17/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Adelaide Olympic Reserve Hist",
+    "title": "Adelaide Olympic Reserve 0-4 Cumberland United Reserve",
+    "homeTeam": "Adelaide Olympic Reserve",
+    "awayTeam": "Cumberland United Reserve",
+    "score": "0-4",
+    "matchId": "5067488",
+    "targetMatchId": "5073946",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

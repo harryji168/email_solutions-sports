@@ -1,0 +1,50 @@
+[
+  {
+    "date": "12/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Kawasoe Club Hist",
+    "title": "Kawasoe Club 3-4 Nexus Miyakonojo",
+    "homeTeam": "Kawasoe Club",
+    "awayTeam": "Nexus Miyakonojo",
+    "score": "3-4",
+    "matchId": "5060757",
+    "targetMatchId": "5073910",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Kawasoe Club Hist",
+    "title": "Kawasoe Club 0-1 KMG Holdings",
+    "homeTeam": "Kawasoe Club",
+    "awayTeam": "KMG Holdings",
+    "score": "0-1",
+    "matchId": "5059569",
+    "targetMatchId": "5073910",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

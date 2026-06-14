@@ -1,0 +1,98 @@
+[
+  {
+    "date": "02/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Austria Hist",
+    "title": "Austria 1-0 Tunisia",
+    "homeTeam": "Austria",
+    "awayTeam": "Tunisia",
+    "score": "1-0",
+    "matchId": "5069028",
+    "targetMatchId": "5002037",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "63' 1-0",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "01/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Austria Hist",
+    "title": "Austria 1-0 Korea Republic",
+    "homeTeam": "Austria",
+    "awayTeam": "Korea Republic",
+    "score": "1-0",
+    "matchId": "5056815",
+    "targetMatchId": "5002037",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "48' 1-0",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "28/03/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Austria Hist",
+    "title": "Austria 5-1 Ghana",
+    "homeTeam": "Austria",
+    "awayTeam": "Ghana",
+    "score": "5-1",
+    "matchId": "5053632",
+    "targetMatchId": "5002037",
+    "goals": [
+      "12' 1-0",
+      "",
+      "",
+      "",
+      "51' 2-0<br>59' 3-0",
+      "",
+      "77' 3-1<br>80' 4-1",
+      "90+2' 5-1"
+    ],
+    "isReference": true
+  },
+  {
+    "date": "01/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Jordan Hist",
+    "title": "Jordan 2-2 Nigeria",
+    "homeTeam": "Jordan",
+    "awayTeam": "Nigeria",
+    "score": "2-2",
+    "matchId": "5057806",
+    "targetMatchId": "5002037",
+    "goals": [
+      "",
+      "17' 1-0<br>25' 1-1",
+      "41' 1-2",
+      "",
+      "",
+      "",
+      "77' 2-2",
+      ""
+    ],
+    "isReference": true
+  }
+]

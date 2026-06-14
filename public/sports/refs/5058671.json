@@ -1,0 +1,98 @@
+[
+  {
+    "date": "13/02/03",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Tunisia 1-0 Sweden",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Sweden",
+    "score": "1-0",
+    "matchId": "10005277",
+    "targetMatchId": "5058671",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Sweden Hist",
+    "title": "Sweden 2-2 Greece",
+    "homeTeam": "Sweden",
+    "awayTeam": "Greece",
+    "score": "2-2",
+    "matchId": "5071143",
+    "targetMatchId": "5058671",
+    "goals": [
+      "10' 0-1",
+      "",
+      "",
+      "",
+      "53' 1-1",
+      "69' 2-1",
+      "",
+      "90+5' 2-2"
+    ],
+    "isReference": true
+  },
+  {
+    "date": "01/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Sweden Hist",
+    "title": "Sweden 3-2 Poland",
+    "homeTeam": "Sweden",
+    "awayTeam": "Poland",
+    "score": "3-2",
+    "matchId": "5057732",
+    "targetMatchId": "5058671",
+    "goals": [
+      "",
+      "19' 1-0",
+      "33' 1-1<br>44' 2-1",
+      "",
+      "55' 2-2",
+      "",
+      "88' 3-2",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "01/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Tunisia Hist",
+    "title": "Canada 0-0 Tunisia",
+    "homeTeam": "Canada",
+    "awayTeam": "Tunisia",
+    "score": "0-0",
+    "matchId": "5056824",
+    "targetMatchId": "5058671",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

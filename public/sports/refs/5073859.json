@@ -1,0 +1,122 @@
+[
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Hellas Kagran Hist",
+    "title": "Wienerberg 5-0 Hellas Kagran",
+    "homeTeam": "Wienerberg",
+    "awayTeam": "Hellas Kagran",
+    "score": "5-0",
+    "matchId": "5072679",
+    "targetMatchId": "5073859",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "22/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Hellas Kagran Hist",
+    "title": "Gerasdorf/Stammersdorf 1-2 Hellas Kagran",
+    "homeTeam": "Gerasdorf/Stammersdorf",
+    "awayTeam": "Hellas Kagran",
+    "score": "1-2",
+    "matchId": "5062190",
+    "targetMatchId": "5073859",
+    "goals": [
+      "7' 0-1",
+      "27' 1-1",
+      "",
+      "",
+      "",
+      "67' 1-2",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "22/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Floridsdorfer AC B Hist",
+    "title": "Gerasdorf/Stammersdorf 0-4 Floridsdorfer AC B",
+    "homeTeam": "Gerasdorf/Stammersdorf",
+    "awayTeam": "Floridsdorfer AC B",
+    "score": "0-4",
+    "matchId": "5068473",
+    "targetMatchId": "5073859",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "17/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Floridsdorfer AC B Hist",
+    "title": "Floridsdorfer AC B 1-2 Red Star Penzing",
+    "homeTeam": "Floridsdorfer AC B",
+    "awayTeam": "Red Star Penzing",
+    "score": "1-2",
+    "matchId": "5067604",
+    "targetMatchId": "5073859",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "10/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Floridsdorfer AC B Hist",
+    "title": "WAF Vorwarts Brigittenau 2-1 Floridsdorfer AC B",
+    "homeTeam": "WAF Vorwarts Brigittenau",
+    "awayTeam": "Floridsdorfer AC B",
+    "score": "2-1",
+    "matchId": "5065683",
+    "targetMatchId": "5073859",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

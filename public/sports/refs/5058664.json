@@ -1,0 +1,74 @@
+[
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Canada Hist",
+    "title": "Canada 1-1 Republic of Ireland",
+    "homeTeam": "Canada",
+    "awayTeam": "Republic of Ireland",
+    "score": "1-1",
+    "matchId": "5071179",
+    "targetMatchId": "5058664",
+    "goals": [
+      "",
+      "23' 1-0",
+      "",
+      "",
+      "60' 1-1",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "30/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Bosnia and Herzegovina Hist",
+    "title": "Bosnia and Herzegovina 0-0 North Macedonia",
+    "homeTeam": "Bosnia and Herzegovina",
+    "awayTeam": "North Macedonia",
+    "score": "0-0",
+    "matchId": "5068643",
+    "targetMatchId": "5058664",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "01/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Bosnia and Herzegovina Hist",
+    "title": "Bosnia and Herzegovina 1-1 Italy",
+    "homeTeam": "Bosnia and Herzegovina",
+    "awayTeam": "Italy",
+    "score": "1-1",
+    "matchId": "5057734",
+    "targetMatchId": "5058664",
+    "goals": [
+      "15' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "79' 1-1",
+      ""
+    ],
+    "isReference": true
+  }
+]

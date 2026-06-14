@@ -1,0 +1,122 @@
+[
+  {
+    "date": "07/06/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Birmingham Legion Women's 2-1 One Knoxville Women's",
+    "homeTeam": "Birmingham Legion Women's",
+    "awayTeam": "One Knoxville Women's",
+    "score": "2-1",
+    "matchId": "4874429",
+    "targetMatchId": "5073934",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "07/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Birmingham Legion Women\\s Hist",
+    "title": "Swarm FC  Women's 3-0 Birmingham Legion Women's",
+    "homeTeam": "Swarm FC  Women's",
+    "awayTeam": "Birmingham Legion Women's",
+    "score": "3-0",
+    "matchId": "5072633",
+    "targetMatchId": "5073934",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "29/06/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Birmingham Legion Women\\s Hist",
+    "title": "Southern Soccer Academy  Women's 1-2 Birmingham Legion Women's",
+    "homeTeam": "Southern Soccer Academy  Women's",
+    "awayTeam": "Birmingham Legion Women's",
+    "score": "1-2",
+    "matchId": "4887420",
+    "targetMatchId": "5073934",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "16/06/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Birmingham Legion Women\\s Hist",
+    "title": "Nashville Rhythm Women's 5-1 Birmingham Legion Women's",
+    "homeTeam": "Nashville Rhythm Women's",
+    "awayTeam": "Birmingham Legion Women's",
+    "score": "5-1",
+    "matchId": "4876937",
+    "targetMatchId": "5073934",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "07/06/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "One Knoxville Women\\s Hist",
+    "title": "Birmingham Legion Women's 2-1 One Knoxville Women's",
+    "homeTeam": "Birmingham Legion Women's",
+    "awayTeam": "One Knoxville Women's",
+    "score": "2-1",
+    "matchId": "4874429",
+    "targetMatchId": "5073934",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "date": "07/11/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "SK Hranice 0-4 Brno B",
+    "homeTeam": "SK Hranice",
+    "awayTeam": "Brno B",
+    "score": "0-4",
+    "matchId": "4883632",
+    "targetMatchId": "4997774",
+    "goals": [
+      "8' 0-1<br>12' 0-2",
+      "25' 0-3",
+      "",
+      "",
+      "",
+      "",
+      "87' 0-4",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Brno B Hist",
+    "title": "MFK Karvina II 2-0 Brno B",
+    "homeTeam": "MFK Karvina II",
+    "awayTeam": "Brno B",
+    "score": "2-0",
+    "matchId": "4997760",
+    "targetMatchId": "4997774",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "60' 1-0",
+      "",
+      "80' 2-0",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "24/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Brno B Hist",
+    "title": "Zlin B 2-1 Brno B",
+    "homeTeam": "Zlin B",
+    "awayTeam": "Brno B",
+    "score": "2-1",
+    "matchId": "4997721",
+    "targetMatchId": "4997774",
+    "goals": [
+      "",
+      "",
+      "33' 1-0",
+      "",
+      "",
+      "",
+      "",
+      "90+1' 1-1<br>90+3' 2-1"
+    ],
+    "isReference": true
+  },
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "SK Hranice Hist",
+    "title": "SK Hranice 0-4 Sigma Olomouc B",
+    "homeTeam": "SK Hranice",
+    "awayTeam": "Sigma Olomouc B",
+    "score": "0-4",
+    "matchId": "4997764",
+    "targetMatchId": "4997774",
+    "goals": [
+      "",
+      "25' 0-1",
+      "",
+      "45+3' 0-2",
+      "46' 0-3",
+      "69' 0-4",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "30/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "SK Hranice Hist",
+    "title": "SK Hranice 0-0 MFK Karvina II",
+    "homeTeam": "SK Hranice",
+    "awayTeam": "MFK Karvina II",
+    "score": "0-0",
+    "matchId": "4997746",
+    "targetMatchId": "4997774",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

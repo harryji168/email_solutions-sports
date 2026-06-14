@@ -1,0 +1,50 @@
+[
+  {
+    "date": "15/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Canberra Croatia(U23) 4-0 Canberra White Eagles(U23)",
+    "homeTeam": "Canberra Croatia(U23)",
+    "awayTeam": "Canberra White Eagles(U23)",
+    "score": "4-0",
+    "matchId": "5061119",
+    "targetMatchId": "5073975",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "23/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Canberra White Eagles(U23) Hist",
+    "title": "Canberra White Eagles(U23) 2-7 O'Connor Knights(U23)",
+    "homeTeam": "Canberra White Eagles(U23)",
+    "awayTeam": "O'Connor Knights(U23)",
+    "score": "2-7",
+    "matchId": "5068538",
+    "targetMatchId": "5073975",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

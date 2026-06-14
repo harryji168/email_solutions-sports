@@ -1,0 +1,74 @@
+[
+  {
+    "date": "09/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Yunnan Cuanhe Hist",
+    "title": "Chongqing Handa 2-0 Yunnan Cuanhe",
+    "homeTeam": "Chongqing Handa",
+    "awayTeam": "Yunnan Cuanhe",
+    "score": "2-0",
+    "matchId": "5073271",
+    "targetMatchId": "5073531",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "19/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Yunnan Cuanhe Hist",
+    "title": "Yunnan Cuanhe 0-0 Guangzhou Dandelion",
+    "homeTeam": "Yunnan Cuanhe",
+    "awayTeam": "Guangzhou Dandelion",
+    "score": "0-0",
+    "matchId": "5053036",
+    "targetMatchId": "5073531",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "13/03/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Yunnan Cuanhe Hist",
+    "title": "Yunnan Cuanhe 3-1 Guangzhou Rock Goal",
+    "homeTeam": "Yunnan Cuanhe",
+    "awayTeam": "Guangzhou Rock Goal",
+    "score": "3-1",
+    "matchId": "5050544",
+    "targetMatchId": "5073531",
+    "goals": [
+      "",
+      "17' 1-0",
+      "45' 1-1",
+      "",
+      "48' 2-1",
+      "",
+      "90' 3-1",
+      ""
+    ],
+    "isReference": true
+  }
+]

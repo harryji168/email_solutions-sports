@@ -1,0 +1,122 @@
+[
+  {
+    "date": "09/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "France Hist",
+    "title": "France 3-1 Northern Ireland",
+    "homeTeam": "France",
+    "awayTeam": "Northern Ireland",
+    "score": "3-1",
+    "matchId": "5071512",
+    "targetMatchId": "5002042",
+    "goals": [
+      "",
+      "",
+      "43' 1-0",
+      "",
+      "49' 2-0",
+      "64' 2-1<br>75' 3-1",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "France Hist",
+    "title": "France 1-2 Cote d'Ivoire",
+    "homeTeam": "France",
+    "awayTeam": "Cote d'Ivoire",
+    "score": "1-2",
+    "matchId": "5069228",
+    "targetMatchId": "5002042",
+    "goals": [
+      "",
+      "",
+      "45' 1-0",
+      "",
+      "53' 1-1",
+      "",
+      "84' 1-2",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "10/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Senegal Hist",
+    "title": "Saudi Arabia 0-0 Senegal",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Senegal",
+    "score": "0-0",
+    "matchId": "5071814",
+    "targetMatchId": "5002042",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "01/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Senegal Hist",
+    "title": "USA 3-2 Senegal",
+    "homeTeam": "USA",
+    "awayTeam": "Senegal",
+    "score": "3-2",
+    "matchId": "5069018",
+    "targetMatchId": "5002042",
+    "goals": [
+      "7' 1-0",
+      "20' 2-0",
+      "44' 2-1",
+      "",
+      "52' 2-2",
+      "63' 3-2",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "01/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Senegal Hist",
+    "title": "Senegal 3-1 Gambia",
+    "homeTeam": "Senegal",
+    "awayTeam": "Gambia",
+    "score": "3-1",
+    "matchId": "5056820",
+    "targetMatchId": "5002042",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+4' 1-0",
+      "47' 2-0<br>51' 2-1",
+      "",
+      "",
+      "90+5' 3-1"
+    ],
+    "isReference": true
+  }
+]

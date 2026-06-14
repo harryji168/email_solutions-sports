@@ -1,0 +1,122 @@
+[
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Anapolis (U20) 0-2 Cerrado(U20)",
+    "homeTeam": "Anapolis (U20)",
+    "awayTeam": "Cerrado(U20)",
+    "score": "0-2",
+    "matchId": "5072181",
+    "targetMatchId": "5073937",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Cerrado(U20) Hist",
+    "title": "Anapolis (U20) 0-2 Cerrado(U20)",
+    "homeTeam": "Anapolis (U20)",
+    "awayTeam": "Cerrado(U20)",
+    "score": "0-2",
+    "matchId": "5072181",
+    "targetMatchId": "5073937",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "23/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Cerrado(U20) Hist",
+    "title": "Goias(U20) 1-1 Cerrado(U20)",
+    "homeTeam": "Goias(U20)",
+    "awayTeam": "Cerrado(U20)",
+    "score": "1-1",
+    "matchId": "5068734",
+    "targetMatchId": "5073937",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "18/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Cerrado(U20) Hist",
+    "title": "Goiania(U20) 1-1 Cerrado(U20)",
+    "homeTeam": "Goiania(U20)",
+    "awayTeam": "Cerrado(U20)",
+    "score": "1-1",
+    "matchId": "5061756",
+    "targetMatchId": "5073937",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Anapolis (U20) Hist",
+    "title": "Anapolis (U20) 0-2 Cerrado(U20)",
+    "homeTeam": "Anapolis (U20)",
+    "awayTeam": "Cerrado(U20)",
+    "score": "0-2",
+    "matchId": "5072181",
+    "targetMatchId": "5073937",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

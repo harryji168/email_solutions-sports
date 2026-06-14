@@ -1,0 +1,838 @@
+[
+  {
+    "date": "2022-11-20",
+    "day": "Sunday",
+    "time": "08:00",
+    "title": "A Qatar 0-2 Ecuador",
+    "group": "A",
+    "homeTeam": "Qatar",
+    "awayTeam": "Ecuador",
+    "goals": [
+      "",
+      "16' 1-0",
+      "31' 2-0",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-21",
+    "day": "Monday",
+    "time": "05:00",
+    "title": "B England 6-2 Iran",
+    "group": "B",
+    "homeTeam": "England",
+    "awayTeam": "Iran",
+    "goals": [
+      "",
+      "",
+      "35' 1-0 43' 2-0",
+      "45'+1 3-0",
+      "",
+      "62' 4-0 65'4-1 71'5-1",
+      "",
+      "90'6-1 90+4'6-2"
+    ]
+  },
+  {
+    "date": "2022-11-21",
+    "day": "Monday",
+    "time": "08:00",
+    "title": "A Senegal 0-2 Netherlands",
+    "group": "A",
+    "homeTeam": "Senegal",
+    "awayTeam": "Netherlands",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "84' 0-1",
+      "90+9' 0-2"
+    ]
+  },
+  {
+    "date": "2022-11-21",
+    "day": "Monday",
+    "time": "11:00",
+    "title": "B United States 1-1 Wales",
+    "group": "B",
+    "homeTeam": "United States",
+    "awayTeam": "Wales",
+    "goals": [
+      "",
+      "",
+      "36' 1-0",
+      "",
+      "",
+      "",
+      "82' 1-1",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-22",
+    "day": "Tuesday",
+    "time": "02:00",
+    "title": "C Argentina 1-2 Saudi Arabia",
+    "group": "C",
+    "homeTeam": "Argentina",
+    "awayTeam": "Saudi Arabia",
+    "goals": [
+      "10' 1-0",
+      "",
+      "",
+      "",
+      "48' 1-1 53' 1-2",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-22",
+    "day": "Tuesday",
+    "time": "05:00",
+    "title": "C Mexico 0-0 Poland",
+    "group": "C",
+    "homeTeam": "Mexico",
+    "awayTeam": "Poland",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-22",
+    "day": "Tuesday",
+    "time": "08:00",
+    "title": "D Denmark  0-0 Tunisia",
+    "group": "D",
+    "homeTeam": "Denmark",
+    "awayTeam": "Tunisia",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-22",
+    "day": "Tuesday",
+    "time": "11:00",
+    "title": "D France  4-1 Australia",
+    "group": "D",
+    "homeTeam": "France",
+    "awayTeam": "Australia",
+    "goals": [
+      "9' 0-1",
+      "27' 1-1 32' 2-1",
+      "",
+      "",
+      "",
+      "68' 3-1 71' 4-1",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-23",
+    "day": "Wednesday",
+    "time": "02:00",
+    "title": "F Croatia 0-0 Morocco",
+    "group": "F",
+    "homeTeam": "Croatia",
+    "awayTeam": "Morocco",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-23",
+    "day": "Wednesday",
+    "time": "05:00",
+    "title": "E Germany 1-2 Japan",
+    "group": "",
+    "homeTeam": "",
+    "awayTeam": "",
+    "goals": [
+      "",
+      "",
+      "33' 1-0",
+      "",
+      "",
+      "",
+      "75' 1-1 83' 1-2",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-23",
+    "day": "Wednesday",
+    "time": "08:00",
+    "title": "E Spain  7-0 Costa Rica",
+    "group": "E",
+    "homeTeam": "Spain",
+    "awayTeam": "Costa Rica",
+    "goals": [
+      "11' 1-0",
+      "21' 2-0",
+      "31'3-0",
+      "",
+      "54' 4-0",
+      "74' 5-0",
+      "",
+      "90' 6-0 90+2' 7-0"
+    ]
+  },
+  {
+    "date": "2022-11-23",
+    "day": "Wednesday",
+    "time": "11:00",
+    "title": "F Belgium  1-0 Canada",
+    "group": "F",
+    "homeTeam": "Belgium",
+    "awayTeam": "Canada",
+    "goals": [
+      "",
+      "",
+      "44' 1-0",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-24",
+    "day": "Thursday",
+    "time": "02:00",
+    "title": "G Switzerland 1-0 Cameroon",
+    "group": "G",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Cameroon",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "48' 1-0",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-24",
+    "day": "Thursday",
+    "time": "05:00",
+    "title": "H Uruguay 0-0 South Korea",
+    "group": "H",
+    "homeTeam": "Uruguay",
+    "awayTeam": "South Korea",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-24",
+    "day": "Thursday",
+    "time": "08:00",
+    "title": "H Portugal 3-2 Ghana",
+    "group": "H",
+    "homeTeam": "Portugal",
+    "awayTeam": "Ghana",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "65' 1-0 73' 1-1",
+      "78' 2-1 80' 3-1 89' 3-2",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-24",
+    "day": "Thursday",
+    "time": "11:00",
+    "title": "G Brazil 2-0 Serbia",
+    "group": "G",
+    "homeTeam": "Brazil",
+    "awayTeam": "Serbia",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "62' 1-0 73' 2-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-25",
+    "day": "Friday",
+    "time": "02:00",
+    "title": "B Wales 0-2 Iran",
+    "group": "B",
+    "homeTeam": "Wales",
+    "awayTeam": "Iran",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "90+8' 0-1 90+11' 0-2"
+    ]
+  },
+  {
+    "date": "2022-11-25",
+    "day": "Friday",
+    "time": "05:00",
+    "title": "A Qatar 1-3 Senegal",
+    "group": "A",
+    "homeTeam": "Qatar",
+    "awayTeam": "Senegal",
+    "goals": [
+      "",
+      "",
+      "41' 0-1",
+      "",
+      "48' 0-2",
+      "",
+      "78' 1-2 84' 1-3",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-25",
+    "day": "Friday",
+    "time": "08:00",
+    "title": "A Netherlands 1-1  Ecuador",
+    "group": "A",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Ecuador",
+    "goals": [
+      "6' 1-0",
+      "",
+      "",
+      "",
+      "48' 1-1",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-25",
+    "day": "Friday",
+    "time": "11:00",
+    "title": "B England 0-0 United States",
+    "group": "B",
+    "homeTeam": "England",
+    "awayTeam": "United States",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-26",
+    "day": "Saturday",
+    "time": "02:00",
+    "title": "D Tunisia 0-1 Australia",
+    "group": "D",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Australia",
+    "goals": [
+      "",
+      "23' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-26",
+    "day": "Saturday",
+    "time": "05:00",
+    "title": "C Poland  2-0 Saudi Arabia",
+    "group": "C",
+    "homeTeam": "Poland",
+    "awayTeam": "Saudi Arabia",
+    "goals": [
+      "",
+      "",
+      "39' 1-0",
+      "",
+      "",
+      "",
+      "82' 2-0",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-26",
+    "day": "Saturday",
+    "time": "08:00",
+    "title": "D France 2-1 Denmark",
+    "group": "D",
+    "homeTeam": "France",
+    "awayTeam": "Denmark",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "61' 1-0 68' 1-1",
+      "86' 2-1",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-26",
+    "day": "Saturday",
+    "time": "11:00",
+    "title": "C Argentina  2-0  Mexico",
+    "group": "C",
+    "homeTeam": "Argentina",
+    "awayTeam": "Mexico",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "64' 1-0",
+      "87' 2-0",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-27",
+    "day": "Sunday",
+    "time": "02:00",
+    "title": "E Japan 0-1 Costa Rica",
+    "group": "E",
+    "homeTeam": "Japan",
+    "awayTeam": "Costa Rica",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "81' 0-1",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-27",
+    "day": "Sunday",
+    "time": "05:00",
+    "title": "F Belgium 0-2 Morocco",
+    "group": "F",
+    "homeTeam": "Belgium",
+    "awayTeam": "Morocco",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "71' 0-1",
+      "",
+      "90+2' 0-2"
+    ]
+  },
+  {
+    "date": "2022-11-27",
+    "day": "Sunday",
+    "time": "08:00",
+    "title": "F Croatia 4-1 Canada",
+    "group": "F",
+    "homeTeam": "Croatia",
+    "awayTeam": "Canada",
+    "goals": [
+      "2' 0-1",
+      "",
+      "36' 1-1 44' 2-1",
+      "",
+      "",
+      "70' 3-1",
+      "",
+      "90+4' 4-1"
+    ]
+  },
+  {
+    "date": "2022-11-27",
+    "day": "Sunday",
+    "time": "11:00",
+    "title": "E Spain 1-1 Germany",
+    "group": "E",
+    "homeTeam": "Spain",
+    "awayTeam": "Germany",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "62' 1-0",
+      "83' 1-1",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-28",
+    "day": "Monday",
+    "time": "02:00",
+    "title": "G Cameroon 3-3 Serbia",
+    "group": "G",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Serbia",
+    "goals": [
+      "",
+      "29' 1-0",
+      "",
+      "45+1' 1-1 45+3' 1-2",
+      "53' 1-3",
+      "63' 2-3 66' 3-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-28",
+    "day": "Monday",
+    "time": "05:00",
+    "title": "H South Korea 2-3  Ghana",
+    "group": "H",
+    "homeTeam": "South",
+    "awayTeam": "Ghana",
+    "goals": [
+      "",
+      "24' 0-1",
+      "34' 0-2",
+      "",
+      "58'1-2 61' 2-2",
+      "68' 2-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-28",
+    "day": "Monday",
+    "time": "08:00",
+    "title": "G Brazil 1-0 Switzerland",
+    "group": "G",
+    "homeTeam": "Brazil",
+    "awayTeam": "Switzerland",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "83' 1-0",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-28",
+    "day": "Monday",
+    "time": "11:00",
+    "title": "H Portugal  1-0  Uruguay",
+    "group": "H",
+    "homeTeam": "Portugal",
+    "awayTeam": "Uruguay",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "54' 1-0",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-29",
+    "day": "Tuesday",
+    "time": "08:00",
+    "title": "A Ecuador  2-1 Senegal",
+    "group": "A",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Senegal",
+    "goals": [
+      "",
+      "",
+      "44' 0-1",
+      "",
+      "",
+      "67' 1-1 70' 1-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-29",
+    "day": "Tuesday",
+    "time": "11:00",
+    "title": "B Wales 0-3 England",
+    "group": "B",
+    "homeTeam": "Wales",
+    "awayTeam": "England",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "50' 1-0 51 2-0",
+      "68' 2-1",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-30",
+    "day": "Wednesday",
+    "time": "08:00",
+    "title": "D Australia 1-0 Denmark",
+    "group": "D",
+    "homeTeam": "Australia",
+    "awayTeam": "Denmark",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "60' 1-0",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-11-30",
+    "day": "Wednesday",
+    "time": "11:00",
+    "title": "C Poland 0-2 Argentina",
+    "group": "C",
+    "homeTeam": "Poland",
+    "awayTeam": "Argentina",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "46' 0-1",
+      "67' 0-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-12-01",
+    "day": "Thursday",
+    "time": "08:00",
+    "title": "F Croatia 0-0 Belgium",
+    "group": "F",
+    "homeTeam": "Croatia",
+    "awayTeam": "Belgium",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-12-01",
+    "day": "Thursday",
+    "time": "11:00",
+    "title": "E Japan -  Spain",
+    "group": "E",
+    "homeTeam": "Japa",
+    "awayTeam": "Spain",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-12-02",
+    "day": "Friday",
+    "time": "08:00",
+    "title": "H Ghana - Uruguay",
+    "group": "",
+    "homeTeam": "",
+    "awayTeam": "",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-12-02",
+    "day": "Friday",
+    "time": "11:00",
+    "title": "G Serbia - Switzerland",
+    "group": "",
+    "homeTeam": "",
+    "awayTeam": "",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-12-03",
+    "day": "Saturday",
+    "time": "08:00",
+    "title": "Netherlands - United States",
+    "group": "",
+    "homeTeam": "",
+    "awayTeam": "",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-12-03",
+    "day": "Saturday",
+    "time": "11:00",
+    "title": "Argentina - Australia",
+    "group": "",
+    "homeTeam": "",
+    "awayTeam": "",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-12-04",
+    "day": "Sunday",
+    "time": "08:00",
+    "title": "France - Poland",
+    "group": "",
+    "homeTeam": "",
+    "awayTeam": "",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2022-12-04",
+    "day": "Sunday",
+    "time": "11:00",
+    "title": "England - Senegal",
+    "group": "",
+    "homeTeam": "",
+    "awayTeam": "",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

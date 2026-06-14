@@ -1,0 +1,74 @@
+[
+  {
+    "date": "31/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Nexus Miyakonojo Hist",
+    "title": "Nippon Steel Oita 0-1 Nexus Miyakonojo",
+    "homeTeam": "Nippon Steel Oita",
+    "awayTeam": "Nexus Miyakonojo",
+    "score": "0-1",
+    "matchId": "5071106",
+    "targetMatchId": "5073908",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Nexus Miyakonojo Hist",
+    "title": "Nexus Miyakonojo 0-3 NIFS Kanoya",
+    "homeTeam": "Nexus Miyakonojo",
+    "awayTeam": "NIFS Kanoya",
+    "score": "0-3",
+    "matchId": "5059570",
+    "targetMatchId": "5073908",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "04/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Brew Saga Hist",
+    "title": "Brew Saga 0-0 Kawasoe Club",
+    "homeTeam": "Brew Saga",
+    "awayTeam": "Kawasoe Club",
+    "score": "0-0",
+    "matchId": "5058962",
+    "targetMatchId": "5073908",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

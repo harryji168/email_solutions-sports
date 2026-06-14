@@ -1,0 +1,74 @@
+[
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Itabirito(U20) Hist",
+    "title": "Athletic Club (U20) 0-1 Itabirito(U20)",
+    "homeTeam": "Athletic Club (U20)",
+    "awayTeam": "Itabirito(U20)",
+    "score": "0-1",
+    "matchId": "5072677",
+    "targetMatchId": "5073922",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "14/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Itabirito(U20) Hist",
+    "title": "Betim (U20) 3-0 Itabirito(U20)",
+    "homeTeam": "Betim (U20)",
+    "awayTeam": "Itabirito(U20)",
+    "score": "3-0",
+    "matchId": "5061062",
+    "targetMatchId": "5073922",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Nacional de Muriae (U20) Hist",
+    "title": "EC Villa Real (U20) 0-0 Nacional de Muriae (U20)",
+    "homeTeam": "EC Villa Real (U20)",
+    "awayTeam": "Nacional de Muriae (U20)",
+    "score": "0-0",
+    "matchId": "5072681",
+    "targetMatchId": "5073922",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

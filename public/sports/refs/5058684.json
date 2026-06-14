@@ -1,0 +1,122 @@
+[
+  {
+    "date": "10/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Iraq Hist",
+    "title": "Iraq 0-2 Venezuela",
+    "homeTeam": "Iraq",
+    "awayTeam": "Venezuela",
+    "score": "0-2",
+    "matchId": "5071815",
+    "targetMatchId": "5058684",
+    "goals": [
+      "",
+      "17' 0-1",
+      "",
+      "",
+      "46' 0-2",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Iraq Hist",
+    "title": "Spain 1-1 Iraq",
+    "homeTeam": "Spain",
+    "awayTeam": "Iraq",
+    "score": "1-1",
+    "matchId": "5069227",
+    "targetMatchId": "5058684",
+    "goals": [
+      "",
+      "16' 1-0<br>27' 1-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "29/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Iraq Hist",
+    "title": "Iraq 1-0 Andorra",
+    "homeTeam": "Iraq",
+    "awayTeam": "Andorra",
+    "score": "1-0",
+    "matchId": "5068640",
+    "targetMatchId": "5058684",
+    "goals": [
+      "",
+      "20' 1-0",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "08/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Norway Hist",
+    "title": "Morocco 1-1 Norway",
+    "homeTeam": "Morocco",
+    "awayTeam": "Norway",
+    "score": "1-1",
+    "matchId": "5071455",
+    "targetMatchId": "5058684",
+    "goals": [
+      "8' 1-0",
+      "",
+      "",
+      "",
+      "",
+      "75' 1-1",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "02/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Norway Hist",
+    "title": "Norway 3-1 Sweden",
+    "homeTeam": "Norway",
+    "awayTeam": "Sweden",
+    "score": "3-1",
+    "matchId": "5069024",
+    "targetMatchId": "5058684",
+    "goals": [
+      "8' 1-0",
+      "18' 2-0",
+      "37' 3-0",
+      "",
+      "",
+      "",
+      "76' 3-1",
+      ""
+    ],
+    "isReference": true
+  }
+]

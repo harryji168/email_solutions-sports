@@ -1,0 +1,98 @@
+[
+  {
+    "date": "02/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Western Strikers SC Hist",
+    "title": "Adelaide Cobras FC 3-3 Western Strikers SC",
+    "homeTeam": "Adelaide Cobras FC",
+    "awayTeam": "Western Strikers SC",
+    "score": "3-3",
+    "matchId": "5058528",
+    "targetMatchId": "5074297",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "28/02/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Western Strikers SC Hist",
+    "title": "Barossa United FC 1-3 Western Strikers SC",
+    "homeTeam": "Barossa United FC",
+    "awayTeam": "Western Strikers SC",
+    "score": "1-3",
+    "matchId": "5043125",
+    "targetMatchId": "5074297",
+    "goals": [
+      "",
+      "",
+      "37' 0-1",
+      "",
+      "",
+      "72' 0-2",
+      "77' 1-2",
+      "90+4' 1-3"
+    ],
+    "isReference": true
+  },
+  {
+    "date": "24/05/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Western Strikers SC Hist",
+    "title": "Adelaide Titans 2-1 Western Strikers SC",
+    "homeTeam": "Adelaide Titans",
+    "awayTeam": "Western Strikers SC",
+    "score": "2-1",
+    "matchId": "4871843",
+    "targetMatchId": "5074297",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "20/02/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Plympton FC Hist",
+    "title": "Croydon FC 10-2 Plympton FC",
+    "homeTeam": "Croydon FC",
+    "awayTeam": "Plympton FC",
+    "score": "10-2",
+    "matchId": "5042852",
+    "targetMatchId": "5074297",
+    "goals": [
+      "9' 1-0",
+      "23' 2-0<br>27' 3-0<br>28' 3-1",
+      "40' 4-1<br>43' 5-1",
+      "",
+      "",
+      "64' 6-1<br>69' 7-1<br>71' 8-1",
+      "76' 9-1<br>79' 10-1",
+      "90+4' 10-2"
+    ],
+    "isReference": true
+  }
+]

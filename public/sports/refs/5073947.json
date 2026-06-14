@@ -1,0 +1,98 @@
+[
+  {
+    "date": "14/03/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Cumberland United Reserve 2-1 Adelaide Cobras FC Reserve",
+    "homeTeam": "Cumberland United Reserve",
+    "awayTeam": "Adelaide Cobras FC Reserve",
+    "score": "2-1",
+    "matchId": "5051785",
+    "targetMatchId": "5073947",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/07/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Cumberland United Reserve 0-2 Adelaide Cobras FC Reserve",
+    "homeTeam": "Cumberland United Reserve",
+    "awayTeam": "Adelaide Cobras FC Reserve",
+    "score": "0-2",
+    "matchId": "4898504",
+    "targetMatchId": "5073947",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "12/04/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Adelaide Cobras FC Reserve 2-3 Cumberland United Reserve",
+    "homeTeam": "Adelaide Cobras FC Reserve",
+    "awayTeam": "Cumberland United Reserve",
+    "score": "2-3",
+    "matchId": "4862758",
+    "targetMatchId": "5073947",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "23/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Cumberland United Reserve Hist",
+    "title": "Modbury Jets Reserve 4-1 Cumberland United Reserve",
+    "homeTeam": "Modbury Jets Reserve",
+    "awayTeam": "Cumberland United Reserve",
+    "score": "4-1",
+    "matchId": "5068542",
+    "targetMatchId": "5073947",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

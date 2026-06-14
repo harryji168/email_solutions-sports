@@ -1,0 +1,98 @@
+[
+  {
+    "date": "24/08/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Bayside Argonauts Women\\s Hist",
+    "title": "Bayside Argonauts Women's 2-0 Calder United SC Women's",
+    "homeTeam": "Bayside Argonauts Women's",
+    "awayTeam": "Calder United SC Women's",
+    "score": "2-0",
+    "matchId": "4977178",
+    "targetMatchId": "5074740",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "20/07/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Bayside Argonauts Women\\s Hist",
+    "title": "Banyule City Women's 1-1 Bayside Argonauts Women's",
+    "homeTeam": "Banyule City Women's",
+    "awayTeam": "Bayside Argonauts Women's",
+    "score": "1-1",
+    "matchId": "4921045",
+    "targetMatchId": "5074740",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "04/07/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Bayside Argonauts Women\\s Hist",
+    "title": "Keilor Park Women's 8-1 Bayside Argonauts Women's",
+    "homeTeam": "Keilor Park Women's",
+    "awayTeam": "Bayside Argonauts Women's",
+    "score": "8-1",
+    "matchId": "4900769",
+    "targetMatchId": "5074740",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "13/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Manningham United Blues Women\\s Hist",
+    "title": "Preston Lions Women's 5-0 Manningham United Blues Women's",
+    "homeTeam": "Preston Lions Women's",
+    "awayTeam": "Manningham United Blues Women's",
+    "score": "5-0",
+    "matchId": "5067174",
+    "targetMatchId": "5074740",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

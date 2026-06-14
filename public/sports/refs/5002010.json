@@ -1,0 +1,98 @@
+[
+  {
+    "date": "09/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Cote dIvoire Hist",
+    "title": "Philadelphia Union II 0-2 Cote d'Ivoire",
+    "homeTeam": "Philadelphia Union II",
+    "awayTeam": "Cote d'Ivoire",
+    "score": "0-2",
+    "matchId": "5073290",
+    "targetMatchId": "5002010",
+    "goals": [
+      "10' 0-1",
+      "",
+      "41' 0-2",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "01/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Cote dIvoire Hist",
+    "title": "Scotland 0-1 Cote d'Ivoire",
+    "homeTeam": "Scotland",
+    "awayTeam": "Cote d'Ivoire",
+    "score": "0-1",
+    "matchId": "5056818",
+    "targetMatchId": "5002010",
+    "goals": [
+      "12' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "08/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Ecuador Hist",
+    "title": "Ecuador 3-0 Guatemala",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Guatemala",
+    "score": "3-0",
+    "matchId": "5071465",
+    "targetMatchId": "5002010",
+    "goals": [
+      "",
+      "19' 1-0",
+      "",
+      "",
+      "",
+      "73' 2-0",
+      "78' 3-0",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "01/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Ecuador Hist",
+    "title": "Netherlands 1-1 Ecuador",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Ecuador",
+    "score": "1-1",
+    "matchId": "5056819",
+    "targetMatchId": "5002010",
+    "goals": [
+      "3' 1-0",
+      "24' 1-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

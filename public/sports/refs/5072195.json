@@ -1,0 +1,122 @@
+[
+  {
+    "date": "06/03/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Keilor Park SC 1-2 Nunawading City",
+    "homeTeam": "Keilor Park SC",
+    "awayTeam": "Nunawading City",
+    "score": "1-2",
+    "matchId": "5049135",
+    "targetMatchId": "5072195",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Nunawading City Hist",
+    "title": "Eastern Lions SC 2-0 Nunawading City",
+    "homeTeam": "Eastern Lions SC",
+    "awayTeam": "Nunawading City",
+    "score": "2-0",
+    "matchId": "5071870",
+    "targetMatchId": "5072195",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "22/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Nunawading City Hist",
+    "title": "Essendon Royals 5-1 Nunawading City",
+    "homeTeam": "Essendon Royals",
+    "awayTeam": "Nunawading City",
+    "score": "5-1",
+    "matchId": "5068414",
+    "targetMatchId": "5072195",
+    "goals": [
+      "4' 1-0",
+      "",
+      "36' 2-0<br>38' 3-0",
+      "",
+      "52' 4-0",
+      "69' 4-1",
+      "87' 5-1",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "22/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Keilor Park SC Hist",
+    "title": "Keilor Park SC 1-0 Eastern Lions SC",
+    "homeTeam": "Keilor Park SC",
+    "awayTeam": "Eastern Lions SC",
+    "score": "1-0",
+    "matchId": "5068422",
+    "targetMatchId": "5072195",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "16/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Keilor Park SC Hist",
+    "title": "Altona City 0-1 Keilor Park SC",
+    "homeTeam": "Altona City",
+    "awayTeam": "Keilor Park SC",
+    "score": "0-1",
+    "matchId": "5067473",
+    "targetMatchId": "5072195",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

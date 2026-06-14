@@ -1,0 +1,122 @@
+[
+  {
+    "date": "31/05/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "Tanabi SP Youth 0-2 Gremio Prudente SP Youth",
+    "homeTeam": "Tanabi SP Youth",
+    "awayTeam": "Gremio Prudente SP Youth",
+    "score": "0-2",
+    "matchId": "4866705",
+    "targetMatchId": "5069329",
+    "goals": [
+      "11' 0-1",
+      "",
+      "",
+      "",
+      "59' 0-2",
+      "",
+      "84' 0-2",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Gremio Prudente SP Youth Hist",
+    "title": "Gremio Prudente SP Youth 0-2 Palmeiras Youth",
+    "homeTeam": "Gremio Prudente SP Youth",
+    "awayTeam": "Palmeiras Youth",
+    "score": "0-2",
+    "matchId": "5069305",
+    "targetMatchId": "5069329",
+    "goals": [
+      "",
+      "",
+      "33' 0-1",
+      "",
+      "",
+      "72' 0-2",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "15/01/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Gremio Prudente SP Youth Hist",
+    "title": "Ceara Youth 3-1 Gremio Prudente SP Youth",
+    "homeTeam": "Ceara Youth",
+    "awayTeam": "Gremio Prudente SP Youth",
+    "score": "3-1",
+    "matchId": "5022359",
+    "targetMatchId": "5069329",
+    "goals": [
+      "",
+      "",
+      "40' 1-0",
+      "",
+      "46' 2-0",
+      "",
+      "80' 2-1",
+      "90+3' 3-1"
+    ],
+    "isReference": true
+  },
+  {
+    "date": "07/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Tanabi SP Youth Hist",
+    "title": "Porto Ferreira SP Youth 0-0 Tanabi SP Youth",
+    "homeTeam": "Porto Ferreira SP Youth",
+    "awayTeam": "Tanabi SP Youth",
+    "score": "0-0",
+    "matchId": "5069323",
+    "targetMatchId": "5069329",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "10/01/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Tanabi SP Youth Hist",
+    "title": "Tanabi SP Youth 0-2 Goias Youth",
+    "homeTeam": "Tanabi SP Youth",
+    "awayTeam": "Goias Youth",
+    "score": "0-2",
+    "matchId": "5008113",
+    "targetMatchId": "5069329",
+    "goals": [
+      "",
+      "16' 0-1",
+      "",
+      "",
+      "50' 0-2",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

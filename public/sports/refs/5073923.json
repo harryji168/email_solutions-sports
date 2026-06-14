@@ -1,0 +1,74 @@
+[
+  {
+    "date": "26/07/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Atletico Mineiro (MG) U20 Hist",
+    "title": "Atletico Mineiro (MG) U20 4-0 Inter de Minas (U20)",
+    "homeTeam": "Atletico Mineiro (MG) U20",
+    "awayTeam": "Inter de Minas (U20)",
+    "score": "4-0",
+    "matchId": "4931591",
+    "targetMatchId": "5073923",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "29/06/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Atletico Mineiro (MG) U20 Hist",
+    "title": "Boston City MG(U20) 2-5 Atletico Mineiro (MG) U20",
+    "homeTeam": "Boston City MG(U20)",
+    "awayTeam": "Atletico Mineiro (MG) U20",
+    "score": "2-5",
+    "matchId": "4886279",
+    "targetMatchId": "5073923",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "02/06/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Atletico Mineiro (MG) U20 Hist",
+    "title": "America MG(U20) 1-2 Atletico Mineiro (MG) U20",
+    "homeTeam": "America MG(U20)",
+    "awayTeam": "Atletico Mineiro (MG) U20",
+    "score": "1-2",
+    "matchId": "4873198",
+    "targetMatchId": "5073923",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

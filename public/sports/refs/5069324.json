@@ -1,0 +1,74 @@
+[
+  {
+    "date": "06/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "SC Aguai SP Youth Hist",
+    "title": "Ibrachina SP Youth 5-0 SC Aguai SP Youth",
+    "homeTeam": "Ibrachina SP Youth",
+    "awayTeam": "SC Aguai SP Youth",
+    "score": "5-0",
+    "matchId": "5069310",
+    "targetMatchId": "5069324",
+    "goals": [
+      "3' 1-0",
+      "",
+      "",
+      "45+5' 2-0",
+      "",
+      "73' 3-0",
+      "80' 4-0<br>84' 5-0",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "30/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "SC Aguai SP Youth Hist",
+    "title": "SC Aguai SP Youth 1-2 Oeste Youth",
+    "homeTeam": "SC Aguai SP Youth",
+    "awayTeam": "Oeste Youth",
+    "score": "1-2",
+    "matchId": "5069288",
+    "targetMatchId": "5069324",
+    "goals": [
+      "11' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "65' 0-2",
+      "",
+      "90+4' 1-2"
+    ],
+    "isReference": true
+  },
+  {
+    "date": "13/08/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "SC Aguai SP Youth Hist",
+    "title": "Inter Limeira Youth 3-1 SC Aguai SP Youth",
+    "homeTeam": "Inter Limeira Youth",
+    "awayTeam": "SC Aguai SP Youth",
+    "score": "3-1",
+    "matchId": "4866917",
+    "targetMatchId": "5069324",
+    "goals": [
+      "12' 1-0",
+      "16' 2-0<br>21' 3-0",
+      "45' 3-1",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

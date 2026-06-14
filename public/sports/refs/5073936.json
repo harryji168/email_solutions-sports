@@ -1,0 +1,122 @@
+[
+  {
+    "date": "24/06/23",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": "North Carolina Fusion Women's 0-8 North Carolina (U23) Women's",
+    "homeTeam": "North Carolina Fusion Women's",
+    "awayTeam": "North Carolina (U23) Women's",
+    "score": "0-8",
+    "matchId": "4497449",
+    "targetMatchId": "5073936",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "20/07/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "North Carolina (U23) Women\\s Hist",
+    "title": "North Carolina (U23) Women's 0-4 Utah United Women's",
+    "homeTeam": "North Carolina (U23) Women's",
+    "awayTeam": "Utah United Women's",
+    "score": "0-4",
+    "matchId": "4921068",
+    "targetMatchId": "5073936",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "21/07/24",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "North Carolina (U23) Women\\s Hist",
+    "title": "North Carolina (U23) Women's 3-2 Colorado Storm Women's",
+    "homeTeam": "North Carolina (U23) Women's",
+    "awayTeam": "Colorado Storm Women's",
+    "score": "3-2",
+    "matchId": "4739194",
+    "targetMatchId": "5073936",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "14/07/24",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "North Carolina (U23) Women\\s Hist",
+    "title": "North Carolina (U23) Women's 1-1 Tennessee Women's",
+    "homeTeam": "North Carolina (U23) Women's",
+    "awayTeam": "Tennessee Women's",
+    "score": "1-1",
+    "matchId": "4728011",
+    "targetMatchId": "5073936",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "24/06/23",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "North Carolina Fusion Women\\s Hist",
+    "title": "North Carolina Fusion Women's 0-8 North Carolina (U23) Women's",
+    "homeTeam": "North Carolina Fusion Women's",
+    "awayTeam": "North Carolina (U23) Women's",
+    "score": "0-8",
+    "matchId": "4497449",
+    "targetMatchId": "5073936",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "date": "08/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Ezeiza Hist",
+    "title": "Everton La Plata 0-0 Ezeiza",
+    "homeTeam": "Everton La Plata",
+    "awayTeam": "Ezeiza",
+    "score": "0-0",
+    "matchId": "5073193",
+    "targetMatchId": "5074813",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "27/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Ezeiza Hist",
+    "title": "Ezeiza 0-2 Barrancas FC",
+    "homeTeam": "Ezeiza",
+    "awayTeam": "Barrancas FC",
+    "score": "0-2",
+    "matchId": "5069116",
+    "targetMatchId": "5074813",
+    "goals": [
+      "6' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "90' 0-2",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "22/09/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Ezeiza Hist",
+    "title": "Ezeiza 1-0 Estrella de Berisso",
+    "homeTeam": "Ezeiza",
+    "awayTeam": "Estrella de Berisso",
+    "score": "1-0",
+    "matchId": "4987518",
+    "targetMatchId": "5074813",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "75' 1-0",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/12/22",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Las Mandarinas Hist",
+    "title": "Unidos De Olmos 3-2 Las Mandarinas",
+    "homeTeam": "Unidos De Olmos",
+    "awayTeam": "Las Mandarinas",
+    "score": "3-2",
+    "matchId": "4408895",
+    "targetMatchId": "5074813",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

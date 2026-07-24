@@ -1,0 +1,43 @@
+{
+  "matchId": "7824480",
+  "date": "2026-06-28",
+  "time": "LIVE",
+  "group": "Premier League",
+  "title": "FC Isloch 0-0 FC Belshina Bobruisk",
+  "homeTeam": "FC Isloch",
+  "awayTeam": "FC Belshina Bobruisk",
+  "score": "0-0",
+  "status": "1H • 38:23",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/fc-isloch-fc-belshina-bobruisk-2:7824480",
+  "odds": {
+    "over": "Over 2.5 1.72",
+    "under": "Under 2.5 1.88",
+    "all": [
+      "Over 0.5 1.03",
+      "Under 0.5 9.75",
+      "Over 1.5 1.23",
+      "Under 1.5 3.50",
+      "Over 2.5 1.72",
+      "Under 2.5 1.88",
+      "Over 3.5 2.75",
+      "Under 3.5 1.35",
+      "Over 4.5 5.00",
+      "Under 4.5 1.12",
+      "Over 5.5 9.50",
+      "Under 5.5 1.03"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 0.5 1.38",
+    "under": "Under 0.5 2.60",
+    "all": [
+      "Over 0.5 1.38",
+      "Under 0.5 2.60",
+      "Over 1.5 2.75",
+      "Under 1.5 1.35",
+      "Over 2.5 6.75",
+      "Under 2.5 1.07",
+      "Over 3.5 17.00"
+    ]
+  }
+}

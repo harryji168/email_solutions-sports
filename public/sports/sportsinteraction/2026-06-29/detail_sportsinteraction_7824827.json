@@ -1,0 +1,33 @@
+[
+  {
+    "matchId": "7824827",
+    "date": "2026-06-29",
+    "time": "LIVE",
+    "group": "World CUP",
+    "title": "Vikingur Gota 2-1 NSI Runavik",
+    "homeTeam": "Vikingur Gota",
+    "awayTeam": "NSI Runavik",
+    "score": "2-1",
+    "status": "1H • 38:06",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/vikingur-gota-nsi-runavik-2:7824827",
+    "odds": {
+      "over": "Over 2.5 3.30",
+      "under": "Under 2.5 1.25",
+      "all": [
+        "Over 2.5 3.30",
+        "Under 2.5 1.25",
+        "Over 3.5 17.00",
+        "Under 3.5 1.001",
+        "Over 4.5 67.00",
+        "Over 5.5 151.00",
+        "Over 6.5 10.50",
+        "Under 6.5 1.025"
+      ]
+    },
+    "odds1H": {
+      "over": "",
+      "under": "",
+      "all": []
+    }
+  }
+]

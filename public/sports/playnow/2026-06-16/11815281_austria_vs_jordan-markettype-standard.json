@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "Austria v Jordan | Bet on World Cup with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/11815281/soccer/world/world-cup/austria-v-jordan?marketType=standard#",
+    "gameTime": "12:39",
+    "gameScore": "0 : 0",
+    "odds": [
+      {
+        "text": "Over 0.5 1.61",
+        "label": ""
+      },
+      {
+        "text": "Under 0.5 2.20",
+        "label": ""
+      },
+      {
+        "text": "Over 1.5 3.85",
+        "label": ""
+      },
+      {
+        "text": "Under 1.5 1.21",
+        "label": ""
+      },
+      {
+        "text": "Over 2.5 10.00",
+        "label": ""
+      },
+      {
+        "text": "Under 2.5 1.02",
+        "label": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "matchId": "7824689",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "CA Colegiales Reserves 0-0 Almirante Brown Reserves",
+  "homeTeam": "CA Colegiales Reserves",
+  "awayTeam": "Almirante Brown Reserves",
+  "score": "0-0",
+  "status": "1H • 08:41",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/ca-colegiales-reserves-almirante-brown-reserves-2:7824689",
+  "odds": {
+    "over": "Over 2.5 2.05",
+    "under": "Under 2.5 1.65",
+    "all": [
+      "Over 2.5 2.05",
+      "Under 2.5 1.65"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 0.5 1.51",
+    "under": "Under 0.5 2.30",
+    "all": [
+      "Over 0.5 1.51",
+      "Under 0.5 2.30"
+    ]
+  }
+}

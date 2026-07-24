@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-06-04",
+    "day": "Thursday",
+    "time": "20:00",
+    "group": "INTERF",
+    "title": "Argentina(U16) 4-0 Cote d'Ivoire(U16)",
+    "homeTeam": "Argentina(U16)",
+    "awayTeam": "Cote d'Ivoire(U16)",
+    "score": "4-0",
+    "matchId": "5071151",
+    "status": "FT",
+    "goals": [
+      "10' Rom\u00e1n Gonz\u00e1lez (1-0)",
+      "",
+      "",
+      "",
+      "52' Rom\u00e1n Gonz\u00e1lez (2-0)",
+      "",
+      "89' Felipe L\u00f3pez (3-0)",
+      "90+3' Bruno Cabral (4-0)"
+    ],
+    "start_time": "20:00"
+  }
+]

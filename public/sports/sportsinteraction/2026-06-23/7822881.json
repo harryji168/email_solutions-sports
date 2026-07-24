@@ -1,0 +1,29 @@
+{
+  "matchId": "7822881",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "Portugal 0-0 Uzbekistan",
+  "homeTeam": "Portugal",
+  "awayTeam": "Uzbekistan",
+  "score": "0-0",
+  "status": "Finished",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/la-luz-fc-reserves-cerro-largo-fc-reserves-2:7822881",
+  "odds": {
+    "over": "Over 1.5 1.88",
+    "under": "Under 1.5 1.77",
+    "all": [
+      "Over 0.5 1.19",
+      "Under 0.5 4.10",
+      "Over 1.5 1.88",
+      "Under 1.5 1.77",
+      "Over 2.5 3.80",
+      "Under 2.5 1.21",
+      "Over 3.5 8.75",
+      "Under 3.5 1.05",
+      "Over 4.5 21.00",
+      "Over 5.5 46.00"
+    ]
+  },
+  "odds1H": null
+}

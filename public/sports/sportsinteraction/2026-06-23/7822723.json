@@ -1,0 +1,44 @@
+{
+  "matchId": "7822723",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Midlakes United 0-1 Snohomish United",
+  "homeTeam": "Midlakes United",
+  "awayTeam": "Snohomish United",
+  "score": "0-1",
+  "status": "1H • 13:13",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/midlakes-united-snohomish-united-2:7822723",
+  "odds": {
+    "over": "Over 4.5 2.25",
+    "under": "Under 4.5 1.53",
+    "all": [
+      "Over 1.5 1.015",
+      "Under 1.5 14.00",
+      "Over 2.5 1.16",
+      "Under 2.5 4.60",
+      "Over 3.5 1.50",
+      "Under 3.5 2.30",
+      "Over 4.5 2.25",
+      "Under 4.5 1.53",
+      "Over 5.5 3.75",
+      "Under 5.5 1.21",
+      "Over 6.5 7.00",
+      "Under 6.5 1.07"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 1.5 1.38",
+    "under": "Under 1.5 2.70",
+    "all": [
+      "Over 1.5 1.38",
+      "Under 1.5 2.70",
+      "Over 2.5 2.80",
+      "Under 2.5 1.36",
+      "Over 3.5 7.25",
+      "Under 3.5 1.07",
+      "Over 4.5 20.00",
+      "Under 4.5 1.001"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "matchId": "7822710",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Peoria City 1-0 St. Louis Ambush",
+  "homeTeam": "Peoria City",
+  "awayTeam": "St. Louis Ambush",
+  "score": "1-0",
+  "status": "1H • 19:22",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/peoria-city-st-louis-ambush-2:7822710",
+  "odds": {
+    "over": "Over 3.5 1.73",
+    "under": "Under 3.5 1.93",
+    "all": [
+      "Over 1.5 1.035",
+      "Under 1.5 10.50",
+      "Over 2.5 1.24",
+      "Under 2.5 3.50",
+      "Over 3.5 1.73",
+      "Under 3.5 1.93",
+      "Over 4.5 2.80",
+      "Under 4.5 1.36",
+      "Over 5.5 5.25",
+      "Under 5.5 1.13",
+      "Over 6.5 10.50",
+      "Under 6.5 1.035"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 1.5 1.55",
+    "under": "Under 1.5 2.20",
+    "all": [
+      "Over 1.5 1.55",
+      "Under 1.5 2.20",
+      "Over 2.5 3.70",
+      "Under 2.5 1.22",
+      "Over 3.5 11.00",
+      "Under 3.5 1.03",
+      "Over 4.5 29.00"
+    ]
+  }
+}

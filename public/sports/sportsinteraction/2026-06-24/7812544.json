@@ -1,0 +1,29 @@
+{
+  "matchId": "7812544",
+  "date": "2026-06-24",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Czechia 0-0 Mexico",
+  "homeTeam": "Czechia",
+  "awayTeam": "Mexico",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/czechia-mexico-2:7812544",
+  "odds": {
+    "over": "Over 1.5 2.30",
+    "under": "Under 1.5 1.55",
+    "all": [
+      "Over 0.5 1.27",
+      "Under 0.5 3.40",
+      "Over 1.5 2.30",
+      "Under 1.5 1.55",
+      "Over 2.5 5.50",
+      "Under 2.5 1.13",
+      "Over 3.5 14.00",
+      "Under 3.5 1.02",
+      "Over 4.5 36.00",
+      "Over 5.5 71.00"
+    ]
+  },
+  "odds1H": null
+}

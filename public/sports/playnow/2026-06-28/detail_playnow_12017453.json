@@ -1,0 +1,19 @@
+[
+  {
+    "playnowId": "12017453",
+    "homeTeam": "los angeles fc 2",
+    "awayTeam": "houston dynamo 2",
+    "score": "2 : 1",
+    "gameTime": "87:06",
+    "status": "87:06",
+    "url": "https://www.playnow.com/sports/in-play/event/12017453/soccer/usa/mls-next-pro/los-angeles-fc-2-v-houston-dynamo-2",
+    "odds": {
+      "all": [
+        "Over 3.5 2.50",
+        "Under 3.5 1.43",
+        "Over 4.5 9.50",
+        "Under 4.5 1.004"
+      ]
+    }
+  }
+]

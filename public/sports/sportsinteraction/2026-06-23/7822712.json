@@ -1,0 +1,30 @@
+{
+  "matchId": "7822712",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Union FC Macomb 0-2 Lansing City Football",
+  "homeTeam": "Union FC Macomb",
+  "awayTeam": "Lansing City Football",
+  "score": "0-2",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/union-fc-macomb-lansing-city-football-2:7822712",
+  "odds": {
+    "over": "Over 4.5 2.25",
+    "under": "Under 4.5 1.53",
+    "all": [
+      "Over 2.5 1.07",
+      "Under 2.5 7.25",
+      "Over 3.5 1.39",
+      "Under 3.5 2.65",
+      "Over 4.5 2.25",
+      "Under 4.5 1.53",
+      "Over 5.5 4.20",
+      "Under 5.5 1.18",
+      "Over 6.5 9.25",
+      "Under 6.5 1.04",
+      "Over 7.5 20.00"
+    ]
+  },
+  "odds1H": null
+}

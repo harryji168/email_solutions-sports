@@ -1,0 +1,32 @@
+[
+  {
+    "matchId": "7824799",
+    "date": "2026-06-29",
+    "time": "LIVE",
+    "group": "World CUP",
+    "title": "Al-Arabi Sports Club KUW 2-0 Al-Fahaheel",
+    "homeTeam": "Al-Arabi Sports Club KUW",
+    "awayTeam": "Al-Fahaheel",
+    "score": "2-0",
+    "status": "Halftime",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/al-arabi-sports-club-kuw-al-fahaheel-2:7824799",
+    "odds": {
+      "over": "Over 3.5 1.66",
+      "under": "Under 3.5 1.98",
+      "all": [
+        "Over 2.5 1.13",
+        "Under 2.5 4.80",
+        "Over 3.5 1.66",
+        "Under 3.5 1.98",
+        "Over 4.5 3.00",
+        "Under 4.5 1.29",
+        "Over 5.5 6.50",
+        "Under 5.5 1.08",
+        "Over 6.5 15.00",
+        "Under 6.5 1.006",
+        "Over 7.5 31.00"
+      ]
+    },
+    "odds1H": null
+  }
+]

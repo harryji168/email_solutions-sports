@@ -1,0 +1,27 @@
+{
+  "matchId": "7825050",
+  "date": "2026-06-24",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "SV Caravel 0-2 SV Estrella",
+  "homeTeam": "SV Caravel",
+  "awayTeam": "SV Estrella",
+  "score": "0-2",
+  "status": "1H • 36:52",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/sv-caravel-sv-estrella-2:7825050",
+  "odds": {
+    "over": "",
+    "under": "",
+    "all": []
+  },
+  "odds1H": {
+    "over": "Over 2.5 2.30",
+    "under": "Under 2.5 1.51",
+    "all": [
+      "Over 2.5 2.30",
+      "Under 2.5 1.51",
+      "Over 3.5 8.50",
+      "Under 3.5 1.05"
+    ]
+  }
+}

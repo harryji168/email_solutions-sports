@@ -1,0 +1,28 @@
+{
+  "matchId": "7822731",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "Alftanes 1-0 Arborg",
+  "homeTeam": "Alftanes",
+  "awayTeam": "Arborg",
+  "score": "1-0",
+  "status": "1H • 23:14",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/alftanes-arborg-2:7822731",
+  "odds": {
+    "over": "Over 4.5 2.10",
+    "under": "Under 4.5 1.61",
+    "all": [
+      "Over 4.5 2.10",
+      "Under 4.5 1.61"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 1.5 1.50",
+    "under": "Under 1.5 2.35",
+    "all": [
+      "Over 1.5 1.50",
+      "Under 1.5 2.35"
+    ]
+  }
+}

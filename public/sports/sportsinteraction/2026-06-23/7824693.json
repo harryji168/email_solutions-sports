@@ -1,0 +1,31 @@
+{
+  "matchId": "7824693",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "Portugal 0-0 Uzbekistan",
+  "homeTeam": "Portugal",
+  "awayTeam": "Uzbekistan",
+  "score": "0-0",
+  "status": "Finished",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/throttur-sr-u19-hk-ymir-kopavogur-u19-2:7824693",
+  "odds": {
+    "over": "Over 6.5 1.53",
+    "under": "Under 6.5 2.25",
+    "all": [
+      "Over 4.5 1.015",
+      "Under 4.5 14.00",
+      "Over 5.5 1.16",
+      "Under 5.5 4.50",
+      "Over 6.5 1.53",
+      "Under 6.5 2.25",
+      "Over 7.5 2.35",
+      "Under 7.5 1.49",
+      "Over 8.5 4.10",
+      "Under 8.5 1.18",
+      "Over 9.5 7.75",
+      "Under 9.5 1.06"
+    ]
+  },
+  "odds1H": null
+}

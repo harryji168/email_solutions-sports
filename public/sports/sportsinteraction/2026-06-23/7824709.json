@@ -1,0 +1,31 @@
+{
+  "matchId": "7824709",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "Llandudno FC 3-0 Buckley Town",
+  "homeTeam": "Llandudno FC",
+  "awayTeam": "Buckley Town",
+  "score": "3-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/llandudno-fc-buckley-town-2:7824709",
+  "odds": {
+    "over": "Over 5.5 1.65",
+    "under": "Under 5.5 2.05",
+    "all": [
+      "Over 3.5 1.025",
+      "Under 3.5 11.50",
+      "Over 4.5 1.20",
+      "Under 4.5 3.90",
+      "Over 5.5 1.65",
+      "Under 5.5 2.05",
+      "Over 6.5 2.55",
+      "Under 6.5 1.41",
+      "Over 7.5 4.60",
+      "Under 7.5 1.15",
+      "Over 8.5 9.25",
+      "Under 8.5 1.045"
+    ]
+  },
+  "odds1H": null
+}

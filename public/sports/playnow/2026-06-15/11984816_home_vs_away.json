@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "Los Angeles Sparks at Golden State Valkyries | Bet on WNBA with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/11984816/basketball/north-america/wnba/los-angeles-sparks-at-golden-state-valkyries",
+    "gameTime": "",
+    "gameScore": "",
+    "odds": [
+      {
+        "text": "Over 43.5 1.78",
+        "label": ""
+      },
+      {
+        "text": "Under 43.5 1.87",
+        "label": ""
+      }
+    ]
+  }
+}

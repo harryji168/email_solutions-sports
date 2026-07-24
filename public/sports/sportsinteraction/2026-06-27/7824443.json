@@ -1,0 +1,43 @@
+{
+  "matchId": "7824443",
+  "date": "2026-06-27",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Canberra Croatia FC 1-1 Tuggeranong United",
+  "homeTeam": "Canberra Croatia FC",
+  "awayTeam": "Tuggeranong United",
+  "score": "1-1",
+  "status": "1H • 30:07",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/canberra-croatia-fc-tuggeranong-united-2:7824443",
+  "odds": {
+    "over": "Over 5.5 2.15",
+    "under": "Under 5.5 1.58",
+    "all": [
+      "Over 2.5 1.015",
+      "Under 2.5 13.50",
+      "Over 3.5 1.14",
+      "Under 3.5 4.80",
+      "Over 4.5 1.49",
+      "Under 4.5 2.37",
+      "Over 5.5 2.15",
+      "Under 5.5 1.58",
+      "Over 6.5 3.50",
+      "Under 6.5 1.24",
+      "Over 7.5 6.25",
+      "Under 7.5 1.09"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 2.5 1.66",
+    "under": "Under 2.5 2.00",
+    "all": [
+      "Over 2.5 1.66",
+      "Under 2.5 2.00",
+      "Over 3.5 4.00",
+      "Under 3.5 1.20",
+      "Over 4.5 12.00",
+      "Under 4.5 1.02",
+      "Over 5.5 34.00"
+    ]
+  }
+}

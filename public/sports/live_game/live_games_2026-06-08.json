@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-06-08",
+    "day": "Monday",
+    "time": "19:00",
+    "group": "INTERF",
+    "title": "Peru 1-3 Spain",
+    "homeTeam": "Peru",
+    "awayTeam": "Spain",
+    "score": "1-3",
+    "matchId": "5071576",
+    "status": "FT",
+    "goals": [
+      "2' 0-1",
+      "",
+      "32' 0-2",
+      "",
+      "53' 0-3",
+      "66' 1-3",
+      "",
+      ""
+    ],
+    "start_time": "19:00"
+  }
+]

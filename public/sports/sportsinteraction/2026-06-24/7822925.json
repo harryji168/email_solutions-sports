@@ -1,0 +1,29 @@
+{
+  "matchId": "7822925",
+  "date": "2026-06-24",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Deportes La Serena 0-0 Cobresal",
+  "homeTeam": "Deportes La Serena",
+  "awayTeam": "Cobresal",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/deportes-la-serena-cobresal-2:7822925",
+  "odds": {
+    "over": "Over 1.5 1.95",
+    "under": "Under 1.5 1.66",
+    "all": [
+      "Over 0.5 1.21",
+      "Under 0.5 3.60",
+      "Over 1.5 1.95",
+      "Under 1.5 1.66",
+      "Over 2.5 4.10",
+      "Under 2.5 1.18",
+      "Over 3.5 9.25",
+      "Under 3.5 1.035",
+      "Over 4.5 23.00",
+      "Over 5.5 46.00"
+    ]
+  },
+  "odds1H": null
+}

@@ -1,0 +1,30 @@
+{
+  "matchId": "7824356",
+  "date": "2026-06-28",
+  "time": "LIVE",
+  "group": "Superettan",
+  "title": "Sandvikens IF 2-1 Helsingborgs IF",
+  "homeTeam": "Sandvikens IF",
+  "awayTeam": "Helsingborgs IF",
+  "score": "2-1",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/sandvikens-if-helsingborgs-if-2:7824356",
+  "odds": {
+    "over": "Over 4.5 1.70",
+    "under": "Under 4.5 1.90",
+    "all": [
+      "Over 3.5 1.13",
+      "Under 3.5 4.80",
+      "Over 4.5 1.70",
+      "Under 4.5 1.90",
+      "Over 5.5 3.10",
+      "Under 5.5 1.28",
+      "Over 6.5 6.75",
+      "Under 6.5 1.07",
+      "Over 7.5 15.00",
+      "Under 7.5 1.005",
+      "Over 8.5 31.00"
+    ]
+  },
+  "odds1H": null
+}

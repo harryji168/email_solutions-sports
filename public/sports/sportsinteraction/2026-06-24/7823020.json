@@ -1,0 +1,30 @@
+{
+  "matchId": "7823020",
+  "date": "2026-06-24",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Stars FC 3-0 City SC San Diego",
+  "homeTeam": "Stars FC",
+  "awayTeam": "City SC San Diego",
+  "score": "3-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/stars-fc-city-sc-san-diego-2:7823020",
+  "odds": {
+    "over": "Over 4.5 1.65",
+    "under": "Under 4.5 2.05",
+    "all": [
+      "Over 3.5 1.13",
+      "Under 3.5 5.25",
+      "Over 4.5 1.65",
+      "Under 4.5 2.05",
+      "Over 5.5 3.00",
+      "Under 5.5 1.32",
+      "Over 6.5 6.50",
+      "Under 6.5 1.08",
+      "Over 7.5 15.50",
+      "Under 7.5 1.01",
+      "Over 8,5 34.00"
+    ]
+  },
+  "odds1H": null
+}

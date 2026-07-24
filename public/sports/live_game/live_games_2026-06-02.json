@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-06-02",
+    "day": "Tuesday",
+    "time": "19:00",
+    "group": "USL L2",
+    "title": "Portland Bangers 2-1 Midlakes United",
+    "homeTeam": "Portland Bangers",
+    "awayTeam": "Midlakes United",
+    "score": "2-1",
+    "matchId": "5040484",
+    "status": "FT",
+    "goals": [
+      "",
+      "11' 1-0",
+      "",
+      "32' 1-1",
+      "",
+      "",
+      "77' 2-1",
+      ""
+    ],
+    "start_time": "19:00"
+  }
+]

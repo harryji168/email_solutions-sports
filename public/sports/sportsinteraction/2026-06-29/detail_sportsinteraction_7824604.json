@@ -1,0 +1,27 @@
+[
+  {
+    "matchId": "7824604",
+    "date": "2026-06-28",
+    "time": "LIVE",
+    "group": "World CUP",
+    "title": "Los Angeles FC II 2-1 Houston Dynamo II",
+    "homeTeam": "Los Angeles FC II",
+    "awayTeam": "Houston Dynamo II",
+    "score": "2-1",
+    "status": "2H • 85:58",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/los-angeles-fc-ii-houston-dynamo-ii-2:7824604",
+    "odds": {
+      "over": "Over 3.5 2.35",
+      "under": "Under 3.5 1.49",
+      "all": [
+        "Over 3.5 2.35",
+        "Under 3.5 1.49",
+        "Over 4.5 9.75",
+        "Under 4.5 1.04",
+        "Over 5.5 34.00",
+        "Over 6.5 126.00"
+      ]
+    },
+    "odds1H": null
+  }
+]

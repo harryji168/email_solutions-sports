@@ -1,0 +1,20 @@
+{
+  "matchId": "7822730",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "FF Jaro 0-0 IF Gnistan",
+  "homeTeam": "FF Jaro",
+  "awayTeam": "IF Gnistan",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/salpa-ii-kaapo-2:7822730",
+  "odds": {
+    "over": "Over 3.5 1.53",
+    "under": "Under 3.5 2.25",
+    "all": [
+      "Over 3.5 1.53",
+      "Under 3.5 2.25"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "matchId": "7822690",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "FH Hafnarfjordur Women 1-0 Valur Reykjavik Women",
+  "homeTeam": "FH Hafnarfjordur Women",
+  "awayTeam": "Valur Reykjavik Women",
+  "score": "1-0",
+  "status": "1H • 11:09",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/fh-hafnarfjordur-women-valur-reykjavik-women-2:7822690",
+  "odds": {
+    "over": "Over 4.5 2.05",
+    "under": "Under 4.5 1.63",
+    "all": [
+      "Over 3.5 1.43",
+      "Under 3.5 2.55",
+      "Over 4.5 2.05",
+      "Under 4.5 1.63",
+      "Over 5.5 3.30",
+      "Under 5.5 1.26"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 2.5 2.50",
+    "under": "Under 2.5 1.44",
+    "all": [
+      "Over 1.5 1.31",
+      "Under 1.5 3.00",
+      "Over 2.5 2.50",
+      "Under 2.5 1.44"
+    ]
+  }
+}

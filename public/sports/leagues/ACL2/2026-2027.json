@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
+    "time": "18:00",
+    "group": "ACL2",
+    "title": "Arkadag FK VS FC Goa",
+    "homeTeam": "Arkadag FK",
+    "awayTeam": "FC Goa",
+    "score": "VS",
+    "matchId": "5093103",
+    "goals": [],
+    "status": "Upcoming"
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
+    "time": "18:00",
+    "group": "ACL2",
+    "title": "Persib Bandung VS Manila Digger FC",
+    "homeTeam": "Persib Bandung",
+    "awayTeam": "Manila Digger FC",
+    "score": "VS",
+    "matchId": "5093104",
+    "goals": [],
+    "status": "Upcoming"
+  }
+]

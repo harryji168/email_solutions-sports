@@ -1,0 +1,30 @@
+{
+  "matchId": "7812226",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World | World Cup 2026",
+  "title": "Portugal 0-0 Uzbekistan",
+  "homeTeam": "Portugal",
+  "awayTeam": "Uzbekistan",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/portugal-uzbekistan-2:7812226",
+  "odds": {
+    "over": "Over 4.5 1.55",
+    "under": "Under 4.5 2.25",
+    "all": [
+      "Over 3.5 1.11",
+      "Under 3.5 6.00",
+      "Over 4.5 1.55",
+      "Under 4.5 2.25",
+      "Over 5.5 2.70",
+      "Under 5.5 1.40",
+      "Over 6.5 5.50",
+      "Under 6.5 1.13",
+      "Over 7.5 12.50",
+      "Under 7.5 1.025",
+      "Over 8.5 29.00"
+    ]
+  },
+  "odds1H": null
+}

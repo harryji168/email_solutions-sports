@@ -1,0 +1,30 @@
+[
+  {
+    "matchId": "7824489",
+    "date": "2026-06-29",
+    "time": "LIVE",
+    "group": "World CUP",
+    "title": "CA Huracan Women 0-0 CA San Lorenzo de Almagro Women",
+    "homeTeam": "CA Huracan Women",
+    "awayTeam": "CA San Lorenzo de Almagro Women",
+    "score": "0-0",
+    "status": "1H • 44:42",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/ca-huracan-women-ca-san-lorenzo-de-almagro-women-2:7824489",
+    "odds": {
+      "over": "Over 1.5 2.20",
+      "under": "Under 1.5 1.53",
+      "all": [
+        "Over 1.5 2.20",
+        "Under 1.5 1.53"
+      ]
+    },
+    "odds1H": {
+      "over": "Over 0.5 8.50",
+      "under": "Under 0.5 1.04",
+      "all": [
+        "Over 0.5 8.50",
+        "Under 0.5 1.04"
+      ]
+    }
+  }
+]

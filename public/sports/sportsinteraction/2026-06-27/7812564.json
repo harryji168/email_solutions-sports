@@ -1,0 +1,30 @@
+{
+  "matchId": "7812564",
+  "date": "2026-06-27",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Colombia 0-0 Portugal",
+  "homeTeam": "Colombia",
+  "awayTeam": "Portugal",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/colombia-portugal-2:7812564",
+  "odds": {
+    "over": "Over 1.5 1.75",
+    "under": "Under 1.5 1.93",
+    "all": [
+      "Over 0.5 1.17",
+      "Under 0.5 4.60",
+      "Over 1.5 1.75",
+      "Under 1.5 1.93",
+      "Over 2.5 3.40",
+      "Under 2.5 1.27",
+      "Over 3.5 7.50",
+      "Under 3.5 1.08",
+      "Over 4.5 17.50",
+      "Under 4.5 1.01",
+      "Over 5.5 41.00"
+    ]
+  },
+  "odds1H": null
+}

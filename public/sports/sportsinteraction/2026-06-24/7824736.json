@@ -1,0 +1,34 @@
+{
+  "matchId": "7824736",
+  "date": "2026-06-24",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Real Frontera 0-0 Club Atletico Barinas",
+  "homeTeam": "Real Frontera",
+  "awayTeam": "Club Atletico Barinas",
+  "score": "0-0",
+  "status": "1H • 38:24",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/real-frontera-club-atletico-barinas-2:7824736",
+  "odds": {
+    "over": "Over 1.5 1.50",
+    "under": "Under 1.5 2.25",
+    "all": [
+      "Over 0.5 1.09",
+      "Under 0.5 5.75",
+      "Over 1.5 1.50",
+      "Under 1.5 2.25",
+      "Over 2.5 2.55",
+      "Under 2.5 1.39"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 0.5 2.95",
+    "under": "Under 0.5 1.31",
+    "all": [
+      "Over 0.5 2.95",
+      "Under 0.5 1.31",
+      "Over 1.5 14.50",
+      "Under 1.5 1.006"
+    ]
+  }
+}

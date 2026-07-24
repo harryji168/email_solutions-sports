@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-06-12",
+    "day": "Friday",
+    "time": "19:00",
+    "group": "USL L2",
+    "title": "FC Olympia 4-5 Tacoma Stars",
+    "homeTeam": "FC Olympia",
+    "awayTeam": "Tacoma Stars",
+    "score": "4-5",
+    "matchId": "5040585",
+    "status": "FT",
+    "goals": [
+      "11' 1-0<br>15' 1-1",
+      "",
+      "",
+      "",
+      "50' 2-1<br>53' 3-1<br>60' 3-2",
+      "61' 4-2<br>63' 4-3",
+      "81' 4-4<br>88' 4-5",
+      ""
+    ],
+    "start_time": "19:00"
+  }
+]

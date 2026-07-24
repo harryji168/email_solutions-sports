@@ -1,0 +1,122 @@
+[
+  {
+    "date": "",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": " - ",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": "-",
+    "matchId": "",
+    "targetMatchId": "5076499",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "03/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Fukushima United FC II Hist",
+    "title": "Fukushima United FC II 2-0 Oyama SC",
+    "homeTeam": "Fukushima United FC II",
+    "awayTeam": "Oyama SC",
+    "score": "2-0",
+    "matchId": "5064034",
+    "targetMatchId": "5076499",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "26/04/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Shichinohe Hist",
+    "title": "Bogolle D.Tsugaru 3-2 Shichinohe",
+    "homeTeam": "Bogolle D.Tsugaru",
+    "awayTeam": "Shichinohe",
+    "score": "3-2",
+    "matchId": "5063054",
+    "targetMatchId": "5076499",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "28/09/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Shichinohe Hist",
+    "title": "Cobaltore Onagawa 6-1 Shichinohe",
+    "homeTeam": "Cobaltore Onagawa",
+    "awayTeam": "Shichinohe",
+    "score": "6-1",
+    "matchId": "4988436",
+    "targetMatchId": "5076499",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "07/09/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Shichinohe Hist",
+    "title": "Hitome Senbonzakura FC 4-0 Shichinohe",
+    "homeTeam": "Hitome Senbonzakura FC",
+    "awayTeam": "Shichinohe",
+    "score": "4-0",
+    "matchId": "4982236",
+    "targetMatchId": "5076499",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "Los Angeles Angels at Arizona Diamondbacks | Bet on MLB with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/11966889/baseball/north-america/mlb/los-angeles-angels-at-arizona-diamondbacks",
+    "gameTime": "",
+    "gameScore": "",
+    "odds": [
+      {
+        "text": "Over 7.5 5.50",
+        "label": ""
+      },
+      {
+        "text": "Under 7.5 1.10",
+        "label": ""
+      }
+    ]
+  }
+}

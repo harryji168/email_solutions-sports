@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-06-06",
+    "day": "Saturday",
+    "time": "20:50",
+    "group": "USL CUP",
+    "title": "Colorado Springs Switchbacks FC 2-1 El Paso Locomotive",
+    "homeTeam": "Colorado Springs Switchbacks FC",
+    "awayTeam": "El Paso Locomotive",
+    "score": "2-1",
+    "matchId": "5008453",
+    "status": "FT",
+    "goals": [
+      "",
+      "",
+      "38' Juan Tejada (1-0)",
+      "45+2' Tony Alfaro (1-1)",
+      "",
+      "71' Jonas Fjellberg (2-1)",
+      "",
+      ""
+    ],
+    "start_time": "20:50"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "matchId": "7823981",
+  "date": "2026-06-27",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Kingborough Lions United FC 1-0 Devonport City SC Strikers",
+  "homeTeam": "Kingborough Lions United FC",
+  "awayTeam": "Devonport City SC Strikers",
+  "score": "1-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/kingborough-lions-united-fc-devonport-city-sc-st-2:7823981",
+  "odds": {
+    "over": "Over 2.5 1.55",
+    "under": "Under 2.5 2.20",
+    "all": [
+      "Over 1.5 1.11",
+      "Under 1.5 5.75",
+      "Over 2.5 1.55",
+      "Under 2.5 2.20",
+      "Over 3.5 2.65",
+      "Under 3.5 1.39",
+      "Over 4.5 5.50",
+      "Under 4.5 1.12",
+      "Over 5.5 12.00",
+      "Under 5.5 1.025",
+      "Over 6.5 26.00"
+    ]
+  },
+  "odds1H": null
+}

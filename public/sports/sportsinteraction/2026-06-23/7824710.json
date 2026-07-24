@@ -1,0 +1,30 @@
+{
+  "matchId": "7824710",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Annapolis Blues FC 0-1 Club Santos Laguna",
+  "homeTeam": "Annapolis Blues FC",
+  "awayTeam": "Club Santos Laguna",
+  "score": "0-1",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/annapolis-blues-fc-club-santos-laguna-2:7824710",
+  "odds": {
+    "over": "Over 2.5 1.53",
+    "under": "Under 2.5 2.25",
+    "all": [
+      "Over 1.5 1.10",
+      "Under 1.5 5.75",
+      "Over 2.5 1.53",
+      "Under 2.5 2.25",
+      "Over 3.5 2.65",
+      "Under 3.5 1.40",
+      "Over 4.5 5.25",
+      "Under 4.5 1.12",
+      "Over 5.5 11.50",
+      "Under 5.5 1.025",
+      "Over 6.5 26.00"
+    ]
+  },
+  "odds1H": null
+}

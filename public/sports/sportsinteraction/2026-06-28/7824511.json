@@ -1,0 +1,31 @@
+{
+  "matchId": "7824511",
+  "date": "2026-06-28",
+  "time": "LIVE",
+  "group": "A Lyga",
+  "title": "FC Dziugas Telsiai 0-0 Vilnius FK Zalgiris",
+  "homeTeam": "FC Dziugas Telsiai",
+  "awayTeam": "Vilnius FK Zalgiris",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/fc-dziugas-telsiai-vilnius-fk-zalgiris-2:7824511",
+  "odds": {
+    "over": "Over 2.5 1.87",
+    "under": "Under 2.5 1.73",
+    "all": [
+      "Over 0.5 1.035",
+      "Under 0.5 9.50",
+      "Over 1.5 1.27",
+      "Under 1.5 3.20",
+      "Over 2.5 1.87",
+      "Under 2.5 1.73",
+      "Over 3.5 3.10",
+      "Under 3.5 1.27",
+      "Over 4.5 6.25",
+      "Under 4.5 1.08",
+      "Over 5.5 12.50",
+      "Under 5.5 1.015"
+    ]
+  },
+  "odds1H": null
+}

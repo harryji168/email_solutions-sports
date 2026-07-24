@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "Colombia v Portugal | Bet on World Cup with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/11958146/soccer/world/world-cup/colombia-v-portugal",
+    "gameTime": "62:32",
+    "gameScore": "0 : 0",
+    "odds": [
+      {
+        "text": "Over 0.5 1.43",
+        "label": ""
+      },
+      {
+        "text": "Under 0.5 2.80",
+        "label": ""
+      },
+      {
+        "text": "Over 1.5 3.15",
+        "label": ""
+      },
+      {
+        "text": "Under 1.5 1.33",
+        "label": ""
+      },
+      {
+        "text": "Over 2.5 8.00",
+        "label": ""
+      },
+      {
+        "text": "Under 2.5 1.06",
+        "label": ""
+      },
+      {
+        "text": "Over 3.5 19.00",
+        "label": ""
+      },
+      {
+        "text": "Over 4.5 21.00",
+        "label": ""
+      }
+    ]
+  }
+}

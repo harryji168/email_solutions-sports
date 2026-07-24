@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "Gonzalo Villanueva v Juan Bautista Torres | Bet on ATP Challenger Asuncion 2, Singles with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/12014394/tennis/atp-challenger-tour/atp-challenger-asuncion-2-singles/gonzalo-villanueva-v-juan-bautista-torres",
+    "gameTime": "",
+    "gameScore": "",
+    "odds": [
+      {
+        "text": "Over 23.5 1.71",
+        "label": ""
+      },
+      {
+        "text": "Under 23.5 1.98",
+        "label": ""
+      },
+      {
+        "text": "Over 24.5 1.80",
+        "label": ""
+      },
+      {
+        "text": "Under 24.5 1.87",
+        "label": ""
+      },
+      {
+        "text": "Over 25.5 2.00",
+        "label": ""
+      },
+      {
+        "text": "Under 25.5 1.69",
+        "label": ""
+      }
+    ]
+  }
+}

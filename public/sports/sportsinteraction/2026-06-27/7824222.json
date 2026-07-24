@@ -1,0 +1,30 @@
+{
+  "matchId": "7824222",
+  "date": "2026-06-27",
+  "time": "LIVE",
+  "group": "MLS Next Pro",
+  "title": "Atlanta United II 0-0 Crown Legacy FC",
+  "homeTeam": "Atlanta United II",
+  "awayTeam": "Crown Legacy FC",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/atlanta-united-ii-crown-legacy-fc-2:7824222",
+  "odds": {
+    "over": "Over 5.5 1.53",
+    "under": "Under 5.5 2.25",
+    "all": [
+      "Over 4.5 1.12",
+      "Under 4.5 5.50",
+      "Over 5.5 1.53",
+      "Under 5.5 2.25",
+      "Over 6.5 2.65",
+      "Under 6.5 1.39",
+      "Over 7.5 5.25",
+      "Under 7.5 1.12",
+      "Over 8.5 12.00",
+      "Under 8.5 1.025",
+      "Over 9.5 26.00"
+    ]
+  },
+  "odds1H": null
+}

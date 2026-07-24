@@ -1,0 +1,30 @@
+{
+  "matchId": "7823031",
+  "date": "2026-06-24",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Los Angeles FC II 0-0 Minnesota United FC II",
+  "homeTeam": "Los Angeles FC II",
+  "awayTeam": "Minnesota United FC II",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/los-angeles-fc-ii-minnesota-united-fc-ii-2:7823031",
+  "odds": {
+    "over": "Over 1.5 1.82",
+    "under": "Under 1.5 1.82",
+    "all": [
+      "Over 0.5 1.17",
+      "Under 0.5 4.33",
+      "Over 1.5 1.82",
+      "Under 1.5 1.82",
+      "Over 2.5 3.60",
+      "Under 2.5 1.23",
+      "Over 3.5 8.25",
+      "Under 3.5 1.055",
+      "Over 4.5 19.50",
+      "Under 4.5 1.002",
+      "Over 5.5 46.00"
+    ]
+  },
+  "odds1H": null
+}

@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "Belgium v Egypt | Bet on World Cup with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/11813720/soccer/world/world-cup/belgium-v-egypt?marketType=standard",
+    "odds": [
+      {
+        "text": "Over 2.5 15.00",
+        "label": ""
+      },
+      {
+        "text": "Under 2.5 1.006",
+        "label": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "matchId": "7822671",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Resende FC RJ 0-0 SE Belford Roxo RJ",
+  "homeTeam": "Resende FC RJ",
+  "awayTeam": "SE Belford Roxo RJ",
+  "score": "0-0",
+  "status": "1H • 00:59",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/resende-fc-rj-se-belford-roxo-rj-2:7822671",
+  "odds": {
+    "over": "Over 3.5 1.72",
+    "under": "Under 3.5 1.93",
+    "all": [
+      "Over 2.5 1.31",
+      "Under 2.5 3.00",
+      "Over 3.5 1.72",
+      "Under 3.5 1.93",
+      "Over 4.5 2.50",
+      "Under 4.5 1.44"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 1.5 1.66",
+    "under": "Under 1.5 2.00",
+    "all": [
+      "Over 1.5 1.66",
+      "Under 1.5 2.00",
+      "Over 2.5 2.95",
+      "Under 2.5 1.33"
+    ]
+  }
+}

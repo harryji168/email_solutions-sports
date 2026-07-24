@@ -1,0 +1,29 @@
+{
+  "matchId": "7822736",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "FC Jarfalla 0-1 FC Arlanda",
+  "homeTeam": "FC Jarfalla",
+  "awayTeam": "FC Arlanda",
+  "score": "0-1",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/fc-jarfalla-fc-arlanda-2:7822736",
+  "odds": {
+    "over": "Over 2.5 1.83",
+    "under": "Under 2.5 1.77",
+    "all": [
+      "Over 1.5 1.17",
+      "Under 1.5 4.20",
+      "Over 2.5 1.83",
+      "Under 2.5 1.77",
+      "Over 3.5 3.60",
+      "Under 3.5 1.22",
+      "Over 4.5 8.00",
+      "Under 4.5 1.05",
+      "Over 5.5 18.50",
+      "Over 6.5 41.00"
+    ]
+  },
+  "odds1H": null
+}

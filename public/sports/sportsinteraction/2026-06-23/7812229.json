@@ -1,0 +1,30 @@
+{
+  "matchId": "7812229",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Panama 0-0 Croatia",
+  "homeTeam": "Panama",
+  "awayTeam": "Croatia",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/panama-croatia-2:7812229",
+  "odds": {
+    "over": "Over 1.5 1.93",
+    "under": "Under 1.5 1.77",
+    "all": [
+      "Over 0.5 1.20",
+      "Under 0.5 4.10",
+      "Over 1.5 1.93",
+      "Under 1.5 1.77",
+      "Over 2.5 4.00",
+      "Under 2.5 1.21",
+      "Over 3.5 9.50",
+      "Under 3.5 1.05",
+      "Over 4.5 23.00",
+      "Under 4.5 1.002",
+      "Over 5.5 51.00"
+    ]
+  },
+  "odds1H": null
+}

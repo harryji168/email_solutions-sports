@@ -1,0 +1,122 @@
+[
+  {
+    "date": "",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": " - ",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": "-",
+    "matchId": "",
+    "targetMatchId": "5077138",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "12/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Delaware Ospreys Women\\s Hist",
+    "title": "Fever SC Women's 2-4 Delaware Ospreys Women's",
+    "homeTeam": "Fever SC Women's",
+    "awayTeam": "Delaware Ospreys Women's",
+    "score": "2-4",
+    "matchId": "5073891",
+    "targetMatchId": "5077138",
+    "goals": [
+      "5' 1-0",
+      "28' 2-0",
+      "",
+      "",
+      "59' 2-1",
+      "63' 2-2<br>71' 2-3",
+      "87' 2-4",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "08/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Delaware Ospreys Women\\s Hist",
+    "title": "Delaware Ospreys Women's 3-5 Monmouth Women's",
+    "homeTeam": "Delaware Ospreys Women's",
+    "awayTeam": "Monmouth Women's",
+    "score": "3-5",
+    "matchId": "5073207",
+    "targetMatchId": "5077138",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "05/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Delaware Ospreys Women\\s Hist",
+    "title": "Delaware Ospreys Women's 1-2 SJEB Women's",
+    "homeTeam": "Delaware Ospreys Women's",
+    "awayTeam": "SJEB Women's",
+    "score": "1-2",
+    "matchId": "5071686",
+    "targetMatchId": "5077138",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "07/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Kensington Soccer Women\\s Hist",
+    "title": "SJEB Women's 2-0 Kensington Soccer Women's",
+    "homeTeam": "SJEB Women's",
+    "awayTeam": "Kensington Soccer Women's",
+    "score": "2-0",
+    "matchId": "5072708",
+    "targetMatchId": "5077138",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

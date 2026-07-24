@@ -1,0 +1,23 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "France v Senegal | Bet on World Cup with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/11815231/soccer/world/world-cup/france-v-senegal",
+    "gameTime": "95:12+8",
+    "gameScore": "2 : 1",
+    "odds": [
+      {
+        "text": "Over 2.5 3.75",
+        "label": ""
+      },
+      {
+        "text": "Under 2.5 1.26",
+        "label": ""
+      },
+      {
+        "text": "Over 3.5 22.00",
+        "label": ""
+      }
+    ]
+  }
+}

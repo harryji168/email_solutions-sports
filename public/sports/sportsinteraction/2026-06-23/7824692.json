@@ -1,0 +1,31 @@
+{
+  "matchId": "7824692",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "IA/Kari/Skallagrimur/VO U19 0-1 Fylkir/Ellidi U19",
+  "homeTeam": "IA/Kari/Skallagrimur/VO U19",
+  "awayTeam": "Fylkir/Ellidi U19",
+  "score": "0-1",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/ia-kari-skallagrimur-vo-u19-fylkir-ellidi-u19-2:7824692",
+  "odds": {
+    "over": "Over 3.5 1.62",
+    "under": "Under 3.5 2.05",
+    "all": [
+      "Over 1.5 1.02",
+      "Under 1.5 13.00",
+      "Over 2.5 1.19",
+      "Under 2.5 4.00",
+      "Over 3.5 1.62",
+      "Under 3.5 2.05",
+      "Over 4.5 2.60",
+      "Under 4.5 1.40",
+      "Over 5.5 4.75",
+      "Under 5.5 1.15",
+      "Over 6.5 9.50",
+      "Under 6.5 1.04"
+    ]
+  },
+  "odds1H": null
+}

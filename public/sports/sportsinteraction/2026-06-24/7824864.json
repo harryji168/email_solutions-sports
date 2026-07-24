@@ -1,0 +1,29 @@
+{
+  "matchId": "7824864",
+  "date": "2026-06-24",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Glentoran FC 1-1 The New Saints FC",
+  "homeTeam": "Glentoran FC",
+  "awayTeam": "The New Saints FC",
+  "score": "1-1",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/glentoran-fc-the-new-saints-fc-2:7824864",
+  "odds": {
+    "over": "Over 3.5 2.10",
+    "under": "Under 3.5 1.62",
+    "all": [
+      "Over 2.5 1.24",
+      "Under 2.5 3.50",
+      "Over 3.5 2.10",
+      "Under 3.5 1.62",
+      "Over 4.5 4.50",
+      "Under 4.5 1.16",
+      "Over 5.5 10.50",
+      "Under 5.5 1.03",
+      "Over 6.5 26.00",
+      "Over 7.5 56.00"
+    ]
+  },
+  "odds1H": null
+}

@@ -1,0 +1,31 @@
+{
+  "matchId": "7822470",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Hill Country Lobos 0-3 Laredo Heat SC",
+  "homeTeam": "Hill Country Lobos",
+  "awayTeam": "Laredo Heat SC",
+  "score": "0-3",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/hill-country-lobos-laredo-heat-sc-2:7822470",
+  "odds": {
+    "over": "Over 5.5 2.15",
+    "under": "Under 5.5 1.58",
+    "all": [
+      "Over 3.5 1.07",
+      "Under 3.5 7.50",
+      "Over 4.5 1.37",
+      "Under 4.5 2.75",
+      "Over 5.5 2.15",
+      "Under 5.5 1.58",
+      "Over 6.5 3.90",
+      "Under 6.5 1.20",
+      "Over 7.5 8.25",
+      "Under 7.5 1.055",
+      "Over 8.5 18.00",
+      "Under 8.5 1.004"
+    ]
+  },
+  "odds1H": null
+}

@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "Baltimore Orioles at Seattle Mariners | Bet on MLB with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/11966877/baseball/north-america/mlb/baltimore-orioles-at-seattle-mariners",
+    "gameTime": "",
+    "gameScore": "",
+    "odds": [
+      {
+        "text": "Over 4.5 1.83",
+        "label": ""
+      },
+      {
+        "text": "Under 4.5 1.83",
+        "label": ""
+      }
+    ]
+  }
+}

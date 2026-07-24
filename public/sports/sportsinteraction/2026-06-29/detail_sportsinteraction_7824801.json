@@ -1,0 +1,31 @@
+[
+  {
+    "matchId": "7824801",
+    "date": "2026-06-29",
+    "time": "LIVE",
+    "group": "World CUP",
+    "title": "Kazma SC 1-0 Al-Salmiya SC",
+    "homeTeam": "Kazma SC",
+    "awayTeam": "Al-Salmiya SC",
+    "score": "1-0",
+    "status": "Halftime",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/kazma-sc-al-salmiya-sc-2:7824801",
+    "odds": {
+      "over": "Over 2.5 2.50",
+      "under": "Under 2.5 1.42",
+      "all": [
+        "Over 1.5 1.30",
+        "Under 1.5 2.95",
+        "Over 2.5 2.50",
+        "Under 2.5 1.42",
+        "Over 3.5 5.75",
+        "Under 3.5 1.09",
+        "Over 4.5 14.50",
+        "Under 4.5 1.006",
+        "Over 5.5 34.00",
+        "Over 6.5 71.00"
+      ]
+    },
+    "odds1H": null
+  }
+]

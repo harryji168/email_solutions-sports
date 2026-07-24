@@ -1,0 +1,98 @@
+[
+  {
+    "date": "",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": " - ",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": "-",
+    "matchId": "",
+    "targetMatchId": "5077758",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "07/10/24",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Univ. Cesar Vallejo Reserve Hist",
+    "title": "Univ. Cesar Vallejo Reserve 3-2 AD Tarma Reserves",
+    "homeTeam": "Univ. Cesar Vallejo Reserve",
+    "awayTeam": "AD Tarma Reserves",
+    "score": "3-2",
+    "matchId": "4796038",
+    "targetMatchId": "5077758",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "02/10/24",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Univ. Cesar Vallejo Reserve Hist",
+    "title": "AD Tarma Reserves 2-0 Univ. Cesar Vallejo Reserve",
+    "homeTeam": "AD Tarma Reserves",
+    "awayTeam": "Univ. Cesar Vallejo Reserve",
+    "score": "2-0",
+    "matchId": "4795198",
+    "targetMatchId": "5077758",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "12/09/24",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Univ. Cesar Vallejo Reserve Hist",
+    "title": "Univ. Cesar Vallejo Reserve 2-1 Atletico Grau Reserve",
+    "homeTeam": "Univ. Cesar Vallejo Reserve",
+    "awayTeam": "Atletico Grau Reserve",
+    "score": "2-1",
+    "matchId": "4790450",
+    "targetMatchId": "5077758",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

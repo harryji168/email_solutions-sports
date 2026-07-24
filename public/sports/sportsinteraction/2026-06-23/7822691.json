@@ -1,0 +1,34 @@
+{
+  "matchId": "7822691",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "Grindavik/Njardvik women 0-0 Vikingur Reykjavik Women",
+  "homeTeam": "Grindavik/Njardvik women",
+  "awayTeam": "Vikingur Reykjavik Women",
+  "score": "0-0",
+  "status": "1H • 10:14",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/grindavik-njardvik-women-vikingur-reykjavik-wome-2:7822691",
+  "odds": {
+    "over": "Over 3.5 1.62",
+    "under": "Under 3.5 2.05",
+    "all": [
+      "Over 2.5 1.24",
+      "Under 2.5 3.50",
+      "Over 3.5 1.62",
+      "Under 3.5 2.05",
+      "Over 4.5 2.40",
+      "Under 4.5 1.47"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 1.5 1.93",
+    "under": "Under 1.5 1.72",
+    "all": [
+      "Over 0.5 1.18",
+      "Under 0.5 4.20",
+      "Over 1.5 1.93",
+      "Under 1.5 1.72"
+    ]
+  }
+}

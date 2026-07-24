@@ -1,0 +1,31 @@
+[
+  {
+    "matchId": "7825599",
+    "date": "2026-06-29",
+    "time": "LIVE",
+    "group": "World CUP",
+    "title": "Brazil 0-1 Japan",
+    "homeTeam": "Brazil",
+    "awayTeam": "Japan",
+    "score": "0-1",
+    "status": "Halftime",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/brazil-japan-2:7825599",
+    "odds": {
+      "over": "Over 2.5 2.10",
+      "under": "Under 2.5 1.63",
+      "all": [
+        "Over 1.5 1.22",
+        "Under 1.5 3.90",
+        "Over 2.5 2.10",
+        "Under 2.5 1.63",
+        "Over 3.5 4.60",
+        "Under 3.5 1.17",
+        "Over 4.5 11.50",
+        "Under 4.5 1.03",
+        "Over 5.5 29.00",
+        "Over 6.5 61.00"
+      ]
+    },
+    "odds1H": null
+  }
+]

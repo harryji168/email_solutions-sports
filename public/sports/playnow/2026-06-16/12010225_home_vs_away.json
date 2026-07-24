@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "Chicago Wolves at Toronto Marlies | Bet on US American Hockey League with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/12010225/hockey/north-america/us-american-hockey-league/chicago-wolves-at-toronto-marlies",
+    "gameTime": "07:15",
+    "gameScore": "",
+    "odds": [
+      {
+        "text": "Over 3.5 2.90",
+        "label": ""
+      },
+      {
+        "text": "Under 3.5 1.33",
+        "label": ""
+      }
+    ]
+  }
+}

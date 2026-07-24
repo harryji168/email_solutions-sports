@@ -1,0 +1,31 @@
+[
+  {
+    "matchId": "7824800",
+    "date": "2026-06-29",
+    "time": "LIVE",
+    "group": "World CUP",
+    "title": "Qadsia SC 0-0 Al Kuwait SC",
+    "homeTeam": "Qadsia SC",
+    "awayTeam": "Al Kuwait SC",
+    "score": "0-0",
+    "status": "Halftime",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/qadsia-sc-al-kuwait-sc-2:7824800",
+    "odds": {
+      "over": "Over 1.5 1.87",
+      "under": "Under 1.5 1.75",
+      "all": [
+        "Over 0.5 1.18",
+        "Under 0.5 4.00",
+        "Over 1.5 1.87",
+        "Under 1.5 1.75",
+        "Over 2.5 3.75",
+        "Under 2.5 1.20",
+        "Over 3.5 8.50",
+        "Under 3.5 1.045",
+        "Over 4.5 20.00",
+        "Over 5.5 41.00"
+      ]
+    },
+    "odds1H": null
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "matchId": "7824733",
+  "date": "2026-06-24",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Rayo Zuliano 0-0 Trujillanos FC",
+  "homeTeam": "Rayo Zuliano",
+  "awayTeam": "Trujillanos FC",
+  "score": "0-0",
+  "status": "1H • 32:37",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/rayo-zuliano-trujillanos-fc-2:7824733",
+  "odds": {
+    "over": "Over 1.5 1.66",
+    "under": "Under 1.5 1.98",
+    "all": [
+      "Over 0.5 1.12",
+      "Under 0.5 5.00",
+      "Over 1.5 1.66",
+      "Under 1.5 1.98",
+      "Over 2.5 3.10",
+      "Under 2.5 1.28"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 0.5 2.60",
+    "under": "Under 0.5 1.38",
+    "all": [
+      "Over 0.5 2.60",
+      "Under 0.5 1.38",
+      "Over 1.5 11.50",
+      "Under 1.5 1.02"
+    ]
+  }
+}

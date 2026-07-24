@@ -1,0 +1,29 @@
+{
+  "matchId": "7812545",
+  "date": "2026-06-24",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "South Africa 0-0 South Korea",
+  "homeTeam": "South Africa",
+  "awayTeam": "South Korea",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/south-africa-south-korea-2:7812545",
+  "odds": {
+    "over": "Over 1.5 2.37",
+    "under": "Under 1.5 1.51",
+    "all": [
+      "Over 0.5 1.30",
+      "Under 0.5 3.20",
+      "Over 1.5 2.37",
+      "Under 1.5 1.51",
+      "Over 2.5 5.75",
+      "Under 2.5 1.12",
+      "Over 3.5 14.50",
+      "Under 3.5 1.02",
+      "Over 4.5 36.00",
+      "Over 5.5 71.00"
+    ]
+  },
+  "odds1H": null
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "matchId": "7824826",
+    "date": "2026-06-29",
+    "time": "LIVE",
+    "group": "World CUP",
+    "title": "HB Torshavn 2-0 Skala IF",
+    "homeTeam": "HB Torshavn",
+    "awayTeam": "Skala IF",
+    "score": "2-0",
+    "status": "2H • 54:04",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/hb-torshavn-skala-if-2:7824826",
+    "odds": {
+      "over": "Over 3.5 2.10",
+      "under": "Under 3.5 1.58",
+      "all": [
+        "Over 2.5 1.23",
+        "Under 2.5 3.50",
+        "Over 3.5 2.10",
+        "Under 3.5 1.58",
+        "Over 4.5 4.50",
+        "Under 4.5 1.15",
+        "Over 5.5 11.00",
+        "Under 5.5 1.02",
+        "Over 6.5 26.00",
+        "Over 7.5 51.00"
+      ]
+    },
+    "odds1H": null
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "matchId": "7824447",
+  "date": "2026-06-27",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Canberra Juventus FC 0-0 Brindabella Blues",
+  "homeTeam": "Canberra Juventus FC",
+  "awayTeam": "Brindabella Blues",
+  "score": "0-0",
+  "status": "1H • 29:55",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/canberra-juventus-fc-brindabella-blues-2:7824447",
+  "odds": {
+    "over": "Over 2.5 1.57",
+    "under": "Under 2.5 2.15",
+    "all": [
+      "Over 0.5 1.012",
+      "Under 0.5 15.00",
+      "Over 1.5 1.17",
+      "Under 1.5 4.33",
+      "Over 2.5 1.57",
+      "Under 2.5 2.15",
+      "Over 3.5 2.45",
+      "Under 3.5 1.46",
+      "Over 4.5 4.33",
+      "Under 4.5 1.17",
+      "Over 5.5 8.25",
+      "Under 5.5 1.055"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 0.5 1.71",
+    "under": "Under 0.5 1.95",
+    "all": [
+      "Over 0.5 1.71",
+      "Under 0.5 1.95",
+      "Over 1.5 4.80",
+      "Under 1.5 1.14",
+      "Over 2.5 16.50",
+      "Under 2.5 1.008",
+      "Over 3.5 46.00"
+    ]
+  }
+}

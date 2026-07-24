@@ -1,0 +1,36 @@
+{
+  "matchId": "7824686",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "Portugal 0-0 Uzbekistan",
+  "homeTeam": "Portugal",
+  "awayTeam": "Uzbekistan",
+  "score": "0-0",
+  "status": "1H • 19:49",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/buenos-aires-city-control-orientado-2:7824686",
+  "odds": {
+    "over": "Over 2.5 1.50",
+    "under": "Under 2.5 2.30",
+    "all": [
+      "Over 2.5 1.50",
+      "Under 2.5 2.30",
+      "Over 3.5 3.40",
+      "Under 3.5 1.25",
+      "Over 4,5 9.75",
+      "Under 4,5 1.035"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 2.5 1.50",
+    "under": "Under 2.5 2.30",
+    "all": [
+      "Over 2.5 1.50",
+      "Under 2.5 2.30",
+      "Over 3.5 3.40",
+      "Under 3.5 1.25",
+      "Over 4,5 9.75",
+      "Under 4,5 1.035"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "date": "",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": " - ",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": "-",
+    "matchId": "",
+    "targetMatchId": "5077213",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "08/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Fort Lauderdale Utd II Women\\s Hist",
+    "title": "Fort Lauderdale Utd II Women's 1-2 TLH Reckoning Women's",
+    "homeTeam": "Fort Lauderdale Utd II Women's",
+    "awayTeam": "TLH Reckoning Women's",
+    "score": "1-2",
+    "matchId": "5073299",
+    "targetMatchId": "5077213",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "12/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Brooke House FC Women\\s Hist",
+    "title": "Brooke House FC Women's 2-2 FC Miami City Women's",
+    "homeTeam": "Brooke House FC Women's",
+    "awayTeam": "FC Miami City Women's",
+    "score": "2-2",
+    "matchId": "5073507",
+    "targetMatchId": "5077213",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "08/06/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Brooke House FC Women\\s Hist",
+    "title": "Brevard SC Riptide Women's 2-1 Brooke House FC Women's",
+    "homeTeam": "Brevard SC Riptide Women's",
+    "awayTeam": "Brooke House FC Women's",
+    "score": "2-1",
+    "matchId": "5073201",
+    "targetMatchId": "5077213",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "23/06/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Brooke House FC Women\\s Hist",
+    "title": "FC Miami City Women's 2-3 Brooke House FC Women's",
+    "homeTeam": "FC Miami City Women's",
+    "awayTeam": "Brooke House FC Women's",
+    "score": "2-3",
+    "matchId": "4881073",
+    "targetMatchId": "5077213",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

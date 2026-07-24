@@ -1,0 +1,122 @@
+[
+  {
+    "date": "",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "H2H",
+    "title": " - ",
+    "homeTeam": "",
+    "awayTeam": "",
+    "score": "-",
+    "matchId": "",
+    "targetMatchId": "5077211",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "31/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Barrancas FC Hist",
+    "title": "Barrancas FC 2-1 Everton La Plata",
+    "homeTeam": "Barrancas FC",
+    "awayTeam": "Everton La Plata",
+    "score": "2-1",
+    "matchId": "5070895",
+    "targetMatchId": "5077211",
+    "goals": [
+      "4' 1-0",
+      "",
+      "",
+      "",
+      "59' 1-1",
+      "69' 2-1",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "27/05/26",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Barrancas FC Hist",
+    "title": "Ezeiza 0-2 Barrancas FC",
+    "homeTeam": "Ezeiza",
+    "awayTeam": "Barrancas FC",
+    "score": "0-2",
+    "matchId": "5069116",
+    "targetMatchId": "5077211",
+    "goals": [
+      "6' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "90' 0-2",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "21/09/25",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Barrancas FC Hist",
+    "title": "Nautico Hacoaj 0-1 Barrancas FC",
+    "homeTeam": "Nautico Hacoaj",
+    "awayTeam": "Barrancas FC",
+    "score": "0-1",
+    "matchId": "4986537",
+    "targetMatchId": "5077211",
+    "goals": [
+      "",
+      "16' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  },
+  {
+    "date": "19/12/21",
+    "day": "",
+    "time": "",
+    "status": "FT",
+    "group": "Alumni Los Hornos Hist",
+    "title": "Alumni Los Hornos 1-0 Club Deportivo Zoe",
+    "homeTeam": "Alumni Los Hornos",
+    "awayTeam": "Club Deportivo Zoe",
+    "score": "1-0",
+    "matchId": "4258536",
+    "targetMatchId": "5077211",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "isReference": true
+  }
+]

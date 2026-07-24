@@ -1,0 +1,27 @@
+{
+  "matchId": "7824486",
+  "date": "2026-06-28",
+  "time": "LIVE",
+  "group": "Premier League",
+  "title": "Dnepr Mogilev 2-0 Neman Grodno",
+  "homeTeam": "Dnepr Mogilev",
+  "awayTeam": "Neman Grodno",
+  "score": "2-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/dnepr-mogilev-neman-grodno-2:7824486",
+  "odds": {
+    "over": "Over 3.5 2.15",
+    "under": "Under 3.5 1.57",
+    "all": [
+      "Over 2.5 1.24",
+      "Under 2.5 3.40",
+      "Over 3.5 2.15",
+      "Under 3.5 1.57",
+      "Over 4.5 4.80",
+      "Under 4.5 1.13",
+      "Over 5.5 12.00",
+      "Under 5.5 1.015"
+    ]
+  },
+  "odds1H": null
+}

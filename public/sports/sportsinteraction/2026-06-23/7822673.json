@@ -1,0 +1,34 @@
+{
+  "matchId": "7822673",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "AF Perolas Negras RJ 1-1 Santa Cruz FC RJ",
+  "homeTeam": "AF Perolas Negras RJ",
+  "awayTeam": "Santa Cruz FC RJ",
+  "score": "1-1",
+  "status": "1H • 35:59",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/af-perolas-negras-rj-santa-cruz-fc-rj-2:7822673",
+  "odds": {
+    "over": "Over 4.5 2.15",
+    "under": "Under 4.5 1.58",
+    "all": [
+      "Over 3.5 1.38",
+      "Under 3.5 2.70",
+      "Over 4.5 2.15",
+      "Under 4.5 1.58",
+      "Over 5.5 3.90",
+      "Under 5.5 1.21"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 2.5 2.30",
+    "under": "Under 2.5 1.51",
+    "all": [
+      "Over 2.5 2.30",
+      "Under 2.5 1.51",
+      "Over 3.5 8.25",
+      "Under 3.5 1.055"
+    ]
+  }
+}

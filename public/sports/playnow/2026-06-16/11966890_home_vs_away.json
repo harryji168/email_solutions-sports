@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "Pittsburgh Pirates at Athletics | Bet on MLB with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/11966890/baseball/north-america/mlb/pittsburgh-pirates-at-athletics",
+    "gameTime": "",
+    "gameScore": "",
+    "odds": [
+      {
+        "text": "Over 12.5 2.05",
+        "label": ""
+      },
+      {
+        "text": "Under 12.5 1.67",
+        "label": ""
+      }
+    ]
+  }
+}

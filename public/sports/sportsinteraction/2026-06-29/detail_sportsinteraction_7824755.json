@@ -1,0 +1,29 @@
+[
+  {
+    "matchId": "7824755",
+    "date": "2026-06-29",
+    "time": "LIVE",
+    "group": "World CUP",
+    "title": "IA Akranes 0-2 Fram Reykjavik",
+    "homeTeam": "IA Akranes",
+    "awayTeam": "Fram Reykjavik",
+    "score": "0-2",
+    "status": "2H • 73:03",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/ia-akranes-fram-reykjavik-2:7824755",
+    "odds": {
+      "over": "Over 2.5 1.58",
+      "under": "Under 2.5 2.10",
+      "all": [
+        "Over 2.5 1.58",
+        "Under 2.5 2.10",
+        "Over 3.5 3.80",
+        "Under 3.5 1.20",
+        "Over 4.5 11.50",
+        "Under 4.5 1.02",
+        "Over 5.5 31.00",
+        "Over 6.5 81.00"
+      ]
+    },
+    "odds1H": null
+  }
+]

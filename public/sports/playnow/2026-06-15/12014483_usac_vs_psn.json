@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "odds": {
+    "matchName": "USAC v PSN | Bet on Guatemala Liga Mayor Metropolitana with PlayNow!",
+    "url": "https://www.playnow.com/sports/in-play/event/12014483/basketball/guatemala/guatemala-liga-mayor-metropolitana/usac-v-psn",
+    "gameTime": "",
+    "gameScore": "",
+    "odds": [
+      {
+        "text": "Over 132.5 1.83",
+        "label": ""
+      },
+      {
+        "text": "Under 132.5 1.87",
+        "label": ""
+      },
+      {
+        "text": "Over 132.5 1.83",
+        "label": ""
+      },
+      {
+        "text": "Under 132.5 1.87",
+        "label": ""
+      },
+      {
+        "text": "Over 59.5 1.91",
+        "label": ""
+      },
+      {
+        "text": "Under 59.5 1.80",
+        "label": ""
+      },
+      {
+        "text": "Over 73.5 1.93",
+        "label": ""
+      },
+      {
+        "text": "Under 73.5 1.78",
+        "label": ""
+      }
+    ]
+  }
+}

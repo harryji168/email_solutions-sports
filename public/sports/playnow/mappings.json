@@ -1,0 +1,19 @@
+{
+  "manualMatches": {
+    "Velez Sarsfield-Newell's Old Boys": "5083666",
+    "Oulun Luistinseura-KuPS Akatemia": "5033029",
+    "CA River Plate-La Luz FC": "5079982",
+    "Wydad AC-Olympique Dcheira": "5089652"
+  },
+  "teamMap": {
+    "Velez Sarsfield": "Velez Sarsfield Reserve",
+    "Newell's Old Boys": "Newells Old Boys Reserve",
+    "Oulun Luistinseura": "Oulun Luistinseura",
+    "KuPS Akatemia": "KuPS Akatemia",
+    "CA River Plate": "CA River Plate (Uru)",
+    "La Luz FC": "La Luz FC",
+    "Wydad AC": "Wydad AC",
+    "Olympique Dcheira": "Olympique Dcheira"
+  },
+  "leagueMap": {}
+}

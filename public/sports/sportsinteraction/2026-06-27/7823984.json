@@ -1,0 +1,30 @@
+{
+  "matchId": "7823984",
+  "date": "2026-06-27",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Launceston City 0-0 South East United",
+  "homeTeam": "Launceston City",
+  "awayTeam": "South East United",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/launceston-city-south-east-united-2:7823984",
+  "odds": {
+    "over": "Over 1.5 1.51",
+    "under": "Under 1.5 2.30",
+    "all": [
+      "Over 0.5 1.09",
+      "Under 0.5 6.25",
+      "Over 1.5 1.51",
+      "Under 1.5 2.30",
+      "Over 2.5 2.60",
+      "Under 2.5 1.41",
+      "Over 3.5 5.25",
+      "Under 3.5 1.12",
+      "Over 4.5 12.00",
+      "Under 4.5 1.025",
+      "Over 5.5 26.00"
+    ]
+  },
+  "odds1H": null
+}

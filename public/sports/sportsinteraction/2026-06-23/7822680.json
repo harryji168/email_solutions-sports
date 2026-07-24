@@ -1,0 +1,41 @@
+{
+  "matchId": "7822680",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "CD Palestino 0-0 Audax Italiano",
+  "homeTeam": "CD Palestino",
+  "awayTeam": "Audax Italiano",
+  "score": "0-0",
+  "status": "1H • 27:55",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/cd-palestino-audax-italiano-2:7822680",
+  "odds": {
+    "over": "Over 1.5 1.47",
+    "under": "Under 1.5 2.35",
+    "all": [
+      "Over 0.5 1.09",
+      "Under 0.5 6.00",
+      "Over 1.5 1.47",
+      "Under 1.5 2.35",
+      "Over 2.5 2.50",
+      "Under 2.5 1.42",
+      "Over 3.5 4.75",
+      "Under 3.5 1.13",
+      "Over 4.5 10.50",
+      "Under 4.5 1.025",
+      "Over 5.5 21.00"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 0.5 2.10",
+    "under": "Under 0.5 1.57",
+    "all": [
+      "Over 0.5 2.10",
+      "Under 0.5 1.57",
+      "Over 1.5 7.50",
+      "Under 1.5 1.055",
+      "Over 2.5 29.00",
+      "Over 3.5 81.00"
+    ]
+  }
+}

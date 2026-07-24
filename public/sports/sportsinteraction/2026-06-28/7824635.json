@@ -1,0 +1,25 @@
+{
+  "matchId": "7824635",
+  "date": "2026-06-28",
+  "time": "LIVE",
+  "group": "1 Lyga",
+  "title": "FK Kauno Zalgiris II 0-0 Vilniaus Baltijos Futbolo Akademija",
+  "homeTeam": "FK Kauno Zalgiris II",
+  "awayTeam": "Vilniaus Baltijos Futbolo Akademija",
+  "score": "0-0",
+  "status": "Halftime",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/fk-kauno-zalgiris-ii-vilniaus-baltijos-futbolo-a-2:7824635",
+  "odds": {
+    "over": "Over 2.5 2.40",
+    "under": "Under 2.5 1.47",
+    "all": [
+      "Over 1.5 1.44",
+      "Under 1.5 2.45",
+      "Over 2.5 2.40",
+      "Under 2.5 1.47",
+      "Over 3.5 4.60",
+      "Under 3.5 1.15"
+    ]
+  },
+  "odds1H": null
+}

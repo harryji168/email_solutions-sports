@@ -1,0 +1,25 @@
+{
+  "matchId": "7822670",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "SI Live Soccer",
+  "title": "Portugal 0-0 Uzbekistan",
+  "homeTeam": "Portugal",
+  "awayTeam": "Uzbekistan",
+  "score": "0-0",
+  "status": "Finished",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/americano-fc-campos-rj-macae-esporte-rj-2:7822670",
+  "odds": {
+    "over": "Over 3.5 1.90",
+    "under": "Under 3.5 1.75",
+    "all": [
+      "Over 2.5 1.22",
+      "Under 2.5 3.75",
+      "Over 3.5 1.90",
+      "Under 3.5 1.75",
+      "Over 4.5 3.75",
+      "Under 4.5 1.21"
+    ]
+  },
+  "odds1H": null
+}

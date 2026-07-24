@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2026-06-01",
+    "day": "Monday",
+    "time": "19:00",
+    "group": "USL L2",
+    "title": "Stars FC 2-1 So Cal Eagles",
+    "homeTeam": "Stars FC",
+    "awayTeam": "So Cal Eagles",
+    "score": "2-1",
+    "matchId": "5040476",
+    "status": "FT",
+    "goals": [
+      "",
+      "22' 1-0",
+      "",
+      "45+1' 1-1",
+      "",
+      "",
+      "81' 2-1",
+      ""
+    ],
+    "start_time": "19:00"
+  }
+]

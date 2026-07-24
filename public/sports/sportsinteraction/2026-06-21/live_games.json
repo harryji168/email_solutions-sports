@@ -1,0 +1,79 @@
+[
+  {
+    "matchId": "7812219",
+    "date": "2026-06-21",
+    "time": "LIVE",
+    "group": "WORLD | WORLD CUP 2026",
+    "title": "New Zealand 1-1 Egypt",
+    "homeTeam": "New Zealand",
+    "awayTeam": "Egypt",
+    "score": "1-1",
+    "status": "2H • 86:08",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/new-zealand-egypt-2:7812219",
+    "odds": {
+      "over": "Over 4.5 2.50",
+      "under": "Under 4.5 1.46",
+      "all": [
+        "Over 4.5 2.50",
+        "Under 4.5 1.46",
+        "Over 5.5 10.00",
+        "Under 5.5 1.045",
+        "Over 6.5 41.00",
+        "Over 7.5 126.00"
+      ]
+    }
+  },
+  {
+    "matchId": "7822280",
+    "date": "2026-06-21",
+    "time": "LIVE",
+    "group": "USA | MLS NEXT PRO",
+    "title": "Tacoma Defiance 0-0 Real Monarchs SLC",
+    "homeTeam": "Tacoma Defiance",
+    "awayTeam": "Real Monarchs SLC",
+    "score": "0-0",
+    "status": "1H • 43:11",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/tacoma-defiance-real-monarchs-slc-2:7822280",
+    "odds": {
+      "over": "Over 1.5 1.68",
+      "under": "Under 1.5 2.00",
+      "all": [
+        "Over 0.5 1.13",
+        "Under 0.5 5.00",
+        "Over 1.5 1.68",
+        "Under 1.5 2.00",
+        "Over 2.5 3.10",
+        "Under 2.5 1.30",
+        "Over 3.5 6.75",
+        "Under 3.5 1.08",
+        "Over 4.5 16.00",
+        "Under 4.5 1.008",
+        "Over 5.5 34.00"
+      ]
+    }
+  },
+  {
+    "matchId": "7823728",
+    "date": "2026-06-21",
+    "time": "LIVE",
+    "group": "USA | WPSL - WOMEN",
+    "title": "SoCal Union FC 1-1 Rebels SC Chula Vista",
+    "homeTeam": "SoCal Union FC",
+    "awayTeam": "Rebels SC Chula Vista",
+    "score": "1-1",
+    "status": "1H • 44:39",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/socal-union-fc-women-rebels-sc-chula-vista-women-2:7823728",
+    "odds": {
+      "over": "Over 2.5 1.66",
+      "under": "Under 2.5 2.00",
+      "all": [
+        "Over 1.5 1.13",
+        "Under 1.5 5.25",
+        "Over 2.5 1.66",
+        "Under 2.5 2.00",
+        "Over 3.5 3.00",
+        "Under 3.5 1.32"
+      ]
+    }
+  }
+]

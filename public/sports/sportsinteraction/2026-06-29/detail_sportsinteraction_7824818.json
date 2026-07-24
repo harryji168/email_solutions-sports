@@ -1,0 +1,27 @@
+[
+  {
+    "matchId": "7824818",
+    "date": "2026-06-29",
+    "time": "LIVE",
+    "group": "NPSL",
+    "title": "Joy St. Louis Park 1-1 Minnesota Blizzard FC",
+    "homeTeam": "Joy St. Louis Park",
+    "awayTeam": "Minnesota Blizzard FC",
+    "score": "1-1",
+    "status": "Halftime",
+    "url": "https://www.sportsinteraction.com/en-ca/sports/events/joy-st-louis-park-minnesota-blizzard-fc-2:7824818",
+    "odds": {
+      "over": "Over 3.5 1.66",
+      "under": "Under 3.5 2.00",
+      "all": [
+        "Over 2.5 1.15",
+        "Under 2.5 4.60",
+        "Over 3.5 1.66",
+        "Under 3.5 2.00",
+        "Over 4.5 3.10",
+        "Under 4.5 1.30"
+      ]
+    },
+    "odds1H": null
+  }
+]

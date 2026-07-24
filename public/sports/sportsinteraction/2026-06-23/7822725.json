@@ -1,0 +1,28 @@
+{
+  "matchId": "7822725",
+  "date": "2026-06-23",
+  "time": "LIVE",
+  "group": "World CUP",
+  "title": "Uberaba SC MG 0-0 Guarani EC Divinopolis MG",
+  "homeTeam": "Uberaba SC MG",
+  "awayTeam": "Guarani EC Divinopolis MG",
+  "score": "0-0",
+  "status": "1H • 03:50",
+  "url": "https://www.sportsinteraction.com/en-ca/sports/events/uberaba-sc-mg-guarani-ec-divinopolis-mg-2:7822725",
+  "odds": {
+    "over": "Over 1.5 1.53",
+    "under": "Under 1.5 2.25",
+    "all": [
+      "Over 1.5 1.53",
+      "Under 1.5 2.25"
+    ]
+  },
+  "odds1H": {
+    "over": "Over 0.5 1.58",
+    "under": "Under 0.5 2.15",
+    "all": [
+      "Over 0.5 1.58",
+      "Under 0.5 2.15"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "match_3c969fd120f7451a",
+    "home_team": "Netherlands",
+    "away_team": "Morocco",
+    "competition": "WORLD | WORLD CUP 2026",
+    "status": "2nd half 90:00",
+    "score": "1-1",
+    "si_id": "7825600",
+    "playnow_id": "12028557",
+    "tonybet_id": "10385862",
+    "kickoff_at": null,
+    "updated_at": 1782788245457,
+    "odds": [
+      {
+        "match_id": "match_3c969fd120f7451a",
+        "site": "playnow",
+        "period": "Total",
+        "line": 2.5,
+        "over_odds": 7.75,
+        "under_odds": 1.08,
+        "site_event_id": "12028557",
+        "updated_at": 1782788185547
+      },
+      {
+        "match_id": "match_3c969fd120f7451a",
+        "site": "playnow",
+        "period": "Total",
+        "line": 3.5,
+        "over_odds": 21,
+        "under_odds": null,
+        "site_event_id": "12028557",
+        "updated_at": 1782788185547
+      },
+      {
+        "match_id": "match_3c969fd120f7451a",
+        "site": "sportsinteraction",
+        "period": "Total",
+        "line": 2.5,
+        "over_odds": 8,
+        "under_odds": 1.07,
+        "site_event_id": "7825600",
+        "updated_at": 1782788185652
+      },
+      {
+        "match_id": "match_3c969fd120f7451a",
+        "site": "sportsinteraction",
+        "period": "Total",
+        "line": 3.5,
+        "over_odds": 46,
+        "under_odds": null,
+        "site_event_id": "7825600",
+        "updated_at": 1782788185514
+      },
+      {
+        "match_id": "match_3c969fd120f7451a",
+        "site": "sportsinteraction",
+        "period": "Total",
+        "line": 4.5,
+        "over_odds": 176,
+        "under_odds": null,
+        "site_event_id": "7825600",
+        "updated_at": 1782788185514
+      },
+      {
+        "match_id": "match_3c969fd120f7451a",
+        "site": "tonybet",
+        "period": "Total",
+        "line": 2.5,
+        "over_odds": 10.5,
+        "under_odds": 1.04,
+        "site_event_id": "10385862",
+        "updated_at": 1782788225723
+      },
+      {
+        "match_id": "match_3c969fd120f7451a",
+        "site": "tonybet",
+        "period": "Total",
+        "line": 3.5,
+        "over_odds": 16.5,
+        "under_odds": null,
+        "site_event_id": "10385862",
+        "updated_at": 1782788225723
+      }
+    ]
+  }
+]

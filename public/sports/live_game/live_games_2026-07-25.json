@@ -10,7 +10,7 @@
     "awayTeam": "Deportivo Pasto",
     "score": "3-2",
     "matchId": "5072352",
-    "status": "90'",
+    "status": "90+'",
     "goals": [
       "4' Jhan Mena (1-0)",
       "30' Santiago Cordoba Urrutia (1-1)",
@@ -33,7 +33,7 @@
     "awayTeam": "Santos Women\\s(U20)",
     "score": "1-2",
     "matchId": "5139934",
-    "status": "80'",
+    "status": "83'",
     "goals": [
       "",
       "",
@@ -56,7 +56,7 @@
     "awayTeam": "Associacao Chapecoense de Futebol",
     "score": "1-2",
     "matchId": "5006235",
-    "status": "64'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -79,7 +79,7 @@
     "awayTeam": "Toronto FC II",
     "score": "2-1",
     "matchId": "5029788",
-    "status": "88'",
+    "status": "90+'",
     "goals": [
       "",
       "18' Mateo Saja (1-0)<br>29' Reid Fisher (1-1)",
@@ -102,7 +102,7 @@
     "awayTeam": "Real Oruro",
     "score": "4-1",
     "matchId": "5067767",
-    "status": "82'",
+    "status": "85'",
     "goals": [
       "2' Carlos Enrique Anez Oliva (1-0)<br>6' Juan Carlos Montenegro (1-1)",
       "",
@@ -125,7 +125,7 @@
     "awayTeam": "C.D. Guastatoya",
     "score": "0-1",
     "matchId": "5083683",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -171,7 +171,30 @@
     "awayTeam": "Nacional Humaita Women\\s",
     "score": "0-0",
     "matchId": "5140292",
-    "status": "23'",
+    "status": "26'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "VEN D2",
+    "title": "Deportivo Lara 4-1 Atletico Barinas",
+    "homeTeam": "Deportivo Lara",
+    "awayTeam": "Atletico Barinas",
+    "score": "4-1",
+    "matchId": "5135555",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -194,7 +217,7 @@
     "awayTeam": "Charlotte FC",
     "score": "0-2",
     "matchId": "5003392",
-    "status": "13'",
+    "status": "16'",
     "goals": [
       "7' Pep Biel Mas Jaume (0-1)<br>12' Ashley Roy Westwood (0-2)",
       "",
@@ -217,7 +240,7 @@
     "awayTeam": "Barracas Central",
     "score": "0-1",
     "matchId": "5052476",
-    "status": "38'",
+    "status": "41'",
     "goals": [
       "",
       "22' Gonzalo Morales (0-1)",
@@ -232,6 +255,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "CHI WD1",
+    "title": "Universidad Catolica Women\\s 5-0 Palestino Women\\s",
+    "homeTeam": "Universidad Catolica Women\\s",
+    "awayTeam": "Palestino Women\\s",
+    "score": "5-0",
+    "matchId": "5044356",
+    "status": "ET",
+    "goals": [
+      "",
+      "18' 1-0<br>25' 2-0",
+      "",
+      "",
+      "51' 3-0",
+      "73' 4-0",
+      "",
+      "90' 5-0"
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "15:08",
     "start_time": "15:08",
     "group": "INT CF",
@@ -240,7 +286,7 @@
     "awayTeam": "Sunderland A.F.C.",
     "score": "1-1",
     "matchId": "5135961",
-    "status": "45'",
+    "status": "HT",
     "goals": [
       "13' Kieran Yusuf Morrison (1-0)",
       "28' Enzo Le Fee (1-1)",
@@ -288,7 +334,7 @@
     "matchId": "5139822",
     "status": "HT",
     "goals": [
-      "11' 1-0",
+      "11' Jamilhio Rigters (1-0)",
       "18' 2-0",
       "",
       "",
@@ -382,7 +428,7 @@
     "goals": [
       "",
       "19' Iv\u00e1n Sandoval (1-0)",
-      "43' 1-1",
+      "43' Adri\u00e1n Lugones (1-1)",
       "",
       "",
       "",
@@ -424,7 +470,7 @@
     "awayTeam": "Millonarios Women\\s",
     "score": "0-0",
     "matchId": "5043163",
-    "status": "64'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -470,7 +516,7 @@
     "awayTeam": "Deportes Santa Cruz",
     "score": "2-2",
     "matchId": "5027350",
-    "status": "63'",
+    "status": "66'",
     "goals": [
       "",
       "22' Gustavo Gotti (1-0)",
@@ -539,7 +585,7 @@
     "awayTeam": "Itabaiana(SE)",
     "score": "1-1",
     "matchId": "5045950",
-    "status": "65'",
+    "status": "68'",
     "goals": [
       "3' Rodrigo Alves (0-1)",
       "",
@@ -562,7 +608,7 @@
     "awayTeam": "EC Mamore MG",
     "score": "0-0",
     "matchId": "5122636",
-    "status": "88'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -572,52 +618,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "VEN D2",
-    "title": "Deportivo Lara 4-1 Atletico Barinas",
-    "homeTeam": "Deportivo Lara",
-    "awayTeam": "Atletico Barinas",
-    "score": "4-1",
-    "matchId": "5135555",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "CHI WD1",
-    "title": "Universidad Catolica Women\\s 5-0 Palestino Women\\s",
-    "homeTeam": "Universidad Catolica Women\\s",
-    "awayTeam": "Palestino Women\\s",
-    "score": "5-0",
-    "matchId": "5044356",
-    "status": "ET",
-    "goals": [
-      "",
-      "18' 1-0<br>25' 2-0",
-      "",
-      "",
-      "51' 3-0",
-      "73' 4-0",
-      "",
-      "90' 5-0"
     ]
   },
   {
@@ -631,7 +631,7 @@
     "awayTeam": "SC Internacional",
     "score": "2-0",
     "matchId": "5006220",
-    "status": "64'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -654,7 +654,7 @@
     "awayTeam": "Cobresal",
     "score": "1-2",
     "matchId": "5021581",
-    "status": "61'",
+    "status": "64'",
     "goals": [
       "14' Rafael Antonio Caroca Cordero (1-0)",
       "",
@@ -677,13 +677,13 @@
     "awayTeam": "FC Nacional Asuncion",
     "score": "1-1",
     "matchId": "5002340",
-    "status": "65'",
+    "status": "68'",
     "goals": [
       "",
       "",
       "",
       "",
-      "54' Richard Torales (1-0)<br>58' 1-1",
+      "54' Richard Torales (1-0)<br>58' Hugo Adri\u00e1n Ben\u00edtez (1-1)",
       "",
       "",
       ""
@@ -700,7 +700,7 @@
     "awayTeam": "Isidro Metapan",
     "score": "2-3",
     "matchId": "5135717",
-    "status": "85'",
+    "status": "88'",
     "goals": [
       "7' Juan S\u00e1nchez (1-0)",
       "",
@@ -738,29 +738,6 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "CONCACAF U20",
-    "title": "Cuba(U20) 3-0 El Salvador(U20)",
-    "homeTeam": "Cuba(U20)",
-    "awayTeam": "El Salvador(U20)",
-    "score": "3-0",
-    "matchId": "5065649",
-    "status": "90+'",
-    "goals": [
-      "",
-      "18' Didier Reinoso (1-0)",
-      "36' Alien Aguila (2-0)",
-      "",
-      "",
-      "",
-      "89' 3-0",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
     "time": "14:02",
     "start_time": "14:02",
     "group": "BRA CP",
@@ -769,7 +746,7 @@
     "awayTeam": "Comercial SP",
     "score": "0-2",
     "matchId": "5077037",
-    "status": "90'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -807,6 +784,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "CONCACAF U20",
+    "title": "Cuba(U20) 3-0 El Salvador(U20)",
+    "homeTeam": "Cuba(U20)",
+    "awayTeam": "El Salvador(U20)",
+    "score": "3-0",
+    "matchId": "5065649",
+    "status": "90+'",
+    "goals": [
+      "",
+      "18' Didier Reinoso (1-0)",
+      "36' Alien Aguila (2-0)",
+      "",
+      "",
+      "",
+      "89' Itzel Colocho (3-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "14:02",
     "start_time": "14:02",
     "group": "URU D1",
@@ -815,7 +815,7 @@
     "awayTeam": "Liverpool Montevideo",
     "score": "1-2",
     "matchId": "5104283",
-    "status": "88'",
+    "status": "90+'",
     "goals": [
       "9' Ruben Daniel Bentancourt Morales (0-1)",
       "",

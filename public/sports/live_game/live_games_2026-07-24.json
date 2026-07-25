@@ -2,6 +2,29 @@
   {
     "date": "2026-07-24",
     "day": "Friday",
+    "time": "18:30",
+    "start_time": "18:30",
+    "group": "USL L2",
+    "title": "Laredo Heat 0-0 Fort Lauderdale CF",
+    "homeTeam": "Laredo Heat",
+    "awayTeam": "Fort Lauderdale CF",
+    "score": "0-0",
+    "matchId": "5130813",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "108' Adam Knutson (1-0)<br>116' Matthew Gordon (1-1)"
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "day": "Friday",
     "time": "16:11",
     "start_time": "16:11",
     "group": "COL D1",
@@ -140,29 +163,6 @@
   {
     "date": "2026-07-24",
     "day": "Friday",
-    "time": "16:03",
-    "start_time": "16:03",
-    "group": "USA MLSRv",
-    "title": "New York Red Bulls B 0-3 Crown Legacy FC",
-    "homeTeam": "New York Red Bulls B",
-    "awayTeam": "Crown Legacy FC",
-    "score": "0-3",
-    "matchId": "5029784",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "57' Hugo Mbongue (0-1)",
-      "62' Nathan Richmond (0-2)<br>70' Adrian Mendoza Gutierrez (0-3)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "day": "Friday",
     "time": "18:00",
     "start_time": "18:00",
     "group": "MEX D2",
@@ -278,29 +278,6 @@
   {
     "date": "2026-07-24",
     "day": "Friday",
-    "time": "13:16",
-    "start_time": "13:16",
-    "group": "PER D2",
-    "title": "AD Comerciantes FC 1-0 Alianza Huanuco",
-    "homeTeam": "AD Comerciantes FC",
-    "awayTeam": "Alianza Huanuco",
-    "score": "1-0",
-    "matchId": "5083670",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "71' Victor Perlaza (1-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "day": "Friday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "BRA WT",
@@ -319,6 +296,29 @@
       "",
       "",
       "90+2' Iara (2-2)"
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "day": "Friday",
+    "time": "13:16",
+    "start_time": "13:16",
+    "group": "PER D2",
+    "title": "AD Comerciantes FC 1-0 Alianza Huanuco",
+    "homeTeam": "AD Comerciantes FC",
+    "awayTeam": "Alianza Huanuco",
+    "score": "1-0",
+    "matchId": "5083670",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "71' Victor Perlaza (1-0)",
+      "",
+      ""
     ]
   },
   {
@@ -347,47 +347,24 @@
   {
     "date": "2026-07-24",
     "day": "Friday",
-    "time": "17:17",
-    "start_time": "17:17",
-    "group": "ARG D1",
-    "title": "Club Atletico Platense 2-2 Union de Santa Fe",
-    "homeTeam": "Club Atletico Platense",
-    "awayTeam": "Union de Santa Fe",
-    "score": "2-2",
-    "matchId": "5052474",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "ECU D2",
+    "title": "L.D.U.Portoviejo 1-0 Depor. Santo Domingo",
+    "homeTeam": "L.D.U.Portoviejo",
+    "awayTeam": "Depor. Santo Domingo",
+    "score": "1-0",
+    "matchId": "5044161",
     "status": "ET",
     "goals": [
       "",
-      "24' Tomas Fagioli (1-0)",
       "",
       "",
       "",
-      "72' Juan Pablo Luduena (1-1)",
-      "79' Cristian Alberto Tarragona (1-2)<br>87' Bautista Merlini (2-2)",
+      "",
+      "74' Richard S\u00e1nchez (1-0)",
+      "",
       ""
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "day": "Friday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "PAR D2",
-    "title": "Deportivo Santani 2-0 Paraguari AC",
-    "homeTeam": "Deportivo Santani",
-    "awayTeam": "Paraguari AC",
-    "score": "2-0",
-    "matchId": "5135536",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "42' Herminio Vera (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "90+4' Herminio Vera (2-0)"
     ]
   },
   {
@@ -411,29 +388,6 @@
       "",
       "",
       "90+1' Linda Helena Jade Ullmark (1-0)"
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "day": "Friday",
-    "time": "18:30",
-    "start_time": "18:30",
-    "group": "USL L2",
-    "title": "Laredo Heat 0-0 Fort Lauderdale CF",
-    "homeTeam": "Laredo Heat",
-    "awayTeam": "Fort Lauderdale CF",
-    "score": "0-0",
-    "matchId": "5130813",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "108' Adam Knutson (1-0)<br>116' Matthew Gordon (1-1)"
     ]
   },
   {
@@ -508,14 +462,14 @@
   {
     "date": "2026-07-24",
     "day": "Friday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "ECU D2",
-    "title": "L.D.U.Portoviejo 1-0 Depor. Santo Domingo",
-    "homeTeam": "L.D.U.Portoviejo",
-    "awayTeam": "Depor. Santo Domingo",
+    "time": "17:17",
+    "start_time": "17:17",
+    "group": "ARG D1",
+    "title": "CA Huracan 1-0 Club Atletico Banfield",
+    "homeTeam": "CA Huracan",
+    "awayTeam": "Club Atletico Banfield",
     "score": "1-0",
-    "matchId": "5044161",
+    "matchId": "5052471",
     "status": "ET",
     "goals": [
       "",
@@ -523,7 +477,30 @@
       "",
       "",
       "",
-      "74' Richard S\u00e1nchez (1-0)",
+      "65' Jordy Josue Caicedo Medina (1-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "day": "Friday",
+    "time": "16:01",
+    "start_time": "16:01",
+    "group": "COL D2",
+    "title": "Tigres FC 0-1 Leones",
+    "homeTeam": "Tigres FC",
+    "awayTeam": "Leones",
+    "score": "0-1",
+    "matchId": "5072220",
+    "status": "ET",
+    "goals": [
+      "",
+      "28' Cristian Rodr\u00edguez Cespedes (0-1)",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -549,29 +526,6 @@
       "",
       "",
       "90' Laryh (0-1)"
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "day": "Friday",
-    "time": "16:01",
-    "start_time": "16:01",
-    "group": "COL D2",
-    "title": "Tigres FC 0-1 Leones",
-    "homeTeam": "Tigres FC",
-    "awayTeam": "Leones",
-    "score": "0-1",
-    "matchId": "5072220",
-    "status": "ET",
-    "goals": [
-      "",
-      "28' Cristian Rodr\u00edguez Cespedes (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -649,20 +603,20 @@
     "time": "17:17",
     "start_time": "17:17",
     "group": "ARG D1",
-    "title": "CA Huracan 1-0 Club Atletico Banfield",
-    "homeTeam": "CA Huracan",
-    "awayTeam": "Club Atletico Banfield",
-    "score": "1-0",
-    "matchId": "5052471",
+    "title": "Club Atletico Platense 2-2 Union de Santa Fe",
+    "homeTeam": "Club Atletico Platense",
+    "awayTeam": "Union de Santa Fe",
+    "score": "2-2",
+    "matchId": "5052474",
     "status": "ET",
     "goals": [
       "",
+      "24' Tomas Fagioli (1-0)",
       "",
       "",
       "",
-      "",
-      "65' Jordy Josue Caicedo Medina (1-0)",
-      "",
+      "72' Juan Pablo Luduena (1-1)",
+      "79' Cristian Alberto Tarragona (1-2)<br>87' Bautista Merlini (2-2)",
       ""
     ]
   },
@@ -686,29 +640,6 @@
       "47' Alejandro Martinez (1-1)",
       "",
       "81' Elyath El Hafedh (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "day": "Friday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "PAR RL",
-    "title": "2 de Mayo Reserve 2-1 Club Rubio Nu Reserve",
-    "homeTeam": "2 de Mayo Reserve",
-    "awayTeam": "Club Rubio Nu Reserve",
-    "score": "2-1",
-    "matchId": "5137180",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -755,6 +686,29 @@
       "",
       "",
       "77' Ederson Salomon Rodriguez Lima (1-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "day": "Friday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "PAR RL",
+    "title": "2 de Mayo Reserve 2-1 Club Rubio Nu Reserve",
+    "homeTeam": "2 de Mayo Reserve",
+    "awayTeam": "Club Rubio Nu Reserve",
+    "score": "2-1",
+    "matchId": "5137180",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -815,7 +769,7 @@
     "awayTeam": "Launceston City",
     "score": "0-0",
     "matchId": "5008894",
-    "status": "12'",
+    "status": "15'",
     "goals": [
       "",
       "",
@@ -824,29 +778,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-24",
-    "day": "Friday",
-    "time": "15:09",
-    "start_time": "15:09",
-    "group": "CAN CPL",
-    "title": "HFX Wanderers 2-3 Supra Du Quebec",
-    "homeTeam": "HFX Wanderers",
-    "awayTeam": "Supra Du Quebec",
-    "score": "2-3",
-    "matchId": "5033188",
-    "status": "ET",
-    "goals": [
-      "",
-      "28' Cyprian Kachwele (1-0)",
-      "",
-      "45' Finn Linder (2-0)",
-      "",
-      "65' Lo\u00efc Kwemi (2-1)<br>67' Lo\u00efc Kwemi (2-2)",
-      "77' Lo\u00efc Kwemi (2-3)",
       ""
     ]
   },
@@ -861,7 +792,7 @@
     "awayTeam": "Devonport City Striker",
     "score": "0-0",
     "matchId": "5008889",
-    "status": "14'",
+    "status": "17'",
     "goals": [
       "",
       "",
@@ -884,9 +815,9 @@
     "awayTeam": "Queanbeyan City",
     "score": "1-1",
     "matchId": "5038264",
-    "status": "11'",
+    "status": "14'",
     "goals": [
-      "",
+      "8' 1-0<br>10' 1-1",
       "",
       "",
       "",
@@ -907,7 +838,7 @@
     "awayTeam": "O\\Connor Knights(U23)",
     "score": "0-0",
     "matchId": "5137352",
-    "status": "28'",
+    "status": "31'",
     "goals": [
       "",
       "",
@@ -953,11 +884,11 @@
     "awayTeam": "Northcote City",
     "score": "0-2",
     "matchId": "5009389",
-    "status": "44'",
+    "status": "HT",
     "goals": [
       "",
       "",
-      "38' 0-1",
+      "38' 0-1<br>43' 0-2",
       "",
       "",
       "",
@@ -976,7 +907,7 @@
     "awayTeam": "Lambton Jaffas",
     "score": "0-0",
     "matchId": "5003116",
-    "status": "42'",
+    "status": "45'",
     "goals": [
       "",
       "",
@@ -999,7 +930,7 @@
     "awayTeam": "Adamstown Rosebuds FC Women\\s",
     "score": "0-4",
     "matchId": "5137353",
-    "status": "43'",
+    "status": "45+'",
     "goals": [
       "",
       "",
@@ -1022,7 +953,7 @@
     "awayTeam": "Adelaide Comets Women\\s Reserve",
     "score": "0-0",
     "matchId": "5137084",
-    "status": "54'",
+    "status": "57'",
     "goals": [
       "",
       "",
@@ -1037,24 +968,24 @@
   {
     "date": "2026-07-24",
     "day": "Friday",
-    "time": "20:17",
-    "start_time": "20:17",
-    "group": "FFSA SLR",
-    "title": "Adelaide Olympic Reserve 0-1 South Adelaide Panthers Reserve",
-    "homeTeam": "Adelaide Olympic Reserve",
-    "awayTeam": "South Adelaide Panthers Reserve",
-    "score": "0-1",
-    "matchId": "5137351",
-    "status": "72'",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "PAR D2",
+    "title": "Deportivo Santani 2-0 Paraguari AC",
+    "homeTeam": "Deportivo Santani",
+    "awayTeam": "Paraguari AC",
+    "score": "2-0",
+    "matchId": "5135536",
+    "status": "ET",
     "goals": [
       "",
       "",
+      "42' Herminio Vera (1-0)",
       "",
       "",
       "",
       "",
-      "",
-      ""
+      "90+4' Herminio Vera (2-0)"
     ]
   },
   {
@@ -1083,6 +1014,29 @@
   {
     "date": "2026-07-24",
     "day": "Friday",
+    "time": "20:17",
+    "start_time": "20:17",
+    "group": "FFSA SLR",
+    "title": "Adelaide Olympic Reserve 0-1 South Adelaide Panthers Reserve",
+    "homeTeam": "Adelaide Olympic Reserve",
+    "awayTeam": "South Adelaide Panthers Reserve",
+    "score": "0-1",
+    "matchId": "5137351",
+    "status": "75'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "day": "Friday",
     "time": "20:21",
     "start_time": "20:21",
     "group": "FFSA SLR",
@@ -1091,7 +1045,7 @@
     "awayTeam": "Adelaide Victory Reserve",
     "score": "1-1",
     "matchId": "5137349",
-    "status": "69'",
+    "status": "72'",
     "goals": [
       "",
       "",
@@ -1109,12 +1063,12 @@
     "time": "20:17",
     "start_time": "20:17",
     "group": "FFSA SLR",
-    "title": "Para Hills Knights Reserve 4-0 Playford City Patriots Reserve",
+    "title": "Para Hills Knights Reserve 5-0 Playford City Patriots Reserve",
     "homeTeam": "Para Hills Knights Reserve",
     "awayTeam": "Playford City Patriots Reserve",
-    "score": "4-0",
+    "score": "5-0",
     "matchId": "5136870",
-    "status": "73'",
+    "status": "76'",
     "goals": [
       "",
       "",
@@ -1137,7 +1091,7 @@
     "awayTeam": "Melbourne Knights(U23)",
     "score": "3-2",
     "matchId": "5135968",
-    "status": "86'",
+    "status": "89'",
     "goals": [
       "",
       "",
@@ -1160,7 +1114,7 @@
     "awayTeam": "Club Leon",
     "score": "1-0",
     "matchId": "5077249",
-    "status": "75'",
+    "status": "78'",
     "goals": [
       "",
       "",
@@ -1168,6 +1122,29 @@
       "",
       "53' Gilberto Mora (1-0)",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "day": "Friday",
+    "time": "16:03",
+    "start_time": "16:03",
+    "group": "USA MLSRv",
+    "title": "New York Red Bulls B 0-3 Crown Legacy FC",
+    "homeTeam": "New York Red Bulls B",
+    "awayTeam": "Crown Legacy FC",
+    "score": "0-3",
+    "matchId": "5029784",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "57' Hugo Mbongue (0-1)",
+      "62' Nathan Richmond (0-2)<br>70' Adrian Mendoza Gutierrez (0-3)",
       "",
       ""
     ]
@@ -1183,7 +1160,7 @@
     "awayTeam": "Club America",
     "score": "1-1",
     "matchId": "5077248",
-    "status": "81'",
+    "status": "84'",
     "goals": [
       "",
       "21' Cristian Alexis Borja Gonzalez (0-1)",
@@ -1330,6 +1307,29 @@
       "",
       "74' 3-0",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-24",
+    "day": "Friday",
+    "time": "15:09",
+    "start_time": "15:09",
+    "group": "CAN CPL",
+    "title": "HFX Wanderers 2-3 Supra Du Quebec",
+    "homeTeam": "HFX Wanderers",
+    "awayTeam": "Supra Du Quebec",
+    "score": "2-3",
+    "matchId": "5033188",
+    "status": "ET",
+    "goals": [
+      "",
+      "28' Cyprian Kachwele (1-0)",
+      "",
+      "45' Finn Linder (2-0)",
+      "",
+      "65' Lo\u00efc Kwemi (2-1)<br>67' Lo\u00efc Kwemi (2-2)",
+      "77' Lo\u00efc Kwemi (2-3)",
       ""
     ]
   },

@@ -10,7 +10,7 @@
     "awayTeam": "Bentleigh Greens(U23)",
     "score": "3-2",
     "matchId": "5034731",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "15' 1-0",
       "21' 2-0<br>30' 3-0",
@@ -102,7 +102,7 @@
     "awayTeam": "Belmont Swansea United SC",
     "score": "2-1",
     "matchId": "5003124",
-    "status": "HT",
+    "status": "49'",
     "goals": [
       "9' William Eick (1-0)",
       "",
@@ -125,7 +125,7 @@
     "awayTeam": "Bulls FC Academy",
     "score": "0-0",
     "matchId": "5005677",
-    "status": "HT",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -148,7 +148,7 @@
     "awayTeam": "North Pine",
     "score": "0-1",
     "matchId": "5047109",
-    "status": "HT",
+    "status": "47'",
     "goals": [
       "14' 0-1",
       "",
@@ -171,7 +171,7 @@
     "awayTeam": "Yeronga Eagles",
     "score": "0-0",
     "matchId": "5047107",
-    "status": "23'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -194,10 +194,33 @@
     "awayTeam": "Hokkaido Tokachi",
     "score": "0-3",
     "matchId": "5141474",
-    "status": "HT",
+    "status": "51'",
     "goals": [
       "5' 0-1",
       "23' 0-2<br>26' 0-3",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "23:05",
+    "start_time": "23:05",
+    "group": "AUS NTWPL",
+    "title": "Lake Macquarie City Women\\s 0-0 Maitland FC Women\\s",
+    "homeTeam": "Lake Macquarie City Women\\s",
+    "awayTeam": "Maitland FC Women\\s",
+    "score": "0-0",
+    "matchId": "5140091",
+    "status": "4'",
+    "goals": [
+      "",
+      "",
       "",
       "",
       "",
@@ -217,11 +240,11 @@
     "awayTeam": "Sutherland Sharks",
     "score": "1-1",
     "matchId": "5005420",
-    "status": "HT",
+    "status": "45'",
     "goals": [
       "",
       "",
-      "35' 1-0",
+      "35' 1-0<br>44' 1-1",
       "",
       "",
       "",
@@ -240,7 +263,7 @@
     "awayTeam": "Blacktown City",
     "score": "0-2",
     "matchId": "5005421",
-    "status": "HT",
+    "status": "48'",
     "goals": [
       "6' 0-1",
       "30' 0-2",
@@ -263,7 +286,7 @@
     "awayTeam": "George Cross(U23)",
     "score": "0-0",
     "matchId": "5034732",
-    "status": "23'",
+    "status": "38'",
     "goals": [
       "",
       "",

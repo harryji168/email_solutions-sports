@@ -56,7 +56,7 @@
     "awayTeam": "Gladesville Ravens Women\\s",
     "score": "0-1",
     "matchId": "5048526",
-    "status": "78'",
+    "status": "81'",
     "goals": [
       "",
       "",
@@ -79,7 +79,7 @@
     "awayTeam": "Garuda",
     "score": "1-0",
     "matchId": "5140033",
-    "status": "23'",
+    "status": "26'",
     "goals": [
       "",
       "",
@@ -102,7 +102,7 @@
     "awayTeam": "Hokkaido Tokachi",
     "score": "0-5",
     "matchId": "5141474",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "5' 0-1",
       "23' 0-2<br>26' 0-3",
@@ -111,7 +111,7 @@
       "",
       "",
       "",
-      "90' 0-4"
+      "90' 0-4<br>90' 0-5"
     ]
   },
   {
@@ -148,7 +148,7 @@
     "awayTeam": "Sydney Olympic Women\\s",
     "score": "0-3",
     "matchId": "5048527",
-    "status": "88'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -194,7 +194,7 @@
     "awayTeam": "Belmont Swansea United SC",
     "score": "3-1",
     "matchId": "5003124",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "9' William Eick (1-0)",
       "",
@@ -217,7 +217,7 @@
     "awayTeam": "North Pine",
     "score": "3-2",
     "matchId": "5047109",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "14' 0-1",
       "",
@@ -232,6 +232,52 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "23:05",
+    "start_time": "23:05",
+    "group": "AUS NTWPL",
+    "title": "Lake Macquarie City Women\\s 0-1 Maitland FC Women\\s",
+    "homeTeam": "Lake Macquarie City Women\\s",
+    "awayTeam": "Maitland FC Women\\s",
+    "score": "0-1",
+    "matchId": "5140091",
+    "status": "HT",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "22:31",
+    "start_time": "22:31",
+    "group": "AUS VLU23",
+    "title": "Heidelberg United(U23) 0-0 George Cross(U23)",
+    "homeTeam": "Heidelberg United(U23)",
+    "awayTeam": "George Cross(U23)",
+    "score": "0-0",
+    "matchId": "5034732",
+    "status": "70'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "23:31",
     "start_time": "23:31",
     "group": "AUS CGP",
@@ -240,7 +286,7 @@
     "awayTeam": "Monaro Panthers",
     "score": "0-0",
     "matchId": "5038279",
-    "status": "23'",
+    "status": "26'",
     "goals": [
       "",
       "",
@@ -286,7 +332,7 @@
     "awayTeam": "Sutherland Sharks",
     "score": "1-2",
     "matchId": "5005420",
-    "status": "90'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -303,59 +349,13 @@
     "day": "Saturday",
     "time": "22:31",
     "start_time": "22:31",
-    "group": "AUS VLU23",
-    "title": "Heidelberg United(U23) 0-0 George Cross(U23)",
-    "homeTeam": "Heidelberg United(U23)",
-    "awayTeam": "George Cross(U23)",
-    "score": "0-0",
-    "matchId": "5034732",
-    "status": "67'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
-    "time": "23:05",
-    "start_time": "23:05",
-    "group": "AUS NTWPL",
-    "title": "Lake Macquarie City Women\\s 0-1 Maitland FC Women\\s",
-    "homeTeam": "Lake Macquarie City Women\\s",
-    "awayTeam": "Maitland FC Women\\s",
-    "score": "0-1",
-    "matchId": "5140091",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
-    "time": "22:31",
-    "start_time": "22:31",
     "group": "AUS BCL1",
     "title": "Ipswich Knights FC 1-0 Yeronga Eagles",
     "homeTeam": "Ipswich Knights FC",
     "awayTeam": "Yeronga Eagles",
     "score": "1-0",
     "matchId": "5047107",
-    "status": "78'",
+    "status": "81'",
     "goals": [
       "",
       "",

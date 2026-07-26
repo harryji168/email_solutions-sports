@@ -209,6 +209,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "VEN D2",
+    "title": "Deportivo Lara 4-1 Atletico Barinas",
+    "homeTeam": "Deportivo Lara",
+    "awayTeam": "Atletico Barinas",
+    "score": "4-1",
+    "matchId": "5135555",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "18:02",
     "start_time": "18:02",
     "group": "MEX D2",
@@ -227,6 +250,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "CHI WD1",
+    "title": "Universidad Catolica Women\\s 5-0 Palestino Women\\s",
+    "homeTeam": "Universidad Catolica Women\\s",
+    "awayTeam": "Palestino Women\\s",
+    "score": "5-0",
+    "matchId": "5044356",
+    "status": "ET",
+    "goals": [
+      "",
+      "18' 1-0<br>25' 2-0",
+      "",
+      "",
+      "51' 3-0",
+      "73' 4-0",
+      "",
+      "90' 5-0"
     ]
   },
   {
@@ -388,29 +434,6 @@
       "",
       "81' Wilmer Cabrera (1-1)",
       "90+5' Jonas Fjeldberg (2-1)"
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "COL WL",
-    "title": "Atletico Junior Barranquilla Women\\s 0-0 Millonarios Women\\s",
-    "homeTeam": "Atletico Junior Barranquilla Women\\s",
-    "awayTeam": "Millonarios Women\\s",
-    "score": "0-0",
-    "matchId": "5043163",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -807,29 +830,6 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "VEN D2",
-    "title": "Deportivo Lara 4-1 Atletico Barinas",
-    "homeTeam": "Deportivo Lara",
-    "awayTeam": "Atletico Barinas",
-    "score": "4-1",
-    "matchId": "5135555",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
     "time": "16:56",
     "start_time": "16:56",
     "group": "MEX D2",
@@ -1037,29 +1037,6 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "CHI WD1",
-    "title": "Universidad Catolica Women\\s 5-0 Palestino Women\\s",
-    "homeTeam": "Universidad Catolica Women\\s",
-    "awayTeam": "Palestino Women\\s",
-    "score": "5-0",
-    "matchId": "5044356",
-    "status": "ET",
-    "goals": [
-      "",
-      "18' 1-0<br>25' 2-0",
-      "",
-      "",
-      "51' 3-0",
-      "73' 4-0",
-      "",
-      "90' 5-0"
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
     "time": "16:33",
     "start_time": "16:33",
     "group": "USA MLSRv",
@@ -1160,7 +1137,7 @@
     "awayTeam": "Monaro Panthers(U23)",
     "score": "0-0",
     "matchId": "5141301",
-    "status": "9'",
+    "status": "24'",
     "goals": [
       "",
       "",
@@ -1201,12 +1178,12 @@
     "time": "21:09",
     "start_time": "21:09",
     "group": "AUS VLU23",
-    "title": "Preston Lions(U23) 0-0 Bentleigh Greens(U23)",
+    "title": "Preston Lions(U23) 1-0 Bentleigh Greens(U23)",
     "homeTeam": "Preston Lions(U23)",
     "awayTeam": "Bentleigh Greens(U23)",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5034731",
-    "status": "0'",
+    "status": "15'",
     "goals": [
       "",
       "",
@@ -1252,15 +1229,38 @@
     "awayTeam": "Melbourne City",
     "score": "0-1",
     "matchId": "5083821",
-    "status": "9'",
+    "status": "24'",
     "goals": [
-      "6' 0-1",
+      "6' Lawrence Wong (0-1)",
       "",
       "",
       "",
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "16:40",
+    "start_time": "16:40",
+    "group": "USA MLS",
+    "title": "CF Montreal 0-1 Inter Miami CF",
+    "homeTeam": "CF Montreal",
+    "awayTeam": "Inter Miami CF",
+    "score": "0-1",
+    "matchId": "5003388",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "81' Luis Suarez (0-1)",
       ""
     ]
   },
@@ -1290,29 +1290,6 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
-    "time": "16:40",
-    "start_time": "16:40",
-    "group": "USA MLS",
-    "title": "CF Montreal 0-1 Inter Miami CF",
-    "homeTeam": "CF Montreal",
-    "awayTeam": "Inter Miami CF",
-    "score": "0-1",
-    "matchId": "5003388",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "81' Luis Suarez (0-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
     "time": "20:10",
     "start_time": "20:10",
     "group": "MEX D1",
@@ -1321,7 +1298,7 @@
     "awayTeam": "Atletico San Luis",
     "score": "1-1",
     "matchId": "5077247",
-    "status": "HT",
+    "status": "52'",
     "goals": [
       "11' Fernando Gorriaran Fontes (1-0)",
       "",
@@ -1367,7 +1344,7 @@
     "awayTeam": "Tottenham Hotspur F.C.",
     "score": "0-1",
     "matchId": "5137300",
-    "status": "51'",
+    "status": "66'",
     "goals": [
       "12' Dane Scarlett (0-1)",
       "",
@@ -1413,7 +1390,7 @@
     "awayTeam": "Westchester SC",
     "score": "0-0",
     "matchId": "5007403",
-    "status": "HT",
+    "status": "59'",
     "goals": [
       "",
       "",
@@ -1505,7 +1482,7 @@
     "awayTeam": "Nasinu FC",
     "score": "0-0",
     "matchId": "5037496",
-    "status": "53'",
+    "status": "68'",
     "goals": [
       "",
       "",
@@ -1551,7 +1528,7 @@
     "awayTeam": "Rewa FC",
     "score": "1-1",
     "matchId": "5037495",
-    "status": "53'",
+    "status": "68'",
     "goals": [
       "",
       "",
@@ -1592,18 +1569,18 @@
     "time": "20:00",
     "start_time": "20:00",
     "group": "FIJ D1",
-    "title": "Ba FC 2-0 Lautoka FC",
+    "title": "Ba FC 3-1 Lautoka FC",
     "homeTeam": "Ba FC",
     "awayTeam": "Lautoka FC",
-    "score": "2-0",
+    "score": "3-1",
     "matchId": "5037494",
-    "status": "53'",
+    "status": "68'",
     "goals": [
       "12' Etonia Dogalau (1-0)",
       "20' John Orobulu (2-0)",
       "",
       "",
-      "",
+      "46' Luciano Orzo (2-1)<br>50' John Orobulu (3-1)",
       "",
       "",
       ""
@@ -1638,12 +1615,35 @@
     "time": "20:03",
     "start_time": "20:03",
     "group": "AUS NSWU20",
-    "title": "Wollongong Wolves(U20) 0-1 Blacktown City(U20)",
+    "title": "Wollongong Wolves(U20) 0-2 Blacktown City(U20)",
     "homeTeam": "Wollongong Wolves(U20)",
     "awayTeam": "Blacktown City(U20)",
-    "score": "0-1",
+    "score": "0-2",
     "matchId": "5072491",
-    "status": "49'",
+    "status": "64'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "COL WL",
+    "title": "Atletico Junior Barranquilla Women\\s 0-0 Millonarios Women\\s",
+    "homeTeam": "Atletico Junior Barranquilla Women\\s",
+    "awayTeam": "Millonarios Women\\s",
+    "score": "0-0",
+    "matchId": "5043163",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1689,7 +1689,7 @@
     "awayTeam": "Sutherland Sharks(U20)",
     "score": "1-0",
     "matchId": "5072488",
-    "status": "56'",
+    "status": "71'",
     "goals": [
       "",
       "",
@@ -1735,7 +1735,7 @@
     "awayTeam": "Newcastle Olympic",
     "score": "1-0",
     "matchId": "5003123",
-    "status": "48'",
+    "status": "63'",
     "goals": [
       "",
       "18' 1-0",
@@ -1804,7 +1804,7 @@
     "awayTeam": "Broadmeadow Magic Women\\s",
     "score": "0-2",
     "matchId": "5140090",
-    "status": "51'",
+    "status": "66'",
     "goals": [
       "",
       "",
@@ -1850,7 +1850,7 @@
     "awayTeam": "Atlas",
     "score": "0-0",
     "matchId": "5077251",
-    "status": "HT",
+    "status": "55'",
     "goals": [
       "",
       "",
@@ -1896,7 +1896,7 @@
     "awayTeam": "Hartford Athletic",
     "score": "0-0",
     "matchId": "5006799",
-    "status": "71'",
+    "status": "86'",
     "goals": [
       "",
       "",
@@ -1965,7 +1965,7 @@
     "awayTeam": "Los Angeles Galaxy",
     "score": "1-1",
     "matchId": "5003401",
-    "status": "70'",
+    "status": "85'",
     "goals": [
       "13' Joseph Paintsil (0-1)",
       "",
@@ -2011,7 +2011,7 @@
     "awayTeam": "Real Salt Lake",
     "score": "2-1",
     "matchId": "5003400",
-    "status": "68'",
+    "status": "83'",
     "goals": [
       "",
       "18' Juan Manuel Sanabria (0-1)",
@@ -2019,6 +2019,29 @@
       "",
       "56' Felipe Andres Mora Aliaga (1-1)",
       "67' Felipe Andres Mora Aliaga (2-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "BRA D3",
+    "title": "Confianca (SE) 1-1 Itabaiana(SE)",
+    "homeTeam": "Confianca (SE)",
+    "awayTeam": "Itabaiana(SE)",
+    "score": "1-1",
+    "matchId": "5045950",
+    "status": "ET",
+    "goals": [
+      "3' Rodrigo Alves (0-1)",
+      "",
+      "",
+      "",
+      "49' Alisson (1-1)",
+      "",
       "",
       ""
     ]
@@ -2057,36 +2080,13 @@
     "awayTeam": "Sporting Kansas City",
     "score": "3-0",
     "matchId": "5003399",
-    "status": "68'",
+    "status": "83'",
     "goals": [
       "5' Son Heung Min (1-0)",
       "",
       "37' Denis Bouanga (2-0)",
       "45+4' David Martinez (3-0)",
       "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA D3",
-    "title": "Confianca (SE) 1-1 Itabaiana(SE)",
-    "homeTeam": "Confianca (SE)",
-    "awayTeam": "Itabaiana(SE)",
-    "score": "1-1",
-    "matchId": "5045950",
-    "status": "ET",
-    "goals": [
-      "3' Rodrigo Alves (0-1)",
-      "",
-      "",
-      "",
-      "49' Alisson (1-1)",
       "",
       "",
       ""
@@ -2233,29 +2233,6 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA D1",
-    "title": "Santos FC 2-2 Associacao Chapecoense de Futebol",
-    "homeTeam": "Santos FC",
-    "awayTeam": "Associacao Chapecoense de Futebol",
-    "score": "2-2",
-    "matchId": "5006235",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "36' Neymar da Silva Santos Junior (1-0)",
-      "",
-      "51' Marcio Antonio de Sousa Junior,Marcinho (1-1)",
-      "62' Joao Ananias (1-2)",
-      "89' Neymar da Silva Santos Junior (2-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
     "time": "15:40",
     "start_time": "15:40",
     "group": "USA MLS",
@@ -2279,6 +2256,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "BRA D1",
+    "title": "Santos FC 2-2 Associacao Chapecoense de Futebol",
+    "homeTeam": "Santos FC",
+    "awayTeam": "Associacao Chapecoense de Futebol",
+    "score": "2-2",
+    "matchId": "5006235",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "36' Neymar da Silva Santos Junior (1-0)",
+      "",
+      "51' Marcio Antonio de Sousa Junior,Marcinho (1-1)",
+      "62' Joao Ananias (1-2)",
+      "89' Neymar da Silva Santos Junior (2-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "19:00",
     "start_time": "19:00",
     "group": "CONCACAF U20",
@@ -2287,7 +2287,7 @@
     "awayTeam": "Haiti(U20)",
     "score": "3-0",
     "matchId": "5065650",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -2647,29 +2647,6 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
-    "time": "18:40",
-    "start_time": "18:40",
-    "group": "USA MLS",
-    "title": "San Diego FC 1-0 FC Dallas",
-    "homeTeam": "San Diego FC",
-    "awayTeam": "FC Dallas",
-    "score": "1-0",
-    "matchId": "5003398",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "50' Alejandro Alvarado Jr (1-0)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
     "time": "14:02",
     "start_time": "14:02",
     "group": "URU D1",
@@ -2685,6 +2662,29 @@
       "39' Nicolas Garayalde (0-2)",
       "45+2' Guillermo De los Santos (1-2)",
       "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "18:40",
+    "start_time": "18:40",
+    "group": "USA MLS",
+    "title": "San Diego FC 1-0 FC Dallas",
+    "homeTeam": "San Diego FC",
+    "awayTeam": "FC Dallas",
+    "score": "1-0",
+    "matchId": "5003398",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "50' Alejandro Alvarado Jr (1-0)",
       "",
       "",
       ""
@@ -2716,29 +2716,6 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
-    "time": "18:15",
-    "start_time": "18:15",
-    "group": "COL D1",
-    "title": "Deportes Tolima 2-1 Junior FC",
-    "homeTeam": "Deportes Tolima",
-    "awayTeam": "Junior FC",
-    "score": "2-1",
-    "matchId": "5072351",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "37' Jorge Cabezas (1-0)",
-      "45+1' Kelvin Florez (2-0)",
-      "",
-      "",
-      "79' Guillermo Paiva (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
     "time": "14:02",
     "start_time": "14:02",
     "group": "BRA CP",
@@ -2756,6 +2733,29 @@
       "52' Luis Fernando (0-2)",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "18:15",
+    "start_time": "18:15",
+    "group": "COL D1",
+    "title": "Deportes Tolima 2-1 Junior FC",
+    "homeTeam": "Deportes Tolima",
+    "awayTeam": "Junior FC",
+    "score": "2-1",
+    "matchId": "5072351",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "37' Jorge Cabezas (1-0)",
+      "45+1' Kelvin Florez (2-0)",
+      "",
+      "",
+      "79' Guillermo Paiva (2-1)",
       ""
     ]
   },

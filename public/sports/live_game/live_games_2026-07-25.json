@@ -56,30 +56,7 @@
     "awayTeam": "Gladesville Ravens Women\\s",
     "score": "0-1",
     "matchId": "5048526",
-    "status": "63'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
-    "time": "23:05",
-    "start_time": "23:05",
-    "group": "AUS NTWPL",
-    "title": "Lake Macquarie City Women\\s 0-0 Maitland FC Women\\s",
-    "homeTeam": "Lake Macquarie City Women\\s",
-    "awayTeam": "Maitland FC Women\\s",
-    "score": "0-0",
-    "matchId": "5140091",
-    "status": "34'",
+    "status": "78'",
     "goals": [
       "",
       "",
@@ -97,12 +74,12 @@
     "time": "23:31",
     "start_time": "23:31",
     "group": "AUS NTPL",
-    "title": "Palmerston Rovers 0-0 Garuda",
+    "title": "Palmerston Rovers 1-0 Garuda",
     "homeTeam": "Palmerston Rovers",
     "awayTeam": "Garuda",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5140033",
-    "status": "8'",
+    "status": "23'",
     "goals": [
       "",
       "",
@@ -120,12 +97,12 @@
     "time": "22:00",
     "start_time": "22:00",
     "group": "JPN RL",
-    "title": "Sabas FC 0-3 Hokkaido Tokachi",
+    "title": "Sabas FC 0-5 Hokkaido Tokachi",
     "homeTeam": "Sabas FC",
     "awayTeam": "Hokkaido Tokachi",
-    "score": "0-3",
+    "score": "0-5",
     "matchId": "5141474",
-    "status": "81'",
+    "status": "90+'",
     "goals": [
       "5' 0-1",
       "23' 0-2<br>26' 0-3",
@@ -134,7 +111,7 @@
       "",
       "",
       "",
-      ""
+      "90' 0-4"
     ]
   },
   {
@@ -148,10 +125,10 @@
     "awayTeam": "Blacktown City",
     "score": "0-2",
     "matchId": "5005421",
-    "status": "78'",
+    "status": "ET",
     "goals": [
       "6' Mitchell Mallia (0-1)",
-      "30' Alou Kuol (0-2)",
+      "30' A. Kuol (0-2)",
       "",
       "",
       "",
@@ -166,12 +143,12 @@
     "time": "22:07",
     "start_time": "22:07",
     "group": "AUS NSWW",
-    "title": "Macarthur Rams Women\\s 0-2 Sydney Olympic Women\\s",
+    "title": "Macarthur Rams Women\\s 0-3 Sydney Olympic Women\\s",
     "homeTeam": "Macarthur Rams Women\\s",
     "awayTeam": "Sydney Olympic Women\\s",
-    "score": "0-2",
+    "score": "0-3",
     "matchId": "5048527",
-    "status": "73'",
+    "status": "88'",
     "goals": [
       "",
       "",
@@ -217,7 +194,7 @@
     "awayTeam": "Belmont Swansea United SC",
     "score": "3-1",
     "matchId": "5003124",
-    "status": "79'",
+    "status": "90+'",
     "goals": [
       "9' William Eick (1-0)",
       "",
@@ -235,12 +212,12 @@
     "time": "22:07",
     "start_time": "22:07",
     "group": "AUS BCL1",
-    "title": "Logan Roos 0-2 North Pine",
+    "title": "Logan Roos 3-2 North Pine",
     "homeTeam": "Logan Roos",
     "awayTeam": "North Pine",
-    "score": "0-2",
+    "score": "3-2",
     "matchId": "5047109",
-    "status": "77'",
+    "status": "90+'",
     "goals": [
       "14' 0-1",
       "",
@@ -248,7 +225,7 @@
       "",
       "56' 0-2",
       "",
-      "",
+      "78' 1-2<br>84' 2-2",
       ""
     ]
   },
@@ -263,7 +240,7 @@
     "awayTeam": "Monaro Panthers",
     "score": "0-0",
     "matchId": "5038279",
-    "status": "8'",
+    "status": "23'",
     "goals": [
       "",
       "",
@@ -281,12 +258,12 @@
     "time": "22:01",
     "start_time": "22:01",
     "group": "AUS NSWSL",
-    "title": "Central Coast Mariners Academy 1-0 Bulls FC Academy",
+    "title": "Central Coast Mariners Academy 1-3 Bulls FC Academy",
     "homeTeam": "Central Coast Mariners Academy",
     "awayTeam": "Bulls FC Academy",
-    "score": "1-0",
+    "score": "1-3",
     "matchId": "5005677",
-    "status": "82'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -294,8 +271,8 @@
       "",
       "",
       "70' 1-0",
-      "",
-      ""
+      "88' 1-1",
+      "90' 1-2"
     ]
   },
   {
@@ -309,7 +286,7 @@
     "awayTeam": "Sutherland Sharks",
     "score": "1-2",
     "matchId": "5005420",
-    "status": "75'",
+    "status": "90'",
     "goals": [
       "",
       "",
@@ -332,7 +309,30 @@
     "awayTeam": "George Cross(U23)",
     "score": "0-0",
     "matchId": "5034732",
-    "status": "52'",
+    "status": "67'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "23:05",
+    "start_time": "23:05",
+    "group": "AUS NTWPL",
+    "title": "Lake Macquarie City Women\\s 0-1 Maitland FC Women\\s",
+    "homeTeam": "Lake Macquarie City Women\\s",
+    "awayTeam": "Maitland FC Women\\s",
+    "score": "0-1",
+    "matchId": "5140091",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -350,19 +350,19 @@
     "time": "22:31",
     "start_time": "22:31",
     "group": "AUS BCL1",
-    "title": "Ipswich Knights FC 0-0 Yeronga Eagles",
+    "title": "Ipswich Knights FC 1-0 Yeronga Eagles",
     "homeTeam": "Ipswich Knights FC",
     "awayTeam": "Yeronga Eagles",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5047107",
-    "status": "63'",
+    "status": "78'",
     "goals": [
       "",
       "",
       "",
       "",
       "",
-      "",
+      "73' 1-0",
       "",
       ""
     ]

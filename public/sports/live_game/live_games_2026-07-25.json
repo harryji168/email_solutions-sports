@@ -268,7 +268,7 @@
       "",
       "",
       "38' \u00c1ngel Robles (0-1)",
-      "45+4' Mart\u00edn Barrag\u00e1n (0-2)",
+      "45+4' Martin Barragan (0-2)",
       "56' Alonso Flores (1-2)<br>58' Ren\u00e9 L\u00f3pez Aburto (2-2)",
       "68' Ruben Del Campo (3-2)",
       "88' Alonso Flores (4-2)",
@@ -434,29 +434,6 @@
       "",
       "",
       "90+3' Nicholas Simmonds (2-2)"
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "VEN D2",
-    "title": "Deportivo Lara 4-1 Atletico Barinas",
-    "homeTeam": "Deportivo Lara",
-    "awayTeam": "Atletico Barinas",
-    "score": "4-1",
-    "matchId": "5135555",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -669,29 +646,6 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "CONCACAF U20",
-    "title": "Cuba(U20) 3-0 El Salvador(U20)",
-    "homeTeam": "Cuba(U20)",
-    "awayTeam": "El Salvador(U20)",
-    "score": "3-0",
-    "matchId": "5065649",
-    "status": "ET",
-    "goals": [
-      "",
-      "18' Didier Reinoso (1-0)",
-      "36' Alien Aguila (2-0)",
-      "",
-      "",
-      "",
-      "89' Itzel Colocho (3-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
     "time": "17:40",
     "start_time": "17:40",
     "group": "USA MLS",
@@ -761,6 +715,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "VEN D2",
+    "title": "Deportivo Lara 4-1 Atletico Barinas",
+    "homeTeam": "Deportivo Lara",
+    "awayTeam": "Atletico Barinas",
+    "score": "4-1",
+    "matchId": "5135555",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "NCA D1",
@@ -778,6 +755,29 @@
       "",
       "73' Nazareno G\u00f3mez (3-0)",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "CONCACAF U20",
+    "title": "Cuba(U20) 3-0 El Salvador(U20)",
+    "homeTeam": "Cuba(U20)",
+    "awayTeam": "El Salvador(U20)",
+    "score": "3-0",
+    "matchId": "5065649",
+    "status": "ET",
+    "goals": [
+      "",
+      "18' Didier Reinoso (1-0)",
+      "36' Alien Aguila (2-0)",
+      "",
+      "",
+      "",
+      "89' Itzel Colocho (3-0)",
       ""
     ]
   },
@@ -830,29 +830,6 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "COL WL",
-    "title": "Atletico Junior Barranquilla Women\\s 0-0 Millonarios Women\\s",
-    "homeTeam": "Atletico Junior Barranquilla Women\\s",
-    "awayTeam": "Millonarios Women\\s",
-    "score": "0-0",
-    "matchId": "5043163",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
     "time": "16:56",
     "start_time": "16:56",
     "group": "MEX D2",
@@ -876,6 +853,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "JPN RL",
+    "title": "Sabas FC 0-1 Hokkaido Tokachi",
+    "homeTeam": "Sabas FC",
+    "awayTeam": "Hokkaido Tokachi",
+    "score": "0-1",
+    "matchId": "5141474",
+    "status": "9'",
+    "goals": [
+      "5' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "COL D2",
@@ -892,6 +892,29 @@
       "",
       "58' Juan Pablo Gallego (4-1)",
       "72' Mauro Manotas (5-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "22:07",
+    "start_time": "22:07",
+    "group": "AUS NSWW",
+    "title": "Macarthur Rams Women\\s 0-0 Sydney Olympic Women\\s",
+    "homeTeam": "Macarthur Rams Women\\s",
+    "awayTeam": "Sydney Olympic Women\\s",
+    "score": "0-0",
+    "matchId": "5048527",
+    "status": "2'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -945,6 +968,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "22:01",
+    "start_time": "22:01",
+    "group": "AUS NSWSL",
+    "title": "Central Coast Mariners Academy 0-0 Bulls FC Academy",
+    "homeTeam": "Central Coast Mariners Academy",
+    "awayTeam": "Bulls FC Academy",
+    "score": "0-0",
+    "matchId": "5005677",
+    "status": "8'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "ECU D1",
@@ -968,6 +1014,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "22:06",
+    "start_time": "22:06",
+    "group": "AUS NSW",
+    "title": "Rockdale Ilinden FC 0-0 Sutherland Sharks",
+    "homeTeam": "Rockdale Ilinden FC",
+    "awayTeam": "Sutherland Sharks",
+    "score": "0-0",
+    "matchId": "5005420",
+    "status": "3'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "16:48",
     "start_time": "16:48",
     "group": "USLC",
@@ -981,6 +1050,29 @@
       "",
       "",
       "34' Cristian Agustin Parano Rasguido (0-1)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "22:05",
+    "start_time": "22:05",
+    "group": "AUS NSW",
+    "title": "Wollongong Wolves 0-0 Blacktown City",
+    "homeTeam": "Wollongong Wolves",
+    "awayTeam": "Blacktown City",
+    "score": "0-0",
+    "matchId": "5005421",
+    "status": "4'",
+    "goals": [
+      "",
+      "",
+      "",
       "",
       "",
       "",
@@ -1037,6 +1129,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "22:04",
+    "start_time": "22:04",
+    "group": "AUS NNSW",
+    "title": "Kahibah 0-0 Belmont Swansea United SC",
+    "homeTeam": "Kahibah",
+    "awayTeam": "Belmont Swansea United SC",
+    "score": "0-0",
+    "matchId": "5003124",
+    "status": "5'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "16:37",
     "start_time": "16:37",
     "group": "INT CF",
@@ -1054,6 +1169,29 @@
       "",
       "",
       "86' Sam Smith (3-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "22:07",
+    "start_time": "22:07",
+    "group": "AUS BCL1",
+    "title": "Logan Roos 0-0 North Pine",
+    "homeTeam": "Logan Roos",
+    "awayTeam": "North Pine",
+    "score": "0-0",
+    "matchId": "5047109",
+    "status": "2'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -1101,6 +1239,29 @@
       "",
       "78' Nahuel Roldan (0-2)",
       "90+3' Willie Hortencio Barbosa (1-2)"
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "21:55",
+    "start_time": "21:55",
+    "group": "AUS NSWW",
+    "title": "Bulls Academy Women\\s 0-1 Gladesville Ravens Women\\s",
+    "homeTeam": "Bulls Academy Women\\s",
+    "awayTeam": "Gladesville Ravens Women\\s",
+    "score": "0-1",
+    "matchId": "5048526",
+    "status": "14'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -1160,7 +1321,7 @@
     "awayTeam": "Monaro Panthers(U23)",
     "score": "0-1",
     "matchId": "5141301",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "",
       "",
@@ -1206,7 +1367,7 @@
     "awayTeam": "Bentleigh Greens(U23)",
     "score": "3-0",
     "matchId": "5034731",
-    "status": "45'",
+    "status": "HT",
     "goals": [
       "15' 1-0",
       "21' 2-0<br>30' 3-0",
@@ -1252,7 +1413,7 @@
     "awayTeam": "Melbourne City",
     "score": "0-1",
     "matchId": "5083821",
-    "status": "HT",
+    "status": "52'",
     "goals": [
       "6' Lawrence Wong (0-1)",
       "",
@@ -1262,29 +1423,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-07-25",
-    "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "CHI WD1",
-    "title": "Universidad Catolica Women\\s 5-0 Palestino Women\\s",
-    "homeTeam": "Universidad Catolica Women\\s",
-    "awayTeam": "Palestino Women\\s",
-    "score": "5-0",
-    "matchId": "5044356",
-    "status": "ET",
-    "goals": [
-      "",
-      "18' 1-0<br>25' 2-0",
-      "",
-      "",
-      "51' 3-0",
-      "73' 4-0",
-      "",
-      "90' 5-0"
     ]
   },
   {
@@ -1339,12 +1477,12 @@
     "time": "20:10",
     "start_time": "20:10",
     "group": "MEX D1",
-    "title": "Tigres UANL 2-1 Atletico San Luis",
+    "title": "Tigres UANL 2-2 Atletico San Luis",
     "homeTeam": "Tigres UANL",
     "awayTeam": "Atletico San Luis",
-    "score": "2-1",
+    "score": "2-2",
     "matchId": "5077247",
-    "status": "82'",
+    "status": "90+'",
     "goals": [
       "11' Fernando Gorriaran Fontes (1-0)",
       "",
@@ -1352,7 +1490,7 @@
       "",
       "53' Diego Alexander Sanchez Guevara (2-1)",
       "",
-      "",
+      "89' David Rodriguez (2-2)",
       ""
     ]
   },
@@ -1459,7 +1597,7 @@
     "awayTeam": "Westchester SC",
     "score": "0-0",
     "matchId": "5007403",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1523,12 +1661,12 @@
     "time": "20:00",
     "start_time": "20:00",
     "group": "FIJ D1",
-    "title": "Nadroga FC 0-0 Nasinu FC",
+    "title": "Nadroga FC 1-0 Nasinu FC",
     "homeTeam": "Nadroga FC",
     "awayTeam": "Nasinu FC",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5037496",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1574,7 +1712,7 @@
     "awayTeam": "Rewa FC",
     "score": "1-1",
     "matchId": "5037495",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1615,12 +1753,12 @@
     "time": "20:00",
     "start_time": "20:00",
     "group": "FIJ D1",
-    "title": "Ba FC 3-1 Lautoka FC",
+    "title": "Ba FC 4-1 Lautoka FC",
     "homeTeam": "Ba FC",
     "awayTeam": "Lautoka FC",
-    "score": "3-1",
+    "score": "4-1",
     "matchId": "5037494",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "12' Etonia Dogalau (1-0)",
       "20' John Orobulu (2-0)",
@@ -1758,7 +1896,7 @@
     "awayTeam": "Newcastle Olympic",
     "score": "2-0",
     "matchId": "5003123",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "18' Aaron Niyonkuru (1-0)",
@@ -1827,7 +1965,7 @@
     "awayTeam": "Broadmeadow Magic Women\\s",
     "score": "0-6",
     "matchId": "5140090",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1873,7 +2011,7 @@
     "awayTeam": "Atlas",
     "score": "0-1",
     "matchId": "5077251",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -2233,6 +2371,29 @@
   {
     "date": "2026-07-25",
     "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "CHI WD1",
+    "title": "Universidad Catolica Women\\s 5-0 Palestino Women\\s",
+    "homeTeam": "Universidad Catolica Women\\s",
+    "awayTeam": "Palestino Women\\s",
+    "score": "5-0",
+    "matchId": "5044356",
+    "status": "ET",
+    "goals": [
+      "",
+      "18' 1-0<br>25' 2-0",
+      "",
+      "",
+      "51' 3-0",
+      "73' 4-0",
+      "",
+      "90' 5-0"
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "PAR WD1",
@@ -2319,6 +2480,29 @@
       "",
       "62' Ruben Ramos (2-0)",
       "89' Santiago Morales (3-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-25",
+    "day": "Saturday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "COL WL",
+    "title": "Atletico Junior Barranquilla Women\\s 0-0 Millonarios Women\\s",
+    "homeTeam": "Atletico Junior Barranquilla Women\\s",
+    "awayTeam": "Millonarios Women\\s",
+    "score": "0-0",
+    "matchId": "5043163",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },

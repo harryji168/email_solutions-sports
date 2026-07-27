@@ -255,6 +255,29 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "China U21",
+    "title": "Zhejiang Professional FC(U21) 4-0 Guangdong GZ-Power(U21)",
+    "homeTeam": "Zhejiang Professional FC(U21)",
+    "awayTeam": "Guangdong GZ-Power(U21)",
+    "score": "4-0",
+    "matchId": "5142354",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' 1-0<br>43' 2-0",
+      "",
+      "",
+      "62' 3-0",
+      "84' 4-0",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
     "time": "08:00",
     "start_time": "08:00",
     "group": "SVK D2",
@@ -326,22 +349,22 @@
     "day": "Monday",
     "time": "08:00",
     "start_time": "08:00",
-    "group": "UZB PFL",
-    "title": "FC AGMK 2-1 Mashal Muborak",
-    "homeTeam": "FC AGMK",
-    "awayTeam": "Mashal Muborak",
-    "score": "2-1",
-    "matchId": "5031914",
+    "group": "ARG WD1",
+    "title": "Ferro Carril Oeste Women\\s 1-0 Talleres Cordoba Women\\s",
+    "homeTeam": "Ferro Carril Oeste Women\\s",
+    "awayTeam": "Talleres Cordoba Women\\s",
+    "score": "1-0",
+    "matchId": "5140308",
     "status": "ET",
     "goals": [
-      "",
-      "21' Ergash Ismoilov (0-1)",
-      "32' Asad Sobirzhonov (1-1)",
+      "7' Sarah Mirr (1-0)",
       "",
       "",
       "",
       "",
-      "90+2' Abror Karimov (2-1)"
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -373,6 +396,29 @@
     "time": "08:00",
     "start_time": "08:00",
     "group": "UZB PFL",
+    "title": "FC AGMK 2-1 Mashal Muborak",
+    "homeTeam": "FC AGMK",
+    "awayTeam": "Mashal Muborak",
+    "score": "2-1",
+    "matchId": "5031914",
+    "status": "ET",
+    "goals": [
+      "",
+      "21' Ergash Ismoilov (0-1)",
+      "32' Asad Sobirzhonov (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "90+2' Abror Karimov (2-1)"
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "08:00",
+    "start_time": "08:00",
+    "group": "UZB PFL",
     "title": "Lokomotiv Tashkent 3-1 Sogdiana Jizzakh",
     "homeTeam": "Lokomotiv Tashkent",
     "awayTeam": "Sogdiana Jizzakh",
@@ -388,29 +434,6 @@
       "66' Temurkhuja Abdukholikov (2-0)",
       "",
       "90+3' Kuvonch Abraev (3-0)<br>90+6' D. Zajmovi\u0107 (3-1)"
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
-    "time": "08:00",
-    "start_time": "08:00",
-    "group": "UZB PFL",
-    "title": "FK Andijan 2-0 FC Buxoro",
-    "homeTeam": "FK Andijan",
-    "awayTeam": "FC Buxoro",
-    "score": "2-0",
-    "matchId": "5031908",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "53' Odil Abdumazhidov (1-0)",
-      "",
-      "",
-      "90' Hamidullo Karimov (2-0)"
     ]
   },
   {
@@ -433,6 +456,29 @@
       "",
       "69' 1-1",
       "83' 1-2",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "INT CF",
+    "title": "Mamelodi Sundowns 1-1 MC Alger",
+    "homeTeam": "Mamelodi Sundowns",
+    "awayTeam": "MC Alger",
+    "score": "1-1",
+    "matchId": "5142481",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "56' Z. Ferhat (0-1)",
+      "74' 1-1",
+      "",
       ""
     ]
   },
@@ -470,7 +516,7 @@
     "awayTeam": "Thor Akureyri",
     "score": "0-0",
     "matchId": "5024326",
-    "status": "33'",
+    "status": "42'",
     "goals": [
       "",
       "",
@@ -577,17 +623,17 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "08:00",
-    "start_time": "08:00",
-    "group": "ARG WD1",
-    "title": "Ferro Carril Oeste Women\\s 1-0 Talleres Cordoba Women\\s",
-    "homeTeam": "Ferro Carril Oeste Women\\s",
-    "awayTeam": "Talleres Cordoba Women\\s",
-    "score": "1-0",
-    "matchId": "5140308",
+    "time": "09:01",
+    "start_time": "09:01",
+    "group": "LAT D1",
+    "title": "FK Tukums 2000 0-1 Rigas Futbola Skola",
+    "homeTeam": "FK Tukums 2000",
+    "awayTeam": "Rigas Futbola Skola",
+    "score": "0-1",
+    "matchId": "5032400",
     "status": "ET",
     "goals": [
-      "7' Sarah Mirr (1-0)",
+      "8' Darko Lemajic (0-1)",
       "",
       "",
       "",
@@ -677,7 +723,7 @@
     "awayTeam": "FC Rapid 1923",
     "score": "0-1",
     "matchId": "5093327",
-    "status": "60'",
+    "status": "69'",
     "goals": [
       "",
       "",
@@ -692,24 +738,24 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "09:01",
-    "start_time": "09:01",
-    "group": "LAT D1",
-    "title": "FK Tukums 2000 0-1 Rigas Futbola Skola",
-    "homeTeam": "FK Tukums 2000",
-    "awayTeam": "Rigas Futbola Skola",
-    "score": "0-1",
-    "matchId": "5032400",
+    "time": "08:00",
+    "start_time": "08:00",
+    "group": "UZB PFL",
+    "title": "FK Andijan 2-0 FC Buxoro",
+    "homeTeam": "FK Andijan",
+    "awayTeam": "FC Buxoro",
+    "score": "2-0",
+    "matchId": "5031908",
     "status": "ET",
     "goals": [
-      "8' Darko Lemajic (0-1)",
       "",
       "",
       "",
       "",
+      "53' Odil Abdumazhidov (1-0)",
       "",
       "",
-      ""
+      "90' Hamidullo Karimov (2-0)"
     ]
   },
   {
@@ -723,7 +769,7 @@
     "awayTeam": "Botev Plovdiv",
     "score": "1-1",
     "matchId": "5074013",
-    "status": "77'",
+    "status": "86'",
     "goals": [
       "",
       "",
@@ -738,38 +784,15 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "INT CF",
-    "title": "Mamelodi Sundowns 1-1 MC Alger",
-    "homeTeam": "Mamelodi Sundowns",
-    "awayTeam": "MC Alger",
-    "score": "1-1",
-    "matchId": "5142481",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "56' Z. Ferhat (0-1)",
-      "74' 1-1",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "INT CF",
-    "title": "Galatasaray S.K. 0-2 Venezia FC",
+    "title": "Galatasaray S.K. 0-3 Venezia FC",
     "homeTeam": "Galatasaray S.K.",
     "awayTeam": "Venezia FC",
-    "score": "0-2",
+    "score": "0-3",
     "matchId": "5137689",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -778,7 +801,7 @@
       "",
       "71' John Yeboah (0-1)<br>75' Lion Lauberbach (0-2)",
       "",
-      ""
+      "90+2' 0-3"
     ]
   },
   {
@@ -815,7 +838,7 @@
     "awayTeam": "Central Espanol Reserve",
     "score": "2-0",
     "matchId": "5142517",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -838,7 +861,7 @@
     "awayTeam": "Colon FC Reserves",
     "score": "7-1",
     "matchId": "5142514",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -902,12 +925,12 @@
     "time": "11:02",
     "start_time": "11:02",
     "group": "URU RL",
-    "title": "Deportivo Maldonado Reserve 3-0 CA Progreso Reserve",
+    "title": "Deportivo Maldonado Reserve 4-0 CA Progreso Reserve",
     "homeTeam": "Deportivo Maldonado Reserve",
     "awayTeam": "CA Progreso Reserve",
-    "score": "3-0",
+    "score": "4-0",
     "matchId": "5142513",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -930,7 +953,7 @@
     "awayTeam": "CA Penarol Reserve",
     "score": "1-1",
     "matchId": "5142512",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -976,7 +999,7 @@
     "awayTeam": "Leandro N Alem",
     "score": "1-1",
     "matchId": "5015143",
-    "status": "82'",
+    "status": "90+'",
     "goals": [
       "8' Iv\u00e1n Gauna (0-1)",
       "",
@@ -1022,7 +1045,7 @@
     "awayTeam": "Yupanqui",
     "score": "1-1",
     "matchId": "5015134",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1040,12 +1063,12 @@
     "time": "11:02",
     "start_time": "11:02",
     "group": "ARG WD1",
-    "title": "Boca Juniors Women\\s 1-1 San Lorenzo Women\\s",
+    "title": "Boca Juniors Women\\s 1-2 San Lorenzo Women\\s",
     "homeTeam": "Boca Juniors Women\\s",
     "awayTeam": "San Lorenzo Women\\s",
-    "score": "1-1",
+    "score": "1-2",
     "matchId": "5140309",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "4' Yuria Sasaki (1-0)<br>9' Emily Arias (1-1)",
       "",
@@ -1063,12 +1086,12 @@
     "time": "11:06",
     "start_time": "11:06",
     "group": "ARG WD1",
-    "title": "Union de Santa Fe Women\\s 1-0 Gimnasia La Plata Women\\s",
+    "title": "Union de Santa Fe Women\\s 2-0 Gimnasia La Plata Women\\s",
     "homeTeam": "Union de Santa Fe Women\\s",
     "awayTeam": "Gimnasia La Plata Women\\s",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5140311",
-    "status": "84'",
+    "status": "90+'",
     "goals": [
       "",
       "21' Emilse Albornos (1-0)",
@@ -1076,7 +1099,7 @@
       "",
       "",
       "",
-      "",
+      "84' 2-0",
       ""
     ]
   },
@@ -1086,12 +1109,12 @@
     "time": "11:10",
     "start_time": "11:10",
     "group": "ARG WD1",
-    "title": "San Luis FC Women\\s 4-0 Newell\\s Old Boys Women\\s",
+    "title": "San Luis FC Women\\s 4-1 Newell\\s Old Boys Women\\s",
     "homeTeam": "San Luis FC Women\\s",
     "awayTeam": "Newell\\s Old Boys Women\\s",
-    "score": "4-0",
+    "score": "4-1",
     "matchId": "5140310",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1137,7 +1160,7 @@
     "awayTeam": "Velez Sarsfield Reserve",
     "score": "1-0",
     "matchId": "5106634",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1160,7 +1183,7 @@
     "awayTeam": "Burkina Faso(U20)",
     "score": "1-3",
     "matchId": "5140123",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "2' 0-1<br>14' 1-1",
       "",
@@ -1183,7 +1206,7 @@
     "awayTeam": "Guairena FC",
     "score": "1-1",
     "matchId": "5135540",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "14' Cristhian B\u00e1ez (0-1)",
       "",
@@ -1206,7 +1229,7 @@
     "awayTeam": "IBV Vestmannaeyjar",
     "score": "1-0",
     "matchId": "5024323",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1330,29 +1353,6 @@
       "",
       "75' 1-3",
       "77' Hassan Al Ali (1-4)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "China U21",
-    "title": "Zhejiang Professional FC(U21) 4-0 Guangdong GZ-Power(U21)",
-    "homeTeam": "Zhejiang Professional FC(U21)",
-    "awayTeam": "Guangdong GZ-Power(U21)",
-    "score": "4-0",
-    "matchId": "5142354",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' 1-0<br>43' 2-0",
-      "",
-      "",
-      "62' 3-0",
-      "84' 4-0",
       ""
     ]
   },
@@ -1773,6 +1773,29 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "Suruchi Sangha 3-0 ASOS Rainbow Athletic Club",
+    "homeTeam": "Suruchi Sangha",
+    "awayTeam": "ASOS Rainbow Athletic Club",
+    "score": "3-0",
+    "matchId": "5142705",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "58' 1-0",
+      "75' 2-0",
+      "79' 3-0",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
     "time": "02:00",
     "start_time": "02:00",
     "group": "INT CF",
@@ -1882,29 +1905,6 @@
       "",
       "",
       "77' Amin Chiakha (3-0)<br>88' Iver Fossum (4-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "Suruchi Sangha 3-0 ASOS Rainbow Athletic Club",
-    "homeTeam": "Suruchi Sangha",
-    "awayTeam": "ASOS Rainbow Athletic Club",
-    "score": "3-0",
-    "matchId": "5142705",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "58' 1-0",
-      "75' 2-0",
-      "79' 3-0",
       ""
     ]
   },

@@ -10,7 +10,7 @@
     "awayTeam": "Silkeborg IF",
     "score": "1-1",
     "matchId": "5075306",
-    "status": "HT",
+    "status": "57'",
     "goals": [
       "10' Mike Themsen (1-0)",
       "",
@@ -65,7 +65,7 @@
       "48' Martin Alvsaker (2-1)<br>52' Andreas Brakedal Eide (3-1)<br>55' Sverre Stav\u00f8 (3-2)",
       "62' Sixten Dalen Jensen (4-2)",
       "77' Bj\u00f8rnar Aaland Eggum (4-3)",
-      ""
+      "90+6' Viljar Stav\u00f8 (4-4)"
     ]
   },
   {
@@ -133,7 +133,7 @@
       "45+1' Mamadou Traor\u00e9 (3-0)",
       "",
       "",
-      "",
+      "87' 3-1",
       ""
     ]
   },
@@ -179,7 +179,7 @@
       "",
       "",
       "65' Milan Corryn (1-2)",
-      "",
+      "89' Milan Corryn (2-2)",
       ""
     ]
   },
@@ -278,6 +278,29 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "INT CF",
+    "title": "Mamelodi Sundowns 1-1 MC Alger",
+    "homeTeam": "Mamelodi Sundowns",
+    "awayTeam": "MC Alger",
+    "score": "1-1",
+    "matchId": "5142481",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "56' Z. Ferhat (0-1)",
+      "74' 1-1",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
     "time": "09:00",
     "start_time": "09:00",
     "group": "BUL D1",
@@ -293,29 +316,6 @@
       "",
       "",
       "47' Rwan Seco (0-2)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
-    "time": "04:30",
-    "start_time": "04:30",
-    "group": "PAR RL",
-    "title": "Club Guarani Reserve 0-0 Sportivo Luqueno Reserve",
-    "homeTeam": "Club Guarani Reserve",
-    "awayTeam": "Sportivo Luqueno Reserve",
-    "score": "0-0",
-    "matchId": "5142479",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       ""
@@ -761,29 +761,6 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "INT CF",
-    "title": "Mamelodi Sundowns 1-1 MC Alger",
-    "homeTeam": "Mamelodi Sundowns",
-    "awayTeam": "MC Alger",
-    "score": "1-1",
-    "matchId": "5142481",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "56' Z. Ferhat (0-1)",
-      "74' 1-1",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
     "time": "05:30",
     "start_time": "05:30",
     "group": "GEO Cup",
@@ -801,6 +778,29 @@
       "49' Aleksandre Peikrishvili (0-1)",
       "",
       "86' Giorgi Baghishvili (1-1)<br>88' Guram Goshteliani (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:00",
+    "start_time": "11:00",
+    "group": "INT CF",
+    "title": "Galatasaray S.K. 0-0 Venezia FC",
+    "homeTeam": "Galatasaray S.K.",
+    "awayTeam": "Venezia FC",
+    "score": "0-0",
+    "matchId": "5137689",
+    "status": "13'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -830,6 +830,98 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
+    "time": "11:00",
+    "start_time": "11:00",
+    "group": "URU RL",
+    "title": "CA Juventud de Las Piedras Reserve 0-0 Central Espanol Reserve",
+    "homeTeam": "CA Juventud de Las Piedras Reserve",
+    "awayTeam": "Central Espanol Reserve",
+    "score": "0-0",
+    "matchId": "5142517",
+    "status": "13'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:02",
+    "start_time": "11:02",
+    "group": "URU RL",
+    "title": "Nacional Montevideo Reserve 1-0 Colon FC Reserves",
+    "homeTeam": "Nacional Montevideo Reserve",
+    "awayTeam": "Colon FC Reserves",
+    "score": "1-0",
+    "matchId": "5142514",
+    "status": "11'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:02",
+    "start_time": "11:02",
+    "group": "URU RL",
+    "title": "Deportivo Maldonado Reserve 0-0 CA Progreso Reserve",
+    "homeTeam": "Deportivo Maldonado Reserve",
+    "awayTeam": "CA Progreso Reserve",
+    "score": "0-0",
+    "matchId": "5142513",
+    "status": "11'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:03",
+    "start_time": "11:03",
+    "group": "URU RL",
+    "title": "CA River Plate Reserve 1-0 CA Penarol Reserve",
+    "homeTeam": "CA River Plate Reserve",
+    "awayTeam": "CA Penarol Reserve",
+    "score": "1-0",
+    "matchId": "5142512",
+    "status": "10'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
     "time": "03:30",
     "start_time": "03:30",
     "group": "CHA D2",
@@ -853,6 +945,121 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
+    "time": "11:06",
+    "start_time": "11:06",
+    "group": "ARG D2M2",
+    "title": "Sacachispas 0-0 Leandro N Alem",
+    "homeTeam": "Sacachispas",
+    "awayTeam": "Leandro N Alem",
+    "score": "0-0",
+    "matchId": "5015143",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:02",
+    "start_time": "11:02",
+    "group": "ARG D2M2",
+    "title": "CA Fenix Pilar 0-0 Yupanqui",
+    "homeTeam": "CA Fenix Pilar",
+    "awayTeam": "Yupanqui",
+    "score": "0-0",
+    "matchId": "5015134",
+    "status": "11'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:02",
+    "start_time": "11:02",
+    "group": "ARG WD1",
+    "title": "Boca Juniors Women\\s 1-1 San Lorenzo Women\\s",
+    "homeTeam": "Boca Juniors Women\\s",
+    "awayTeam": "San Lorenzo Women\\s",
+    "score": "1-1",
+    "matchId": "5140309",
+    "status": "11'",
+    "goals": [
+      "4' 1-0",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:06",
+    "start_time": "11:06",
+    "group": "ARG WD1",
+    "title": "Union de Santa Fe Women\\s 0-0 Gimnasia La Plata Women\\s",
+    "homeTeam": "Union de Santa Fe Women\\s",
+    "awayTeam": "Gimnasia La Plata Women\\s",
+    "score": "0-0",
+    "matchId": "5140311",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:10",
+    "start_time": "11:10",
+    "group": "ARG WD1",
+    "title": "San Luis FC Women\\s 0-0 Newell\\s Old Boys Women\\s",
+    "homeTeam": "San Luis FC Women\\s",
+    "awayTeam": "Newell\\s Old Boys Women\\s",
+    "score": "0-0",
+    "matchId": "5140310",
+    "status": "3'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
     "time": "06:00",
     "start_time": "06:00",
     "group": "URU RL",
@@ -870,6 +1077,75 @@
       "",
       "67' 5-0<br>71' 6-0",
       "84' 6-1",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:01",
+    "start_time": "11:01",
+    "group": "ARG RL",
+    "title": "CA Banfield Reserve 1-0 Velez Sarsfield Reserve",
+    "homeTeam": "CA Banfield Reserve",
+    "awayTeam": "Velez Sarsfield Reserve",
+    "score": "1-0",
+    "matchId": "5106634",
+    "status": "12'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:00",
+    "start_time": "11:00",
+    "group": "CAF YCQ",
+    "title": "Togo(U20) 0-1 Burkina Faso(U20)",
+    "homeTeam": "Togo(U20)",
+    "awayTeam": "Burkina Faso(U20)",
+    "score": "0-1",
+    "matchId": "5140123",
+    "status": "13'",
+    "goals": [
+      "2' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "11:00",
+    "start_time": "11:00",
+    "group": "PAR D2",
+    "title": "Benjamin Aceval 0-0 Guairena FC",
+    "homeTeam": "Benjamin Aceval",
+    "awayTeam": "Guairena FC",
+    "score": "0-0",
+    "matchId": "5135540",
+    "status": "13'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -899,6 +1175,52 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
+    "time": "11:00",
+    "start_time": "11:00",
+    "group": "ICE PR",
+    "title": "Breidablik 0-0 IBV Vestmannaeyjar",
+    "homeTeam": "Breidablik",
+    "awayTeam": "IBV Vestmannaeyjar",
+    "score": "0-0",
+    "matchId": "5024323",
+    "status": "11'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "04:30",
+    "start_time": "04:30",
+    "group": "PAR RL",
+    "title": "Club Guarani Reserve 0-0 Sportivo Luqueno Reserve",
+    "homeTeam": "Club Guarani Reserve",
+    "awayTeam": "Sportivo Luqueno Reserve",
+    "score": "0-0",
+    "matchId": "5142479",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
     "time": "10:30",
     "start_time": "10:30",
     "group": "HUN D1",
@@ -907,7 +1229,7 @@
     "awayTeam": "Zalaegerszegi TE",
     "score": "1-0",
     "matchId": "5084461",
-    "status": "28'",
+    "status": "43'",
     "goals": [
       "12' Kerezsi Zalan Mark (1-0)",
       "",
@@ -930,7 +1252,7 @@
     "awayTeam": "Varbergs BoIS FC",
     "score": "0-0",
     "matchId": "5012522",
-    "status": "HT",
+    "status": "51'",
     "goals": [
       "",
       "",
@@ -953,7 +1275,7 @@
     "awayTeam": "Neom Sports Club",
     "score": "0-3",
     "matchId": "5137675",
-    "status": "45+'",
+    "status": "52'",
     "goals": [
       "",
       "20' Malang Sarr (0-1)<br>27' Ahmed Al-Anzi (0-2)",
@@ -976,7 +1298,7 @@
     "awayTeam": "Orn-Horten",
     "score": "2-2",
     "matchId": "5011208",
-    "status": "HT",
+    "status": "55'",
     "goals": [
       "",
       "22' Bop Gueye (1-0)<br>24' Camil Mmaee (2-0)",
@@ -999,7 +1321,7 @@
     "awayTeam": "Oppsal",
     "score": "0-1",
     "matchId": "5011206",
-    "status": "HT",
+    "status": "55'",
     "goals": [
       "1' Fredrik Finn\u00f8y (0-1)",
       "",
@@ -1045,7 +1367,7 @@
     "awayTeam": "Skedsmo FK",
     "score": "1-2",
     "matchId": "5011859",
-    "status": "HT",
+    "status": "57'",
     "goals": [
       "2' Fredrik Tunh\u00f8vd B\u00f8sterud (1-0)",
       "21' Elliot Berbu Engebretsen (1-1)",
@@ -1068,7 +1390,7 @@
     "awayTeam": "Varhaug",
     "score": "1-0",
     "matchId": "5011973",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "",
       "19' Nikolai Tendal (1-0)",
@@ -1091,7 +1413,7 @@
     "awayTeam": "Asker Fotball",
     "score": "0-1",
     "matchId": "5011470",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "",
       "",
@@ -1114,7 +1436,7 @@
     "awayTeam": "Frigg FK",
     "score": "0-1",
     "matchId": "5011466",
-    "status": "HT",
+    "status": "50'",
     "goals": [
       "",
       "",
@@ -1132,12 +1454,12 @@
     "time": "10:00",
     "start_time": "10:00",
     "group": "NOR D3A",
-    "title": "Lokomotiv Oslo 1-0 KFUM Oslo B",
+    "title": "Lokomotiv Oslo 2-0 KFUM Oslo B",
     "homeTeam": "Lokomotiv Oslo",
     "awayTeam": "KFUM Oslo B",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5011464",
-    "status": "HT",
+    "status": "53'",
     "goals": [
       "",
       "23' Mads Engh Johannessen (1-0)",
@@ -1206,7 +1528,7 @@
     "awayTeam": "Malmo Women\\s",
     "score": "1-0",
     "matchId": "5008317",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "",
       "20' E. Petrovi\u0107 (1-0)",
@@ -1229,12 +1551,35 @@
     "awayTeam": "Tanzania Women\\s",
     "score": "1-1",
     "matchId": "5025496",
-    "status": "HT",
+    "status": "51'",
     "goals": [
       "",
       "",
       "38' Diana Msewa (0-1)",
       "45+2' Bambanani Mbane (1-1)",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "AUS VD1",
+    "title": "Melbourne Victory FC Am 1-0 North Sunshine Eagles",
+    "homeTeam": "Melbourne Victory FC Am",
+    "awayTeam": "North Sunshine Eagles",
+    "score": "1-0",
+    "matchId": "5009393",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "38' 1-0",
+      "",
       "",
       "",
       "",
@@ -1252,7 +1597,7 @@
     "awayTeam": "Rotor Volgograd",
     "score": "0-1",
     "matchId": "5106127",
-    "status": "HT",
+    "status": "50'",
     "goals": [
       "11' A. Eldarushev (0-1)",
       "",
@@ -1321,34 +1666,11 @@
     "awayTeam": "Podbeskidzie",
     "score": "0-1",
     "matchId": "5082200",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "",
       "",
       "34' Marcin Urynowicz (0-1)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "AUS VD1",
-    "title": "Melbourne Victory FC Am 1-0 North Sunshine Eagles",
-    "homeTeam": "Melbourne Victory FC Am",
-    "awayTeam": "North Sunshine Eagles",
-    "score": "1-0",
-    "matchId": "5009393",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "38' 1-0",
       "",
       "",
       "",
@@ -1367,7 +1689,7 @@
     "awayTeam": "IK Oddevold",
     "score": "0-0",
     "matchId": "5012521",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "",
       "",
@@ -1436,7 +1758,7 @@
     "awayTeam": "Jonkopings Sodra IF",
     "score": "1-0",
     "matchId": "5068401",
-    "status": "HT",
+    "status": "53'",
     "goals": [
       "",
       "",
@@ -1459,7 +1781,7 @@
     "awayTeam": "IL Hodd",
     "score": "3-0",
     "matchId": "5009966",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "",
       "19' Gottfrid Rapp (1-0)<br>28' William Wendt (2-0)",
@@ -1482,7 +1804,7 @@
     "awayTeam": "Piast Gliwice",
     "score": "0-0",
     "matchId": "5073998",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "",
       "",
@@ -1505,7 +1827,7 @@
     "awayTeam": "AIK Solna",
     "score": "0-0",
     "matchId": "5008654",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "",
       "",
@@ -1528,7 +1850,7 @@
     "awayTeam": "Fredrikstad",
     "score": "2-0",
     "matchId": "5009776",
-    "status": "HT",
+    "status": "54'",
     "goals": [
       "10' Adrian Nilsen Pereira (1-0)<br>13' Emil Konradsen Ceide (2-0)",
       "",

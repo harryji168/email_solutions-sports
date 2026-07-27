@@ -117,29 +117,6 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "China U21",
-    "title": "Zhejiang Professional FC(U21) 4-0 Guangdong GZ-Power(U21)",
-    "homeTeam": "Zhejiang Professional FC(U21)",
-    "awayTeam": "Guangdong GZ-Power(U21)",
-    "score": "4-0",
-    "matchId": "5142354",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' 1-0<br>43' 2-0",
-      "",
-      "",
-      "62' 3-0",
-      "84' 4-0",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
     "time": "08:30",
     "start_time": "08:30",
     "group": "INT CF",
@@ -416,24 +393,47 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "07:00",
-    "start_time": "07:00",
-    "group": "INT CF",
-    "title": "Al Khor SC 1-2 Al Fujairah",
-    "homeTeam": "Al Khor SC",
-    "awayTeam": "Al Fujairah",
-    "score": "1-2",
-    "matchId": "5142695",
+    "time": "13:30",
+    "start_time": "13:30",
+    "group": "COL D2",
+    "title": "Envigado F.C. 0-0 Real Cundinamarca",
+    "homeTeam": "Envigado F.C.",
+    "awayTeam": "Real Cundinamarca",
+    "score": "0-0",
+    "matchId": "5072213",
+    "status": "13'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "08:00",
+    "start_time": "08:00",
+    "group": "UZB PFL",
+    "title": "FK Andijan 2-0 FC Buxoro",
+    "homeTeam": "FK Andijan",
+    "awayTeam": "FC Buxoro",
+    "score": "2-0",
+    "matchId": "5031908",
     "status": "ET",
     "goals": [
       "",
-      "17' 0-1",
       "",
       "",
       "",
-      "69' 1-1",
-      "83' 1-2",
-      ""
+      "53' Odil Abdumazhidov (1-0)",
+      "",
+      "",
+      "90' Hamidullo Karimov (2-0)"
     ]
   },
   {
@@ -447,10 +447,10 @@
     "awayTeam": "Burkina Faso Women\\s",
     "score": "3-0",
     "matchId": "5025494",
-    "status": "28'",
+    "status": "43'",
     "goals": [
-      "7' Rebecca Elloh (1-0)<br>14' 2-0",
-      "23' 3-0",
+      "7' Rebecca Elloh (1-0)<br>14' Ines Konan (2-0)",
+      "23' Ines Konan (3-0)",
       "",
       "",
       "",
@@ -493,7 +493,7 @@
     "awayTeam": "Thor Akureyri",
     "score": "0-0",
     "matchId": "5024326",
-    "status": "53'",
+    "status": "68'",
     "goals": [
       "",
       "",
@@ -539,14 +539,14 @@
     "awayTeam": "Fortaleza CEIF Women\\s",
     "score": "1-0",
     "matchId": "5043161",
-    "status": "70'",
+    "status": "85'",
     "goals": [
       "",
       "",
       "",
       "",
       "",
-      "69' 1-0",
+      "69' Paula Valbuena (1-0)",
       "",
       ""
     ]
@@ -580,12 +580,12 @@
     "time": "12:00",
     "start_time": "12:00",
     "group": "ECU D1",
-    "title": "Mushuc Runa 0-0 Libertad F.C.",
+    "title": "Mushuc Runa 0-1 Libertad F.C.",
     "homeTeam": "Mushuc Runa",
     "awayTeam": "Libertad F.C.",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5035275",
-    "status": "70'",
+    "status": "85'",
     "goals": [
       "",
       "",
@@ -593,30 +593,30 @@
       "",
       "",
       "",
-      "",
+      "84' Xavier Edu Pineda Arana (0-1)",
       ""
     ]
   },
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "09:01",
-    "start_time": "09:01",
-    "group": "LAT D1",
-    "title": "FK Tukums 2000 0-1 Rigas Futbola Skola",
-    "homeTeam": "FK Tukums 2000",
-    "awayTeam": "Rigas Futbola Skola",
-    "score": "0-1",
-    "matchId": "5032400",
+    "time": "07:00",
+    "start_time": "07:00",
+    "group": "INT CF",
+    "title": "Al Khor SC 1-2 Al Fujairah",
+    "homeTeam": "Al Khor SC",
+    "awayTeam": "Al Fujairah",
+    "score": "1-2",
+    "matchId": "5142695",
     "status": "ET",
     "goals": [
-      "8' Darko Lemajic (0-1)",
+      "",
+      "17' 0-1",
       "",
       "",
       "",
-      "",
-      "",
-      "",
+      "69' 1-1",
+      "83' 1-2",
       ""
     ]
   },
@@ -626,12 +626,12 @@
     "time": "11:57",
     "start_time": "11:57",
     "group": "BOL D1",
-    "title": "GV San Jose 1-1 F.C. Universitario de Vinto",
+    "title": "GV San Jose 2-1 F.C. Universitario de Vinto",
     "homeTeam": "GV San Jose",
     "awayTeam": "F.C. Universitario de Vinto",
-    "score": "1-1",
+    "score": "2-1",
     "matchId": "5067768",
-    "status": "71'",
+    "status": "86'",
     "goals": [
       "",
       "27' Diego Saavedra (0-1)",
@@ -639,7 +639,7 @@
       "",
       "59' Roler Ferrufino (1-1)",
       "",
-      "",
+      "85' Alex Caceres (2-1)",
       ""
     ]
   },
@@ -715,24 +715,24 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "08:00",
-    "start_time": "08:00",
-    "group": "UZB PFL",
-    "title": "FK Andijan 2-0 FC Buxoro",
-    "homeTeam": "FK Andijan",
-    "awayTeam": "FC Buxoro",
-    "score": "2-0",
-    "matchId": "5031908",
+    "time": "09:01",
+    "start_time": "09:01",
+    "group": "LAT D1",
+    "title": "FK Tukums 2000 0-1 Rigas Futbola Skola",
+    "homeTeam": "FK Tukums 2000",
+    "awayTeam": "Rigas Futbola Skola",
+    "score": "0-1",
+    "matchId": "5032400",
     "status": "ET",
     "goals": [
+      "8' Darko Lemajic (0-1)",
       "",
       "",
       "",
       "",
-      "53' Odil Abdumazhidov (1-0)",
       "",
       "",
-      "90' Hamidullo Karimov (2-0)"
+      ""
     ]
   },
   {
@@ -756,29 +756,6 @@
       "",
       "",
       "90' Joel Zwarts (2-1)<br>90+2' Ioannis Pittas (3-1)<br>90+4' Asen Chandarov (3-2)"
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "INT CF",
-    "title": "Mamelodi Sundowns 1-1 MC Alger",
-    "homeTeam": "Mamelodi Sundowns",
-    "awayTeam": "MC Alger",
-    "score": "1-1",
-    "matchId": "5142481",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "56' Z. Ferhat (0-1)",
-      "74' 1-1",
-      "",
-      ""
     ]
   },
   {
@@ -830,29 +807,6 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "URU RL",
-    "title": "Defensor SC Reserve 6-1 Montevideo Wanderers Reserve",
-    "homeTeam": "Defensor SC Reserve",
-    "awayTeam": "Montevideo Wanderers Reserve",
-    "score": "6-1",
-    "matchId": "5142511",
-    "status": "ET",
-    "goals": [
-      "14' 1-0",
-      "18' 2-0",
-      "35' 3-0",
-      "45+2' 4-0",
-      "",
-      "67' 5-0<br>71' 6-0",
-      "84' 6-1",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
     "time": "11:02",
     "start_time": "11:02",
     "group": "URU RL",
@@ -870,6 +824,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "URU RL",
+    "title": "Defensor SC Reserve 6-1 Montevideo Wanderers Reserve",
+    "homeTeam": "Defensor SC Reserve",
+    "awayTeam": "Montevideo Wanderers Reserve",
+    "score": "6-1",
+    "matchId": "5142511",
+    "status": "ET",
+    "goals": [
+      "14' 1-0",
+      "18' 2-0",
+      "35' 3-0",
+      "45+2' 4-0",
+      "",
+      "67' 5-0<br>71' 6-0",
+      "84' 6-1",
       ""
     ]
   },
@@ -962,6 +939,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "China U21",
+    "title": "Zhejiang Professional FC(U21) 4-0 Guangdong GZ-Power(U21)",
+    "homeTeam": "Zhejiang Professional FC(U21)",
+    "awayTeam": "Guangdong GZ-Power(U21)",
+    "score": "4-0",
+    "matchId": "5142354",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' 1-0<br>43' 2-0",
+      "",
+      "",
+      "62' 3-0",
+      "84' 4-0",
       ""
     ]
   },
@@ -1215,6 +1215,29 @@
       "",
       "",
       "78' Nery Castro (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "INT CF",
+    "title": "Mamelodi Sundowns 1-1 MC Alger",
+    "homeTeam": "Mamelodi Sundowns",
+    "awayTeam": "MC Alger",
+    "score": "1-1",
+    "matchId": "5142481",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "56' Z. Ferhat (0-1)",
+      "74' 1-1",
+      "",
       ""
     ]
   },
@@ -1796,6 +1819,29 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "Suruchi Sangha 3-0 ASOS Rainbow Athletic Club",
+    "homeTeam": "Suruchi Sangha",
+    "awayTeam": "ASOS Rainbow Athletic Club",
+    "score": "3-0",
+    "matchId": "5142705",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "58' 1-0",
+      "75' 2-0",
+      "79' 3-0",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
     "time": "02:00",
     "start_time": "02:00",
     "group": "INT CF",
@@ -1905,29 +1951,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "Suruchi Sangha 3-0 ASOS Rainbow Athletic Club",
-    "homeTeam": "Suruchi Sangha",
-    "awayTeam": "ASOS Rainbow Athletic Club",
-    "score": "3-0",
-    "matchId": "5142705",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "58' 1-0",
-      "75' 2-0",
-      "79' 3-0",
       ""
     ]
   },

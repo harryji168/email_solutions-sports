@@ -332,7 +332,7 @@
     "awayTeam": "Levante(U20)",
     "score": "0-0",
     "matchId": "5133934",
-    "status": "24'",
+    "status": "39'",
     "goals": [
       "",
       "",
@@ -370,6 +370,29 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "INT CF",
+    "title": "Mamelodi Sundowns 1-1 MC Alger",
+    "homeTeam": "Mamelodi Sundowns",
+    "awayTeam": "MC Alger",
+    "score": "1-1",
+    "matchId": "5142481",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "56' Z. Ferhat (0-1)",
+      "74' 1-1",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
     "time": "03:30",
     "start_time": "03:30",
     "group": "AUS VD1",
@@ -401,7 +424,7 @@
     "awayTeam": "Real Cundinamarca",
     "score": "0-0",
     "matchId": "5072213",
-    "status": "43'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -442,18 +465,18 @@
     "time": "13:00",
     "start_time": "13:00",
     "group": "CAF WNC",
-    "title": "Cote d\\Ivoire Women\\s 3-0 Burkina Faso Women\\s",
+    "title": "Cote d\\Ivoire Women\\s 4-1 Burkina Faso Women\\s",
     "homeTeam": "Cote d\\Ivoire Women\\s",
     "awayTeam": "Burkina Faso Women\\s",
-    "score": "3-0",
+    "score": "4-1",
     "matchId": "5025494",
-    "status": "47'",
+    "status": "62'",
     "goals": [
       "7' Rebecca Elloh (1-0)<br>14' Akissi In\u00e8s Mikouame Konan (2-0)",
       "23' Akissi In\u00e8s Mikouame Konan (3-0)",
       "",
       "",
-      "",
+      "56' 4-0",
       "",
       "",
       ""
@@ -807,29 +830,6 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "China U21",
-    "title": "Zhejiang Professional FC(U21) 4-0 Guangdong GZ-Power(U21)",
-    "homeTeam": "Zhejiang Professional FC(U21)",
-    "awayTeam": "Guangdong GZ-Power(U21)",
-    "score": "4-0",
-    "matchId": "5142354",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' 1-0<br>43' 2-0",
-      "",
-      "",
-      "62' 3-0",
-      "84' 4-0",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
     "time": "11:02",
     "start_time": "11:02",
     "group": "URU RL",
@@ -1100,6 +1100,29 @@
       "",
       "",
       "84' Agustina Marani (2-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "China U21",
+    "title": "Zhejiang Professional FC(U21) 4-0 Guangdong GZ-Power(U21)",
+    "homeTeam": "Zhejiang Professional FC(U21)",
+    "awayTeam": "Guangdong GZ-Power(U21)",
+    "score": "4-0",
+    "matchId": "5142354",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' 1-0<br>43' 2-0",
+      "",
+      "",
+      "62' 3-0",
+      "84' 4-0",
       ""
     ]
   },
@@ -1445,29 +1468,6 @@
       "46' Noa Aarrestad (1-1)",
       "",
       "78' Mikke Hope (2-1)<br>79' Narve B\u00f8 (2-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "INT CF",
-    "title": "Mamelodi Sundowns 1-1 MC Alger",
-    "homeTeam": "Mamelodi Sundowns",
-    "awayTeam": "MC Alger",
-    "score": "1-1",
-    "matchId": "5142481",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "56' Z. Ferhat (0-1)",
-      "74' 1-1",
-      "",
       ""
     ]
   },

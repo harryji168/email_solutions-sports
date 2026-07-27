@@ -2,23 +2,23 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "INT CF",
-    "title": "Mamelodi Sundowns 1-1 MC Alger",
-    "homeTeam": "Mamelodi Sundowns",
-    "awayTeam": "MC Alger",
-    "score": "1-1",
-    "matchId": "5142481",
+    "time": "09:01",
+    "start_time": "09:01",
+    "group": "EST D2",
+    "title": "FC Nomme United(U21) 0-3 Viimsi JK",
+    "homeTeam": "FC Nomme United(U21)",
+    "awayTeam": "Viimsi JK",
+    "score": "0-3",
+    "matchId": "5034835",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
-      "56' Z. Ferhat (0-1)",
-      "74' 1-1",
+      "54' James Gachago Murage (0-1)<br>58' Markus Vaherna (0-2)",
       "",
+      "78' Rasmus Lode (0-3)",
       ""
     ]
   },
@@ -232,29 +232,6 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "09:01",
-    "start_time": "09:01",
-    "group": "EST D2",
-    "title": "FC Nomme United(U21) 0-3 Viimsi JK",
-    "homeTeam": "FC Nomme United(U21)",
-    "awayTeam": "Viimsi JK",
-    "score": "0-3",
-    "matchId": "5034835",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "54' James Gachago Murage (0-1)<br>58' Markus Vaherna (0-2)",
-      "",
-      "78' Rasmus Lode (0-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
     "time": "08:00",
     "start_time": "08:00",
     "group": "NOR D3C",
@@ -355,7 +332,7 @@
     "awayTeam": "Levante(U20)",
     "score": "0-0",
     "matchId": "5133934",
-    "status": "9'",
+    "status": "24'",
     "goals": [
       "",
       "",
@@ -424,7 +401,7 @@
     "awayTeam": "Real Cundinamarca",
     "score": "0-0",
     "matchId": "5072213",
-    "status": "28'",
+    "status": "43'",
     "goals": [
       "",
       "",
@@ -470,7 +447,7 @@
     "awayTeam": "Burkina Faso Women\\s",
     "score": "3-0",
     "matchId": "5025494",
-    "status": "HT",
+    "status": "47'",
     "goals": [
       "7' Rebecca Elloh (1-0)<br>14' Akissi In\u00e8s Mikouame Konan (2-0)",
       "23' Akissi In\u00e8s Mikouame Konan (3-0)",
@@ -516,7 +493,7 @@
     "awayTeam": "Thor Akureyri",
     "score": "0-0",
     "matchId": "5024326",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -824,6 +801,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "China U21",
+    "title": "Zhejiang Professional FC(U21) 4-0 Guangdong GZ-Power(U21)",
+    "homeTeam": "Zhejiang Professional FC(U21)",
+    "awayTeam": "Guangdong GZ-Power(U21)",
+    "score": "4-0",
+    "matchId": "5142354",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' 1-0<br>43' 2-0",
+      "",
+      "",
+      "62' 3-0",
+      "84' 4-0",
       ""
     ]
   },
@@ -1198,29 +1198,6 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "China U21",
-    "title": "Zhejiang Professional FC(U21) 4-0 Guangdong GZ-Power(U21)",
-    "homeTeam": "Zhejiang Professional FC(U21)",
-    "awayTeam": "Guangdong GZ-Power(U21)",
-    "score": "4-0",
-    "matchId": "5142354",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' 1-0<br>43' 2-0",
-      "",
-      "",
-      "62' 3-0",
-      "84' 4-0",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "PAR D2",
@@ -1468,6 +1445,29 @@
       "46' Noa Aarrestad (1-1)",
       "",
       "78' Mikke Hope (2-1)<br>79' Narve B\u00f8 (2-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "INT CF",
+    "title": "Mamelodi Sundowns 1-1 MC Alger",
+    "homeTeam": "Mamelodi Sundowns",
+    "awayTeam": "MC Alger",
+    "score": "1-1",
+    "matchId": "5142481",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "56' Z. Ferhat (0-1)",
+      "74' 1-1",
+      "",
       ""
     ]
   },

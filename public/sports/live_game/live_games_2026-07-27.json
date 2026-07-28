@@ -2,29 +2,6 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "19:00",
-    "start_time": "19:00",
-    "group": "NCA D1",
-    "title": "UNAN Managua 1-0 Rancho Santana",
-    "homeTeam": "UNAN Managua",
-    "awayTeam": "Rancho Santana",
-    "score": "1-0",
-    "matchId": "5118966",
-    "status": "46'",
-    "goals": [
-      "11' Maycon Santana (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "ARG RL",
@@ -66,6 +43,29 @@
       "69' Rodrigo Moreira (1-3)",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "CHI D1",
+    "title": "Union La Calera 1-1 Everton de Vina del Mar",
+    "homeTeam": "Union La Calera",
+    "awayTeam": "Everton de Vina del Mar",
+    "score": "1-1",
+    "matchId": "5021585",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "52' Nicolas Montiel (0-1)",
+      "",
+      "",
+      "90+1' Francisco Pozzo (1-1)"
     ]
   },
   {
@@ -125,7 +125,7 @@
     "awayTeam": "Mexico(U20)",
     "score": "0-1",
     "matchId": "5065654",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "",
       "",
@@ -232,29 +232,6 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "CHI D1",
-    "title": "Union La Calera 1-1 Everton de Vina del Mar",
-    "homeTeam": "Union La Calera",
-    "awayTeam": "Everton de Vina del Mar",
-    "score": "1-1",
-    "matchId": "5021585",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "52' Nicolas Montiel (0-1)",
-      "",
-      "",
-      "90+1' Francisco Pozzo (1-1)"
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA D2",
@@ -290,6 +267,29 @@
     "goals": [
       "13' Matheus Simonete Bressaneli, Bressan (1-0)",
       "18' Mikael Filipe Viana de Sousa (2-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
+    "time": "19:00",
+    "start_time": "19:00",
+    "group": "NCA D1",
+    "title": "UNAN Managua 1-0 Rancho Santana",
+    "homeTeam": "UNAN Managua",
+    "awayTeam": "Rancho Santana",
+    "score": "1-0",
+    "matchId": "5118966",
+    "status": "61'",
+    "goals": [
+      "11' Maycon Santana (1-0)",
+      "",
       "",
       "",
       "",
@@ -416,6 +416,29 @@
   {
     "date": "2026-07-27",
     "day": "Monday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "BRA D3",
+    "title": "Floresta/CE 1-1 Maringa FC",
+    "homeTeam": "Floresta/CE",
+    "awayTeam": "Maringa FC",
+    "score": "1-1",
+    "matchId": "5045954",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "68' Rafinha (1-0)",
+      "",
+      "90+2' Ronald Camar\u00e3o (1-1)"
+    ]
+  },
+  {
+    "date": "2026-07-27",
+    "day": "Monday",
     "time": "13:49",
     "start_time": "13:49",
     "group": "COTIF",
@@ -493,7 +516,7 @@
     "awayTeam": "Sporting San Miguelito",
     "score": "0-0",
     "matchId": "5111734",
-    "status": "76'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -503,29 +526,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-07-27",
-    "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "BRA D3",
-    "title": "Floresta/CE 1-1 Maringa FC",
-    "homeTeam": "Floresta/CE",
-    "awayTeam": "Maringa FC",
-    "score": "1-1",
-    "matchId": "5045954",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "68' Rafinha (1-0)",
-      "",
-      "90+2' Ronald Camar\u00e3o (1-1)"
     ]
   },
   {

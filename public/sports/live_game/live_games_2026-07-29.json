@@ -2,6 +2,29 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
+    "time": "00:30",
+    "start_time": "00:30",
+    "group": "INT CF",
+    "title": "Mallorca B 0-0 Sant Andreu",
+    "homeTeam": "Mallorca B",
+    "awayTeam": "Sant Andreu",
+    "score": "0-0",
+    "matchId": "5142723",
+    "status": "12'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
     "time": "23:35",
     "start_time": "23:35",
     "group": "INT CF",
@@ -11,6 +34,29 @@
     "score": "2-0",
     "matchId": "5144186",
     "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
+    "time": "00:30",
+    "start_time": "00:30",
+    "group": "NZNL",
+    "title": "Auckland City FC 1-0 Bay Olympic",
+    "homeTeam": "Auckland City FC",
+    "awayTeam": "Bay Olympic",
+    "score": "1-0",
+    "matchId": "5053822",
+    "status": "12'",
     "goals": [
       "",
       "",

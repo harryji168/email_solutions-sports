@@ -41,7 +41,30 @@
       "",
       "",
       "61' Rub\u00e9n Ramos (0-2)",
-      "89' 0-3",
+      "89' Christopher Cupps (0-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "17:16",
+    "start_time": "17:16",
+    "group": "ARG D1",
+    "title": "Rosario Central 0-0 Racing Club de Avellaneda",
+    "homeTeam": "Rosario Central",
+    "awayTeam": "Racing Club de Avellaneda",
+    "score": "0-0",
+    "matchId": "5052489",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -71,23 +94,23 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "17:16",
-    "start_time": "17:16",
+    "time": "17:15",
+    "start_time": "17:15",
     "group": "ARG D1",
-    "title": "Rosario Central 0-0 Racing Club de Avellaneda",
-    "homeTeam": "Rosario Central",
-    "awayTeam": "Racing Club de Avellaneda",
-    "score": "0-0",
-    "matchId": "5052489",
+    "title": "Argentinos Juniors 3-0 Estudiantes de Rio Cuarto",
+    "homeTeam": "Argentinos Juniors",
+    "awayTeam": "Estudiantes de Rio Cuarto",
+    "score": "3-0",
+    "matchId": "5052479",
     "status": "ET",
     "goals": [
       "",
+      "30' Gaston Nicolas Veron (1-0)",
       "",
       "",
       "",
-      "",
-      "",
-      "",
+      "70' Matias Daniel Gimenez Rojas (2-0)",
+      "88' Hernan Lopez Munoz (3-0)",
       ""
     ]
   },
@@ -117,29 +140,6 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "17:15",
-    "start_time": "17:15",
-    "group": "ARG D1",
-    "title": "Argentinos Juniors 3-0 Estudiantes de Rio Cuarto",
-    "homeTeam": "Argentinos Juniors",
-    "awayTeam": "Estudiantes de Rio Cuarto",
-    "score": "3-0",
-    "matchId": "5052479",
-    "status": "ET",
-    "goals": [
-      "",
-      "30' Gaston Nicolas Veron (1-0)",
-      "",
-      "",
-      "",
-      "70' Matias Daniel Gimenez Rojas (2-0)",
-      "88' Hernan Lopez Munoz (3-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
     "time": "18:30",
     "start_time": "18:30",
     "group": "COL Cup",
@@ -158,29 +158,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "16:15",
-    "start_time": "16:15",
-    "group": "COL Cup",
-    "title": "Deportes Quindio 2-1 Deportes Tolima",
-    "homeTeam": "Deportes Quindio",
-    "awayTeam": "Deportes Tolima",
-    "score": "2-1",
-    "matchId": "5067209",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+3' Edwar Manuel Lopez Gomez (0-1)",
-      "",
-      "65' Jose David Lloreda Guevara (1-1)",
-      "",
-      "90+3' Jose David Lloreda Guevara (2-1)"
     ]
   },
   {
@@ -332,7 +309,7 @@
     "awayTeam": "Deportivo Mixco",
     "score": "2-0",
     "matchId": "5077656",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "27' Jorge Benguch\u00e9 (1-0)",
@@ -342,6 +319,29 @@
       "",
       "80' Edwin Rodr\u00edguez (2-0)",
       ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "16:15",
+    "start_time": "16:15",
+    "group": "COL Cup",
+    "title": "Deportes Quindio 2-1 Deportes Tolima",
+    "homeTeam": "Deportes Quindio",
+    "awayTeam": "Deportes Tolima",
+    "score": "2-1",
+    "matchId": "5067209",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+3' Edwar Manuel Lopez Gomez (0-1)",
+      "",
+      "65' Jose David Lloreda Guevara (1-1)",
+      "",
+      "90+3' Jose David Lloreda Guevara (2-1)"
     ]
   },
   {
@@ -470,7 +470,7 @@
     "awayTeam": "Plaza Amador",
     "score": "4-2",
     "matchId": "5077635",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "5' Luis Fernando Coronel (1-0)<br>15' Harry Rojas (2-0)",
       "27' B. Barja (3-0)",
@@ -479,7 +479,7 @@
       "",
       "67' Anyelo Alberto Vel\u00e1squez (4-0)",
       "82' H\u00e9ctor R\u00edos (4-1)",
-      ""
+      "90' Alberto Quintero (4-2)"
     ]
   },
   {

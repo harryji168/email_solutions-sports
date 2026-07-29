@@ -10,7 +10,7 @@
     "awayTeam": "USA(U20)",
     "score": "0-1",
     "matchId": "5065656",
-    "status": "HT",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -25,23 +25,23 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "SLV D1",
-    "title": "Cacahuatique 4-2 Atletico Balboa",
-    "homeTeam": "Cacahuatique",
-    "awayTeam": "Atletico Balboa",
-    "score": "4-2",
-    "matchId": "5135791",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "ARG D1",
+    "title": "San Lorenzo de Almagro 1-0 Gimnasia Mendoza",
+    "homeTeam": "San Lorenzo de Almagro",
+    "awayTeam": "Gimnasia Mendoza",
+    "score": "1-0",
+    "matchId": "5052490",
     "status": "ET",
     "goals": [
-      "9' Paolo Ulloa (1-0)",
-      "23' Luis Cruz (2-0)<br>29' Orlando Mart\u00ednez (2-1)",
-      "32' Yerson Tobar (2-2)",
-      "",
-      "49' Ronald Padilla (3-2)<br>53' El\u00edas Umeres (4-2)",
       "",
       "",
+      "",
+      "",
+      "",
+      "",
+      "86' Rodrigo Auzmendi (1-0)",
       ""
     ]
   },
@@ -79,13 +79,36 @@
     "awayTeam": "Atletico Nacional",
     "score": "0-2",
     "matchId": "5067210",
-    "status": "66'",
+    "status": "81'",
     "goals": [
       "",
       "30' Nicolas Santiago Rodriguez Calderon (0-1)",
       "37' Alfredo Jose Morelos Avilez (0-2)",
       "",
       "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "SLV D1",
+    "title": "Cacahuatique 4-2 Atletico Balboa",
+    "homeTeam": "Cacahuatique",
+    "awayTeam": "Atletico Balboa",
+    "score": "4-2",
+    "matchId": "5135791",
+    "status": "ET",
+    "goals": [
+      "9' Paolo Ulloa (1-0)",
+      "23' Luis Cruz (2-0)<br>29' Orlando Mart\u00ednez (2-1)",
+      "32' Yerson Tobar (2-2)",
+      "",
+      "49' Ronald Padilla (3-2)<br>53' El\u00edas Umeres (4-2)",
       "",
       "",
       ""
@@ -158,6 +181,29 @@
       "65' Gabriel Vinicius Menino (3-1)<br>72' Gonzalo Mottes (3-2)",
       "",
       "90+5' Ronielson da Silva Barbosa, Rony (4-2)"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "COTIF",
+    "title": "Morocco(U20) 2-0 Valencia(U20)",
+    "homeTeam": "Morocco(U20)",
+    "awayTeam": "Valencia(U20)",
+    "score": "2-0",
+    "matchId": "5143806",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' Hamza Raji (1-0)",
+      "",
+      "",
+      "",
+      "76' Yahya Iguiz (2-0)",
+      ""
     ]
   },
   {
@@ -278,52 +324,6 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "COTIF",
-    "title": "Morocco(U20) 2-0 Valencia(U20)",
-    "homeTeam": "Morocco(U20)",
-    "awayTeam": "Valencia(U20)",
-    "score": "2-0",
-    "matchId": "5143806",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' Hamza Raji (1-0)",
-      "",
-      "",
-      "",
-      "76' Yahya Iguiz (2-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "16:15",
-    "start_time": "16:15",
-    "group": "COL Cup",
-    "title": "Deportes Quindio 2-1 Deportes Tolima",
-    "homeTeam": "Deportes Quindio",
-    "awayTeam": "Deportes Tolima",
-    "score": "2-1",
-    "matchId": "5067209",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+3' Edwar Manuel Lopez Gomez (0-1)",
-      "",
-      "65' Jose David Lloreda Guevara (1-1)",
-      "",
-      "90+3' Jose David Lloreda Guevara (2-1)"
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
     "time": "16:36",
     "start_time": "16:36",
     "group": "BRA D2",
@@ -396,12 +396,12 @@
     "time": "18:10",
     "start_time": "18:10",
     "group": "CAN CPL",
-    "title": "Cavalry FC 1-1 Supra Du Quebec",
+    "title": "Cavalry FC 2-1 Supra Du Quebec",
     "homeTeam": "Cavalry FC",
     "awayTeam": "Supra Du Quebec",
-    "score": "1-1",
+    "score": "2-1",
     "matchId": "5033249",
-    "status": "85'",
+    "status": "90+'",
     "goals": [
       "3' Nathaniel Edwards (1-0)",
       "",
@@ -410,7 +410,7 @@
       "55' K. Ferdinand (1-1)",
       "",
       "",
-      ""
+      "90+3' A. \u0110idi\u0107 (2-1)"
     ]
   },
   {
@@ -433,6 +433,29 @@
       "",
       "65' Jonathan Torres (1-1)<br>69' Oscar Romero (2-1)",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "CON CSA",
+    "title": "Tigre 1-2 Club Nacional de Football",
+    "homeTeam": "Tigre",
+    "awayTeam": "Club Nacional de Football",
+    "score": "1-2",
+    "matchId": "5071131",
+    "status": "ET",
+    "goals": [
+      "11' Maximiliano Gomez Gonzalez, Maxi Gomez (0-1)",
+      "",
+      "31' Maximiliano Joaquin Silvera Cabo (0-2)",
+      "",
+      "",
+      "",
+      "82' Santiago Lopez Grobin (1-2)",
       ""
     ]
   },
@@ -470,7 +493,7 @@
     "awayTeam": "Plaza Amador",
     "score": "3-0",
     "matchId": "5077635",
-    "status": "HT",
+    "status": "45'",
     "goals": [
       "5' Luis Fernando Coronel (1-0)<br>15' Harry Rojas (2-0)",
       "27' B. Barja (3-0)",
@@ -485,24 +508,24 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "CON CSA",
-    "title": "Tigre 1-2 Club Nacional de Football",
-    "homeTeam": "Tigre",
-    "awayTeam": "Club Nacional de Football",
-    "score": "1-2",
-    "matchId": "5071131",
+    "time": "16:15",
+    "start_time": "16:15",
+    "group": "COL Cup",
+    "title": "Deportes Quindio 2-1 Deportes Tolima",
+    "homeTeam": "Deportes Quindio",
+    "awayTeam": "Deportes Tolima",
+    "score": "2-1",
+    "matchId": "5067209",
     "status": "ET",
     "goals": [
-      "11' Maximiliano Gomez Gonzalez, Maxi Gomez (0-1)",
-      "",
-      "31' Maximiliano Joaquin Silvera Cabo (0-2)",
       "",
       "",
       "",
-      "82' Santiago Lopez Grobin (1-2)",
-      ""
+      "45+3' Edwar Manuel Lopez Gomez (0-1)",
+      "",
+      "65' Jose David Lloreda Guevara (1-1)",
+      "",
+      "90+3' Jose David Lloreda Guevara (2-1)"
     ]
   },
   {
@@ -525,29 +548,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "ARG D1",
-    "title": "San Lorenzo de Almagro 1-0 Gimnasia Mendoza",
-    "homeTeam": "San Lorenzo de Almagro",
-    "awayTeam": "Gimnasia Mendoza",
-    "score": "1-0",
-    "matchId": "5052490",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "86' Rodrigo Auzmendi (1-0)",
       ""
     ]
   },

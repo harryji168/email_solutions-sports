@@ -163,6 +163,52 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "BRA SPWL",
+    "title": "Bragantino  Women\\s 1-1 Santos Women\\s",
+    "homeTeam": "Bragantino  Women\\s",
+    "awayTeam": "Santos Women\\s",
+    "score": "1-1",
+    "matchId": "5065069",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "16:15",
+    "start_time": "16:15",
+    "group": "COL Cup",
+    "title": "Deportes Quindio 2-1 Deportes Tolima",
+    "homeTeam": "Deportes Quindio",
+    "awayTeam": "Deportes Tolima",
+    "score": "2-1",
+    "matchId": "5067209",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+3' Edwar Manuel Lopez Gomez (0-1)",
+      "",
+      "65' Jose David Lloreda Guevara (1-1)",
+      "",
+      "90+3' Jose David Lloreda Guevara (2-1)"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
     "time": "17:30",
     "start_time": "17:30",
     "group": "CON CSA",
@@ -186,24 +232,24 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "BRA SPWL",
-    "title": "Bragantino  Women\\s 1-1 Santos Women\\s",
-    "homeTeam": "Bragantino  Women\\s",
-    "awayTeam": "Santos Women\\s",
-    "score": "1-1",
-    "matchId": "5065069",
+    "time": "17:06",
+    "start_time": "17:06",
+    "group": "CNCF CACup",
+    "title": "Verdes FC 0-5 F.C. Motagua",
+    "homeTeam": "Verdes FC",
+    "awayTeam": "F.C. Motagua",
+    "score": "0-5",
+    "matchId": "5077667",
     "status": "ET",
     "goals": [
+      "7' Luis Vega (0-1)",
       "",
       "",
       "",
+      "49' Denis Javier Melendez Rosales (0-2)",
+      "63' Jonathan Moya (0-3)<br>75' Jonathan Moya (0-4)",
       "",
-      "",
-      "",
-      "",
-      ""
+      "90+2' Jordan Garc\u00eda (0-5)"
     ]
   },
   {
@@ -232,29 +278,6 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "17:06",
-    "start_time": "17:06",
-    "group": "CNCF CACup",
-    "title": "Verdes FC 0-5 F.C. Motagua",
-    "homeTeam": "Verdes FC",
-    "awayTeam": "F.C. Motagua",
-    "score": "0-5",
-    "matchId": "5077667",
-    "status": "ET",
-    "goals": [
-      "7' Luis Vega (0-1)",
-      "",
-      "",
-      "",
-      "49' Denis Mel\u00e9ndez (0-2)",
-      "63' Jonathan Moya (0-3)<br>75' Jonathan Moya (0-4)",
-      "",
-      "90+2' Jordan Garc\u00eda (0-5)"
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
     "time": "19:06",
     "start_time": "19:06",
     "group": "CNCF CACup",
@@ -266,12 +289,12 @@
     "status": "ET",
     "goals": [
       "",
-      "27' Jorge Benguch\u00e9 (1-0)",
+      "27' Jorge Benguche (1-0)",
       "",
       "",
       "",
       "",
-      "80' Edwin Rodr\u00edguez (2-0)",
+      "80' Edwin Rodriguez (2-0)",
       ""
     ]
   },
@@ -294,29 +317,6 @@
       "",
       "",
       "67' Ian Luccas Baroni Boetto (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "16:58",
-    "start_time": "16:58",
-    "group": "COL Cup",
-    "title": "Bogota F.C. 0-3 Deportivo Pasto",
-    "homeTeam": "Bogota F.C.",
-    "awayTeam": "Deportivo Pasto",
-    "score": "0-3",
-    "matchId": "5067205",
-    "status": "ET",
-    "goals": [
-      "4' Jonathan Perlaza Ardila (0-1)",
-      "22' Jorge Leonardo Obregon Rojas (0-2)",
-      "",
-      "45+1' Jonathan Perlaza Ardila (0-3)",
-      "",
-      "",
       "",
       ""
     ]
@@ -485,29 +485,6 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "16:15",
-    "start_time": "16:15",
-    "group": "COL Cup",
-    "title": "Deportes Quindio 2-1 Deportes Tolima",
-    "homeTeam": "Deportes Quindio",
-    "awayTeam": "Deportes Tolima",
-    "score": "2-1",
-    "matchId": "5067209",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+3' Edwar Manuel Lopez Gomez (0-1)",
-      "",
-      "65' Jose David Lloreda Guevara (1-1)",
-      "",
-      "90+3' Jose David Lloreda Guevara (2-1)"
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "ARG D1",
@@ -546,6 +523,29 @@
       "32' Yerson Tobar (2-2)",
       "",
       "49' Ronald Padilla (3-2)<br>53' El\u00edas Umeres (4-2)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "16:58",
+    "start_time": "16:58",
+    "group": "COL Cup",
+    "title": "Bogota F.C. 0-3 Deportivo Pasto",
+    "homeTeam": "Bogota F.C.",
+    "awayTeam": "Deportivo Pasto",
+    "score": "0-3",
+    "matchId": "5067205",
+    "status": "ET",
+    "goals": [
+      "4' Jonathan Perlaza Ardila (0-1)",
+      "22' Jorge Leonardo Obregon Rojas (0-2)",
+      "",
+      "45+1' Jonathan Perlaza Ardila (0-3)",
+      "",
       "",
       "",
       ""

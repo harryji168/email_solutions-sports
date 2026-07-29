@@ -656,8 +656,8 @@
     "matchId": "5137717",
     "status": "ET",
     "goals": [
-      "3' Odsonne \u00c9douard (0-1)",
-      "22' Odsonne \u00c9douard (0-2)<br>24' Andrija Bulatovi\u0107 (0-3)",
+      "3' Odsonne Edouard (0-1)",
+      "22' Odsonne Edouard (0-2)<br>24' Andrija Bulatovic (0-3)",
       "",
       "",
       "",
@@ -715,29 +715,6 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "04:30",
-    "start_time": "04:30",
-    "group": "WAUS WD1",
-    "title": "Subiaco AFC Women\\s 1-0 Perth RedStar Women\\s",
-    "homeTeam": "Subiaco AFC Women\\s",
-    "awayTeam": "Perth RedStar Women\\s",
-    "score": "1-0",
-    "matchId": "5053126",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "INT CF",
@@ -773,7 +750,7 @@
     "goals": [
       "",
       "",
-      "41' Juli\u00e1n Bartolo (0-1)",
+      "41' Julian Bartolo (0-1)",
       "",
       "50' Younes Jaber el Maftahi (1-1)",
       "",
@@ -876,6 +853,29 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
+    "time": "03:15",
+    "start_time": "03:15",
+    "group": "FFSA SLR",
+    "title": "Western Strikers Reserve 0-2 Adelaide Vipers Reserve",
+    "homeTeam": "Western Strikers Reserve",
+    "awayTeam": "Adelaide Vipers Reserve",
+    "score": "0-2",
+    "matchId": "5144171",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
     "time": "11:32",
     "start_time": "11:32",
     "group": "INT CF",
@@ -940,6 +940,29 @@
       "",
       "",
       "90+3' 3-0"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "AFF SC",
+    "title": "Malaysia 4-0 Laos",
+    "homeTeam": "Malaysia",
+    "awayTeam": "Laos",
+    "score": "4-0",
+    "matchId": "5024916",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45' Paulo Josue Stuurmer dos Reis (1-0)",
+      "57' Endrick dos Santos Parafita (2-0)",
+      "66' Sidavong V. (3-0)",
+      "84' Wan Kuzain Wan Kamal (4-0)",
+      ""
     ]
   },
   {
@@ -1037,29 +1060,6 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "AFF SC",
-    "title": "Malaysia 4-0 Laos",
-    "homeTeam": "Malaysia",
-    "awayTeam": "Laos",
-    "score": "4-0",
-    "matchId": "5024916",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45' Paulo Josue Stuurmer dos Reis (1-0)",
-      "57' Endrick dos Santos Parafita (2-0)",
-      "66' Sidavong V. (3-0)",
-      "84' Wan Kuzain Wan Kamal (4-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
     "time": "11:45",
     "start_time": "11:45",
     "group": "INT CF",
@@ -1124,29 +1124,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "08:31",
-    "start_time": "08:31",
-    "group": "BUL D2",
-    "title": "Vihren Sandanski 1-1 CSKA Sofia B",
-    "homeTeam": "Vihren Sandanski",
-    "awayTeam": "CSKA Sofia B",
-    "score": "1-1",
-    "matchId": "5095500",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "57' Alesandro Nikolov (0-1)",
-      "",
-      "",
-      "90' Leo Pimenta (1-1)"
     ]
   },
   {
@@ -1238,29 +1215,6 @@
       "57' Lucas Odunston (0-2)",
       "65' Alfie Perry (1-2)",
       "86' Aaron Martin (1-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "02:00",
-    "start_time": "02:00",
-    "group": "NOR U19",
-    "title": "Aalesund FK(U19) 3-1 Lillestrom(U19)",
-    "homeTeam": "Aalesund FK(U19)",
-    "awayTeam": "Lillestrom(U19)",
-    "score": "3-1",
-    "matchId": "5069038",
-    "status": "ET",
-    "goals": [
-      "4' Melker Andr\u00e9 Tryggestad (1-0)",
-      "",
-      "",
-      "",
-      "52' Wahib Fadil (1-1)",
-      "63' Theodor Kvalsund Pedersen (2-1)",
-      "85' Storm Karlsson Knutsen (3-1)",
       ""
     ]
   },
@@ -1445,6 +1399,29 @@
       "",
       "",
       "89' Patricia Leguizam\u00f3n (1-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "02:00",
+    "start_time": "02:00",
+    "group": "NOR U19",
+    "title": "Aalesund FK(U19) 3-1 Lillestrom(U19)",
+    "homeTeam": "Aalesund FK(U19)",
+    "awayTeam": "Lillestrom(U19)",
+    "score": "3-1",
+    "matchId": "5069038",
+    "status": "ET",
+    "goals": [
+      "4' Melker Andr\u00e9 Tryggestad (1-0)",
+      "",
+      "",
+      "",
+      "52' Wahib Fadil (1-1)",
+      "63' Theodor Kvalsund Pedersen (2-1)",
+      "85' Storm Karlsson Knutsen (3-1)",
       ""
     ]
   },
@@ -1957,29 +1934,6 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "04:30",
-    "start_time": "04:30",
-    "group": "INT CF",
-    "title": "Trau FC 0-0 Neroca FC",
-    "homeTeam": "Trau FC",
-    "awayTeam": "Neroca FC",
-    "score": "0-0",
-    "matchId": "5142712",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "INT CF",
@@ -2118,6 +2072,29 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
+    "time": "04:30",
+    "start_time": "04:30",
+    "group": "INT CF",
+    "title": "Trau FC 0-0 Neroca FC",
+    "homeTeam": "Trau FC",
+    "awayTeam": "Neroca FC",
+    "score": "0-0",
+    "matchId": "5142712",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
     "time": "07:00",
     "start_time": "07:00",
     "group": "SCO YTHL",
@@ -2187,14 +2164,14 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "03:15",
-    "start_time": "03:15",
-    "group": "FFSA SLR",
-    "title": "Western Strikers Reserve 0-2 Adelaide Vipers Reserve",
-    "homeTeam": "Western Strikers Reserve",
-    "awayTeam": "Adelaide Vipers Reserve",
-    "score": "0-2",
-    "matchId": "5144171",
+    "time": "04:30",
+    "start_time": "04:30",
+    "group": "WAUS WD1",
+    "title": "Subiaco AFC Women\\s 1-0 Perth RedStar Women\\s",
+    "homeTeam": "Subiaco AFC Women\\s",
+    "awayTeam": "Perth RedStar Women\\s",
+    "score": "1-0",
+    "matchId": "5053126",
     "status": "ET",
     "goals": [
       "",
@@ -2417,29 +2394,6 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "11:49",
-    "start_time": "11:49",
-    "group": "INT CF",
-    "title": "St Ives Town 3-2 Bishop\\s Stortford",
-    "homeTeam": "St Ives Town",
-    "awayTeam": "Bishop\\s Stortford",
-    "score": "3-2",
-    "matchId": "5143838",
-    "status": "ET",
-    "goals": [
-      "4' Tyrone Baker (0-1)",
-      "24' 1-1",
-      "31' 2-1",
-      "",
-      "58' 2-2",
-      "",
-      "84' 3-2",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
     "time": "11:32",
     "start_time": "11:32",
     "group": "LBN D1",
@@ -2479,7 +2433,7 @@
       "",
       "",
       "",
-      "84' 2-1",
+      "84' Dillon Edmundson (2-1)",
       ""
     ]
   },
@@ -2685,8 +2639,8 @@
       "",
       "",
       "",
-      "64' 1-1",
-      "84' 2-1",
+      "64' Zac McEachran (1-1)",
+      "84' Ruben Shakpoke (2-1)",
       ""
     ]
   },
@@ -2732,7 +2686,7 @@
       "45+2' Jack James (1-2)",
       "49' Kai Brown (1-3)<br>54' 2-3",
       "",
-      "79' 3-3",
+      "79' 3-3<br>86' 4-3<br>87' Darion Furlong (4-4)",
       ""
     ]
   },
@@ -2842,7 +2796,7 @@
     "status": "ET",
     "goals": [
       "6' Pharrell Johnson (1-0)",
-      "18' 1-1<br>20' Anthony Dwyer (2-1)",
+      "18' 1-1<br>20' 2-1",
       "",
       "",
       "",
@@ -2940,7 +2894,7 @@
       "58' Connor Hughes (0-1)",
       "",
       "89' 1-1",
-      ""
+      "90' 2-1"
     ]
   },
   {
@@ -3100,7 +3054,7 @@
       "",
       "47' N. Flint (1-1)<br>59' B. O\\'Hanlon (1-2)",
       "64' Kyle Bennett (1-3)",
-      "85' 2-3",
+      "85' L. Webb (2-3)",
       ""
     ]
   },
@@ -3422,7 +3376,7 @@
       "",
       "47' Giles Phillips (0-2)",
       "61' Jephte Tanga (1-2)<br>71' Ethan Sutcliffe (2-2)",
-      "78' 3-2",
+      "78' 3-2<br>84' Harvey Lintott (4-2)",
       ""
     ]
   },
@@ -3475,24 +3429,24 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "09:04",
-    "start_time": "09:04",
-    "group": "CECAFA CC",
-    "title": "Jamus FC 0-0 Simba",
-    "homeTeam": "Jamus FC",
-    "awayTeam": "Simba",
-    "score": "0-0",
-    "matchId": "5135587",
+    "time": "08:31",
+    "start_time": "08:31",
+    "group": "BUL D2",
+    "title": "Vihren Sandanski 1-1 CSKA Sofia B",
+    "homeTeam": "Vihren Sandanski",
+    "awayTeam": "CSKA Sofia B",
+    "score": "1-1",
+    "matchId": "5095500",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
+      "57' Alesandro Nikolov (0-1)",
       "",
       "",
-      "",
-      ""
+      "90' Leo Pimenta (1-1)"
     ]
   },
   {
@@ -3514,7 +3468,7 @@
       "",
       "",
       "",
-      "78' 1-1",
+      "78' Adan George (1-1)",
       ""
     ]
   },
@@ -3544,6 +3498,29 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
+    "time": "09:04",
+    "start_time": "09:04",
+    "group": "CECAFA CC",
+    "title": "Jamus FC 0-0 Simba",
+    "homeTeam": "Jamus FC",
+    "awayTeam": "Simba",
+    "score": "0-0",
+    "matchId": "5135587",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
     "time": "11:46",
     "start_time": "11:46",
     "group": "INT CF",
@@ -3560,7 +3537,7 @@
       "",
       "48' Donnell Thomas (0-1)",
       "",
-      "79' 1-1<br>82' 2-1",
+      "79' Noah Nzuzi (1-1)<br>82' 2-1",
       ""
     ]
   },
@@ -3881,9 +3858,9 @@
       "31' 2-0",
       "",
       "52' Bobby Kelman (2-1)",
-      "67' Joe Kizzi (2-2)<br>71' J. Moses (3-2)",
+      "67' Joe Kizzi (2-2)<br>71' Moses J. (3-2)",
       "",
-      ""
+      "90' Thomas Avgoustidis (4-2)"
     ]
   },
   {
@@ -4464,29 +4441,6 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "08:33",
-    "start_time": "08:33",
-    "group": "INT CF",
-    "title": "Udinese Calcio 1-2 Shabab Al Ahli Club",
-    "homeTeam": "Udinese Calcio",
-    "awayTeam": "Shabab Al Ahli Club",
-    "score": "1-2",
-    "matchId": "5137703",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Mateus Lima (0-1)",
-      "",
-      "",
-      "60' Sultan Adil Mohamed (0-2)",
-      "74' 1-2",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
     "time": "11:04",
     "start_time": "11:04",
     "group": "FAR D1",
@@ -4510,22 +4464,22 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "08:30",
-    "start_time": "08:30",
+    "time": "08:33",
+    "start_time": "08:33",
     "group": "INT CF",
-    "title": "Kozuf Gevgelija 0-2 Belasica Strumica",
-    "homeTeam": "Kozuf Gevgelija",
-    "awayTeam": "Belasica Strumica",
-    "score": "0-2",
-    "matchId": "5137702",
+    "title": "Udinese Calcio 1-2 Shabab Al Ahli Club",
+    "homeTeam": "Udinese Calcio",
+    "awayTeam": "Shabab Al Ahli Club",
+    "score": "1-2",
+    "matchId": "5137703",
     "status": "ET",
     "goals": [
       "",
+      "17' Mateus Lima (0-1)",
       "",
       "",
-      "",
-      "",
-      "",
+      "60' Sultan Adil Mohamed (0-2)",
+      "74' 1-2",
       "",
       ""
     ]
@@ -4556,6 +4510,29 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
+    "time": "08:30",
+    "start_time": "08:30",
+    "group": "INT CF",
+    "title": "Kozuf Gevgelija 0-2 Belasica Strumica",
+    "homeTeam": "Kozuf Gevgelija",
+    "awayTeam": "Belasica Strumica",
+    "score": "0-2",
+    "matchId": "5137702",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "UEFA ECL",
@@ -4579,6 +4556,29 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
+    "time": "11:49",
+    "start_time": "11:49",
+    "group": "INT CF",
+    "title": "St Ives Town 3-2 Bishop\\s Stortford",
+    "homeTeam": "St Ives Town",
+    "awayTeam": "Bishop\\s Stortford",
+    "score": "3-2",
+    "matchId": "5143838",
+    "status": "ET",
+    "goals": [
+      "4' Tyrone Baker (0-1)",
+      "24' 1-1",
+      "31' 2-1",
+      "",
+      "58' Aaron Greene (2-2)",
+      "",
+      "84' 3-2",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
     "time": "11:47",
     "start_time": "11:47",
     "group": "INT CF",
@@ -4595,29 +4595,6 @@
       "",
       "",
       "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "11:58",
-    "start_time": "11:58",
-    "group": "UEFA CL",
-    "title": "Shamrock Rovers F.C. 2-1 FC Ararat-Armenia",
-    "homeTeam": "Shamrock Rovers F.C.",
-    "awayTeam": "FC Ararat-Armenia",
-    "score": "2-1",
-    "matchId": "5124460",
-    "status": "90'",
-    "goals": [
-      "11' Matthew Healy (1-0)",
-      "",
-      "36' Aaron Greene (2-0)",
-      "",
-      "",
-      "73' Sandro Cesar Cordovil de Lima (2-1)",
       "",
       ""
     ]
@@ -4648,15 +4625,38 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
+    "time": "11:58",
+    "start_time": "11:58",
+    "group": "UEFA CL",
+    "title": "Shamrock Rovers F.C. 2-1 FC Ararat-Armenia",
+    "homeTeam": "Shamrock Rovers F.C.",
+    "awayTeam": "FC Ararat-Armenia",
+    "score": "2-1",
+    "matchId": "5124460",
+    "status": "ET",
+    "goals": [
+      "11' Matthew Healy (1-0)",
+      "",
+      "36' Aaron Greene (2-0)",
+      "",
+      "",
+      "73' Sandro Cesar Cordovil de Lima (2-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
     "time": "12:00",
     "start_time": "12:00",
     "group": "PAR D1",
-    "title": "Club Rubio Nu 1-0 Sportivo Ameliano",
+    "title": "Club Rubio Nu 1-1 Sportivo Ameliano",
     "homeTeam": "Club Rubio Nu",
     "awayTeam": "Sportivo Ameliano",
-    "score": "1-0",
+    "score": "1-1",
     "matchId": "5119186",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -4686,7 +4686,7 @@
       "35' Max Booth (1-1)<br>37' Prosper Keto (1-2)",
       "",
       "56' Christopher Harris (1-3)",
-      "",
+      "72' 1-4",
       "",
       ""
     ]
@@ -4702,7 +4702,7 @@
     "awayTeam": "UMF Njardvik",
     "score": "0-1",
     "matchId": "5030141",
-    "status": "74'",
+    "status": "83'",
     "goals": [
       "4' Valdimar J\u00f3hannsson (0-1)",
       "",
@@ -4725,7 +4725,7 @@
     "awayTeam": "IA Akranes Women\\s",
     "score": "0-0",
     "matchId": "5057987",
-    "status": "75'",
+    "status": "84'",
     "goals": [
       "",
       "",
@@ -4748,7 +4748,7 @@
     "awayTeam": "Njardvik Grindavik Women\\s",
     "score": "0-0",
     "matchId": "5024245",
-    "status": "78'",
+    "status": "87'",
     "goals": [
       "",
       "",
@@ -4771,7 +4771,7 @@
     "awayTeam": "Vikingur Reykjavik Women\\s",
     "score": "1-1",
     "matchId": "5024246",
-    "status": "80'",
+    "status": "89'",
     "goals": [
       "",
       "27' Kayla Rollins (1-0)",
@@ -4834,6 +4834,29 @@
     "day": "Tuesday",
     "time": "13:00",
     "start_time": "13:00",
+    "group": "ARG RL",
+    "title": "Boca Juniors Reserve 1-0 Belgrano(R)",
+    "homeTeam": "Boca Juniors Reserve",
+    "awayTeam": "Belgrano(R)",
+    "score": "1-0",
+    "matchId": "5106643",
+    "status": "HT",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "13:00",
+    "start_time": "13:00",
     "group": "CAF WNC",
     "title": "Nigeria Women\\s 0-0 Malawi Women\\s",
     "homeTeam": "Nigeria Women\\s",
@@ -4867,30 +4890,7 @@
     "goals": [
       "",
       "",
-      "37' 0-1",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "13:00",
-    "start_time": "13:00",
-    "group": "ARG RL",
-    "title": "Boca Juniors Reserve 1-0 Belgrano(R)",
-    "homeTeam": "Boca Juniors Reserve",
-    "awayTeam": "Belgrano(R)",
-    "score": "1-0",
-    "matchId": "5106643",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "",
+      "37' E. Gomez (0-1)",
       "",
       "",
       "",
@@ -4909,11 +4909,11 @@
     "awayTeam": "Coquimbo Unido Women\\s",
     "score": "1-3",
     "matchId": "5044358",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "6' 0-1",
       "23' 0-2",
-      "31' 0-3",
+      "31' 0-3<br>40' 1-3",
       "",
       "",
       "",
@@ -4932,7 +4932,7 @@
     "awayTeam": "FC Famalicao",
     "score": "0-0",
     "matchId": "5142754",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "",

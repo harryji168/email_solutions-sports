@@ -10,13 +10,13 @@
     "awayTeam": "Botafogo Futebol Clube (SP)",
     "score": "1-0",
     "matchId": "5036237",
-    "status": "58'",
+    "status": "73'",
     "goals": [
       "",
       "",
       "",
       "",
-      "",
+      "57' Ronald Cardoso Falkoski (1-0)",
       "",
       "",
       ""
@@ -48,22 +48,45 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
+    "time": "16:15",
+    "start_time": "16:15",
+    "group": "COL Cup",
+    "title": "Deportes Quindio 2-1 Deportes Tolima",
+    "homeTeam": "Deportes Quindio",
+    "awayTeam": "Deportes Tolima",
+    "score": "2-1",
+    "matchId": "5067209",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+3' Edwar Manuel Lopez Gomez (0-1)",
+      "",
+      "65' Jose David Lloreda Guevara (1-1)",
+      "",
+      "90+3' Jose David Lloreda Guevara (2-1)"
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
     "time": "17:30",
     "start_time": "17:30",
     "group": "CON CSA",
-    "title": "Santos FC 3-1 Universidad Central de Venezuela F.C.",
+    "title": "Santos FC 3-2 Universidad Central de Venezuela F.C.",
     "homeTeam": "Santos FC",
     "awayTeam": "Universidad Central de Venezuela F.C.",
-    "score": "3-1",
+    "score": "3-2",
     "matchId": "5071137",
-    "status": "65'",
+    "status": "80'",
     "goals": [
       "1' Samuel Alejandro Sosa Cordero (0-1)",
       "",
       "39' Miguel Angel Terceros Acuna,Miguelito (1-1)",
       "",
       "56' Gabriel Barbosa Almeida, Gabigol (2-1)",
-      "65' Gabriel Vinicius Menino (3-1)",
+      "65' Gabriel Vinicius Menino (3-1)<br>72' Gonzalo Mottes (3-2)",
       "",
       ""
     ]
@@ -102,7 +125,7 @@
     "awayTeam": "F.C. Motagua",
     "score": "0-5",
     "matchId": "5077667",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "7' Luis Vega (0-1)",
       "",
@@ -111,7 +134,7 @@
       "49' Denis Mel\u00e9ndez (0-2)",
       "63' Jonathan Moya (0-3)<br>75' Jonathan Moya (0-4)",
       "",
-      ""
+      "90+2' Jordan Garc\u00eda (0-5)"
     ]
   },
   {
@@ -125,30 +148,7 @@
     "awayTeam": "Racing Club de Avellaneda",
     "score": "0-0",
     "matchId": "5052489",
-    "status": "78'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "18:30",
-    "start_time": "18:30",
-    "group": "COL Cup",
-    "title": "Tigres FC 0-0 Atletico Nacional",
-    "homeTeam": "Tigres FC",
-    "awayTeam": "Atletico Nacional",
-    "score": "0-0",
-    "matchId": "5067210",
-    "status": "24'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -166,12 +166,12 @@
     "time": "17:15",
     "start_time": "17:15",
     "group": "ARG D1",
-    "title": "Argentinos Juniors 2-0 Estudiantes de Rio Cuarto",
+    "title": "Argentinos Juniors 3-0 Estudiantes de Rio Cuarto",
     "homeTeam": "Argentinos Juniors",
     "awayTeam": "Estudiantes de Rio Cuarto",
-    "score": "2-0",
+    "score": "3-0",
     "matchId": "5052479",
-    "status": "79'",
+    "status": "ET",
     "goals": [
       "",
       "30' Gaston Nicolas Veron (1-0)",
@@ -179,6 +179,52 @@
       "",
       "",
       "70' Matias Daniel Gimenez Rojas (2-0)",
+      "88' Hernan Lopez Munoz (3-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "PAR D1",
+    "title": "Club 2 de Mayo 2-1 Cerro Porteno",
+    "homeTeam": "Club 2 de Mayo",
+    "awayTeam": "Cerro Porteno",
+    "score": "2-1",
+    "matchId": "5119187",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' Camilo Saiz (1-0)",
+      "",
+      "",
+      "",
+      "65' Jonathan Torres (1-1)<br>69' Oscar Romero (2-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "19:06",
+    "start_time": "19:06",
+    "group": "CNCF CACup",
+    "title": "C.D. Olimpia 0-0 Deportivo Mixco",
+    "homeTeam": "C.D. Olimpia",
+    "awayTeam": "Deportivo Mixco",
+    "score": "0-0",
+    "matchId": "5077656",
+    "status": "3'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -202,52 +248,6 @@
       "",
       "",
       "67' Ian Luccas Baroni Boetto (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "INT CF",
-    "title": "Internacional (RS) Women\\s(U20) 0-0 Gremio Women\\s(U20)",
-    "homeTeam": "Internacional (RS) Women\\s(U20)",
-    "awayTeam": "Gremio Women\\s(U20)",
-    "score": "0-0",
-    "matchId": "5143832",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "PAR D1",
-    "title": "Club 2 de Mayo 2-1 Cerro Porteno",
-    "homeTeam": "Club 2 de Mayo",
-    "awayTeam": "Cerro Porteno",
-    "score": "2-1",
-    "matchId": "5119187",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' Camilo Saiz (1-0)",
-      "",
-      "",
-      "",
-      "65' Jonathan Torres (1-1)<br>69' Oscar Romero (2-1)",
       "",
       ""
     ]
@@ -280,6 +280,75 @@
     "day": "Tuesday",
     "time": "15:00",
     "start_time": "15:00",
+    "group": "INT CF",
+    "title": "Internacional (RS) Women\\s(U20) 0-0 Gremio Women\\s(U20)",
+    "homeTeam": "Internacional (RS) Women\\s(U20)",
+    "awayTeam": "Gremio Women\\s(U20)",
+    "score": "0-0",
+    "matchId": "5143832",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "18:30",
+    "start_time": "18:30",
+    "group": "COL Cup",
+    "title": "Tigres FC 0-2 Atletico Nacional",
+    "homeTeam": "Tigres FC",
+    "awayTeam": "Atletico Nacional",
+    "score": "0-2",
+    "matchId": "5067210",
+    "status": "39'",
+    "goals": [
+      "",
+      "30' Nicolas Santiago Rodriguez Calderon (0-1)",
+      "37' Alfredo Jose Morelos Avilez (0-2)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "19:00",
+    "start_time": "19:00",
+    "group": "CONCACAF U20",
+    "title": "El Salvador(U20) 0-0 USA(U20)",
+    "homeTeam": "El Salvador(U20)",
+    "awayTeam": "USA(U20)",
+    "score": "0-0",
+    "matchId": "5065656",
+    "status": "9'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "15:00",
+    "start_time": "15:00",
     "group": "ARG D1",
     "title": "San Lorenzo de Almagro 1-0 Gimnasia Mendoza",
     "homeTeam": "San Lorenzo de Almagro",
@@ -301,6 +370,29 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
+    "time": "16:58",
+    "start_time": "16:58",
+    "group": "COL Cup",
+    "title": "Bogota F.C. 0-3 Deportivo Pasto",
+    "homeTeam": "Bogota F.C.",
+    "awayTeam": "Deportivo Pasto",
+    "score": "0-3",
+    "matchId": "5067205",
+    "status": "ET",
+    "goals": [
+      "4' Jonathan Perlaza Ardila (0-1)",
+      "22' Jorge Leonardo Obregon Rojas (0-2)",
+      "",
+      "45+1' Jonathan Perlaza Ardila (0-3)",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
     "time": "18:10",
     "start_time": "18:10",
     "group": "CAN CPL",
@@ -309,7 +401,7 @@
     "awayTeam": "Supra Du Quebec",
     "score": "1-0",
     "matchId": "5033249",
-    "status": "44'",
+    "status": "HT",
     "goals": [
       "3' Nathaniel Edwards (1-0)",
       "",
@@ -341,52 +433,6 @@
       "49' Ronald Padilla (3-2)<br>53' El\u00edas Umeres (4-2)",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "16:58",
-    "start_time": "16:58",
-    "group": "COL Cup",
-    "title": "Bogota F.C. 0-3 Deportivo Pasto",
-    "homeTeam": "Bogota F.C.",
-    "awayTeam": "Deportivo Pasto",
-    "score": "0-3",
-    "matchId": "5067205",
-    "status": "ET",
-    "goals": [
-      "4' Jonathan Perlaza Ardila (0-1)",
-      "22' Jorge Leonardo Obregon Rojas (0-2)",
-      "",
-      "45+1' Jonathan Perlaza Ardila (0-3)",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-28",
-    "day": "Tuesday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "COTIF",
-    "title": "Morocco(U20) 2-0 Valencia(U20)",
-    "homeTeam": "Morocco(U20)",
-    "awayTeam": "Valencia(U20)",
-    "score": "2-0",
-    "matchId": "5143806",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' Hamza Raji (1-0)",
-      "",
-      "",
-      "",
-      "76' Yahya Iguiz (2-0)",
       ""
     ]
   },
@@ -439,24 +485,24 @@
   {
     "date": "2026-07-28",
     "day": "Tuesday",
-    "time": "16:15",
-    "start_time": "16:15",
-    "group": "COL Cup",
-    "title": "Deportes Quindio 2-1 Deportes Tolima",
-    "homeTeam": "Deportes Quindio",
-    "awayTeam": "Deportes Tolima",
-    "score": "2-1",
-    "matchId": "5067209",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "COTIF",
+    "title": "Morocco(U20) 2-0 Valencia(U20)",
+    "homeTeam": "Morocco(U20)",
+    "awayTeam": "Valencia(U20)",
+    "score": "2-0",
+    "matchId": "5143806",
     "status": "ET",
     "goals": [
       "",
       "",
+      "32' Hamza Raji (1-0)",
       "",
-      "45+3' Edwar Manuel Lopez Gomez (0-1)",
       "",
-      "65' Jose David Lloreda Guevara (1-1)",
       "",
-      "90+3' Jose David Lloreda Guevara (2-1)"
+      "76' Yahya Iguiz (2-0)",
+      ""
     ]
   },
   {
@@ -479,6 +525,29 @@
       "",
       "",
       "82' Santiago Lopez Grobin (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-28",
+    "day": "Tuesday",
+    "time": "19:06",
+    "start_time": "19:06",
+    "group": "CNCF CACup",
+    "title": "Diriangen 0-0 Plaza Amador",
+    "homeTeam": "Diriangen",
+    "awayTeam": "Plaza Amador",
+    "score": "0-0",
+    "matchId": "5077635",
+    "status": "3'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },

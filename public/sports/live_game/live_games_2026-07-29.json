@@ -25,6 +25,29 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "COL Cup",
+    "title": "Barranquilla FC 3-3 Junior FC",
+    "homeTeam": "Barranquilla FC",
+    "awayTeam": "Junior FC",
+    "score": "3-3",
+    "matchId": "5067204",
+    "status": "ET",
+    "goals": [
+      "3' Borja S. (1-0)<br>10' Jeison Suarez (1-1)",
+      "25' Guillermo Paiva (1-2)",
+      "",
+      "",
+      "",
+      "63' Cortez J. (2-2)<br>67' Lozano J. (3-2)",
+      "88' Luis Fernando Muriel Fruto (3-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
     "time": "17:31",
     "start_time": "17:31",
     "group": "ARG D1",
@@ -94,6 +117,29 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "ARG SFCup",
+    "title": "CA Timbuense 0-0 Central Cordoba De Rosario",
+    "homeTeam": "CA Timbuense",
+    "awayTeam": "Central Cordoba De Rosario",
+    "score": "0-0",
+    "matchId": "5144856",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
     "time": "17:06",
     "start_time": "17:06",
     "group": "USL L1",
@@ -134,29 +180,6 @@
       "48' Haley Elizabeth Hopkins (4-0)<br>52' D\u00e9bora Cristiane de Oliveira (5-0)",
       "",
       "81' Taylor Jacklyn Flint (5-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "ARG SFCup",
-    "title": "CA Timbuense 0-0 Central Cordoba De Rosario",
-    "homeTeam": "CA Timbuense",
-    "awayTeam": "Central Cordoba De Rosario",
-    "score": "0-0",
-    "matchId": "5144856",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -209,6 +232,29 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "SLV D1",
+    "title": "Municipal Limeno 2-0 Inca Aruba",
+    "homeTeam": "Municipal Limeno",
+    "awayTeam": "Inca Aruba",
+    "score": "2-0",
+    "matchId": "5135792",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "82' Mat\u00edas Bent\u00edn (1-0)",
+      "90+8' Juan Carlos Argueta (2-0)"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
     "time": "17:06",
     "start_time": "17:06",
     "group": "CNCF CACup",
@@ -250,29 +296,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "SLV D1",
-    "title": "Municipal Limeno 2-0 Inca Aruba",
-    "homeTeam": "Municipal Limeno",
-    "awayTeam": "Inca Aruba",
-    "score": "2-0",
-    "matchId": "5135792",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "82' Mat\u00edas Bent\u00edn (1-0)",
-      "90+8' Juan Carlos Argueta (2-0)"
     ]
   },
   {
@@ -485,6 +508,29 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "BRA CGD2",
+    "title": "Goiania 2-1 Gremio Anapolis",
+    "homeTeam": "Goiania",
+    "awayTeam": "Gremio Anapolis",
+    "score": "2-1",
+    "matchId": "5144996",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
     "time": "15:33",
     "start_time": "15:33",
     "group": "PAR D1",
@@ -501,6 +547,29 @@
       "",
       "",
       "62' Roque Santa Cruz (2-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
+    "time": "16:07",
+    "start_time": "16:07",
+    "group": "USLC",
+    "title": "Pittsburgh Riverhounds SC 0-1 FC Tulsa",
+    "homeTeam": "Pittsburgh Riverhounds SC",
+    "awayTeam": "FC Tulsa",
+    "score": "0-1",
+    "matchId": "5006802",
+    "status": "ET",
+    "goals": [
+      "13' Logan Dorsey (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -531,52 +600,6 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
-    "time": "16:07",
-    "start_time": "16:07",
-    "group": "USLC",
-    "title": "Pittsburgh Riverhounds SC 0-1 FC Tulsa",
-    "homeTeam": "Pittsburgh Riverhounds SC",
-    "awayTeam": "FC Tulsa",
-    "score": "0-1",
-    "matchId": "5006802",
-    "status": "ET",
-    "goals": [
-      "13' Logan Dorsey (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "BRA CGD2",
-    "title": "Goiania 2-1 Gremio Anapolis",
-    "homeTeam": "Goiania",
-    "awayTeam": "Gremio Anapolis",
-    "score": "2-1",
-    "matchId": "5144996",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
     "time": "15:16",
     "start_time": "15:16",
     "group": "ARG D1",
@@ -600,29 +623,6 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "INT CF",
-    "title": "Rio Verde GO 1-0 Tupy de Jussara",
-    "homeTeam": "Rio Verde GO",
-    "awayTeam": "Tupy de Jussara",
-    "score": "1-0",
-    "matchId": "5144726",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
     "time": "14:59",
     "start_time": "14:59",
     "group": "CON CSA",
@@ -640,6 +640,29 @@
       "",
       "",
       "85' Thiago Henrique Mendes Ribeiro (1-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "INT CF",
+    "title": "Rio Verde GO 1-0 Tupy de Jussara",
+    "homeTeam": "Rio Verde GO",
+    "awayTeam": "Tupy de Jussara",
+    "score": "1-0",
+    "matchId": "5144726",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -715,6 +738,29 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "BRA SPWL",
+    "title": "Palmeiras SP Women\\s 1-0 Corinthians Paulista SP Women\\s",
+    "homeTeam": "Palmeiras SP Women\\s",
+    "awayTeam": "Corinthians Paulista SP Women\\s",
+    "score": "1-0",
+    "matchId": "5065071",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
     "time": "16:06",
     "start_time": "16:06",
     "group": "USL L1",
@@ -763,29 +809,6 @@
     "day": "Wednesday",
     "time": "15:00",
     "start_time": "15:00",
-    "group": "BRA SPWL",
-    "title": "Palmeiras SP Women\\s 1-0 Corinthians Paulista SP Women\\s",
-    "homeTeam": "Palmeiras SP Women\\s",
-    "awayTeam": "Corinthians Paulista SP Women\\s",
-    "score": "1-0",
-    "matchId": "5065071",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "15:00",
-    "start_time": "15:00",
     "group": "ARG SFCup",
     "title": "Leones de Rosario 1-1 Newell\\s Old Boys",
     "homeTeam": "Leones de Rosario",
@@ -802,52 +825,6 @@
       "",
       "",
       "90' 1-1"
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "COL Cup",
-    "title": "Barranquilla FC 3-3 Junior FC",
-    "homeTeam": "Barranquilla FC",
-    "awayTeam": "Junior FC",
-    "score": "3-3",
-    "matchId": "5067204",
-    "status": "ET",
-    "goals": [
-      "3' Borja S. (1-0)<br>10' Jeison Suarez (1-1)",
-      "25' Guillermo Paiva (1-2)",
-      "",
-      "",
-      "",
-      "63' Cortez J. (2-2)<br>67' Lozano J. (3-2)",
-      "88' Luis Fernando Muriel Fruto (3-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "13:28",
-    "start_time": "13:28",
-    "group": "ECU D2",
-    "title": "Vinotinto FC 0-1 San Antonio FC(ECU)",
-    "homeTeam": "Vinotinto FC",
-    "awayTeam": "San Antonio FC(ECU)",
-    "score": "0-1",
-    "matchId": "5044178",
-    "status": "ET",
-    "goals": [
-      "5' Roberto Mu\u00f1oz (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -884,7 +861,7 @@
     "awayTeam": "Gotham FC Women\\s",
     "score": "0-1",
     "matchId": "5024401",
-    "status": "56'",
+    "status": "71'",
     "goals": [
       "3' Margaret Melinda Williams-Purce (0-1)",
       "",
@@ -902,12 +879,12 @@
     "time": "19:06",
     "start_time": "19:06",
     "group": "CNCF CACup",
-    "title": "Alianza San Salvador 1-0 Antigua GFC",
+    "title": "Alianza San Salvador 1-1 Antigua GFC",
     "homeTeam": "Alianza San Salvador",
     "awayTeam": "Antigua GFC",
-    "score": "1-0",
+    "score": "1-1",
     "matchId": "5077645",
-    "status": "63'",
+    "status": "78'",
     "goals": [
       "",
       "30' Harold Osorio (1-0)",
@@ -925,14 +902,37 @@
     "time": "19:06",
     "start_time": "19:06",
     "group": "CNCF CACup",
-    "title": "Liga Deportiva Alajuelense 0-0 CSD Xelaju MC",
+    "title": "Liga Deportiva Alajuelense 1-0 CSD Xelaju MC",
     "homeTeam": "Liga Deportiva Alajuelense",
     "awayTeam": "CSD Xelaju MC",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5077636",
-    "status": "62'",
+    "status": "77'",
     "goals": [
       "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
+    "time": "13:28",
+    "start_time": "13:28",
+    "group": "ECU D2",
+    "title": "Vinotinto FC 0-1 San Antonio FC(ECU)",
+    "homeTeam": "Vinotinto FC",
+    "awayTeam": "San Antonio FC(ECU)",
+    "score": "0-1",
+    "matchId": "5044178",
+    "status": "ET",
+    "goals": [
+      "5' Roberto Mu\u00f1oz (0-1)",
       "",
       "",
       "",
@@ -976,7 +976,7 @@
     "awayTeam": "Washington Spirit Women\\s",
     "score": "0-1",
     "matchId": "5024400",
-    "status": "HT",
+    "status": "57'",
     "goals": [
       "",
       "28' Trinity Rain Moyer-Rodman (0-1)",

@@ -56,7 +56,7 @@
     "awayTeam": "Santos Youth",
     "score": "0-0",
     "matchId": "5127933",
-    "status": "3'",
+    "status": "5'",
     "goals": [
       "",
       "",
@@ -148,7 +148,7 @@
     "awayTeam": "Recoleta FC",
     "score": "0-0",
     "matchId": "5119194",
-    "status": "3'",
+    "status": "5'",
     "goals": [
       "",
       "",
@@ -217,7 +217,7 @@
     "awayTeam": "Cuenca Juniors",
     "score": "0-0",
     "matchId": "5044171",
-    "status": "HT",
+    "status": "46'",
     "goals": [
       "",
       "",
@@ -286,7 +286,7 @@
     "awayTeam": "L.D.U.Portoviejo",
     "score": "1-0",
     "matchId": "5044169",
-    "status": "HT",
+    "status": "47'",
     "goals": [
       "",
       "",
@@ -355,7 +355,7 @@
     "awayTeam": "Morocco(U20)",
     "score": "1-0",
     "matchId": "5144852",
-    "status": "46'",
+    "status": "48'",
     "goals": [
       "1' Elyath El Hafedh (1-0)",
       "",
@@ -424,7 +424,7 @@
     "awayTeam": "Once Caldas",
     "score": "0-2",
     "matchId": "5067207",
-    "status": "HT",
+    "status": "46'",
     "goals": [
       "3' Edwin Andres Torres Palacios (0-1)",
       "",
@@ -516,7 +516,7 @@
     "awayTeam": "Leones del Norte",
     "score": "6-0",
     "matchId": "5121630",
-    "status": "77'",
+    "status": "79'",
     "goals": [
       "4' Michael Estrada (1-0)",
       "18' Michael Estrada (2-0)<br>25' Jos\u00e9 Carabal\u00ed (3-0)<br>26' Janner Corozo (4-0)<br>29' Michael Estrada (5-0)",
@@ -608,7 +608,7 @@
     "awayTeam": "Colombia(U23)",
     "score": "0-0",
     "matchId": "5141882",
-    "status": "75'",
+    "status": "77'",
     "goals": [
       "",
       "",
@@ -677,7 +677,7 @@
     "awayTeam": "Venezuela(U23)",
     "score": "0-0",
     "matchId": "5141880",
-    "status": "72'",
+    "status": "74'",
     "goals": [
       "",
       "",
@@ -769,7 +769,7 @@
     "awayTeam": "Algeria Women\\s",
     "score": "0-0",
     "matchId": "5025502",
-    "status": "73'",
+    "status": "75'",
     "goals": [
       "",
       "",
@@ -1658,6 +1658,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "Coal India 0-1 Calcutta Police Club",
+    "homeTeam": "Coal India",
+    "awayTeam": "Calcutta Police Club",
+    "score": "0-1",
+    "matchId": "5145000",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "UEFA ECL",
@@ -2210,29 +2233,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "RUS Cup",
-    "title": "FC Chita 3-0 Irkutsk",
-    "homeTeam": "FC Chita",
-    "awayTeam": "Irkutsk",
-    "score": "3-0",
-    "matchId": "5082321",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "11:02",
     "start_time": "11:02",
     "group": "PAR RL",
@@ -2272,6 +2272,52 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "RUS Cup",
+    "title": "FC Chita 3-0 Irkutsk",
+    "homeTeam": "FC Chita",
+    "awayTeam": "Irkutsk",
+    "score": "3-0",
+    "matchId": "5082321",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "08:03",
+    "start_time": "08:03",
+    "group": "UZB D1A",
+    "title": "Shurtan Guzar 2-1 Respublika FA",
+    "homeTeam": "Shurtan Guzar",
+    "awayTeam": "Respublika FA",
+    "score": "2-1",
+    "matchId": "5050363",
+    "status": "ET",
+    "goals": [
+      "3' Yuriy Klochkov (1-0)",
+      "",
+      "35' Javohir Xasanov (2-0)",
+      "",
+      "",
+      "65' B. Abdusattorov (2-1)",
       "",
       ""
     ]
@@ -3176,29 +3222,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "08:03",
-    "start_time": "08:03",
-    "group": "UZB D1A",
-    "title": "Shurtan Guzar 2-1 Respublika FA",
-    "homeTeam": "Shurtan Guzar",
-    "awayTeam": "Respublika FA",
-    "score": "2-1",
-    "matchId": "5050363",
-    "status": "ET",
-    "goals": [
-      "3' Yuriy Klochkov (1-0)",
-      "",
-      "35' Javohir Xasanov (2-0)",
-      "",
-      "",
-      "65' B. Abdusattorov (2-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "10:30",
     "start_time": "10:30",
     "group": "INT CF",
@@ -3636,29 +3659,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "10:06",
-    "start_time": "10:06",
-    "group": "ARG RL",
-    "title": "Atletico Fenix Reserve 4-6 Deportivo Paraguayo Reserve",
-    "homeTeam": "Atletico Fenix Reserve",
-    "awayTeam": "Deportivo Paraguayo Reserve",
-    "score": "4-6",
-    "matchId": "5145122",
-    "status": "ET",
-    "goals": [
-      "7' 0-1<br>9' 0-2",
-      "",
-      "32' 1-2<br>35' 1-3",
-      "",
-      "50' 1-4<br>58' 1-5",
-      "74' 1-6",
-      "76' 2-6<br>78' 3-6<br>83' 4-6",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "07:00",
     "start_time": "07:00",
     "group": "INT CF",
@@ -3682,23 +3682,23 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "Coal India 0-1 Calcutta Police Club",
-    "homeTeam": "Coal India",
-    "awayTeam": "Calcutta Police Club",
-    "score": "0-1",
-    "matchId": "5145000",
+    "time": "10:06",
+    "start_time": "10:06",
+    "group": "ARG RL",
+    "title": "Atletico Fenix Reserve 4-6 Deportivo Paraguayo Reserve",
+    "homeTeam": "Atletico Fenix Reserve",
+    "awayTeam": "Deportivo Paraguayo Reserve",
+    "score": "4-6",
+    "matchId": "5145122",
     "status": "ET",
     "goals": [
+      "7' 0-1<br>9' 0-2",
       "",
+      "32' 1-2<br>35' 1-3",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
+      "50' 1-4<br>58' 1-5",
+      "74' 1-6",
+      "76' 2-6<br>78' 3-6<br>83' 4-6",
       ""
     ]
   },

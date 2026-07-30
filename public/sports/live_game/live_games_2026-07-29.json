@@ -4,52 +4,6 @@
     "day": "Wednesday",
     "time": "17:30",
     "start_time": "17:30",
-    "group": "CON CSA",
-    "title": "Red Bull Bragantino 1-0 Sporting Cristal",
-    "homeTeam": "Red Bull Bragantino",
-    "awayTeam": "Sporting Cristal",
-    "score": "1-0",
-    "matchId": "5071135",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "59' Pedro Henrique Ribeiro Goncalves (1-0)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "INT CF",
-    "title": "Morrinhos GO 1-2 Bom Jesus",
-    "homeTeam": "Morrinhos GO",
-    "awayTeam": "Bom Jesus",
-    "score": "1-2",
-    "matchId": "5144623",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "17:30",
-    "start_time": "17:30",
     "group": "BRA D1",
     "title": "Esporte Clube Vitoria 0-4 Palmeiras",
     "homeTeam": "Esporte Clube Vitoria",
@@ -117,6 +71,29 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "INT CF",
+    "title": "Morrinhos GO 1-2 Bom Jesus",
+    "homeTeam": "Morrinhos GO",
+    "awayTeam": "Bom Jesus",
+    "score": "1-2",
+    "matchId": "5144623",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
     "time": "17:20",
     "start_time": "17:20",
     "group": "INT CF",
@@ -163,29 +140,6 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "ARG SFCup",
-    "title": "CA Timbuense 0-0 Central Cordoba De Rosario",
-    "homeTeam": "CA Timbuense",
-    "awayTeam": "Central Cordoba De Rosario",
-    "score": "0-0",
-    "matchId": "5144856",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
     "time": "17:06",
     "start_time": "17:06",
     "group": "USL L1",
@@ -209,14 +163,14 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
-    "time": "16:01",
-    "start_time": "16:01",
-    "group": "CNCF WCAC",
-    "title": "Mexico Women\\s 0-0 Puerto Rico Women\\s",
-    "homeTeam": "Mexico Women\\s",
-    "awayTeam": "Puerto Rico Women\\s",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "ARG SFCup",
+    "title": "CA Timbuense 0-0 Central Cordoba De Rosario",
+    "homeTeam": "CA Timbuense",
+    "awayTeam": "Central Cordoba De Rosario",
     "score": "0-0",
-    "matchId": "5135731",
+    "matchId": "5144856",
     "status": "ET",
     "goals": [
       "",
@@ -250,6 +204,52 @@
       "",
       "81' Taylor Jacklyn Flint (5-1)",
       ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
+    "time": "16:01",
+    "start_time": "16:01",
+    "group": "CNCF WCAC",
+    "title": "Mexico Women\\s 0-0 Puerto Rico Women\\s",
+    "homeTeam": "Mexico Women\\s",
+    "awayTeam": "Puerto Rico Women\\s",
+    "score": "0-0",
+    "matchId": "5135731",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "ECU Cup",
+    "title": "Independiente Del Valle 1-0 Manta F.C.",
+    "homeTeam": "Independiente Del Valle",
+    "awayTeam": "Manta F.C.",
+    "score": "1-0",
+    "matchId": "5121628",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "90+5' Layan Loor (1-0)"
     ]
   },
   {
@@ -296,29 +296,6 @@
       "",
       "82' Mat\u00edas Bent\u00edn (1-0)",
       "90+8' Juan Carlos Argueta (2-0)"
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "ECU Cup",
-    "title": "Independiente Del Valle 1-0 Manta F.C.",
-    "homeTeam": "Independiente Del Valle",
-    "awayTeam": "Manta F.C.",
-    "score": "1-0",
-    "matchId": "5121628",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "90+5' Layan Loor (1-0)"
     ]
   },
   {
@@ -416,6 +393,29 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
+    "time": "15:31",
+    "start_time": "15:31",
+    "group": "BRA CGD2",
+    "title": "Trindade AC 2-2 Minas MG",
+    "homeTeam": "Trindade AC",
+    "awayTeam": "Minas MG",
+    "score": "2-2",
+    "matchId": "5144995",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
     "time": "16:00",
     "start_time": "16:00",
     "group": "INT CF",
@@ -432,6 +432,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
+    "time": "16:36",
+    "start_time": "16:36",
+    "group": "INT CF",
+    "title": "Liverpool F.C. 1-0 Wrexham A.F.C.",
+    "homeTeam": "Liverpool F.C.",
+    "awayTeam": "Wrexham A.F.C.",
+    "score": "1-0",
+    "matchId": "5140302",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "75' Rio Ngumoha (1-0)",
       "",
       ""
     ]
@@ -462,14 +485,14 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
-    "time": "16:36",
-    "start_time": "16:36",
+    "time": "16:00",
+    "start_time": "16:00",
     "group": "INT CF",
-    "title": "Liverpool F.C. 1-0 Wrexham A.F.C.",
-    "homeTeam": "Liverpool F.C.",
-    "awayTeam": "Wrexham A.F.C.",
-    "score": "1-0",
-    "matchId": "5140302",
+    "title": "Goianesia GO 3-2 Crixas FC",
+    "homeTeam": "Goianesia GO",
+    "awayTeam": "Crixas FC",
+    "score": "3-2",
+    "matchId": "5144628",
     "status": "ET",
     "goals": [
       "",
@@ -477,7 +500,7 @@
       "",
       "",
       "",
-      "75' Rio Ngumoha (1-0)",
+      "",
       "",
       ""
     ]
@@ -508,23 +531,23 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "INT CF",
-    "title": "Goianesia GO 3-2 Crixas FC",
-    "homeTeam": "Goianesia GO",
-    "awayTeam": "Crixas FC",
-    "score": "3-2",
-    "matchId": "5144628",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "COL Cup",
+    "title": "Barranquilla FC 3-3 Junior FC",
+    "homeTeam": "Barranquilla FC",
+    "awayTeam": "Junior FC",
+    "score": "3-3",
+    "matchId": "5067204",
     "status": "ET",
     "goals": [
+      "3' Borja S. (1-0)<br>10' Jeison Suarez (1-1)",
+      "25' Guillermo Paiva (1-2)",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
+      "63' Cortez J. (2-2)<br>67' Lozano J. (3-2)",
+      "88' Luis Fernando Muriel Fruto (3-3)",
       ""
     ]
   },
@@ -548,6 +571,29 @@
       "",
       "",
       "76' Alan Pereira (0-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "CON CSA",
+    "title": "Red Bull Bragantino 1-0 Sporting Cristal",
+    "homeTeam": "Red Bull Bragantino",
+    "awayTeam": "Sporting Cristal",
+    "score": "1-0",
+    "matchId": "5071135",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "59' Pedro Henrique Ribeiro Goncalves (1-0)",
+      "",
+      "",
       ""
     ]
   },
@@ -646,29 +692,6 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
-    "time": "15:06",
-    "start_time": "15:06",
-    "group": "INT CF",
-    "title": "Falcon FC SE 3-0 Guarany SE",
-    "homeTeam": "Falcon FC SE",
-    "awayTeam": "Guarany SE",
-    "score": "3-0",
-    "matchId": "5144990",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
     "time": "14:59",
     "start_time": "14:59",
     "group": "CON CSA",
@@ -692,23 +715,23 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "COL Cup",
-    "title": "Barranquilla FC 3-3 Junior FC",
-    "homeTeam": "Barranquilla FC",
-    "awayTeam": "Junior FC",
-    "score": "3-3",
-    "matchId": "5067204",
+    "time": "15:06",
+    "start_time": "15:06",
+    "group": "INT CF",
+    "title": "Falcon FC SE 3-0 Guarany SE",
+    "homeTeam": "Falcon FC SE",
+    "awayTeam": "Guarany SE",
+    "score": "3-0",
+    "matchId": "5144990",
     "status": "ET",
     "goals": [
-      "3' Borja S. (1-0)<br>10' Jeison Suarez (1-1)",
-      "25' Guillermo Paiva (1-2)",
       "",
       "",
       "",
-      "63' Cortez J. (2-2)<br>67' Lozano J. (3-2)",
-      "88' Luis Fernando Muriel Fruto (3-3)",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -784,29 +807,6 @@
   {
     "date": "2026-07-29",
     "day": "Wednesday",
-    "time": "15:31",
-    "start_time": "15:31",
-    "group": "BRA CGD2",
-    "title": "Trindade AC 2-2 Minas MG",
-    "homeTeam": "Trindade AC",
-    "awayTeam": "Minas MG",
-    "score": "2-2",
-    "matchId": "5144995",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "BRA SPWL",
@@ -825,29 +825,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-07-29",
-    "day": "Wednesday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "CON CSA",
-    "title": "Cienciano 4-0 Club Atletico Lanus",
-    "homeTeam": "Cienciano",
-    "awayTeam": "Club Atletico Lanus",
-    "score": "4-0",
-    "matchId": "5071129",
-    "status": "ET",
-    "goals": [
-      "7' Carlos Jhon Garces Acosta (1-0)",
-      "",
-      "40' Alejandro Hohberg Gonzalez (2-0)",
-      "45+1' Carlos Jhon Garces Acosta (3-0)",
-      "",
-      "",
-      "",
-      "90+5' Alejandro Hohberg Gonzalez (4-0)"
     ]
   },
   {
@@ -930,9 +907,9 @@
     "awayTeam": "Gotham FC Women\\s",
     "score": "0-1",
     "matchId": "5024401",
-    "status": "17'",
+    "status": "33'",
     "goals": [
-      "3' Margaret Melinda Williams-Purce (0-1)<br>8' Kennedy Linh Fuller (1-1)",
+      "3' Margaret Melinda Williams-Purce (0-1)",
       "",
       "",
       "",
@@ -948,15 +925,15 @@
     "time": "19:06",
     "start_time": "19:06",
     "group": "CNCF CACup",
-    "title": "Alianza San Salvador 0-0 Antigua GFC",
+    "title": "Alianza San Salvador 1-0 Antigua GFC",
     "homeTeam": "Alianza San Salvador",
     "awayTeam": "Antigua GFC",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5077645",
-    "status": "24'",
+    "status": "40'",
     "goals": [
       "",
-      "",
+      "30' Harold Osorio (1-0)",
       "",
       "",
       "",
@@ -976,7 +953,7 @@
     "awayTeam": "CSD Xelaju MC",
     "score": "0-0",
     "matchId": "5077636",
-    "status": "24'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -999,7 +976,7 @@
     "awayTeam": "Alianza San Salvador Women\\s",
     "score": "1-0",
     "matchId": "5145011",
-    "status": "HT",
+    "status": "61'",
     "goals": [
       "",
       "28' Alexandra Pinell (1-0)",
@@ -1022,14 +999,14 @@
     "awayTeam": "Fuerte San Francisco",
     "score": "4-0",
     "matchId": "5135793",
-    "status": "71'",
+    "status": "87'",
     "goals": [
       "13' Styven V\u00e1squez (1-0)",
       "27' V\u00edctor Garc\u00eda (2-0)",
       "",
       "",
       "",
-      "63' 3-0",
+      "63' V\u00edctor Garc\u00eda (3-0)<br>69' Styven V\u00e1squez (4-0)",
       "",
       ""
     ]
@@ -1045,14 +1022,14 @@
     "awayTeam": "Honduras(U20)",
     "score": "1-1",
     "matchId": "5065658",
-    "status": "73'",
+    "status": "89'",
     "goals": [
       "",
       "",
       "",
       "",
       "57' Lucas Lima (1-0)",
-      "64' 1-1",
+      "64' Richard Mart\u00ednez (1-1)",
       "",
       ""
     ]
@@ -1068,7 +1045,7 @@
     "awayTeam": "America de Cali",
     "score": "1-1",
     "matchId": "5067206",
-    "status": "69'",
+    "status": "85'",
     "goals": [
       "",
       "17' Carlos Yesith De Las Salas Simanca (1-0)<br>26' Jorge Daniel Valencia Angulo (1-1)",
@@ -1078,6 +1055,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "day": "Wednesday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "CON CSA",
+    "title": "Cienciano 4-0 Club Atletico Lanus",
+    "homeTeam": "Cienciano",
+    "awayTeam": "Club Atletico Lanus",
+    "score": "4-0",
+    "matchId": "5071129",
+    "status": "ET",
+    "goals": [
+      "7' Carlos Jhon Garces Acosta (1-0)",
+      "",
+      "40' Alejandro Hohberg Gonzalez (2-0)",
+      "45+1' Carlos Jhon Garces Acosta (3-0)",
+      "",
+      "",
+      "",
+      "90+5' Alejandro Hohberg Gonzalez (4-0)"
     ]
   },
   {

@@ -48,6 +48,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "Coal India 0-1 Calcutta Police Club",
+    "homeTeam": "Coal India",
+    "awayTeam": "Calcutta Police Club",
+    "score": "0-1",
+    "matchId": "5145000",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "ISR LLTTC",
@@ -370,6 +393,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "ECU Cup",
+    "title": "Liga Deportiva Universitaria 0-0 Leones del Norte",
+    "homeTeam": "Liga Deportiva Universitaria",
+    "awayTeam": "Leones del Norte",
+    "score": "0-0",
+    "matchId": "5121630",
+    "status": "0'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "ISR LLTTC",
@@ -432,6 +478,29 @@
       "",
       "",
       "61' Mogel K. (1-2)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "CNCF CAC",
+    "title": "Panama(U23) 0-0 Colombia(U23)",
+    "homeTeam": "Panama(U23)",
+    "awayTeam": "Colombia(U23)",
+    "score": "0-0",
+    "matchId": "5141882",
+    "status": "0'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -922,6 +991,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "08:03",
+    "start_time": "08:03",
+    "group": "UZB D1A",
+    "title": "Shurtan Guzar 2-1 Respublika FA",
+    "homeTeam": "Shurtan Guzar",
+    "awayTeam": "Respublika FA",
+    "score": "2-1",
+    "matchId": "5050363",
+    "status": "ET",
+    "goals": [
+      "3' Yuriy Klochkov (1-0)",
+      "",
+      "35' Javohir Xasanov (2-0)",
+      "",
+      "",
+      "65' B. Abdusattorov (2-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "12:00",
     "start_time": "12:00",
     "group": "UEFA ECL",
@@ -1160,7 +1252,7 @@
     "awayTeam": "NSI Runavik",
     "score": "0-1",
     "matchId": "5129798",
-    "status": "53'",
+    "status": "57'",
     "goals": [
       "",
       "",
@@ -1229,7 +1321,7 @@
     "awayTeam": "HJK Helsinki",
     "score": "0-3",
     "matchId": "5080287",
-    "status": "55'",
+    "status": "59'",
     "goals": [
       "12' Toivo Mero (0-1)",
       "",
@@ -1298,7 +1390,7 @@
     "awayTeam": "Istres",
     "score": "1-1",
     "matchId": "5145030",
-    "status": "69'",
+    "status": "73'",
     "goals": [
       "",
       "",
@@ -1336,29 +1428,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "Coal India 0-1 Calcutta Police Club",
-    "homeTeam": "Coal India",
-    "awayTeam": "Calcutta Police Club",
-    "score": "0-1",
-    "matchId": "5145000",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "UEFA ECL",
@@ -1367,7 +1436,7 @@
     "awayTeam": "MSK Zilina",
     "score": "1-1",
     "matchId": "5129795",
-    "status": "70'",
+    "status": "74'",
     "goals": [
       "",
       "",
@@ -1436,7 +1505,7 @@
     "awayTeam": "FC Alashkert",
     "score": "2-0",
     "matchId": "5129811",
-    "status": "69'",
+    "status": "73'",
     "goals": [
       "3' Karlo Muhar (1-0)",
       "",
@@ -1482,7 +1551,7 @@
     "awayTeam": "FK Liepaja",
     "score": "3-1",
     "matchId": "5129810",
-    "status": "67'",
+    "status": "71'",
     "goals": [
       "4' Amar Haidara (0-1)",
       "19' Feddersen J. (1-1)<br>29' Kelvin Owusu Boateng (2-1)",
@@ -1528,7 +1597,7 @@
     "awayTeam": "Valur",
     "score": "1-2",
     "matchId": "5080312",
-    "status": "67'",
+    "status": "71'",
     "goals": [
       "11' Nemanja Bilbija (1-0)",
       "",
@@ -1574,7 +1643,7 @@
     "awayTeam": "Paksi FC",
     "score": "1-2",
     "matchId": "5080305",
-    "status": "68'",
+    "status": "72'",
     "goals": [
       "",
       "",
@@ -1643,7 +1712,7 @@
     "awayTeam": "FC LNZ Cherkasy",
     "score": "0-0",
     "matchId": "5080295",
-    "status": "69'",
+    "status": "73'",
     "goals": [
       "",
       "",
@@ -1689,7 +1758,7 @@
     "awayTeam": "FC Twente",
     "score": "2-0",
     "matchId": "5128629",
-    "status": "68'",
+    "status": "72'",
     "goals": [
       "",
       "22' Toon Raemaekers (1-0)",
@@ -1735,7 +1804,7 @@
     "awayTeam": "Hammarby",
     "score": "1-1",
     "matchId": "5080222",
-    "status": "68'",
+    "status": "72'",
     "goals": [
       "2' Paulos Abraham (0-1)",
       "",
@@ -1804,7 +1873,7 @@
     "awayTeam": "BATE Borisov",
     "score": "4-0",
     "matchId": "5129808",
-    "status": "82'",
+    "status": "86'",
     "goals": [
       "5' Winsley Boteli (1-0)",
       "",
@@ -1850,7 +1919,7 @@
     "awayTeam": "Partizan Belgrade",
     "score": "0-1",
     "matchId": "5129809",
-    "status": "85'",
+    "status": "89'",
     "goals": [
       "",
       "",
@@ -1896,6 +1965,29 @@
     "awayTeam": "Spartak Sobeslav",
     "score": "3-2",
     "matchId": "5111174",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "RUS Cup",
+    "title": "FC Chita 3-0 Irkutsk",
+    "homeTeam": "FC Chita",
+    "awayTeam": "Irkutsk",
+    "score": "3-0",
+    "matchId": "5082321",
     "status": "ET",
     "goals": [
       "",
@@ -2034,7 +2126,7 @@
     "awayTeam": "CA Atlas",
     "score": "1-1",
     "matchId": "5015162",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "5' Dylan Albornoz (1-0)",
       "",
@@ -2082,11 +2174,11 @@
     "matchId": "5145114",
     "status": "ET",
     "goals": [
-      "7' (Missed Pen)</font> (0-1)<br>7' 0-2<br>7' 0-3",
-      "27' 1-3<br>27' 2-3",
+      "7' (Missed Pen)</font> (0-1)<br>7' 0-2<br>7' 0-3<br>7' 0-4<br>7' 0-5<br>7' 0-6<br>7' 0-7",
+      "27' 1-7<br>27' 2-7<br>27' 3-7<br>27' 4-7<br>27' 5-7<br>27' 6-7",
       "",
       "",
-      "56' 2-4<br>56' 2-5",
+      "56' 6-8<br>56' 6-9<br>56' 6-10<br>56' 6-11<br>56' 6-12<br>56' 6-13",
       "",
       "",
       ""
@@ -2195,7 +2287,7 @@
     "awayTeam": "Sportivo Italiano Reserve",
     "score": "1-0",
     "matchId": "5145089",
-    "status": "78'",
+    "status": "82'",
     "goals": [
       "",
       "",
@@ -2241,7 +2333,7 @@
     "awayTeam": "Temperley Reserve",
     "score": "0-3",
     "matchId": "5145071",
-    "status": "86'",
+    "status": "90'",
     "goals": [
       "2' 0-1",
       "",
@@ -2448,7 +2540,7 @@
     "awayTeam": "Mirassol SP Youth",
     "score": "2-1",
     "matchId": "5069461",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "4' 1-0<br>10' 2-0",
       "19' 2-1",
@@ -2678,7 +2770,7 @@
     "awayTeam": "Hapoel Tel Aviv F.C.",
     "score": "2-2",
     "matchId": "5080300",
-    "status": "89'",
+    "status": "90+'",
     "goals": [
       "",
       "16' Emmanuel Okyere Boateng (0-1)",
@@ -2854,29 +2946,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "08:03",
-    "start_time": "08:03",
-    "group": "UZB D1A",
-    "title": "Shurtan Guzar 2-1 Respublika FA",
-    "homeTeam": "Shurtan Guzar",
-    "awayTeam": "Respublika FA",
-    "score": "2-1",
-    "matchId": "5050363",
-    "status": "ET",
-    "goals": [
-      "3' Yuriy Klochkov (1-0)",
-      "",
-      "35' Javohir Xasanov (2-0)",
-      "",
-      "",
-      "65' B. Abdusattorov (2-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "10:30",
     "start_time": "10:30",
     "group": "INT CF",
@@ -2963,29 +3032,6 @@
       "",
       "",
       "84' Vagiz Galiulin (0-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "RUS Cup",
-    "title": "FC Chita 3-0 Irkutsk",
-    "homeTeam": "FC Chita",
-    "awayTeam": "Irkutsk",
-    "score": "3-0",
-    "matchId": "5082321",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },

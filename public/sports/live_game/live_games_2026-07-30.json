@@ -244,7 +244,7 @@
     "goals": [
       "",
       "",
-      "35' 1-0",
+      "35' Fidel Mart\u00ednez (1-0)",
       "",
       "",
       "",
@@ -309,7 +309,7 @@
     "awayTeam": "Morocco(U20)",
     "score": "1-0",
     "matchId": "5144852",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "1' Elyath El Hafedh (1-0)",
       "",
@@ -470,7 +470,7 @@
     "awayTeam": "Leones del Norte",
     "score": "6-0",
     "matchId": "5121630",
-    "status": "67'",
+    "status": "71'",
     "goals": [
       "4' Michael Estrada (1-0)",
       "18' Michael Estrada (2-0)<br>25' Jos\u00e9 Carabal\u00ed (3-0)<br>26' Janner Corozo (4-0)<br>29' Michael Estrada (5-0)",
@@ -562,7 +562,7 @@
     "awayTeam": "Colombia(U23)",
     "score": "0-0",
     "matchId": "5141882",
-    "status": "65'",
+    "status": "69'",
     "goals": [
       "",
       "",
@@ -631,7 +631,30 @@
     "awayTeam": "Venezuela(U23)",
     "score": "0-0",
     "matchId": "5141880",
-    "status": "62'",
+    "status": "66'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "Coal India 0-1 Calcutta Police Club",
+    "homeTeam": "Coal India",
+    "awayTeam": "Calcutta Police Club",
+    "score": "0-1",
+    "matchId": "5145000",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -723,7 +746,7 @@
     "awayTeam": "Algeria Women\\s",
     "score": "0-0",
     "matchId": "5025502",
-    "status": "63'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -1543,6 +1566,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "RUS Cup",
+    "title": "FC Chita 3-0 Irkutsk",
+    "homeTeam": "FC Chita",
+    "awayTeam": "Irkutsk",
+    "score": "3-0",
+    "matchId": "5082321",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "03:30",
     "start_time": "03:30",
     "group": "IND SSL",
@@ -1612,6 +1658,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "08:03",
+    "start_time": "08:03",
+    "group": "UZB D1A",
+    "title": "Shurtan Guzar 2-1 Respublika FA",
+    "homeTeam": "Shurtan Guzar",
+    "awayTeam": "Respublika FA",
+    "score": "2-1",
+    "matchId": "5050363",
+    "status": "ET",
+    "goals": [
+      "3' Yuriy Klochkov (1-0)",
+      "",
+      "35' Javohir Xasanov (2-0)",
+      "",
+      "",
+      "65' B. Abdusattorov (2-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "UEFA ECL",
@@ -1653,29 +1722,6 @@
       "",
       "",
       "93' Adam Bergmark Wiberg (0-2)<br>103' Saidou Alioum (0-3)<br>120+1' Maksimilian Skvortsov (1-3)"
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "Coal India 0-1 Calcutta Police Club",
-    "homeTeam": "Coal India",
-    "awayTeam": "Calcutta Police Club",
-    "score": "0-1",
-    "matchId": "5145000",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -2647,29 +2693,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "RUS Cup",
-    "title": "FC Chita 3-0 Irkutsk",
-    "homeTeam": "FC Chita",
-    "awayTeam": "Irkutsk",
-    "score": "3-0",
-    "matchId": "5082321",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "BRA SPY",
@@ -3309,29 +3332,6 @@
       "",
       "81' Meyrbek Rejabaliyev (1-3)",
       "90+2' Abdug\u02bbafur Haydarov (1-4)"
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
-    "time": "08:03",
-    "start_time": "08:03",
-    "group": "UZB D1A",
-    "title": "Shurtan Guzar 2-1 Respublika FA",
-    "homeTeam": "Shurtan Guzar",
-    "awayTeam": "Respublika FA",
-    "score": "2-1",
-    "matchId": "5050363",
-    "status": "ET",
-    "goals": [
-      "3' Yuriy Klochkov (1-0)",
-      "",
-      "35' Javohir Xasanov (2-0)",
-      "",
-      "",
-      "65' B. Abdusattorov (2-1)",
-      "",
-      ""
     ]
   },
   {

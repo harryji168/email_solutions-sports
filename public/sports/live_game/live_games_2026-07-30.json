@@ -71,6 +71,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "BRA U20",
+    "title": "Vasco da Gama Youth 2-0 Santos Youth",
+    "homeTeam": "Vasco da Gama Youth",
+    "awayTeam": "Santos Youth",
+    "score": "2-0",
+    "matchId": "5127933",
+    "status": "ET",
+    "goals": [
+      "15' Andrey Fernandes (1-0)",
+      "",
+      "36' Andrey Fernandes (2-0)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "13:30",
     "start_time": "13:30",
     "group": "COL Cup",
@@ -148,7 +171,7 @@
     "awayTeam": "Cruzeiro (MG)",
     "score": "0-1",
     "matchId": "5006397",
-    "status": "84'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -186,29 +209,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA U20",
-    "title": "Vasco da Gama Youth 2-0 Santos Youth",
-    "homeTeam": "Vasco da Gama Youth",
-    "awayTeam": "Santos Youth",
-    "score": "2-0",
-    "matchId": "5127933",
-    "status": "ET",
-    "goals": [
-      "15' Andrey Fernandes (1-0)",
-      "",
-      "36' Andrey Fernandes (2-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "19:03",
     "start_time": "19:03",
     "group": "SLV D1",
@@ -217,7 +217,7 @@
     "awayTeam": "Aguila",
     "score": "0-0",
     "matchId": "5135795",
-    "status": "13'",
+    "status": "28'",
     "goals": [
       "",
       "",
@@ -240,7 +240,7 @@
     "awayTeam": "Marathon",
     "score": "0-0",
     "matchId": "5077646",
-    "status": "54'",
+    "status": "69'",
     "goals": [
       "",
       "",
@@ -263,7 +263,7 @@
     "awayTeam": "CSyD Dorados de Sinaloa",
     "score": "0-2",
     "matchId": "5108926",
-    "status": "58'",
+    "status": "73'",
     "goals": [
       "",
       "26' Jhan Carlos Rengifo Estupi\u00f1an (0-1)",
@@ -281,19 +281,19 @@
     "time": "18:00",
     "start_time": "18:00",
     "group": "CONCACAF U20",
-    "title": "Mexico(U20) 2-0 Guatemala(U20)",
+    "title": "Mexico(U20) 3-0 Guatemala(U20)",
     "homeTeam": "Mexico(U20)",
     "awayTeam": "Guatemala(U20)",
-    "score": "2-0",
+    "score": "3-0",
     "matchId": "5065660",
-    "status": "60'",
+    "status": "75'",
     "goals": [
       "",
       "",
       "",
       "45' Diego Ramirez (1-0)",
       "54' Hugo Camberos (2-0)",
-      "",
+      "65' Luis Gamboa (3-0)",
       "",
       ""
     ]
@@ -304,19 +304,19 @@
     "time": "18:00",
     "start_time": "18:00",
     "group": "COL D1",
-    "title": "Atletico Bucaramanga 1-0 Llaneros FC",
+    "title": "Atletico Bucaramanga 1-1 Llaneros FC",
     "homeTeam": "Atletico Bucaramanga",
     "awayTeam": "Llaneros FC",
-    "score": "1-0",
+    "score": "1-1",
     "matchId": "5072359",
-    "status": "57'",
+    "status": "72'",
     "goals": [
       "",
       "",
       "",
       "",
       "54' Fabian Hector Sambueza (1-0)",
-      "",
+      "69' Francisco Javier Meza Palma (1-1)",
       "",
       ""
     ]
@@ -336,29 +336,6 @@
     "goals": [
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
-    "time": "16:03",
-    "start_time": "16:03",
-    "group": "CON CSA",
-    "title": "Gremio FBPA 0-1 Club Bolivar",
-    "homeTeam": "Gremio FBPA",
-    "awayTeam": "Club Bolivar",
-    "score": "0-1",
-    "matchId": "5071125",
-    "status": "ET",
-    "goals": [
-      "",
-      "16' Dairon Estibens Asprilla Rivas (0-1)",
       "",
       "",
       "",
@@ -393,22 +370,22 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "17:30",
-    "start_time": "17:30",
+    "time": "16:03",
+    "start_time": "16:03",
     "group": "CON CSA",
-    "title": "O Higgins 1-0 Boca Juniors",
-    "homeTeam": "O Higgins",
-    "awayTeam": "Boca Juniors",
-    "score": "1-0",
-    "matchId": "5071123",
-    "status": "87'",
+    "title": "Gremio FBPA 0-1 Club Bolivar",
+    "homeTeam": "Gremio FBPA",
+    "awayTeam": "Club Bolivar",
+    "score": "0-1",
+    "matchId": "5071125",
+    "status": "ET",
     "goals": [
       "",
+      "16' Dairon Estibens Asprilla Rivas (0-1)",
       "",
       "",
       "",
       "",
-      "72' Francisco Gonzalez (1-0)",
       "",
       ""
     ]
@@ -508,29 +485,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "CNCF CAC",
-    "title": "Cuba U23 1-0 Costa Rica(U23)",
-    "homeTeam": "Cuba U23",
-    "awayTeam": "Costa Rica(U23)",
-    "score": "1-0",
-    "matchId": "5141883",
-    "status": "ET",
-    "goals": [
-      "",
-      "28' Alessio Raballo (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "17:15",
     "start_time": "17:15",
     "group": "ARG D1",
@@ -572,6 +526,29 @@
       "",
       "85' Joaqu\u00edn Andr\u00e9s Bogar\u00edn G\u00f3mez (3-1)",
       "90+1' Elvio Vera (4-1)"
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "CNCF CAC",
+    "title": "Cuba U23 1-0 Costa Rica(U23)",
+    "homeTeam": "Cuba U23",
+    "awayTeam": "Costa Rica(U23)",
+    "score": "1-0",
+    "matchId": "5141883",
+    "status": "ET",
+    "goals": [
+      "",
+      "28' Alessio Raballo (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -631,7 +608,7 @@
     "awayTeam": "Independiente Santa Fe",
     "score": "0-3",
     "matchId": "5071133",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "",

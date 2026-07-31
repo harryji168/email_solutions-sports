@@ -48,6 +48,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "CNCF CAC",
+    "title": "Cuba U23 1-0 Costa Rica(U23)",
+    "homeTeam": "Cuba U23",
+    "awayTeam": "Costa Rica(U23)",
+    "score": "1-0",
+    "matchId": "5141883",
+    "status": "ET",
+    "goals": [
+      "",
+      "28' Alessio Raballo (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "13:30",
     "start_time": "13:30",
     "group": "COTIF",
@@ -148,7 +171,7 @@
     "awayTeam": "Aguila",
     "score": "0-0",
     "matchId": "5135795",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -163,14 +186,14 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "CON CSA",
-    "title": "O Higgins 1-0 Boca Juniors",
-    "homeTeam": "O Higgins",
-    "awayTeam": "Boca Juniors",
-    "score": "1-0",
-    "matchId": "5071123",
+    "time": "18:06",
+    "start_time": "18:06",
+    "group": "CNCF CACup",
+    "title": "C.S. Herediano 0-0 Marathon",
+    "homeTeam": "C.S. Herediano",
+    "awayTeam": "Marathon",
+    "score": "0-0",
+    "matchId": "5077646",
     "status": "ET",
     "goals": [
       "",
@@ -178,7 +201,7 @@
       "",
       "",
       "",
-      "72' Francisco Gonzalez (1-0)",
+      "",
       "",
       ""
     ]
@@ -255,29 +278,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "18:06",
-    "start_time": "18:06",
-    "group": "CNCF CACup",
-    "title": "C.S. Herediano 0-0 Marathon",
-    "homeTeam": "C.S. Herediano",
-    "awayTeam": "Marathon",
-    "score": "0-0",
-    "matchId": "5077646",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "18:00",
     "start_time": "18:00",
     "group": "MEX D2",
@@ -294,6 +294,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "CON CSA",
+    "title": "O Higgins 1-0 Boca Juniors",
+    "homeTeam": "O Higgins",
+    "awayTeam": "Boca Juniors",
+    "score": "1-0",
+    "matchId": "5071123",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "72' Francisco Gonzalez (1-0)",
       "",
       ""
     ]
@@ -355,11 +378,11 @@
     "awayTeam": "C.S. Cartagines",
     "score": "1-1",
     "matchId": "5077666",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "23' Randal Cordero (0-1)",
-      "",
+      "44' Jose Antonio Mena Alfaro (1-1)",
       "",
       "",
       "",
@@ -386,29 +409,6 @@
       "",
       "54' Fabian Hector Sambueza (1-0)",
       "69' Francisco Javier Meza Palma (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "CNCF CAC",
-    "title": "Cuba U23 1-0 Costa Rica(U23)",
-    "homeTeam": "Cuba U23",
-    "awayTeam": "Costa Rica(U23)",
-    "score": "1-0",
-    "matchId": "5141883",
-    "status": "ET",
-    "goals": [
-      "",
-      "28' Alessio Raballo (1-0)",
-      "",
-      "",
-      "",
-      "",
       "",
       ""
     ]
@@ -462,14 +462,14 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "18:37",
-    "start_time": "18:37",
+    "time": "15:30",
+    "start_time": "15:30",
     "group": "BRA D1",
-    "title": "Coritiba (PR) 0-1 Cruzeiro (MG)",
-    "homeTeam": "Coritiba (PR)",
-    "awayTeam": "Cruzeiro (MG)",
-    "score": "0-1",
-    "matchId": "5006397",
+    "title": "Sport Club Corinthians Paulista 0-0 Atletico Paranaense",
+    "homeTeam": "Sport Club Corinthians Paulista",
+    "awayTeam": "Atletico Paranaense",
+    "score": "0-0",
+    "matchId": "5006396",
     "status": "ET",
     "goals": [
       "",
@@ -477,7 +477,7 @@
       "",
       "",
       "",
-      "66' Matheus Fellipe Costa Pereira (0-1)",
+      "",
       "",
       ""
     ]
@@ -501,6 +501,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "18:37",
+    "start_time": "18:37",
+    "group": "BRA D1",
+    "title": "Coritiba (PR) 0-1 Cruzeiro (MG)",
+    "homeTeam": "Coritiba (PR)",
+    "awayTeam": "Cruzeiro (MG)",
+    "score": "0-1",
+    "matchId": "5006397",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "66' Matheus Fellipe Costa Pereira (0-1)",
       "",
       ""
     ]
@@ -543,29 +566,6 @@
     "goals": [
       "9' Federico Haberkorn (1-0)",
       "26' Marvin Monterroza (2-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "BRA D1",
-    "title": "Sport Club Corinthians Paulista 0-0 Atletico Paranaense",
-    "homeTeam": "Sport Club Corinthians Paulista",
-    "awayTeam": "Atletico Paranaense",
-    "score": "0-0",
-    "matchId": "5006396",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
       "",
       "",
       "",

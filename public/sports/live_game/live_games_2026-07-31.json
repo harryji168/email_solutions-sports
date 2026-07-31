@@ -10,7 +10,7 @@
     "awayTeam": "12 de Junio VH",
     "score": "0-0",
     "matchId": "5135545",
-    "status": "2'",
+    "status": "17'",
     "goals": [
       "",
       "",
@@ -33,7 +33,7 @@
     "awayTeam": "Rangers Talca",
     "score": "0-0",
     "matchId": "5027370",
-    "status": "31'",
+    "status": "45+'",
     "goals": [
       "",
       "",
@@ -56,7 +56,7 @@
     "awayTeam": "Paulinense Youth",
     "score": "0-0",
     "matchId": "5069475",
-    "status": "35'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -79,7 +79,7 @@
     "awayTeam": "Montevideo Wanderers",
     "score": "0-0",
     "matchId": "5114349",
-    "status": "32'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -97,18 +97,18 @@
     "time": "14:31",
     "start_time": "14:31",
     "group": "BOL D1",
-    "title": "The Strongest 0-0 Club Aurora",
+    "title": "The Strongest 1-0 Club Aurora",
     "homeTeam": "The Strongest",
     "awayTeam": "Club Aurora",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5067777",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "",
       "",
       "",
       "",
-      "",
+      "56' Adrian Estacio (1-0)",
       "",
       "",
       ""
@@ -125,7 +125,7 @@
     "awayTeam": "Jicaral Sercoba",
     "score": "0-1",
     "matchId": "5141029",
-    "status": "73'",
+    "status": "88'",
     "goals": [
       "",
       "",
@@ -143,12 +143,12 @@
     "time": "14:00",
     "start_time": "14:00",
     "group": "ARG D2M2",
-    "title": "Mercedes 1-0 Estrella Del Sur",
+    "title": "Mercedes 1-1 Estrella Del Sur",
     "homeTeam": "Mercedes",
     "awayTeam": "Estrella Del Sur",
-    "score": "1-0",
+    "score": "1-1",
     "matchId": "5015171",
-    "status": "75'",
+    "status": "90'",
     "goals": [
       "",
       "",
@@ -156,7 +156,7 @@
       "",
       "48' Francisco Ruiz (1-0)",
       "",
-      "",
+      "84' 1-1",
       ""
     ]
   },
@@ -171,7 +171,7 @@
     "awayTeam": "CA Lugano",
     "score": "1-2",
     "matchId": "5015157",
-    "status": "68'",
+    "status": "83'",
     "goals": [
       "",
       "29' Nicol\u00e1s Campa (0-1)",
@@ -194,7 +194,7 @@
     "awayTeam": "Haiti(U20)",
     "score": "1-2",
     "matchId": "5065661",
-    "status": "72'",
+    "status": "87'",
     "goals": [
       "",
       "22' Clavens Exantus (0-1)",
@@ -212,20 +212,20 @@
     "time": "14:00",
     "start_time": "14:00",
     "group": "COL D2",
-    "title": "Real Santander 2-1 Patriotas FC",
+    "title": "Real Santander 2-2 Patriotas FC",
     "homeTeam": "Real Santander",
     "awayTeam": "Patriotas FC",
-    "score": "2-1",
+    "score": "2-2",
     "matchId": "5072228",
-    "status": "66'",
+    "status": "81'",
     "goals": [
       "",
       "",
       "",
       "45' Kevin \u00c1lvarez (0-1)",
-      "47' Michell D\u00edaz (1-1)<br>50' 2-1",
+      "47' Michell D\u00edaz (1-1)<br>50' Dilan Tapia (2-1)",
       "",
-      "",
+      "78' 2-2",
       ""
     ]
   },
@@ -240,7 +240,7 @@
     "awayTeam": "Carabobo F.C.",
     "score": "1-0",
     "matchId": "5147101",
-    "status": "75'",
+    "status": "90'",
     "goals": [
       "2' Jose Perez (1-0)",
       "",
@@ -271,7 +271,7 @@
       "",
       "49' Jonathan Borja (0-2)",
       "65' Luis Benalc\u00e1zar (0-3)",
-      "80' 1-3",
+      "80' Daniel Bravo (1-3)",
       ""
     ]
   },

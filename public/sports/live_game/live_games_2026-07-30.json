@@ -2,6 +2,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "BRA D1",
+    "title": "Sport Club Corinthians Paulista 0-0 Atletico Paranaense",
+    "homeTeam": "Sport Club Corinthians Paulista",
+    "awayTeam": "Atletico Paranaense",
+    "score": "0-0",
+    "matchId": "5006396",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "16:06",
     "start_time": "16:06",
     "group": "ARG D1",
@@ -17,6 +40,29 @@
       "",
       "45+1' Jose Ignacio Florentin Bobadilla (2-0)",
       "47' Oscar Cortes (2-1)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "BRA U20",
+    "title": "Vasco da Gama Youth 2-0 Santos Youth",
+    "homeTeam": "Vasco da Gama Youth",
+    "awayTeam": "Santos Youth",
+    "score": "2-0",
+    "matchId": "5127933",
+    "status": "ET",
+    "goals": [
+      "15' Andrey Fernandes (1-0)",
+      "",
+      "36' Andrey Fernandes (2-0)",
+      "",
+      "",
       "",
       "",
       ""
@@ -71,29 +117,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA U20",
-    "title": "Vasco da Gama Youth 2-0 Santos Youth",
-    "homeTeam": "Vasco da Gama Youth",
-    "awayTeam": "Santos Youth",
-    "score": "2-0",
-    "matchId": "5127933",
-    "status": "ET",
-    "goals": [
-      "15' Andrey Fernandes (1-0)",
-      "",
-      "36' Andrey Fernandes (2-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "13:30",
     "start_time": "13:30",
     "group": "COL Cup",
@@ -111,29 +134,6 @@
       "",
       "",
       "86' Jorge Cardona (0-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
-    "time": "16:36",
-    "start_time": "16:36",
-    "group": "INT CF",
-    "title": "Sunderland A.F.C. 0-1 Leeds United F.C.",
-    "homeTeam": "Sunderland A.F.C.",
-    "awayTeam": "Leeds United F.C.",
-    "score": "0-1",
-    "matchId": "5140303",
-    "status": "ET",
-    "goals": [
-      "8' Lukas Nmecha (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -163,6 +163,29 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
+    "time": "16:36",
+    "start_time": "16:36",
+    "group": "INT CF",
+    "title": "Sunderland A.F.C. 0-1 Leeds United F.C.",
+    "homeTeam": "Sunderland A.F.C.",
+    "awayTeam": "Leeds United F.C.",
+    "score": "0-1",
+    "matchId": "5140303",
+    "status": "ET",
+    "goals": [
+      "8' Lukas Nmecha (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
     "time": "18:37",
     "start_time": "18:37",
     "group": "BRA D1",
@@ -171,7 +194,7 @@
     "awayTeam": "Cruzeiro (MG)",
     "score": "0-1",
     "matchId": "5006397",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -217,7 +240,7 @@
     "awayTeam": "Aguila",
     "score": "0-0",
     "matchId": "5135795",
-    "status": "28'",
+    "status": "34'",
     "goals": [
       "",
       "",
@@ -240,7 +263,7 @@
     "awayTeam": "Marathon",
     "score": "0-0",
     "matchId": "5077646",
-    "status": "69'",
+    "status": "75'",
     "goals": [
       "",
       "",
@@ -263,7 +286,7 @@
     "awayTeam": "CSyD Dorados de Sinaloa",
     "score": "0-2",
     "matchId": "5108926",
-    "status": "73'",
+    "status": "79'",
     "goals": [
       "",
       "26' Jhan Carlos Rengifo Estupi\u00f1an (0-1)",
@@ -286,7 +309,7 @@
     "awayTeam": "Guatemala(U20)",
     "score": "3-0",
     "matchId": "5065660",
-    "status": "75'",
+    "status": "81'",
     "goals": [
       "",
       "",
@@ -294,29 +317,6 @@
       "45' Diego Ramirez (1-0)",
       "54' Hugo Camberos (2-0)",
       "65' Luis Gamboa (3-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "COL D1",
-    "title": "Atletico Bucaramanga 1-1 Llaneros FC",
-    "homeTeam": "Atletico Bucaramanga",
-    "awayTeam": "Llaneros FC",
-    "score": "1-1",
-    "matchId": "5072359",
-    "status": "72'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "54' Fabian Hector Sambueza (1-0)",
-      "69' Francisco Javier Meza Palma (1-1)",
       "",
       ""
     ]
@@ -347,22 +347,22 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "BRA D1",
-    "title": "Sport Club Corinthians Paulista 0-0 Atletico Paranaense",
-    "homeTeam": "Sport Club Corinthians Paulista",
-    "awayTeam": "Atletico Paranaense",
-    "score": "0-0",
-    "matchId": "5006396",
-    "status": "ET",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "COL D1",
+    "title": "Atletico Bucaramanga 1-1 Llaneros FC",
+    "homeTeam": "Atletico Bucaramanga",
+    "awayTeam": "Llaneros FC",
+    "score": "1-1",
+    "matchId": "5072359",
+    "status": "78'",
     "goals": [
       "",
       "",
       "",
       "",
-      "",
-      "",
+      "54' Fabian Hector Sambueza (1-0)",
+      "69' Francisco Javier Meza Palma (1-1)",
       "",
       ""
     ]
@@ -531,29 +531,6 @@
   {
     "date": "2026-07-30",
     "day": "Thursday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "CNCF CAC",
-    "title": "Cuba U23 1-0 Costa Rica(U23)",
-    "homeTeam": "Cuba U23",
-    "awayTeam": "Costa Rica(U23)",
-    "score": "1-0",
-    "matchId": "5141883",
-    "status": "ET",
-    "goals": [
-      "",
-      "28' Alessio Raballo (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-07-30",
-    "day": "Thursday",
     "time": "13:30",
     "start_time": "13:30",
     "group": "ECU D2",
@@ -617,6 +594,29 @@
       "56' Nahuel Lautaro Bustos (0-1)",
       "",
       "77' Angel Figueroa (0-2)<br>83' Franco Misael Fagundez Rosa (0-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "day": "Thursday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "CNCF CAC",
+    "title": "Cuba U23 1-0 Costa Rica(U23)",
+    "homeTeam": "Cuba U23",
+    "awayTeam": "Costa Rica(U23)",
+    "score": "1-0",
+    "matchId": "5141883",
+    "status": "ET",
+    "goals": [
+      "",
+      "28' Alessio Raballo (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },

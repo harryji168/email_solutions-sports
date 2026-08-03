@@ -48,29 +48,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "14:23",
-    "start_time": "14:23",
-    "group": "COL D1",
-    "title": "Jaguares de Cordoba 0-3 Atletico Nacional",
-    "homeTeam": "Jaguares de Cordoba",
-    "awayTeam": "Atletico Nacional",
-    "score": "0-3",
-    "matchId": "5072364",
-    "status": "ET",
-    "goals": [
-      "7' Marlos Moreno Duran (0-1)",
-      "19' Andres De Jesus Sarmiento Salas (0-2)",
-      "32' Alfredo Jose Morelos Avilez (0-3)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "PAN D1",
@@ -89,52 +66,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "14:02",
-    "start_time": "14:02",
-    "group": "USA MLSRv",
-    "title": "New York Red Bulls B 1-4 New England Revolution B",
-    "homeTeam": "New York Red Bulls B",
-    "awayTeam": "New England Revolution B",
-    "score": "1-4",
-    "matchId": "5029814",
-    "status": "ET",
-    "goals": [
-      "",
-      "19' Matthew Jean Baptiste (0-1)<br>29' Myles Morgan (0-2)",
-      "",
-      "",
-      "46' J. Siqueira (0-3)<br>49' Myles Morgan (0-4)",
-      "",
-      "79' Jason Bori (1-4)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "14:06",
-    "start_time": "14:06",
-    "group": "SLV D1",
-    "title": "Cacahuatique 2-2 Aguila",
-    "homeTeam": "Cacahuatique",
-    "awayTeam": "Aguila",
-    "score": "2-2",
-    "matchId": "5135865",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "68' Juan S\u00e1nchez (1-0)",
-      "76' Federico Andrada (1-1)<br>83' Juan S\u00e1nchez (2-1)",
-      "90+6' 2-2"
     ]
   },
   {
@@ -186,15 +117,38 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "19:34",
-    "start_time": "19:34",
+    "time": "14:06",
+    "start_time": "14:06",
+    "group": "SLV D1",
+    "title": "Cacahuatique 2-2 Aguila",
+    "homeTeam": "Cacahuatique",
+    "awayTeam": "Aguila",
+    "score": "2-2",
+    "matchId": "5135865",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "68' Juan S\u00e1nchez (1-0)",
+      "76' Federico Andrada (1-1)<br>83' Juan S\u00e1nchez (2-1)",
+      "90+6' 2-2"
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "19:30",
+    "start_time": "19:30",
     "group": "USA MLSRv",
     "title": "San Jose Earthquakes B 1-1 Austin FC B",
     "homeTeam": "San Jose Earthquakes B",
     "awayTeam": "Austin FC B",
     "score": "1-1",
     "matchId": "5029813",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -204,6 +158,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "14:01",
+    "start_time": "14:01",
+    "group": "VEN D2",
+    "title": "Deportivo Lara 2-2 Yaracuyanos",
+    "homeTeam": "Deportivo Lara",
+    "awayTeam": "Yaracuyanos",
+    "score": "2-2",
+    "matchId": "5150953",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "61' 0-1<br>66' 1-1",
+      "82' 2-1",
+      "90' 2-2"
     ]
   },
   {
@@ -232,29 +209,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "18:15",
-    "start_time": "18:15",
-    "group": "COL WL",
-    "title": "America de Cali Women\\s 4-1 Llaneros Women\\s",
-    "homeTeam": "America de Cali Women\\s",
-    "awayTeam": "Llaneros Women\\s",
-    "score": "4-1",
-    "matchId": "5043165",
-    "status": "ET",
-    "goals": [
-      "15' Catalina Usme (1-0)",
-      "21' Yaqueline Apraez (1-1)<br>28' Stefania Santos (2-1)",
-      "38' Maura Henao (3-1)",
-      "",
-      "",
-      "63' Catalina Usme (4-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:30",
     "start_time": "14:30",
     "group": "URU D1",
@@ -272,6 +226,29 @@
       "",
       "",
       "78' Facundo de Leon Abate (1-1)<br>89' Maximiliano Gomez Gonzalez, Maxi Gomez (2-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "18:15",
+    "start_time": "18:15",
+    "group": "COL WL",
+    "title": "America de Cali Women\\s 4-1 Llaneros Women\\s",
+    "homeTeam": "America de Cali Women\\s",
+    "awayTeam": "Llaneros Women\\s",
+    "score": "4-1",
+    "matchId": "5043165",
+    "status": "ET",
+    "goals": [
+      "15' Catalina Usme (1-0)",
+      "21' Yaqueline Apraez (1-1)<br>28' Stefania Santos (2-1)",
+      "38' Maura Henao (3-1)",
+      "",
+      "",
+      "63' Catalina Usme (4-1)",
+      "",
       ""
     ]
   },
@@ -324,29 +301,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "18:01",
-    "start_time": "18:01",
-    "group": "COL D1",
-    "title": "Independiente Santa Fe 2-2 Once Caldas",
-    "homeTeam": "Independiente Santa Fe",
-    "awayTeam": "Once Caldas",
-    "score": "2-2",
-    "matchId": "5072366",
-    "status": "ET",
-    "goals": [
-      "4' Jader Rafael Obrian Arias (1-0)",
-      "",
-      "",
-      "",
-      "54' Jefry Zapata (1-1)",
-      "63' Andres Correa Valencia (2-1)",
-      "82' Andres Felipe Colorado Sanchez (2-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:31",
     "start_time": "14:31",
     "group": "BRA Cup",
@@ -364,6 +318,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "18:01",
+    "start_time": "18:01",
+    "group": "COL D1",
+    "title": "Independiente Santa Fe 2-2 Once Caldas",
+    "homeTeam": "Independiente Santa Fe",
+    "awayTeam": "Once Caldas",
+    "score": "2-2",
+    "matchId": "5072366",
+    "status": "ET",
+    "goals": [
+      "4' Jader Rafael Obrian Arias (1-0)",
+      "",
+      "",
+      "",
+      "54' Jefry Zapata (1-1)",
+      "63' Andres Correa Valencia (2-1)",
+      "82' Andres Felipe Colorado Sanchez (2-2)",
       ""
     ]
   },
@@ -416,29 +393,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "14:01",
-    "start_time": "14:01",
-    "group": "VEN D2",
-    "title": "Deportivo Lara 2-2 Yaracuyanos",
-    "homeTeam": "Deportivo Lara",
-    "awayTeam": "Yaracuyanos",
-    "score": "2-2",
-    "matchId": "5150953",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "61' 0-1<br>66' 1-1",
-      "82' 2-1",
-      "90' 2-2"
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "17:27",
     "start_time": "17:27",
     "group": "ARG D1",
@@ -462,29 +416,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "GUA D2",
-    "title": "CSyD Sacachispas 5-0 San Benito",
-    "homeTeam": "CSyD Sacachispas",
-    "awayTeam": "San Benito",
-    "score": "5-0",
-    "matchId": "5150988",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:15",
     "start_time": "14:15",
     "group": "BOL D1",
@@ -502,6 +433,29 @@
       "",
       "",
       "77' Rai Lima (1-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "GUA D2",
+    "title": "CSyD Sacachispas 5-0 San Benito",
+    "homeTeam": "CSyD Sacachispas",
+    "awayTeam": "San Benito",
+    "score": "5-0",
+    "matchId": "5150988",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -554,29 +508,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "16:33",
-    "start_time": "16:33",
-    "group": "SLV D1",
-    "title": "Inca Aruba 0-4 CD FAS",
-    "homeTeam": "Inca Aruba",
-    "awayTeam": "CD FAS",
-    "score": "0-4",
-    "matchId": "5135803",
-    "status": "ET",
-    "goals": [
-      "14' Rafael Tejada (0-1)",
-      "24' Edgar Medrano (0-2)",
-      "",
-      "",
-      "",
-      "",
-      "80' Nelson Bonilla (0-3)<br>87' Jos\u00e9 Cartagena (0-4)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:02",
     "start_time": "14:02",
     "group": "SLV D1",
@@ -594,6 +525,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "16:33",
+    "start_time": "16:33",
+    "group": "SLV D1",
+    "title": "Inca Aruba 0-4 CD FAS",
+    "homeTeam": "Inca Aruba",
+    "awayTeam": "CD FAS",
+    "score": "0-4",
+    "matchId": "5135803",
+    "status": "ET",
+    "goals": [
+      "14' Rafael Tejada (0-1)",
+      "24' Edgar Medrano (0-2)",
+      "",
+      "",
+      "",
+      "",
+      "80' Nelson Bonilla (0-3)<br>87' Jos\u00e9 Cartagena (0-4)",
       ""
     ]
   },
@@ -669,29 +623,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "16:15",
-    "start_time": "16:15",
-    "group": "HON D1",
-    "title": "Estrella Roja 0-1 Olancho FC",
-    "homeTeam": "Estrella Roja",
-    "awayTeam": "Olancho FC",
-    "score": "0-1",
-    "matchId": "5125544",
-    "status": "ET",
-    "goals": [
-      "",
-      "27' Marlon Ramirez (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "COL D2",
@@ -709,6 +640,29 @@
       "",
       "",
       "81' Marlon Balanta (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "16:15",
+    "start_time": "16:15",
+    "group": "HON D1",
+    "title": "Estrella Roja 0-1 Olancho FC",
+    "homeTeam": "Estrella Roja",
+    "awayTeam": "Olancho FC",
+    "score": "0-1",
+    "matchId": "5125544",
+    "status": "ET",
+    "goals": [
+      "",
+      "27' Marlon Ramirez (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -755,6 +709,29 @@
       "50' Sarah\u00ed Cece\u00f1a (0-1)",
       "67' Joseline Montoya (1-1)<br>73' Joseline Montoya (2-1)",
       "78' Jasmine Casarez (3-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "14:02",
+    "start_time": "14:02",
+    "group": "USA MLSRv",
+    "title": "New York Red Bulls B 1-4 New England Revolution B",
+    "homeTeam": "New York Red Bulls B",
+    "awayTeam": "New England Revolution B",
+    "score": "1-4",
+    "matchId": "5029814",
+    "status": "ET",
+    "goals": [
+      "",
+      "19' Matthew Jean Baptiste (0-1)<br>29' Myles Morgan (0-2)",
+      "",
+      "",
+      "46' J. Siqueira (0-3)<br>49' Myles Morgan (0-4)",
+      "",
+      "79' Jason Bori (1-4)",
       ""
     ]
   },
@@ -830,29 +807,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "16:15",
-    "start_time": "16:15",
-    "group": "USA NWSL",
-    "title": "Utah Royals Women\\s 5-1 Portland Thorns FC Women\\s",
-    "homeTeam": "Utah Royals Women\\s",
-    "awayTeam": "Portland Thorns FC Women\\s",
-    "score": "5-1",
-    "matchId": "5024408",
-    "status": "ET",
-    "goals": [
-      "1' Sophia Olivia Wilson (0-1)",
-      "",
-      "36' Cecelia Anne Delzer (1-1)",
-      "",
-      "47' Cecelia Anne Delzer (2-1)",
-      "68' Brecken Inga Mozingo (3-1)",
-      "79' Kiana Ang\u00e9lica Palacios Hern\u00e1ndez (4-1)<br>89' Kathryn Jean Del Fava (5-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:30",
     "start_time": "14:30",
     "group": "CHI D2",
@@ -870,6 +824,29 @@
       "47' C. Ponce (0-2)<br>57' Nadir Zeineddin (1-2)",
       "",
       "81' V. Vargas (1-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "16:15",
+    "start_time": "16:15",
+    "group": "USA NWSL",
+    "title": "Utah Royals Women\\s 5-1 Portland Thorns FC Women\\s",
+    "homeTeam": "Utah Royals Women\\s",
+    "awayTeam": "Portland Thorns FC Women\\s",
+    "score": "5-1",
+    "matchId": "5024408",
+    "status": "ET",
+    "goals": [
+      "1' Sophia Olivia Wilson (0-1)",
+      "",
+      "36' Cecelia Anne Delzer (1-1)",
+      "",
+      "47' Cecelia Anne Delzer (2-1)",
+      "68' Brecken Inga Mozingo (3-1)",
+      "79' Kiana Ang\u00e9lica Palacios Hern\u00e1ndez (4-1)<br>89' Kathryn Jean Del Fava (5-1)",
       ""
     ]
   },
@@ -1060,29 +1037,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "CRC D1",
-    "title": "Deportivo Saprissa 2-1 A.D. San Carlos",
-    "homeTeam": "Deportivo Saprissa",
-    "awayTeam": "A.D. San Carlos",
-    "score": "2-1",
-    "matchId": "5075730",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "65' Newton Aubrey Williams Richards (1-0)<br>70' Newton Aubrey Williams Richards (2-0)",
-      "83' Kenneth Cerdas (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:01",
     "start_time": "14:01",
     "group": "BRA WT",
@@ -1169,6 +1123,52 @@
       "57' Pablo Bueno (6-0)<br>59' Pablo Bueno (7-0)",
       "",
       "76' Jhonatan Ynuma (8-0)<br>89' 9-0",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "CRC D1",
+    "title": "Deportivo Saprissa 2-1 A.D. San Carlos",
+    "homeTeam": "Deportivo Saprissa",
+    "awayTeam": "A.D. San Carlos",
+    "score": "2-1",
+    "matchId": "5075730",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "65' Newton Aubrey Williams Richards (1-0)<br>70' Newton Aubrey Williams Richards (2-0)",
+      "83' Kenneth Cerdas (2-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "14:23",
+    "start_time": "14:23",
+    "group": "COL D1",
+    "title": "Jaguares de Cordoba 0-3 Atletico Nacional",
+    "homeTeam": "Jaguares de Cordoba",
+    "awayTeam": "Atletico Nacional",
+    "score": "0-3",
+    "matchId": "5072364",
+    "status": "ET",
+    "goals": [
+      "7' Marlos Moreno Duran (0-1)",
+      "19' Andres De Jesus Sarmiento Salas (0-2)",
+      "32' Alfredo Jose Morelos Avilez (0-3)",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },

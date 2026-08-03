@@ -48,6 +48,29 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
+    "time": "14:23",
+    "start_time": "14:23",
+    "group": "COL D1",
+    "title": "Jaguares de Cordoba 0-3 Atletico Nacional",
+    "homeTeam": "Jaguares de Cordoba",
+    "awayTeam": "Atletico Nacional",
+    "score": "0-3",
+    "matchId": "5072364",
+    "status": "ET",
+    "goals": [
+      "7' Marlos Moreno Duran (0-1)",
+      "19' Andres De Jesus Sarmiento Salas (0-2)",
+      "32' Alfredo Jose Morelos Avilez (0-3)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "PAN D1",
@@ -117,29 +140,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "19:34",
-    "start_time": "19:34",
-    "group": "USA MLSRv",
-    "title": "San Jose Earthquakes B 0-1 Austin FC B",
-    "homeTeam": "San Jose Earthquakes B",
-    "awayTeam": "Austin FC B",
-    "score": "0-1",
-    "matchId": "5029813",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "32' Stefan Dobrijevic (0-1)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:30",
     "start_time": "14:30",
     "group": "CHI D1",
@@ -156,6 +156,29 @@
       "",
       "54' Eduardo Jesus Vargas Rojas (1-0)",
       "66' Mauricio Gerardo Morales Olivares (2-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "19:34",
+    "start_time": "19:34",
+    "group": "USA MLSRv",
+    "title": "San Jose Earthquakes B 0-1 Austin FC B",
+    "homeTeam": "San Jose Earthquakes B",
+    "awayTeam": "Austin FC B",
+    "score": "0-1",
+    "matchId": "5029813",
+    "status": "51'",
+    "goals": [
+      "",
+      "",
+      "32' Stefan Dobrijevic (0-1)",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -255,29 +278,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "18:11",
-    "start_time": "18:11",
-    "group": "MEX D1",
-    "title": "Deportivo Toluca 3-1 Club Necaxa",
-    "homeTeam": "Deportivo Toluca",
-    "awayTeam": "Club Necaxa",
-    "score": "3-1",
-    "matchId": "5077262",
-    "status": "ET",
-    "goals": [
-      "",
-      "29' Edgar Ivan Lopez Rodriguez (1-0)",
-      "42' Julian Simon Carranza (1-1)",
-      "45+5' Everardo Lopez del Villar (2-1)",
-      "57' Luis Ronaldo Jimenez Gonzalez (3-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:30",
     "start_time": "14:30",
     "group": "URU D1",
@@ -295,6 +295,29 @@
       "",
       "",
       "78' Facundo de Leon Abate (1-1)<br>89' Maximiliano Gomez Gonzalez, Maxi Gomez (2-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "18:11",
+    "start_time": "18:11",
+    "group": "MEX D1",
+    "title": "Deportivo Toluca 3-1 Club Necaxa",
+    "homeTeam": "Deportivo Toluca",
+    "awayTeam": "Club Necaxa",
+    "score": "3-1",
+    "matchId": "5077262",
+    "status": "ET",
+    "goals": [
+      "",
+      "29' Edgar Ivan Lopez Rodriguez (1-0)",
+      "42' Julian Simon Carranza (1-1)",
+      "45+5' Everardo Lopez del Villar (2-1)",
+      "57' Luis Ronaldo Jimenez Gonzalez (3-1)",
+      "",
+      "",
       ""
     ]
   },
@@ -370,29 +393,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "NCA D1",
-    "title": "Walter Ferretti 4-1 Matagalpa FC",
-    "homeTeam": "Walter Ferretti",
-    "awayTeam": "Matagalpa FC",
-    "score": "4-1",
-    "matchId": "5118980",
-    "status": "ET",
-    "goals": [
-      "8' Joao C\u00e1ceres (1-0)",
-      "",
-      "",
-      "",
-      "52' Engel P\u00e9rez (2-0)<br>53' Alexander Z\u00fa\u00f1iga (2-1)",
-      "61' Maynor Rivera (3-1)",
-      "",
-      "90+1' 4-1"
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:15",
     "start_time": "14:15",
     "group": "BOL D1",
@@ -411,6 +411,29 @@
       "",
       "77' Rai Lima (1-0)",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "NCA D1",
+    "title": "Walter Ferretti 4-1 Matagalpa FC",
+    "homeTeam": "Walter Ferretti",
+    "awayTeam": "Matagalpa FC",
+    "score": "4-1",
+    "matchId": "5118980",
+    "status": "ET",
+    "goals": [
+      "8' Joao C\u00e1ceres (1-0)",
+      "",
+      "",
+      "",
+      "52' Engel P\u00e9rez (2-0)<br>53' Alexander Z\u00fa\u00f1iga (2-1)",
+      "61' Maynor Rivera (3-1)",
+      "",
+      "90+1' 4-1"
     ]
   },
   {
@@ -462,29 +485,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "16:29",
-    "start_time": "16:29",
-    "group": "PER D1",
-    "title": "Cienciano 2-0 Universitario de Deportes",
-    "homeTeam": "Cienciano",
-    "awayTeam": "Universitario de Deportes",
-    "score": "2-0",
-    "matchId": "5071994",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "34' Juan Matias Succar Canote (1-0)",
-      "",
-      "",
-      "",
-      "82' Carlos Jhon Garces Acosta (2-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:02",
     "start_time": "14:02",
     "group": "SLV D1",
@@ -502,6 +502,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "16:29",
+    "start_time": "16:29",
+    "group": "PER D1",
+    "title": "Cienciano 2-0 Universitario de Deportes",
+    "homeTeam": "Cienciano",
+    "awayTeam": "Universitario de Deportes",
+    "score": "2-0",
+    "matchId": "5071994",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "34' Juan Matias Succar Canote (1-0)",
+      "",
+      "",
+      "",
+      "82' Carlos Jhon Garces Acosta (2-0)",
       ""
     ]
   },
@@ -577,29 +600,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "16:10",
-    "start_time": "16:10",
-    "group": "ECU D1",
-    "title": "Leones del Norte 1-1 Barcelona S.C.",
-    "homeTeam": "Leones del Norte",
-    "awayTeam": "Barcelona S.C.",
-    "score": "1-1",
-    "matchId": "5035281",
-    "status": "ET",
-    "goals": [
-      "",
-      "22' Patricio Madero (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "78' Sergio Ismael Diaz Velazquez (1-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "COL D2",
@@ -617,6 +617,29 @@
       "",
       "",
       "81' Marlon Balanta (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "16:10",
+    "start_time": "16:10",
+    "group": "ECU D1",
+    "title": "Leones del Norte 1-1 Barcelona S.C.",
+    "homeTeam": "Leones del Norte",
+    "awayTeam": "Barcelona S.C.",
+    "score": "1-1",
+    "matchId": "5035281",
+    "status": "ET",
+    "goals": [
+      "",
+      "22' Patricio Madero (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "78' Sergio Ismael Diaz Velazquez (1-1)",
       ""
     ]
   },
@@ -641,29 +664,6 @@
       "67' Joseline Montoya (1-1)<br>73' Joseline Montoya (2-1)",
       "78' Jasmine Casarez (3-1)",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "14:01",
-    "start_time": "14:01",
-    "group": "VEN D2",
-    "title": "Deportivo Lara 2-2 Yaracuyanos",
-    "homeTeam": "Deportivo Lara",
-    "awayTeam": "Yaracuyanos",
-    "score": "2-2",
-    "matchId": "5150953",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "61' 0-1<br>66' 1-1",
-      "82' 2-1",
-      "90' 2-2"
     ]
   },
   {
@@ -807,6 +807,29 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
+    "time": "14:02",
+    "start_time": "14:02",
+    "group": "USA MLSRv",
+    "title": "New York Red Bulls B 1-4 New England Revolution B",
+    "homeTeam": "New York Red Bulls B",
+    "awayTeam": "New England Revolution B",
+    "score": "1-4",
+    "matchId": "5029814",
+    "status": "ET",
+    "goals": [
+      "",
+      "19' Matthew Jean Baptiste (0-1)<br>29' Myles Morgan (0-2)",
+      "",
+      "",
+      "46' J. Siqueira (0-3)<br>49' Myles Morgan (0-4)",
+      "",
+      "79' Jason Bori (1-4)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
     "time": "16:00",
     "start_time": "16:00",
     "group": "MEX D1",
@@ -830,52 +853,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "16:49",
-    "start_time": "16:49",
-    "group": "COL D1",
-    "title": "America de Cali 7-0 Boyaca Chico",
-    "homeTeam": "America de Cali",
-    "awayTeam": "Boyaca Chico",
-    "score": "7-0",
-    "matchId": "5072358",
-    "status": "ET",
-    "goals": [
-      "5' Yeison Guzman (1-0)",
-      "22' Daniel Rosero Valencia (2-0)",
-      "42' Yeison Guzman (3-0)",
-      "",
-      "48' Luis Enrique Quinonez (4-0)",
-      "65' Daniel Rosero Valencia (5-0)",
-      "87' Kevin Jose Angulo Garces (6-0)<br>89' Kevin Jose Angulo Garces (7-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "16:32",
-    "start_time": "16:32",
-    "group": "PAR WD1",
-    "title": "Sportivo Ameliano Women\\s 0-0 Sportivo Luqueno Women\\s",
-    "homeTeam": "Sportivo Ameliano Women\\s",
-    "awayTeam": "Sportivo Luqueno Women\\s",
-    "score": "0-0",
-    "matchId": "5148839",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "16:35",
     "start_time": "16:35",
     "group": "VEN D1",
@@ -891,6 +868,75 @@
       "",
       "",
       "52' Daniel Alessandro Saggiomo Mosquera (2-1)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "14:01",
+    "start_time": "14:01",
+    "group": "VEN D2",
+    "title": "Deportivo Lara 2-2 Yaracuyanos",
+    "homeTeam": "Deportivo Lara",
+    "awayTeam": "Yaracuyanos",
+    "score": "2-2",
+    "matchId": "5150953",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "61' 0-1<br>66' 1-1",
+      "82' 2-1",
+      "90' 2-2"
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "16:36",
+    "start_time": "16:36",
+    "group": "BRA Cup",
+    "title": "SC Internacional 2-0 Sport Club Corinthians Paulista",
+    "homeTeam": "SC Internacional",
+    "awayTeam": "Sport Club Corinthians Paulista",
+    "score": "2-0",
+    "matchId": "5069707",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "61' Matheus Bahia Santos (1-0)<br>67' Alan Patrick Lourenco (2-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "15:18",
+    "start_time": "15:18",
+    "group": "ARG D1",
+    "title": "River Plate 0-1 Rosario Central",
+    "homeTeam": "River Plate",
+    "awayTeam": "Rosario Central",
+    "score": "0-1",
+    "matchId": "5052508",
+    "status": "ET",
+    "goals": [
+      "",
+      "27' Nicolas Hernan Gonzalo Otamendi (0-1)",
+      "",
+      "",
+      "",
       "",
       "",
       ""
@@ -922,23 +968,23 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "15:18",
-    "start_time": "15:18",
-    "group": "ARG D1",
-    "title": "River Plate 0-1 Rosario Central",
-    "homeTeam": "River Plate",
-    "awayTeam": "Rosario Central",
-    "score": "0-1",
-    "matchId": "5052508",
+    "time": "16:49",
+    "start_time": "16:49",
+    "group": "COL D1",
+    "title": "America de Cali 7-0 Boyaca Chico",
+    "homeTeam": "America de Cali",
+    "awayTeam": "Boyaca Chico",
+    "score": "7-0",
+    "matchId": "5072358",
     "status": "ET",
     "goals": [
+      "5' Yeison Guzman (1-0)",
+      "22' Daniel Rosero Valencia (2-0)",
+      "42' Yeison Guzman (3-0)",
       "",
-      "27' Nicolas Hernan Gonzalo Otamendi (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
+      "48' Luis Enrique Quinonez (4-0)",
+      "65' Daniel Rosero Valencia (5-0)",
+      "87' Kevin Jose Angulo Garces (6-0)<br>89' Kevin Jose Angulo Garces (7-0)",
       ""
     ]
   },
@@ -1014,14 +1060,14 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "16:36",
-    "start_time": "16:36",
-    "group": "BRA Cup",
-    "title": "SC Internacional 2-0 Sport Club Corinthians Paulista",
-    "homeTeam": "SC Internacional",
-    "awayTeam": "Sport Club Corinthians Paulista",
-    "score": "2-0",
-    "matchId": "5069707",
+    "time": "16:32",
+    "start_time": "16:32",
+    "group": "PAR WD1",
+    "title": "Sportivo Ameliano Women\\s 0-0 Sportivo Luqueno Women\\s",
+    "homeTeam": "Sportivo Ameliano Women\\s",
+    "awayTeam": "Sportivo Luqueno Women\\s",
+    "score": "0-0",
+    "matchId": "5148839",
     "status": "ET",
     "goals": [
       "",
@@ -1029,31 +1075,8 @@
       "",
       "",
       "",
-      "61' Matheus Bahia Santos (1-0)<br>67' Alan Patrick Lourenco (2-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "14:02",
-    "start_time": "14:02",
-    "group": "USA MLSRv",
-    "title": "New York Red Bulls B 1-4 New England Revolution B",
-    "homeTeam": "New York Red Bulls B",
-    "awayTeam": "New England Revolution B",
-    "score": "1-4",
-    "matchId": "5029814",
-    "status": "ET",
-    "goals": [
-      "",
-      "19' Matthew Jean Baptiste (0-1)<br>29' Myles Morgan (0-2)",
       "",
       "",
-      "46' J. Siqueira (0-3)<br>49' Myles Morgan (0-4)",
-      "",
-      "79' Jason Bori (1-4)",
       ""
     ]
   },
@@ -1131,52 +1154,6 @@
     "day": "Sunday",
     "time": "14:00",
     "start_time": "14:00",
-    "group": "HON D1",
-    "title": "Juticalpa 0-3 F.C. Motagua",
-    "homeTeam": "Juticalpa",
-    "awayTeam": "F.C. Motagua",
-    "score": "0-3",
-    "matchId": "5125543",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "65' Jonathan Alonso Moya Aguilar (0-1)",
-      "81' Rodrigo de Olivera Donado (0-2)<br>85' Oscar Discua (0-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "14:23",
-    "start_time": "14:23",
-    "group": "COL D1",
-    "title": "Jaguares de Cordoba 0-3 Atletico Nacional",
-    "homeTeam": "Jaguares de Cordoba",
-    "awayTeam": "Atletico Nacional",
-    "score": "0-3",
-    "matchId": "5072364",
-    "status": "ET",
-    "goals": [
-      "7' Marlos Moreno Duran (0-1)",
-      "19' Andres De Jesus Sarmiento Salas (0-2)",
-      "32' Alfredo Jose Morelos Avilez (0-3)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
     "group": "VEN D1",
     "title": "Zamora FC Barinas 2-1 Rayo Zuliano",
     "homeTeam": "Zamora FC Barinas",
@@ -1215,6 +1192,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "HON D1",
+    "title": "Juticalpa 0-3 F.C. Motagua",
+    "homeTeam": "Juticalpa",
+    "awayTeam": "F.C. Motagua",
+    "score": "0-3",
+    "matchId": "5125543",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "65' Jonathan Alonso Moya Aguilar (0-1)",
+      "81' Rodrigo de Olivera Donado (0-2)<br>85' Oscar Discua (0-3)",
       ""
     ]
   },

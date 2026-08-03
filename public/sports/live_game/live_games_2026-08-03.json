@@ -301,29 +301,6 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
-    "time": "03:15",
-    "start_time": "03:15",
-    "group": "AUS VD1",
-    "title": "Melbourne Victory FC Am 1-0 FC Melbourne Srbija",
-    "homeTeam": "Melbourne Victory FC Am",
-    "awayTeam": "FC Melbourne Srbija",
-    "score": "1-0",
-    "matchId": "5009309",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "41' 1-0",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "ISR LLTTC",
@@ -968,6 +945,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "03:30",
+    "start_time": "03:30",
+    "group": "AFF SC",
+    "title": "Cambodia 3-0 East Timor",
+    "homeTeam": "Cambodia",
+    "awayTeam": "East Timor",
+    "score": "3-0",
+    "matchId": "5130604",
+    "status": "ET",
+    "goals": [
+      "",
+      "16' Soknet Hav (1-0)",
+      "",
+      "",
+      "",
+      "63' Soknet Hav (2-0)",
+      "",
+      "90' Mon R. (3-0)"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "05:00",
     "start_time": "05:00",
     "group": "BTN PL",
@@ -1008,29 +1008,6 @@
       "",
       "67' Zakhar Tarasenko (1-1)",
       "84' Artur Murza (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
-    "time": "07:00",
-    "start_time": "07:00",
-    "group": "INT CF",
-    "title": "MC Oran 1-1 Al Raed FC",
-    "homeTeam": "MC Oran",
-    "awayTeam": "Al Raed FC",
-    "score": "1-1",
-    "matchId": "5153927",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -1106,6 +1083,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "13:01",
+    "start_time": "13:01",
+    "group": "CHI WD1",
+    "title": "Santiago Wanderers Women\\s 0-0 Huachipato Women\\s",
+    "homeTeam": "Santiago Wanderers Women\\s",
+    "awayTeam": "Huachipato Women\\s",
+    "score": "0-0",
+    "matchId": "5044373",
+    "status": "13'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "09:05",
     "start_time": "09:05",
     "group": "MEX WD1",
@@ -1129,6 +1129,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "CNCF CAC",
+    "title": "Panama(U21) 1-0 Cuba(U21)",
+    "homeTeam": "Panama(U21)",
+    "awayTeam": "Cuba(U21)",
+    "score": "1-0",
+    "matchId": "5141913",
+    "status": "14'",
+    "goals": [
+      "7' Carlos Sinisterra (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "09:00",
     "start_time": "09:00",
     "group": "NOR D3F",
@@ -1146,6 +1169,29 @@
       "48' Bop Gueye (2-1)",
       "",
       "81' Aram Poya (2-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "CNCF CAC",
+    "title": "Costa Rica(U21) 1-1 Colombia(U21)",
+    "homeTeam": "Costa Rica(U21)",
+    "awayTeam": "Colombia(U21)",
+    "score": "1-1",
+    "matchId": "5141911",
+    "status": "14'",
+    "goals": [
+      "8' Miguel Marulanda (0-1)<br>11' 1-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -1175,6 +1221,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "CAF WNC",
+    "title": "Senegal Women\\s 0-0 Morocco Women\\s",
+    "homeTeam": "Senegal Women\\s",
+    "awayTeam": "Morocco Women\\s",
+    "score": "0-0",
+    "matchId": "5025511",
+    "status": "14'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "09:00",
     "start_time": "09:00",
     "group": "NOR D3D",
@@ -1193,29 +1262,6 @@
       "67' A. Rajendram (2-1)",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
-    "time": "03:30",
-    "start_time": "03:30",
-    "group": "AFF SC",
-    "title": "Cambodia 3-0 East Timor",
-    "homeTeam": "Cambodia",
-    "awayTeam": "East Timor",
-    "score": "3-0",
-    "matchId": "5130604",
-    "status": "ET",
-    "goals": [
-      "",
-      "16' Soknet Hav (1-0)",
-      "",
-      "",
-      "",
-      "63' Soknet Hav (2-0)",
-      "",
-      "90' Mon R. (3-0)"
     ]
   },
   {
@@ -1244,6 +1290,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "CAF WNC",
+    "title": "Kenya Women\\s 0-1 Algeria Women\\s",
+    "homeTeam": "Kenya Women\\s",
+    "awayTeam": "Algeria Women\\s",
+    "score": "0-1",
+    "matchId": "5025510",
+    "status": "14'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "08:58",
     "start_time": "08:58",
     "group": "NOR D3D",
@@ -1259,6 +1328,29 @@
       "",
       "",
       "50' Oskar D\u00e6hli Oppedal (2-2)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "PAR D2",
+    "title": "3 de Noviembre 0-0 Sportivo Carapegua",
+    "homeTeam": "3 de Noviembre",
+    "awayTeam": "Sportivo Carapegua",
+    "score": "0-0",
+    "matchId": "5135550",
+    "status": "14'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       "",
       ""
@@ -1293,14 +1385,14 @@
     "time": "12:45",
     "start_time": "12:45",
     "group": "ARG D1",
-    "title": "Sarmiento Junin 0-0 Independiente Rivadavia",
+    "title": "Sarmiento Junin 1-0 Independiente Rivadavia",
     "homeTeam": "Sarmiento Junin",
     "awayTeam": "Independiente Rivadavia",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5052509",
-    "status": "8'",
+    "status": "29'",
     "goals": [
-      "",
+      "12' Mauricio Martinez (1-0)",
       "",
       "",
       "",
@@ -1336,29 +1428,6 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
-    "time": "12:30",
-    "start_time": "12:30",
-    "group": "VEN D2",
-    "title": "Zamora FC Barinas B 0-1 Urena SC",
-    "homeTeam": "Zamora FC Barinas B",
-    "awayTeam": "Urena SC",
-    "score": "0-1",
-    "matchId": "5150954",
-    "status": "23'",
-    "goals": [
-      "",
-      "17' Jesus Colina (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
     "time": "04:35",
     "start_time": "04:35",
     "group": "SH FSC",
@@ -1377,6 +1446,29 @@
       "69' Emerson Nwaneri (2-2)",
       "",
       "90+8' Cheng Shenghan (3-2)"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
+    "time": "12:30",
+    "start_time": "12:30",
+    "group": "VEN D2",
+    "title": "Zamora FC Barinas B 1-1 Urena SC",
+    "homeTeam": "Zamora FC Barinas B",
+    "awayTeam": "Urena SC",
+    "score": "1-1",
+    "matchId": "5150954",
+    "status": "44'",
+    "goals": [
+      "",
+      "17' Jesus Colina (0-1)<br>30' Gabriel Estasio (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -1436,7 +1528,7 @@
     "awayTeam": "Stjarnan Gardabaer",
     "score": "1-1",
     "matchId": "5024334",
-    "status": "38'",
+    "status": "HT",
     "goals": [
       "",
       "16' Benedikt Waren (0-1)<br>25' Jonatan Ingi Jonsson (1-1)",
@@ -1477,12 +1569,12 @@
     "time": "12:02",
     "start_time": "12:02",
     "group": "NIR WD1",
-    "title": "Cliftonville Women\\s 0-0 Glentoran  Women\\s",
+    "title": "Cliftonville Women\\s 0-1 Glentoran  Women\\s",
     "homeTeam": "Cliftonville Women\\s",
     "awayTeam": "Glentoran  Women\\s",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5054848",
-    "status": "HT",
+    "status": "55'",
     "goals": [
       "",
       "",
@@ -1551,7 +1643,7 @@
     "awayTeam": "Sportivo San Lorenzo",
     "score": "1-0",
     "matchId": "5119221",
-    "status": "HT",
+    "status": "55'",
     "goals": [
       "12' Clementino Gonz\u00e1lez (1-0)",
       "",
@@ -1597,7 +1689,7 @@
     "awayTeam": "Mladost Lucani",
     "score": "0-0",
     "matchId": "5077835",
-    "status": "HT",
+    "status": "54'",
     "goals": [
       "",
       "",
@@ -1643,7 +1735,7 @@
     "awayTeam": "CSyD Tristan Suarez",
     "score": "1-1",
     "matchId": "5013726",
-    "status": "HT",
+    "status": "53'",
     "goals": [
       "12' Juan Ignacio Sanchez Sotelo (1-0)<br>15' Sebastian Ramirez (1-1)",
       "",
@@ -1689,7 +1781,7 @@
     "awayTeam": "Crusaders Newtownabbey Strikers Women\\s",
     "score": "3-0",
     "matchId": "5153937",
-    "status": "52'",
+    "status": "73'",
     "goals": [
       "",
       "",
@@ -1727,6 +1819,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "07:00",
+    "start_time": "07:00",
+    "group": "INT CF",
+    "title": "MC Oran 1-1 Al Raed FC",
+    "homeTeam": "MC Oran",
+    "awayTeam": "Al Raed FC",
+    "score": "1-1",
+    "matchId": "5153927",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "04:35",
     "start_time": "04:35",
     "group": "SH FSC",
@@ -1753,19 +1868,19 @@
     "time": "11:32",
     "start_time": "11:32",
     "group": "INT CF",
-    "title": "Potters Bar Town 1-2 St Albans City",
+    "title": "Potters Bar Town 1-3 St Albans City",
     "homeTeam": "Potters Bar Town",
     "awayTeam": "St Albans City",
-    "score": "1-2",
+    "score": "1-3",
     "matchId": "5153928",
-    "status": "62'",
+    "status": "83'",
     "goals": [
       "",
       "",
       "35' 1-0<br>44' Trialist (1-1)",
       "",
       "48' 1-2",
-      "",
+      "64' Trialist (1-3)",
       "",
       ""
     ]
@@ -1799,20 +1914,20 @@
     "time": "11:31",
     "start_time": "11:31",
     "group": "ARG D3FA",
-    "title": "CA Defensores de Vilelas 2-0 Sarmiento Resistencia",
+    "title": "CA Defensores de Vilelas 4-1 Sarmiento Resistencia",
     "homeTeam": "CA Defensores de Vilelas",
     "awayTeam": "Sarmiento Resistencia",
-    "score": "2-0",
+    "score": "4-1",
     "matchId": "5145161",
-    "status": "63'",
+    "status": "84'",
     "goals": [
       "",
       "",
       "37' Gustavo Carballo (1-0)",
       "",
       "48' Gonzalo Ca\u00f1ete (2-0)",
-      "",
-      "",
+      "71' Jonathan Canario (3-0)",
+      "81' 4-0",
       ""
     ]
   },
@@ -1845,12 +1960,12 @@
     "time": "11:30",
     "start_time": "11:30",
     "group": "ENG LC",
-    "title": "York City F.C. 0-1 Crawley Town F.C.",
+    "title": "York City F.C. 0-2 Crawley Town F.C.",
     "homeTeam": "York City F.C.",
     "awayTeam": "Crawley Town F.C.",
-    "score": "0-1",
+    "score": "0-2",
     "matchId": "5076492",
-    "status": "65'",
+    "status": "86'",
     "goals": [
       "",
       "24' Gianmarco Di Biase (0-1)",
@@ -1888,15 +2003,38 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "03:15",
+    "start_time": "03:15",
+    "group": "AUS VD1",
+    "title": "Melbourne Victory FC Am 1-0 FC Melbourne Srbija",
+    "homeTeam": "Melbourne Victory FC Am",
+    "awayTeam": "FC Melbourne Srbija",
+    "score": "1-0",
+    "matchId": "5009309",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "41' 1-0",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "ROM D1",
-    "title": "FCSB 1-2 Farul Constanta",
+    "title": "FCSB 2-2 Farul Constanta",
     "homeTeam": "FCSB",
     "awayTeam": "Farul Constanta",
-    "score": "1-2",
+    "score": "2-2",
     "matchId": "5093338",
-    "status": "66'",
+    "status": "87'",
     "goals": [
       "",
       "21' Iustin Doicaru (0-1)",
@@ -1904,7 +2042,7 @@
       "45+1' Eduard Radaslavescu (0-2)",
       "57' Joyskim Dawa Tchakonte (1-2)",
       "",
-      "",
+      "86' Joao Paulo Moreira Fernandes (2-2)",
       ""
     ]
   },
@@ -1934,6 +2072,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "05:30",
+    "start_time": "05:30",
+    "group": "UKR D1",
+    "title": "FC Bukovyna Chernivtsi 0-0 FC LNZ Cherkasy",
+    "homeTeam": "FC Bukovyna Chernivtsi",
+    "awayTeam": "FC LNZ Cherkasy",
+    "score": "0-0",
+    "matchId": "5093472",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "SCO PR",
@@ -1942,7 +2103,7 @@
     "awayTeam": "Dundee F.C.",
     "score": "1-0",
     "matchId": "5080931",
-    "status": "66'",
+    "status": "87'",
     "goals": [
       "",
       "",
@@ -1980,29 +2141,6 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
-    "time": "05:30",
-    "start_time": "05:30",
-    "group": "UKR D1",
-    "title": "FC Bukovyna Chernivtsi 0-0 FC LNZ Cherkasy",
-    "homeTeam": "FC Bukovyna Chernivtsi",
-    "awayTeam": "FC LNZ Cherkasy",
-    "score": "0-0",
-    "matchId": "5093472",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
     "time": "11:15",
     "start_time": "11:15",
     "group": "BUL D1",
@@ -2011,7 +2149,7 @@
     "awayTeam": "PFC Lokomotiv Plovdiv",
     "score": "1-0",
     "matchId": "5074033",
-    "status": "81'",
+    "status": "ET",
     "goals": [
       "8' David Valverde (1-0)",
       "",
@@ -2118,29 +2256,6 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
-    "time": "11:09",
-    "start_time": "11:09",
-    "group": "URU RL",
-    "title": "CA Penarol Reserve 1-0 CA Progreso Reserve",
-    "homeTeam": "CA Penarol Reserve",
-    "awayTeam": "CA Progreso Reserve",
-    "score": "1-0",
-    "matchId": "5153933",
-    "status": "90+'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
     "time": "09:30",
     "start_time": "09:30",
     "group": "INT CF",
@@ -2159,6 +2274,29 @@
       "73' Moteb Al-Harbi (2-3)",
       "",
       "90' Benjamin Bourigeaud (3-3)"
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
+    "time": "11:09",
+    "start_time": "11:09",
+    "group": "URU RL",
+    "title": "CA Penarol Reserve 1-0 CA Progreso Reserve",
+    "homeTeam": "CA Penarol Reserve",
+    "awayTeam": "CA Progreso Reserve",
+    "score": "1-0",
+    "matchId": "5153933",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -2195,7 +2333,7 @@
     "awayTeam": "Canuelas FC",
     "score": "1-2",
     "matchId": "5015176",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "4' Agust\u00edn Melo\u00f1o (1-0)",
       "",
@@ -2203,7 +2341,7 @@
       "",
       "",
       "",
-      "87' 1-2",
+      "87' Tob\u00edas Ybarra (1-2)",
       ""
     ]
   },
@@ -2241,7 +2379,7 @@
     "awayTeam": "Ferro Carril Oeste Women\\s",
     "score": "2-2",
     "matchId": "5145148",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "8' Luciana Zacmon (1-0)<br>10' Barbara Calvo (1-1)",
       "",
@@ -2287,15 +2425,15 @@
     "awayTeam": "Boca Juniors Women\\s",
     "score": "1-2",
     "matchId": "5145146",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "2' Roc\u00edo Bueno (1-0)",
       "",
       "",
       "",
       "",
-      "72' Lema (1-1)",
-      "81' 1-2",
+      "72' Julieta Lema (1-1)",
+      "81' Brisa Priori (1-2)",
       ""
     ]
   },
@@ -2356,7 +2494,7 @@
     "awayTeam": "Argentino Monte Maiz",
     "score": "1-0",
     "matchId": "5145167",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "",

@@ -48,29 +48,6 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "PAN D1",
-    "title": "Union Cocle 2-1 San Francisco FC",
-    "homeTeam": "Union Cocle",
-    "awayTeam": "San Francisco FC",
-    "score": "2-1",
-    "matchId": "5111747",
-    "status": "ET",
-    "goals": [
-      "9' Wesley Lashley (1-0)<br>13' Keny Bonilla (1-1)",
-      "24' Wesley Lashley (2-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
     "time": "14:02",
     "start_time": "14:02",
     "group": "USA MLSRv",
@@ -88,6 +65,29 @@
       "46' J. Siqueira (0-3)<br>49' Myles Morgan (0-4)",
       "",
       "79' Jason Bori (1-4)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "PAN D1",
+    "title": "Union Cocle 2-1 San Francisco FC",
+    "homeTeam": "Union Cocle",
+    "awayTeam": "San Francisco FC",
+    "score": "2-1",
+    "matchId": "5111747",
+    "status": "ET",
+    "goals": [
+      "9' Wesley Lashley (1-0)<br>13' Keny Bonilla (1-1)",
+      "24' Wesley Lashley (2-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -140,6 +140,29 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
+    "time": "18:30",
+    "start_time": "18:30",
+    "group": "HON D1",
+    "title": "C.D. Olimpia 0-0 Lobos UPNFM",
+    "homeTeam": "C.D. Olimpia",
+    "awayTeam": "Lobos UPNFM",
+    "score": "0-0",
+    "matchId": "5125542",
+    "status": "9'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
     "time": "14:30",
     "start_time": "14:30",
     "group": "CHI D1",
@@ -163,18 +186,41 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
+    "time": "14:23",
+    "start_time": "14:23",
+    "group": "COL D1",
+    "title": "Jaguares de Cordoba 0-3 Atletico Nacional",
+    "homeTeam": "Jaguares de Cordoba",
+    "awayTeam": "Atletico Nacional",
+    "score": "0-3",
+    "matchId": "5072364",
+    "status": "ET",
+    "goals": [
+      "7' Marlos Moreno Duran (0-1)",
+      "19' Andres De Jesus Sarmiento Salas (0-2)",
+      "32' Alfredo Jose Morelos Avilez (0-3)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
     "time": "18:15",
     "start_time": "18:15",
     "group": "COL WL",
-    "title": "America de Cali Women\\s 0-0 Llaneros Women\\s",
+    "title": "America de Cali Women\\s 1-1 Llaneros Women\\s",
     "homeTeam": "America de Cali Women\\s",
     "awayTeam": "Llaneros Women\\s",
-    "score": "0-0",
+    "score": "1-1",
     "matchId": "5043165",
-    "status": "9'",
+    "status": "24'",
     "goals": [
-      "",
-      "",
+      "15' Catalina Usme (1-0)",
+      "21' 1-1",
       "",
       "",
       "",
@@ -194,7 +240,7 @@
     "awayTeam": "Boston Legacy Women\\s",
     "score": "0-0",
     "matchId": "5024410",
-    "status": "16'",
+    "status": "31'",
     "goals": [
       "",
       "",
@@ -217,7 +263,7 @@
     "awayTeam": "Once Caldas",
     "score": "1-0",
     "matchId": "5072366",
-    "status": "23'",
+    "status": "38'",
     "goals": [
       "4' Jader Rafael Obrian Arias (1-0)",
       "",
@@ -263,7 +309,7 @@
     "awayTeam": "Club Necaxa",
     "score": "0-0",
     "matchId": "5077262",
-    "status": "13'",
+    "status": "28'",
     "goals": [
       "",
       "",
@@ -288,8 +334,8 @@
     "matchId": "5075725",
     "status": "HT",
     "goals": [
-      "8' Jurgen Colin (0-1)",
-      "23' Joel Campbell (1-1)",
+      "9' Jurgen Colin (0-1)",
+      "22' Joel Campbell (1-1)",
       "",
       "",
       "",
@@ -309,7 +355,7 @@
     "awayTeam": "Instituto Atletico Central Cordoba",
     "score": "0-0",
     "matchId": "5052503",
-    "status": "HT",
+    "status": "53'",
     "goals": [
       "",
       "",
@@ -347,6 +393,29 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
+    "time": "14:01",
+    "start_time": "14:01",
+    "group": "VEN D2",
+    "title": "Deportivo Lara 2-2 Yaracuyanos",
+    "homeTeam": "Deportivo Lara",
+    "awayTeam": "Yaracuyanos",
+    "score": "2-2",
+    "matchId": "5150953",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "61' 0-1<br>66' 1-1",
+      "82' 2-1",
+      "90' 2-2"
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "NCA D1",
@@ -355,7 +424,7 @@
     "awayTeam": "Matagalpa FC",
     "score": "3-1",
     "matchId": "5118980",
-    "status": "69'",
+    "status": "84'",
     "goals": [
       "8' Joao C\u00e1ceres (1-0)",
       "",
@@ -401,7 +470,7 @@
     "awayTeam": "CSD Municipal",
     "score": "1-2",
     "matchId": "5083692",
-    "status": "60'",
+    "status": "75'",
     "goals": [
       "13' Gaddi Axel Aguirre Ledesma (1-0)",
       "",
@@ -424,7 +493,7 @@
     "awayTeam": "CD FAS",
     "score": "0-4",
     "matchId": "5135803",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "14' Rafael Tejada (0-1)",
       "24' Edgar Medrano (0-2)",
@@ -432,7 +501,7 @@
       "",
       "",
       "",
-      "80' Nelson Bonilla (0-3)<br>87' 0-4",
+      "80' Nelson Bonilla (0-3)<br>87' Jos\u00e9 Cartagena (0-4)",
       ""
     ]
   },
@@ -488,12 +557,12 @@
     "time": "16:30",
     "start_time": "16:30",
     "group": "BOL D1",
-    "title": "Oriente Petrolero 0-0 Nacional Potosi",
+    "title": "Oriente Petrolero 1-0 Nacional Potosi",
     "homeTeam": "Oriente Petrolero",
     "awayTeam": "Nacional Potosi",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5067780",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -502,7 +571,7 @@
       "",
       "",
       "",
-      ""
+      "90+2' Nahuel Roldan (1-0)"
     ]
   },
   {
@@ -539,7 +608,7 @@
     "awayTeam": "Olancho FC",
     "score": "0-1",
     "matchId": "5125544",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "27' Marlon Ramirez (0-1)",
@@ -618,29 +687,6 @@
       "67' Joseline Montoya (1-1)<br>73' Joseline Montoya (2-1)",
       "78' Jasmine Casarez (3-1)",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "14:01",
-    "start_time": "14:01",
-    "group": "VEN D2",
-    "title": "Deportivo Lara 2-2 Yaracuyanos",
-    "homeTeam": "Deportivo Lara",
-    "awayTeam": "Yaracuyanos",
-    "score": "2-2",
-    "matchId": "5150953",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "61' 0-1<br>66' 1-1",
-      "82' 2-1",
-      "90' 2-2"
     ]
   },
   {
@@ -1085,29 +1131,6 @@
     "day": "Sunday",
     "time": "14:00",
     "start_time": "14:00",
-    "group": "HON D1",
-    "title": "Juticalpa 0-3 F.C. Motagua",
-    "homeTeam": "Juticalpa",
-    "awayTeam": "F.C. Motagua",
-    "score": "0-3",
-    "matchId": "5125543",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "65' Jonathan Alonso Moya Aguilar (0-1)",
-      "81' Rodrigo de Olivera Donado (0-2)<br>85' Oscar Discua (0-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
     "group": "VEN D1",
     "title": "Zamora FC Barinas 2-1 Rayo Zuliano",
     "homeTeam": "Zamora FC Barinas",
@@ -1129,6 +1152,29 @@
   {
     "date": "2026-08-02",
     "day": "Sunday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "HON D1",
+    "title": "Juticalpa 0-3 F.C. Motagua",
+    "homeTeam": "Juticalpa",
+    "awayTeam": "F.C. Motagua",
+    "score": "0-3",
+    "matchId": "5125543",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "65' Jonathan Alonso Moya Aguilar (0-1)",
+      "81' Rodrigo de Olivera Donado (0-2)<br>85' Oscar Discua (0-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-02",
+    "day": "Sunday",
     "time": "13:32",
     "start_time": "13:32",
     "group": "PER D1",
@@ -1142,29 +1188,6 @@
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-02",
-    "day": "Sunday",
-    "time": "14:23",
-    "start_time": "14:23",
-    "group": "COL D1",
-    "title": "Jaguares de Cordoba 0-3 Atletico Nacional",
-    "homeTeam": "Jaguares de Cordoba",
-    "awayTeam": "Atletico Nacional",
-    "score": "0-3",
-    "matchId": "5072364",
-    "status": "ET",
-    "goals": [
-      "7' Marlos Moreno Duran (0-1)",
-      "19' Andres De Jesus Sarmiento Salas (0-2)",
-      "32' Alfredo Jose Morelos Avilez (0-3)",
       "",
       "",
       "",

@@ -2,6 +2,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "19:01",
+    "start_time": "19:01",
+    "group": "GUA D1",
+    "title": "CSD Xelaju MC 0-0 Aurora FC",
+    "homeTeam": "CSD Xelaju MC",
+    "awayTeam": "Aurora FC",
+    "score": "0-0",
+    "matchId": "5083693",
+    "status": "1'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "15:33",
     "start_time": "15:33",
     "group": "BRA CP",
@@ -25,6 +48,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "19:00",
+    "start_time": "19:00",
+    "group": "CRC D1",
+    "title": "A.D. Municipal Perez Zeledon 0-0 C.S. Cartagines",
+    "homeTeam": "A.D. Municipal Perez Zeledon",
+    "awayTeam": "C.S. Cartagines",
+    "score": "0-0",
+    "matchId": "5075731",
+    "status": "2'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "18:00",
     "start_time": "18:00",
     "group": "COL D1",
@@ -33,13 +79,36 @@
     "awayTeam": "Cucuta",
     "score": "1-1",
     "matchId": "5072368",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "13' Jaime Peralta (0-1)<br>15' Enmerson Batalla (1-1)",
       "",
       "",
       "",
       "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "COL D2",
+    "title": "Leones 1-1 Deportes Quindio",
+    "homeTeam": "Leones",
+    "awayTeam": "Deportes Quindio",
+    "score": "1-1",
+    "matchId": "5072226",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+2' Fredy Valencia (0-1)",
+      "54' Cristian Rodr\u00edguez Cespedes (1-1)",
       "",
       "",
       ""
@@ -56,7 +125,7 @@
     "awayTeam": "Club America Women\\s",
     "score": "0-2",
     "matchId": "5141571",
-    "status": "40'",
+    "status": "HT",
     "goals": [
       "3' A. Soto (0-1)",
       "",
@@ -94,52 +163,6 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "CNCF CAC",
-    "title": "Dominican Republic(U21) 2-3 Venezuela(U21)",
-    "homeTeam": "Dominican Republic(U21)",
-    "awayTeam": "Venezuela(U21)",
-    "score": "2-3",
-    "matchId": "5141927",
-    "status": "ET",
-    "goals": [
-      "4' Diego Claut (0-1)<br>13' Jes\u00fas Gonz\u00e1lez (0-2)",
-      "",
-      "",
-      "45+4' Javier Roces (1-2)",
-      "",
-      "69' Javier Roces (2-2)",
-      "88' Marcos Maitan (2-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "PAN D1",
-    "title": "CA Independiente La Chorrera 0-0 Herrera FC",
-    "homeTeam": "CA Independiente La Chorrera",
-    "awayTeam": "Herrera FC",
-    "score": "0-0",
-    "matchId": "5111750",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
     "time": "13:30",
     "start_time": "13:30",
     "group": "COL D2",
@@ -163,15 +186,38 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "CNCF CAC",
+    "title": "Dominican Republic(U21) 2-3 Venezuela(U21)",
+    "homeTeam": "Dominican Republic(U21)",
+    "awayTeam": "Venezuela(U21)",
+    "score": "2-3",
+    "matchId": "5141927",
+    "status": "ET",
+    "goals": [
+      "4' Diego Claut (0-1)<br>13' Jes\u00fas Gonz\u00e1lez (0-2)",
+      "",
+      "",
+      "45+4' Javier Roces (1-2)",
+      "",
+      "69' Javier Roces (2-2)",
+      "88' Marcos Maitan (2-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "ECU D1",
-    "title": "Liga Deportiva Universitaria 0-1 Delfin S.C.",
+    "title": "Liga Deportiva Universitaria 1-1 Delfin S.C.",
     "homeTeam": "Liga Deportiva Universitaria",
     "awayTeam": "Delfin S.C.",
-    "score": "0-1",
+    "score": "1-1",
     "matchId": "5035280",
-    "status": "82'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -179,7 +225,7 @@
       "",
       "",
       "",
-      "76' Thiago Ozaeta (0-1)",
+      "76' Thiago Ozaeta (0-1)<br>89' Michael Steveen Estrada Martinez (1-1)",
       ""
     ]
   },
@@ -194,7 +240,7 @@
     "awayTeam": "Esporte Clube Vitoria",
     "score": "2-0",
     "matchId": "5069704",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "9' Joao Victor Machado Cruz (1-0)",
       "",
@@ -255,29 +301,6 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "COL D2",
-    "title": "Leones 1-1 Deportes Quindio",
-    "homeTeam": "Leones",
-    "awayTeam": "Deportes Quindio",
-    "score": "1-1",
-    "matchId": "5072226",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+2' Fredy Valencia (0-1)",
-      "54' Cristian Rodr\u00edguez Cespedes (1-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
     "time": "16:00",
     "start_time": "16:00",
     "group": "CNCF CAC",
@@ -301,6 +324,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "PAN D1",
+    "title": "CA Independiente La Chorrera 0-0 Herrera FC",
+    "homeTeam": "CA Independiente La Chorrera",
+    "awayTeam": "Herrera FC",
+    "score": "0-0",
+    "matchId": "5111750",
+    "status": "45'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "17:15",
     "start_time": "17:15",
     "group": "ARG D1",
@@ -309,7 +355,7 @@
     "awayTeam": "Atletico Tucuman",
     "score": "0-0",
     "matchId": "5052502",
-    "status": "73'",
+    "status": "88'",
     "goals": [
       "",
       "",
@@ -332,7 +378,7 @@
     "awayTeam": "San Lorenzo de Almagro",
     "score": "1-0",
     "matchId": "5052496",
-    "status": "74'",
+    "status": "89'",
     "goals": [
       "",
       "",
@@ -378,7 +424,7 @@
     "awayTeam": "Atletico Independiente",
     "score": "1-0",
     "matchId": "5125545",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "24' Nicolas Ariel Messiniti (1-0)",
@@ -401,7 +447,7 @@
     "awayTeam": "Deportes Copiapo",
     "score": "1-4",
     "matchId": "5027365",
-    "status": "86'",
+    "status": "ET",
     "goals": [
       "",
       "16' L. Palacios (0-1)",
@@ -409,7 +455,7 @@
       "",
       "57' Manuel L\u00f3pez (1-2)",
       "71' Manuel L\u00f3pez (1-3)",
-      "85' 1-4",
+      "85' Manuel L\u00f3pez (1-4)",
       ""
     ]
   },

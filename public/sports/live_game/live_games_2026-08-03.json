@@ -25,6 +25,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "COL D2",
+    "title": "Leones 1-1 Deportes Quindio",
+    "homeTeam": "Leones",
+    "awayTeam": "Deportes Quindio",
+    "score": "1-1",
+    "matchId": "5072226",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+2' Fredy Valencia (0-1)",
+      "54' Cristian Rodr\u00edguez Cespedes (1-1)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "15:33",
     "start_time": "15:33",
     "group": "BRA CP",
@@ -56,7 +79,7 @@
     "awayTeam": "Aurora FC",
     "score": "1-0",
     "matchId": "5083693",
-    "status": "50'",
+    "status": "53'",
     "goals": [
       "",
       "22' Steven Cardenas (1-0)",
@@ -79,7 +102,7 @@
     "awayTeam": "C.S. Cartagines",
     "score": "1-0",
     "matchId": "5075731",
-    "status": "54'",
+    "status": "57'",
     "goals": [
       "",
       "26' Jose Alvarado (1-0)",
@@ -209,29 +232,6 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "PAN D1",
-    "title": "CA Independiente La Chorrera 0-0 Herrera FC",
-    "homeTeam": "CA Independiente La Chorrera",
-    "awayTeam": "Herrera FC",
-    "score": "0-0",
-    "matchId": "5111750",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "ARG D1",
@@ -347,6 +347,29 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "PAN D1",
+    "title": "CA Independiente La Chorrera 0-0 Herrera FC",
+    "homeTeam": "CA Independiente La Chorrera",
+    "awayTeam": "Herrera FC",
+    "score": "0-0",
+    "matchId": "5111750",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
     "time": "17:15",
     "start_time": "17:15",
     "group": "ARG D1",
@@ -408,6 +431,29 @@
       "",
       "",
       "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-03",
+    "day": "Monday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "CNCF CAC",
+    "title": "Mexico(U21) 4-1 Guatemala(U21)",
+    "homeTeam": "Mexico(U21)",
+    "awayTeam": "Guatemala(U21)",
+    "score": "4-1",
+    "matchId": "5141925",
+    "status": "ET",
+    "goals": [
+      "3' Marcelo Hern\u00e1ndez (0-1)<br>15' Tahiel Jim\u00e9nez (1-1)",
+      "",
+      "",
+      "",
+      "48' Tahiel Jim\u00e9nez (2-1)<br>56' Tahiel Jim\u00e9nez (3-1)<br>58' Rogelio Gonz\u00e1lez (4-1)",
       "",
       "",
       ""
@@ -485,29 +531,6 @@
   {
     "date": "2026-08-03",
     "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "CNCF CAC",
-    "title": "Mexico(U21) 4-1 Guatemala(U21)",
-    "homeTeam": "Mexico(U21)",
-    "awayTeam": "Guatemala(U21)",
-    "score": "4-1",
-    "matchId": "5141925",
-    "status": "ET",
-    "goals": [
-      "3' Marcelo Hern\u00e1ndez (0-1)<br>15' Tahiel Jim\u00e9nez (1-1)",
-      "",
-      "",
-      "",
-      "48' Tahiel Jim\u00e9nez (2-1)<br>56' Tahiel Jim\u00e9nez (3-1)<br>58' Rogelio Gonz\u00e1lez (4-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "CHI D2",
@@ -570,29 +593,6 @@
       "",
       "",
       "70' Thiago Aguirre (1-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-03",
-    "day": "Monday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "COL D2",
-    "title": "Leones 1-1 Deportes Quindio",
-    "homeTeam": "Leones",
-    "awayTeam": "Deportes Quindio",
-    "score": "1-1",
-    "matchId": "5072226",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+2' Fredy Valencia (0-1)",
-      "54' Cristian Rodr\u00edguez Cespedes (1-1)",
-      "",
       "",
       ""
     ]

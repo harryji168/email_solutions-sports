@@ -991,29 +991,6 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
-    "time": "08:02",
-    "start_time": "08:02",
-    "group": "ARG RL",
-    "title": "Sportivo Italiano Reserve 0-1 Deportivo Armenio Reserve",
-    "homeTeam": "Sportivo Italiano Reserve",
-    "awayTeam": "Deportivo Armenio Reserve",
-    "score": "0-1",
-    "matchId": "5154832",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
     "time": "01:00",
     "start_time": "01:00",
     "group": "INT CF",
@@ -1031,6 +1008,29 @@
       "53' 1-2",
       "",
       "86' 1-3",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
+    "time": "08:02",
+    "start_time": "08:02",
+    "group": "ARG RL",
+    "title": "Sportivo Italiano Reserve 0-1 Deportivo Armenio Reserve",
+    "homeTeam": "Sportivo Italiano Reserve",
+    "awayTeam": "Deportivo Armenio Reserve",
+    "score": "0-1",
+    "matchId": "5154832",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -1267,6 +1267,29 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
+    "time": "05:30",
+    "start_time": "05:30",
+    "group": "UZB D1A",
+    "title": "FC Lochin 0-0 Yaypan FK",
+    "homeTeam": "FC Lochin",
+    "awayTeam": "Yaypan FK",
+    "score": "0-0",
+    "matchId": "5050369",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
     "time": "08:00",
     "start_time": "08:00",
     "group": "POL Cup",
@@ -1307,29 +1330,6 @@
       "",
       "63' Mirzad Mehanovi\u0107 (1-1)",
       "80' Andres Campana (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "INT CF",
-    "title": "Korea Republic Stars 1-3 Manchester City F.C.",
-    "homeTeam": "Korea Republic Stars",
-    "awayTeam": "Manchester City F.C.",
-    "score": "1-3",
-    "matchId": "5140358",
-    "status": "ET",
-    "goals": [
-      "9' Rayan Ait Nouri (0-1)<br>12' Kim Dae Won (1-1)",
-      "20' Tijjani Reijnders (1-2)<br>23' Divin Mubama (1-3)",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -1492,29 +1492,6 @@
       "65' 1-2",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "02:00",
-    "start_time": "02:00",
-    "group": "INT CF",
-    "title": "Granada CF Women\\s 1-1 Atletico Madrid Women\\s",
-    "homeTeam": "Granada CF Women\\s",
-    "awayTeam": "Atletico Madrid Women\\s",
-    "score": "1-1",
-    "matchId": "5154941",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "48' Synne Jensen (0-1)",
-      "",
-      "",
-      "90' Barbara Latorre (1-1)"
     ]
   },
   {
@@ -1721,29 +1698,6 @@
       "",
       "",
       "82' 1-2<br>84' 2-2",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "02:00",
-    "start_time": "02:00",
-    "group": "UEFA WCL",
-    "title": "Austria Wien Women\\s 3-2 Hajduk Split Women\\s",
-    "homeTeam": "Austria Wien Women\\s",
-    "awayTeam": "Hajduk Split Women\\s",
-    "score": "3-2",
-    "matchId": "5083108",
-    "status": "ET",
-    "goals": [
-      "1' Patricia Pfanner (1-0)<br>4' Modesta Uka (2-0)",
-      "18' Patricia Pfanner (3-0)",
-      "",
-      "45' Janja \u010canjevac (3-1)",
-      "47' Gia Kala\u0161 (3-2)",
-      "",
-      "",
       ""
     ]
   },
@@ -2026,6 +1980,29 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
+    "time": "01:30",
+    "start_time": "01:30",
+    "group": "INT CF",
+    "title": "UD Ibiza 3-1 Elche CF Ilicitano",
+    "homeTeam": "UD Ibiza",
+    "awayTeam": "Elche CF Ilicitano",
+    "score": "3-1",
+    "matchId": "5154827",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' Iker Varela (1-0)",
+      "",
+      "55' 1-1",
+      "",
+      "77' Pedro Ortiz (2-1)<br>86' 3-1",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
     "time": "10:30",
     "start_time": "10:30",
     "group": "INT CF",
@@ -2066,29 +2043,6 @@
       "",
       "",
       "76' 2-0<br>88' 3-0",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "01:30",
-    "start_time": "01:30",
-    "group": "INT CF",
-    "title": "UD Ibiza 3-1 Elche CF Ilicitano",
-    "homeTeam": "UD Ibiza",
-    "awayTeam": "Elche CF Ilicitano",
-    "score": "3-1",
-    "matchId": "5154827",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' Iker Varela (1-0)",
-      "",
-      "55' 1-1",
-      "",
-      "77' Pedro Ortiz (2-1)<br>86' 3-1",
       ""
     ]
   },
@@ -2279,14 +2233,14 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
-    "time": "07:30",
-    "start_time": "07:30",
-    "group": "ROM Cup",
-    "title": "Domnesti IF 2-7 Olimpic Zarnesti",
-    "homeTeam": "Domnesti IF",
-    "awayTeam": "Olimpic Zarnesti",
-    "score": "2-7",
-    "matchId": "5149217",
+    "time": "00:30",
+    "start_time": "00:30",
+    "group": "AUS CTU23",
+    "title": "Queanbeyan City (U23) 0-2 Tuggeranong United(U23)",
+    "homeTeam": "Queanbeyan City (U23)",
+    "awayTeam": "Tuggeranong United(U23)",
+    "score": "0-2",
+    "matchId": "5154459",
     "status": "ET",
     "goals": [
       "",
@@ -2302,14 +2256,14 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
-    "time": "00:30",
-    "start_time": "00:30",
-    "group": "AUS CTU23",
-    "title": "Queanbeyan City (U23) 0-2 Tuggeranong United(U23)",
-    "homeTeam": "Queanbeyan City (U23)",
-    "awayTeam": "Tuggeranong United(U23)",
-    "score": "0-2",
-    "matchId": "5154459",
+    "time": "07:30",
+    "start_time": "07:30",
+    "group": "ROM Cup",
+    "title": "Domnesti IF 2-7 Olimpic Zarnesti",
+    "homeTeam": "Domnesti IF",
+    "awayTeam": "Olimpic Zarnesti",
+    "score": "2-7",
+    "matchId": "5149217",
     "status": "ET",
     "goals": [
       "",
@@ -2341,6 +2295,29 @@
       "",
       "",
       "62' Vladimir Popov (2-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
+    "time": "01:30",
+    "start_time": "01:30",
+    "group": "CHA D2",
+    "title": "Shanghai Port B 0-1 Shanxi Chongde Ronghai",
+    "homeTeam": "Shanghai Port B",
+    "awayTeam": "Shanxi Chongde Ronghai",
+    "score": "0-1",
+    "matchId": "5051080",
+    "status": "ET",
+    "goals": [
+      "1' Chen Xiangyu (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -2388,29 +2365,6 @@
       "46' 2-1<br>57' 2-2",
       "65' 3-2",
       "88' 3-3",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "01:30",
-    "start_time": "01:30",
-    "group": "CHA D2",
-    "title": "Shanghai Port B 0-1 Shanxi Chongde Ronghai",
-    "homeTeam": "Shanghai Port B",
-    "awayTeam": "Shanxi Chongde Ronghai",
-    "score": "0-1",
-    "matchId": "5051080",
-    "status": "ET",
-    "goals": [
-      "1' Chen Xiangyu (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -2478,6 +2432,29 @@
       "",
       "",
       "54' 3-0",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "INT CF",
+    "title": "Korea Republic Stars 1-3 Manchester City F.C.",
+    "homeTeam": "Korea Republic Stars",
+    "awayTeam": "Manchester City F.C.",
+    "score": "1-3",
+    "matchId": "5140358",
+    "status": "ET",
+    "goals": [
+      "9' Rayan Ait Nouri (0-1)<br>12' Kim Dae Won (1-1)",
+      "20' Tijjani Reijnders (1-2)<br>23' Divin Mubama (1-3)",
+      "",
+      "",
+      "",
       "",
       "",
       ""
@@ -2563,29 +2540,6 @@
     "awayTeam": "San Telmo  Reserve",
     "score": "0-1",
     "matchId": "5154681",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "BTN PL",
-    "title": "Ugyen Academy 0-1 Bhutan Football Federation Academy(U19)",
-    "homeTeam": "Ugyen Academy",
-    "awayTeam": "Bhutan Football Federation Academy(U19)",
-    "score": "0-1",
-    "matchId": "5129867",
     "status": "ET",
     "goals": [
       "",
@@ -3245,6 +3199,29 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
+    "time": "02:00",
+    "start_time": "02:00",
+    "group": "UEFA WCL",
+    "title": "Austria Wien Women\\s 3-2 Hajduk Split Women\\s",
+    "homeTeam": "Austria Wien Women\\s",
+    "awayTeam": "Hajduk Split Women\\s",
+    "score": "3-2",
+    "matchId": "5083108",
+    "status": "ET",
+    "goals": [
+      "1' Patricia Pfanner (1-0)<br>4' Modesta Uka (2-0)",
+      "18' Patricia Pfanner (3-0)",
+      "",
+      "45' Janja \u010canjevac (3-1)",
+      "47' Gia Kala\u0161 (3-2)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "INT CF",
@@ -3585,6 +3562,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
+    "time": "02:00",
+    "start_time": "02:00",
+    "group": "INT CF",
+    "title": "Granada CF Women\\s 1-1 Atletico Madrid Women\\s",
+    "homeTeam": "Granada CF Women\\s",
+    "awayTeam": "Atletico Madrid Women\\s",
+    "score": "1-1",
+    "matchId": "5154941",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "48' Synne Jensen (0-1)",
+      "",
+      "",
+      "90' Barbara Latorre (1-1)"
     ]
   },
   {
@@ -4349,29 +4349,6 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
-    "time": "05:30",
-    "start_time": "05:30",
-    "group": "UZB D1A",
-    "title": "FC Lochin 0-0 Yaypan FK",
-    "homeTeam": "FC Lochin",
-    "awayTeam": "Yaypan FK",
-    "score": "0-0",
-    "matchId": "5050369",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "SWE WCup",
@@ -4625,6 +4602,29 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "BTN PL",
+    "title": "Ugyen Academy 0-1 Bhutan Football Federation Academy(U19)",
+    "homeTeam": "Ugyen Academy",
+    "awayTeam": "Bhutan Football Federation Academy(U19)",
+    "score": "0-1",
+    "matchId": "5129867",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
     "time": "08:32",
     "start_time": "08:32",
     "group": "FIN D3",
@@ -4840,7 +4840,7 @@
     "awayTeam": "CSKA 1948 Sofia",
     "score": "1-1",
     "matchId": "5149059",
-    "status": "79'",
+    "status": "80'",
     "goals": [
       "",
       "21' Jagusic Adriano (1-0)",
@@ -4863,7 +4863,7 @@
     "awayTeam": "Glasgow Rangers Women\\s",
     "score": "1-1",
     "matchId": "5083176",
-    "status": "83'",
+    "status": "84'",
     "goals": [
       "",
       "",
@@ -4886,7 +4886,7 @@
     "awayTeam": "Spartak Myjava Women\\s",
     "score": "1-2",
     "matchId": "5148959",
-    "status": "80'",
+    "status": "81'",
     "goals": [
       "",
       "",
@@ -4909,7 +4909,7 @@
     "awayTeam": "Queen\\s Park Women\\s",
     "score": "3-0",
     "matchId": "5154540",
-    "status": "80'",
+    "status": "81'",
     "goals": [
       "",
       "",
@@ -4932,7 +4932,7 @@
     "awayTeam": "Kilmarnock Women\\s",
     "score": "0-2",
     "matchId": "5154543",
-    "status": "75'",
+    "status": "76'",
     "goals": [
       "",
       "",
@@ -4955,7 +4955,7 @@
     "awayTeam": "Aberdeen Women\\s",
     "score": "0-1",
     "matchId": "5154541",
-    "status": "75'",
+    "status": "76'",
     "goals": [
       "",
       "",
@@ -4978,7 +4978,7 @@
     "awayTeam": "Real Murcia",
     "score": "0-4",
     "matchId": "5154393",
-    "status": "84'",
+    "status": "85'",
     "goals": [
       "8' Javi Mier (0-1)",
       "17' Chema N\u00fa\u00f1ez (0-2)",
@@ -5001,7 +5001,7 @@
     "awayTeam": "CD Coria",
     "score": "0-1",
     "matchId": "5154405",
-    "status": "77'",
+    "status": "78'",
     "goals": [
       "13' Antonio Arcos (0-1)",
       "",
@@ -5024,7 +5024,7 @@
     "awayTeam": "Ciudad de Lucena",
     "score": "3-0",
     "matchId": "5154734",
-    "status": "79'",
+    "status": "80'",
     "goals": [
       "",
       "29' 1-0",
@@ -5047,7 +5047,7 @@
     "awayTeam": "Cork City Women\\s",
     "score": "1-0",
     "matchId": "5007873",
-    "status": "67'",
+    "status": "68'",
     "goals": [
       "",
       "",
@@ -5070,7 +5070,7 @@
     "awayTeam": "Strabane Athletic Women\\s",
     "score": "2-2",
     "matchId": "5154542",
-    "status": "66'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -5093,7 +5093,7 @@
     "awayTeam": "Livingston F.C. Women\\s",
     "score": "2-0",
     "matchId": "5154544",
-    "status": "65'",
+    "status": "66'",
     "goals": [
       "",
       "",
@@ -5111,12 +5111,12 @@
     "time": "11:46",
     "start_time": "11:46",
     "group": "SCO WPLC",
-    "title": "Motherwell Women\\s 1-1 Gartcairn  Women\\s",
+    "title": "Motherwell Women\\s 2-1 Gartcairn  Women\\s",
     "homeTeam": "Motherwell Women\\s",
     "awayTeam": "Gartcairn  Women\\s",
-    "score": "1-1",
+    "score": "2-1",
     "matchId": "5154545",
-    "status": "66'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -5139,7 +5139,7 @@
     "awayTeam": "Renfrew Women\\s",
     "score": "2-0",
     "matchId": "5154546",
-    "status": "66'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -5162,7 +5162,7 @@
     "awayTeam": "Real Betis",
     "score": "1-3",
     "matchId": "5146966",
-    "status": "65'",
+    "status": "66'",
     "goals": [
       "9' Rodrigo Riquelme Reche (0-1)",
       "26' Nelson Deossa (0-2)",
@@ -5185,7 +5185,7 @@
     "awayTeam": "C.D. San Antonio Bulo Bulo",
     "score": "0-0",
     "matchId": "5067786",
-    "status": "48'",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -5208,7 +5208,7 @@
     "awayTeam": "Torreense Women\\s",
     "score": "1-0",
     "matchId": "5083141",
-    "status": "51'",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -5231,7 +5231,7 @@
     "awayTeam": "Ballymena Women\\s",
     "score": "3-0",
     "matchId": "5154555",
-    "status": "48'",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -5249,12 +5249,12 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "SCO HL",
-    "title": "Banks O\\Dee 1-0 Inverurie Loco Works",
+    "title": "Banks O\\Dee 1-1 Inverurie Loco Works",
     "homeTeam": "Banks O\\Dee",
     "awayTeam": "Inverurie Loco Works",
-    "score": "1-0",
+    "score": "1-1",
     "matchId": "5076494",
-    "status": "55'",
+    "status": "56'",
     "goals": [
       "",
       "",
@@ -5272,12 +5272,12 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "SCO HL",
-    "title": "Brora Rangers 3-0 Wick Academy FC",
+    "title": "Brora Rangers 4-0 Wick Academy FC",
     "homeTeam": "Brora Rangers",
     "awayTeam": "Wick Academy FC",
-    "score": "3-0",
+    "score": "4-0",
     "matchId": "5076495",
-    "status": "53'",
+    "status": "54'",
     "goals": [
       "3' Jake Rodgers (1-0)",
       "24' James Anderson (2-0)",
@@ -5300,7 +5300,7 @@
     "awayTeam": "Invergordon",
     "score": "1-0",
     "matchId": "5076496",
-    "status": "51'",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -5323,7 +5323,7 @@
     "awayTeam": "Keith",
     "score": "1-0",
     "matchId": "5076497",
-    "status": "52'",
+    "status": "53'",
     "goals": [
       "",
       "",
@@ -5346,7 +5346,7 @@
     "awayTeam": "Deveronvale",
     "score": "1-0",
     "matchId": "5076498",
-    "status": "51'",
+    "status": "52'",
     "goals": [
       "",
       "25' Dylan Shaw (1-0)",
@@ -5369,7 +5369,7 @@
     "awayTeam": "Rothes",
     "score": "4-1",
     "matchId": "5076500",
-    "status": "53'",
+    "status": "54'",
     "goals": [
       "10' Rio Hastings (0-1)<br>14' Brodie Allen (1-1)",
       "19' Brodie Allen (2-1)",
@@ -5392,7 +5392,7 @@
     "awayTeam": "Forres Mechanics",
     "score": "1-2",
     "matchId": "5076501",
-    "status": "56'",
+    "status": "57'",
     "goals": [
       "",
       "16' Ryan MacLeman (0-1)<br>19' Ryan MacLeman (0-2)<br>22' Ally Wilson (1-2)",
@@ -5415,7 +5415,7 @@
     "awayTeam": "Buckie Thistle FC",
     "score": "0-1",
     "matchId": "5076503",
-    "status": "54'",
+    "status": "55'",
     "goals": [
       "",
       "",
@@ -5438,7 +5438,7 @@
     "awayTeam": "Formartine United",
     "score": "1-0",
     "matchId": "5076505",
-    "status": "51'",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -5456,12 +5456,12 @@
     "time": "12:00",
     "start_time": "12:00",
     "group": "SCO WPLC",
-    "title": "St. Johnstone Women\\s 0-4 Montrose  Women\\s",
+    "title": "St. Johnstone Women\\s 0-5 Montrose  Women\\s",
     "homeTeam": "St. Johnstone Women\\s",
     "awayTeam": "Montrose  Women\\s",
-    "score": "0-4",
+    "score": "0-5",
     "matchId": "5154547",
-    "status": "51'",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -5484,7 +5484,7 @@
     "awayTeam": "CD Gevora",
     "score": "0-0",
     "matchId": "5154409",
-    "status": "48'",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -5507,7 +5507,7 @@
     "awayTeam": "Cordoba Women\\s",
     "score": "3-0",
     "matchId": "5154950",
-    "status": "46'",
+    "status": "49'",
     "goals": [
       "11' Ana Manch\u00f3n (1-0)",
       "25' Marta Iglesias (2-0)",
@@ -5525,18 +5525,18 @@
     "time": "12:00",
     "start_time": "12:00",
     "group": "INT CF",
-    "title": "RCD Mallorca 2-0 Paris Saint-Germain FC",
+    "title": "RCD Mallorca 3-0 Paris Saint-Germain FC",
     "homeTeam": "RCD Mallorca",
     "awayTeam": "Paris Saint-Germain FC",
-    "score": "2-0",
+    "score": "3-0",
     "matchId": "5154408",
-    "status": "52'",
+    "status": "53'",
     "goals": [
       "",
       "21' Zito Luvumbo (1-0)",
       "40' Jan Virgili Tenas (2-0)",
       "",
-      "",
+      "51' Antonio Jose Raillo Arenas (3-0)",
       "",
       "",
       ""
@@ -5576,7 +5576,7 @@
     "awayTeam": "Zambia Women\\s",
     "score": "0-1",
     "matchId": "5025515",
-    "status": "8'",
+    "status": "9'",
     "goals": [
       "2' 0-1",
       "",
@@ -5599,7 +5599,7 @@
     "awayTeam": "Nigeria Women\\s",
     "score": "0-0",
     "matchId": "5025514",
-    "status": "8'",
+    "status": "9'",
     "goals": [
       "",
       "",
@@ -5622,9 +5622,9 @@
     "awayTeam": "Panama(U21)",
     "score": "1-0",
     "matchId": "5154612",
-    "status": "8'",
+    "status": "9'",
     "goals": [
-      "",
+      "8' 1-0",
       "",
       "",
       "",
@@ -5645,7 +5645,7 @@
     "awayTeam": "IB Uppsveitir",
     "score": "0-0",
     "matchId": "5155155",
-    "status": "8'",
+    "status": "9'",
     "goals": [
       "",
       "",
@@ -5668,7 +5668,7 @@
     "awayTeam": "C.D. Universidad Catolica del Ecuador",
     "score": "0-0",
     "matchId": "5071323",
-    "status": "8'",
+    "status": "9'",
     "goals": [
       "",
       "",

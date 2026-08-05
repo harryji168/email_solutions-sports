@@ -209,6 +209,29 @@
   {
     "date": "2026-08-04",
     "day": "Tuesday",
+    "time": "17:40",
+    "start_time": "17:40",
+    "group": "CNCF LC",
+    "title": "Minnesota United FC 1-2 FC Juarez",
+    "homeTeam": "Minnesota United FC",
+    "awayTeam": "FC Juarez",
+    "score": "1-2",
+    "matchId": "5049993",
+    "status": "ET",
+    "goals": [
+      "",
+      "22' Guilherme Castilho Carvalho (0-1)",
+      "34' Tomas Alejandro Chancalay (1-1)<br>38' Oscar Eduardo Estupinan Vallesilla (1-2)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "day": "Tuesday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "CNCF WCAC",
@@ -240,7 +263,7 @@
     "awayTeam": "Real Esteli",
     "score": "0-1",
     "matchId": "5077648",
-    "status": "48'",
+    "status": "63'",
     "goals": [
       "",
       "",
@@ -263,7 +286,7 @@
     "awayTeam": "Liga Deportiva Alajuelense",
     "score": "1-2",
     "matchId": "5077638",
-    "status": "50'",
+    "status": "65'",
     "goals": [
       "3' Christian Reyes (1-0)<br>10' John Ruiz (1-1)",
       "",
@@ -286,7 +309,7 @@
     "awayTeam": "Pumas UNAM",
     "score": "3-0",
     "matchId": "5049990",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "27' Brandt Bronico (1-0)",
@@ -309,7 +332,7 @@
     "awayTeam": "Deportivo Pasto",
     "score": "2-0",
     "matchId": "5072374",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "25' Andres Llinas Montejo (1-0)",
@@ -332,7 +355,7 @@
     "awayTeam": "Real Salt Lake",
     "score": "1-1",
     "matchId": "5049994",
-    "status": "HT",
+    "status": "57'",
     "goals": [
       "6' Juan Francisco Brunetta (1-0)",
       "16' Pablo Enrique Ruiz (1-1)",
@@ -363,29 +386,6 @@
       "45+5' Brandon Dayes (1-1)",
       "",
       "68' Din Klapija (2-1)<br>75' Joshua Torquato (3-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-04",
-    "day": "Tuesday",
-    "time": "19:40",
-    "start_time": "19:40",
-    "group": "CNCF LC",
-    "title": "Vancouver Whitecaps FC 0-0 CF Atlante",
-    "homeTeam": "Vancouver Whitecaps FC",
-    "awayTeam": "CF Atlante",
-    "score": "0-0",
-    "matchId": "5049995",
-    "status": "32'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       ""
     ]
@@ -508,29 +508,6 @@
   {
     "date": "2026-08-04",
     "day": "Tuesday",
-    "time": "16:15",
-    "start_time": "16:15",
-    "group": "COL D1",
-    "title": "Deportes Tolima 2-3 Independiente Medellin",
-    "homeTeam": "Deportes Tolima",
-    "awayTeam": "Independiente Medellin",
-    "score": "2-3",
-    "matchId": "5072371",
-    "status": "ET",
-    "goals": [
-      "1' Daniel Felipe Catano Torres (0-1)",
-      "16' Jhonnier Esteban Montano Barona (0-2)",
-      "",
-      "",
-      "56' Sebastian Felipe Guzman Mendoza (1-2)<br>57' Juan Cordoba (1-3)",
-      "",
-      "84' Junior Alexis Hernandez Angulo (2-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-04",
-    "day": "Tuesday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA Cup",
@@ -549,6 +526,29 @@
       "",
       "",
       "90+5' Alan Minda (0-1)"
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "day": "Tuesday",
+    "time": "16:15",
+    "start_time": "16:15",
+    "group": "COL D1",
+    "title": "Deportes Tolima 2-3 Independiente Medellin",
+    "homeTeam": "Deportes Tolima",
+    "awayTeam": "Independiente Medellin",
+    "score": "2-3",
+    "matchId": "5072371",
+    "status": "ET",
+    "goals": [
+      "1' Daniel Felipe Catano Torres (0-1)",
+      "16' Jhonnier Esteban Montano Barona (0-2)",
+      "",
+      "",
+      "56' Sebastian Felipe Guzman Mendoza (1-2)<br>57' Juan Cordoba (1-3)",
+      "",
+      "84' Junior Alexis Hernandez Angulo (2-3)",
+      ""
     ]
   },
   {
@@ -577,29 +577,6 @@
   {
     "date": "2026-08-04",
     "day": "Tuesday",
-    "time": "16:30",
-    "start_time": "16:30",
-    "group": "CHI Cup",
-    "title": "CD Nublense 1-0 Rangers Talca",
-    "homeTeam": "CD Nublense",
-    "awayTeam": "Rangers Talca",
-    "score": "1-0",
-    "matchId": "5097281",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "90+1' Bastian Munoz (1-0)"
-    ]
-  },
-  {
-    "date": "2026-08-04",
-    "day": "Tuesday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "CHI D4",
@@ -623,24 +600,47 @@
   {
     "date": "2026-08-04",
     "day": "Tuesday",
-    "time": "17:40",
-    "start_time": "17:40",
+    "time": "19:40",
+    "start_time": "19:40",
     "group": "CNCF LC",
-    "title": "Minnesota United FC 1-2 FC Juarez",
-    "homeTeam": "Minnesota United FC",
-    "awayTeam": "FC Juarez",
-    "score": "1-2",
-    "matchId": "5049993",
-    "status": "ET",
+    "title": "Vancouver Whitecaps FC 0-1 CF Atlante",
+    "homeTeam": "Vancouver Whitecaps FC",
+    "awayTeam": "CF Atlante",
+    "score": "0-1",
+    "matchId": "5049995",
+    "status": "45+'",
     "goals": [
       "",
-      "22' Guilherme Castilho Carvalho (0-1)",
-      "34' Tomas Alejandro Chancalay (1-1)<br>38' Oscar Eduardo Estupinan Vallesilla (1-2)",
+      "",
+      "40' Jhojan Esmaides Julio Palacios (0-1)",
       "",
       "",
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-04",
+    "day": "Tuesday",
+    "time": "16:30",
+    "start_time": "16:30",
+    "group": "CHI Cup",
+    "title": "CD Nublense 1-0 Rangers Talca",
+    "homeTeam": "CD Nublense",
+    "awayTeam": "Rangers Talca",
+    "score": "1-0",
+    "matchId": "5097281",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "90+1' Bastian Munoz (1-0)"
     ]
   },
   {

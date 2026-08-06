@@ -10,7 +10,7 @@
     "awayTeam": "Monterey Bay FC",
     "score": "1-0",
     "matchId": "5006816",
-    "status": "77'",
+    "status": "90+'",
     "goals": [
       "",
       "30' Alexis Mendez (1-0)",
@@ -28,12 +28,12 @@
     "time": "17:55",
     "start_time": "17:55",
     "group": "CNCF LC",
-    "title": "Monterrey 0-2 Orlando City",
+    "title": "Monterrey 1-2 Orlando City",
     "homeTeam": "Monterrey",
     "awayTeam": "Orlando City",
-    "score": "0-2",
+    "score": "1-2",
     "matchId": "5049999",
-    "status": "86'",
+    "status": "ET",
     "goals": [
       "",
       "27' Antoine Griezmann (0-1)",
@@ -42,7 +42,7 @@
       "57' Tyrese Spicer (0-2)",
       "",
       "",
-      ""
+      "90+9' Hugo Cuypers (1-2)"
     ]
   },
   {
@@ -64,7 +64,7 @@
       "",
       "47' Santiago Moreno (1-0)",
       "",
-      "80' Joaquin Valiente Cioli (2-0)",
+      "81' Joaquin Valiente Cioli (2-0)",
       ""
     ]
   },
@@ -88,6 +88,29 @@
       "",
       "",
       "80' Daniel Arcila (0-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
+    "time": "15:31",
+    "start_time": "15:31",
+    "group": "BRA Cup",
+    "title": "Gremio FBPA 1-0 Mirassol FC",
+    "homeTeam": "Gremio FBPA",
+    "awayTeam": "Mirassol FC",
+    "score": "1-0",
+    "matchId": "5069716",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "37' Cristian Pavon (1-0)",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -163,29 +186,6 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "VEN D1",
-    "title": "Deportivo La Guaira 1-2 Metropolitanos F.C.",
-    "homeTeam": "Deportivo La Guaira",
-    "awayTeam": "Metropolitanos F.C.",
-    "score": "1-2",
-    "matchId": "5154322",
-    "status": "ET",
-    "goals": [
-      "10' Nicolas Ladislao Fedor Flores, Miku (0-1)<br>15' Juan Carlos Castellanos Anuel (1-1)",
-      "",
-      "",
-      "",
-      "",
-      "67' Andres Ferro (1-2)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
     "time": "17:37",
     "start_time": "17:37",
     "group": "USLC",
@@ -217,7 +217,7 @@
     "awayTeam": "America de Cali",
     "score": "0-0",
     "matchId": "5072375",
-    "status": "54'",
+    "status": "69'",
     "goals": [
       "",
       "",
@@ -370,14 +370,14 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
-    "time": "17:01",
-    "start_time": "17:01",
-    "group": "ECU Cup",
-    "title": "L.D.U.Portoviejo 0-1 Barcelona S.C.",
-    "homeTeam": "L.D.U.Portoviejo",
-    "awayTeam": "Barcelona S.C.",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "CNCF CAC",
+    "title": "Colombia(U21) 0-1 Venezuela(U21)",
+    "homeTeam": "Colombia(U21)",
+    "awayTeam": "Venezuela(U21)",
     "score": "0-1",
-    "matchId": "5071320",
+    "matchId": "5154615",
     "status": "ET",
     "goals": [
       "",
@@ -385,8 +385,8 @@
       "",
       "",
       "",
-      "66' Jhonny Qui\u00f1\u00f3nez (0-1)",
       "",
+      "82' Sebasti\u00e1n Hern\u00e1ndez (0-1)",
       ""
     ]
   },
@@ -462,6 +462,29 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "VEN D1",
+    "title": "Deportivo La Guaira 1-2 Metropolitanos F.C.",
+    "homeTeam": "Deportivo La Guaira",
+    "awayTeam": "Metropolitanos F.C.",
+    "score": "1-2",
+    "matchId": "5154322",
+    "status": "ET",
+    "goals": [
+      "10' Nicolas Ladislao Fedor Flores, Miku (0-1)<br>15' Juan Carlos Castellanos Anuel (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "67' Andres Ferro (1-2)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "INT CF",
@@ -508,23 +531,23 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "CNCF CAC",
-    "title": "Colombia(U21) 0-1 Venezuela(U21)",
-    "homeTeam": "Colombia(U21)",
-    "awayTeam": "Venezuela(U21)",
-    "score": "0-1",
-    "matchId": "5154615",
+    "time": "17:06",
+    "start_time": "17:06",
+    "group": "CNCF CACup",
+    "title": "UMECIT FC 1-2 C.D. Olimpia",
+    "homeTeam": "UMECIT FC",
+    "awayTeam": "C.D. Olimpia",
+    "score": "1-2",
+    "matchId": "5077659",
     "status": "ET",
     "goals": [
+      "5' Hilberto Peralta (1-0)",
+      "22' Jose Raul Garc\u00eda Gonzales (1-1)",
       "",
       "",
       "",
       "",
-      "",
-      "",
-      "82' Sebasti\u00e1n Hern\u00e1ndez (0-1)",
+      "83' Imanol Enriquez (1-2)",
       ""
     ]
   },
@@ -646,23 +669,23 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
-    "time": "17:06",
-    "start_time": "17:06",
-    "group": "CNCF CACup",
-    "title": "UMECIT FC 1-2 C.D. Olimpia",
-    "homeTeam": "UMECIT FC",
-    "awayTeam": "C.D. Olimpia",
-    "score": "1-2",
-    "matchId": "5077659",
+    "time": "17:01",
+    "start_time": "17:01",
+    "group": "ECU Cup",
+    "title": "L.D.U.Portoviejo 0-1 Barcelona S.C.",
+    "homeTeam": "L.D.U.Portoviejo",
+    "awayTeam": "Barcelona S.C.",
+    "score": "0-1",
+    "matchId": "5071320",
     "status": "ET",
     "goals": [
-      "5' Hilberto Peralta (1-0)",
-      "22' Jose Raul Garc\u00eda Gonzales (1-1)",
       "",
       "",
       "",
       "",
-      "83' Imanol Enriquez (1-2)",
+      "",
+      "66' Jhonny Qui\u00f1\u00f3nez (0-1)",
+      "",
       ""
     ]
   },
@@ -776,29 +799,6 @@
       "33' Darwin Espinal (1-0)",
       "",
       "53' Darwin Espinal (2-0)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "15:31",
-    "start_time": "15:31",
-    "group": "BRA Cup",
-    "title": "Gremio FBPA 1-0 Mirassol FC",
-    "homeTeam": "Gremio FBPA",
-    "awayTeam": "Mirassol FC",
-    "score": "1-0",
-    "matchId": "5069716",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "37' Cristian Pavon (1-0)",
-      "",
-      "",
       "",
       "",
       ""
@@ -976,7 +976,7 @@
     "awayTeam": "C.D. Guadalajara",
     "score": "0-0",
     "matchId": "5049998",
-    "status": "2'",
+    "status": "17'",
     "goals": [
       "",
       "",
@@ -999,7 +999,7 @@
     "awayTeam": "Oakland Roots",
     "score": "0-0",
     "matchId": "5006817",
-    "status": "4'",
+    "status": "19'",
     "goals": [
       "",
       "",
@@ -1022,7 +1022,7 @@
     "awayTeam": "North Carolina Courage Women\\s",
     "score": "0-0",
     "matchId": "5024412",
-    "status": "35'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -1045,7 +1045,7 @@
     "awayTeam": "Alianza FC (PAN)",
     "score": "1-0",
     "matchId": "5077658",
-    "status": "36'",
+    "status": "HT",
     "goals": [
       "",
       "19' Mariano Nestor Torres (1-0)",
@@ -1068,7 +1068,7 @@
     "awayTeam": "C.S. Herediano",
     "score": "0-0",
     "matchId": "5077647",
-    "status": "36'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -1091,7 +1091,7 @@
     "awayTeam": "Panama(U20)",
     "score": "1-0",
     "matchId": "5153949",
-    "status": "42'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -1114,7 +1114,7 @@
     "awayTeam": "Seattle Sounders FC",
     "score": "1-0",
     "matchId": "5050001",
-    "status": "30'",
+    "status": "45'",
     "goals": [
       "3' Jesus Daniel Gallardo Vasconcelos (1-0)",
       "",

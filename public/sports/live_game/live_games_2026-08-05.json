@@ -10,7 +10,7 @@
     "awayTeam": "Monterey Bay FC",
     "score": "1-0",
     "matchId": "5006816",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "30' Alexis Mendez (1-0)",
@@ -71,6 +71,29 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
+    "time": "16:15",
+    "start_time": "16:15",
+    "group": "COL D1",
+    "title": "Internacional de Bogota 1-0 Jaguares de Cordoba",
+    "homeTeam": "Internacional de Bogota",
+    "awayTeam": "Jaguares de Cordoba",
+    "score": "1-0",
+    "matchId": "5072372",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "55' Facundo Nicolas Bone Vale (1-0)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
     "time": "17:40",
     "start_time": "17:40",
     "group": "CNCF LC",
@@ -94,29 +117,6 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
-    "time": "15:31",
-    "start_time": "15:31",
-    "group": "BRA Cup",
-    "title": "Gremio FBPA 1-0 Mirassol FC",
-    "homeTeam": "Gremio FBPA",
-    "awayTeam": "Mirassol FC",
-    "score": "1-0",
-    "matchId": "5069716",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "37' Cristian Pavon (1-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
     "time": "17:31",
     "start_time": "17:31",
     "group": "CHI Cup",
@@ -134,29 +134,6 @@
       "46' Bayron Barrera (1-0)",
       "62' Agustin Venezia (2-0)<br>66' Marcos Arturia (2-1)",
       "80' Bayron Barrera (3-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "16:15",
-    "start_time": "16:15",
-    "group": "COL D1",
-    "title": "Internacional de Bogota 1-0 Jaguares de Cordoba",
-    "homeTeam": "Internacional de Bogota",
-    "awayTeam": "Jaguares de Cordoba",
-    "score": "1-0",
-    "matchId": "5072372",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "55' Facundo Nicolas Bone Vale (1-0)",
-      "",
-      "",
       ""
     ]
   },
@@ -202,29 +179,6 @@
       "",
       "",
       "66' Jamie Craig Webber (1-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "18:30",
-    "start_time": "18:30",
-    "group": "COL D1",
-    "title": "Once Caldas 0-0 America de Cali",
-    "homeTeam": "Once Caldas",
-    "awayTeam": "America de Cali",
-    "score": "0-0",
-    "matchId": "5072375",
-    "status": "69'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       ""
     ]
@@ -370,6 +324,29 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
+    "time": "15:31",
+    "start_time": "15:31",
+    "group": "BRA Cup",
+    "title": "Gremio FBPA 1-0 Mirassol FC",
+    "homeTeam": "Gremio FBPA",
+    "awayTeam": "Mirassol FC",
+    "score": "1-0",
+    "matchId": "5069716",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "37' Cristian Pavon (1-0)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "CNCF CAC",
@@ -455,29 +432,6 @@
       "",
       "53' Franco Misael Fagundez Rosa (1-0)",
       "64' Luis Palacios (2-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-05",
-    "day": "Wednesday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "VEN D1",
-    "title": "Deportivo La Guaira 1-2 Metropolitanos F.C.",
-    "homeTeam": "Deportivo La Guaira",
-    "awayTeam": "Metropolitanos F.C.",
-    "score": "1-2",
-    "matchId": "5154322",
-    "status": "ET",
-    "goals": [
-      "10' Nicolas Ladislao Fedor Flores, Miku (0-1)<br>15' Juan Carlos Castellanos Anuel (1-1)",
-      "",
-      "",
-      "",
-      "",
-      "67' Andres Ferro (1-2)",
       "",
       ""
     ]
@@ -600,6 +554,29 @@
   {
     "date": "2026-08-05",
     "day": "Wednesday",
+    "time": "18:30",
+    "start_time": "18:30",
+    "group": "COL D1",
+    "title": "Once Caldas 0-1 America de Cali",
+    "homeTeam": "Once Caldas",
+    "awayTeam": "America de Cali",
+    "score": "0-1",
+    "matchId": "5072375",
+    "status": "84'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "71' Daniel Rosero Valencia (0-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "INT CF",
@@ -709,6 +686,29 @@
       "",
       "",
       "89' Eric Daian Remedi (5-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-05",
+    "day": "Wednesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "VEN D1",
+    "title": "Deportivo La Guaira 1-2 Metropolitanos F.C.",
+    "homeTeam": "Deportivo La Guaira",
+    "awayTeam": "Metropolitanos F.C.",
+    "score": "1-2",
+    "matchId": "5154322",
+    "status": "ET",
+    "goals": [
+      "10' Nicolas Ladislao Fedor Flores, Miku (0-1)<br>15' Juan Carlos Castellanos Anuel (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "67' Andres Ferro (1-2)",
+      "",
       ""
     ]
   },
@@ -976,7 +976,7 @@
     "awayTeam": "C.D. Guadalajara",
     "score": "0-0",
     "matchId": "5049998",
-    "status": "17'",
+    "status": "32'",
     "goals": [
       "",
       "",
@@ -999,7 +999,7 @@
     "awayTeam": "Oakland Roots",
     "score": "0-0",
     "matchId": "5006817",
-    "status": "19'",
+    "status": "34'",
     "goals": [
       "",
       "",
@@ -1022,7 +1022,7 @@
     "awayTeam": "North Carolina Courage Women\\s",
     "score": "0-0",
     "matchId": "5024412",
-    "status": "HT",
+    "status": "46'",
     "goals": [
       "",
       "",
@@ -1045,7 +1045,7 @@
     "awayTeam": "Alianza FC (PAN)",
     "score": "1-0",
     "matchId": "5077658",
-    "status": "HT",
+    "status": "50'",
     "goals": [
       "",
       "19' Mariano Nestor Torres (1-0)",
@@ -1063,18 +1063,18 @@
     "time": "19:06",
     "start_time": "19:06",
     "group": "CNCF CACup",
-    "title": "Alianza San Salvador 0-0 C.S. Herediano",
+    "title": "Alianza San Salvador 1-0 C.S. Herediano",
     "homeTeam": "Alianza San Salvador",
     "awayTeam": "C.S. Herediano",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5077647",
-    "status": "HT",
+    "status": "50'",
     "goals": [
       "",
       "",
       "",
       "",
-      "",
+      "46' 1-0",
       "",
       "",
       ""
@@ -1091,7 +1091,7 @@
     "awayTeam": "Panama(U20)",
     "score": "1-0",
     "matchId": "5153949",
-    "status": "HT",
+    "status": "55'",
     "goals": [
       "",
       "",
@@ -1114,7 +1114,7 @@
     "awayTeam": "Seattle Sounders FC",
     "score": "1-0",
     "matchId": "5050001",
-    "status": "45'",
+    "status": "HT",
     "goals": [
       "3' Jesus Daniel Gallardo Vasconcelos (1-0)",
       "",

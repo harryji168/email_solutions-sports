@@ -25,6 +25,29 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "MEX D2",
+    "title": "Tlaxcala FC 0-0 Alebrijes de Oaxaca",
+    "homeTeam": "Tlaxcala FC",
+    "awayTeam": "Alebrijes de Oaxaca",
+    "score": "0-0",
+    "matchId": "5108938",
+    "status": "13'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
     "time": "10:16",
     "start_time": "10:16",
     "group": "INT CF",
@@ -71,6 +94,29 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
+    "time": "15:06",
+    "start_time": "15:06",
+    "group": "CFUCC",
+    "title": "Club Sando 0-0 Broki",
+    "homeTeam": "Club Sando",
+    "awayTeam": "Broki",
+    "score": "0-0",
+    "matchId": "5077707",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
     "time": "10:04",
     "start_time": "10:04",
     "group": "INT CF",
@@ -110,6 +156,29 @@
       "",
       "",
       "66' Dmitry Tikhomirov (2-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "ARG D1",
+    "title": "Union de Santa Fe 0-0 Club Atletico Lanus",
+    "homeTeam": "Union de Santa Fe",
+    "awayTeam": "Club Atletico Lanus",
+    "score": "0-0",
+    "matchId": "5052493",
+    "status": "13'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -194,7 +263,7 @@
     "awayTeam": "Leones",
     "score": "0-0",
     "matchId": "5072231",
-    "status": "28'",
+    "status": "43'",
     "goals": [
       "",
       "",
@@ -240,7 +309,7 @@
     "awayTeam": "Real Santander",
     "score": "1-2",
     "matchId": "5072230",
-    "status": "HT",
+    "status": "54'",
     "goals": [
       "2' Pedro Rodr\u00edguez (0-1)<br>14' Alejandro Onate (1-1)",
       "25' Juan Guillen (1-2)",
@@ -286,7 +355,7 @@
     "awayTeam": "Gualaceo SC",
     "score": "2-0",
     "matchId": "5044187",
-    "status": "68'",
+    "status": "83'",
     "goals": [
       "",
       "",
@@ -355,7 +424,7 @@
     "awayTeam": "22 de Julio",
     "score": "2-0",
     "matchId": "5044185",
-    "status": "72'",
+    "status": "87'",
     "goals": [
       "",
       "",
@@ -470,7 +539,7 @@
     "awayTeam": "Depor. Santo Domingo",
     "score": "0-1",
     "matchId": "5044180",
-    "status": "68'",
+    "status": "83'",
     "goals": [
       "",
       "",
@@ -623,6 +692,29 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
+    "time": "05:52",
+    "start_time": "05:52",
+    "group": "SH FSC",
+    "title": "China(U17) 2-1 Bayer Leverkusen(U17)",
+    "homeTeam": "China(U17)",
+    "awayTeam": "Bayer Leverkusen(U17)",
+    "score": "2-1",
+    "matchId": "5153955",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "36' Mick Aziz Mohammadi (0-1)",
+      "",
+      "",
+      "61' Kong Xinuo (1-1)<br>62' Zhao Songyuan (2-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
     "time": "13:00",
     "start_time": "13:00",
     "group": "CAF WNC",
@@ -631,7 +723,7 @@
     "awayTeam": "Ghana Women\\s",
     "score": "1-1",
     "matchId": "5025516",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -663,6 +755,29 @@
       "",
       "",
       "87' Mark Tychko (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "06:06",
+    "start_time": "06:06",
+    "group": "KAZ D1",
+    "title": "Akademiya Ontustik 3-1 FK Khan Tengri",
+    "homeTeam": "Akademiya Ontustik",
+    "awayTeam": "FK Khan Tengri",
+    "score": "3-1",
+    "matchId": "5054495",
+    "status": "ET",
+    "goals": [
+      "11' Bakdaulet Nuraly (1-0)<br>14' Ali Alikhan (2-0)",
+      "25' Bakhtishat Abdullayev (2-1)",
+      "",
+      "",
+      "",
+      "67' Ali Alikhan (3-1)",
+      "",
       ""
     ]
   },
@@ -815,7 +930,7 @@
     "awayTeam": "Cienciano",
     "score": "1-0",
     "matchId": "5072008",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -945,29 +1060,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "07:00",
-    "start_time": "07:00",
-    "group": "UZB PFL",
-    "title": "Sogdiana Jizzakh 1-0 FK Andijan",
-    "homeTeam": "Sogdiana Jizzakh",
-    "awayTeam": "FK Andijan",
-    "score": "1-0",
-    "matchId": "5031929",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "77' Ljupche Doriev (1-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "12:16",
     "start_time": "12:16",
     "group": "ICE D4",
@@ -1014,14 +1106,14 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "06:30",
-    "start_time": "06:30",
-    "group": "INT CF",
-    "title": "Al Raed FC 1-4 Kazma SC",
-    "homeTeam": "Al Raed FC",
-    "awayTeam": "Kazma SC",
-    "score": "1-4",
-    "matchId": "5156042",
+    "time": "07:00",
+    "start_time": "07:00",
+    "group": "UZB PFL",
+    "title": "Sogdiana Jizzakh 1-0 FK Andijan",
+    "homeTeam": "Sogdiana Jizzakh",
+    "awayTeam": "FK Andijan",
+    "score": "1-0",
+    "matchId": "5031929",
     "status": "ET",
     "goals": [
       "",
@@ -1030,7 +1122,7 @@
       "",
       "",
       "",
-      "",
+      "77' Ljupche Doriev (1-0)",
       ""
     ]
   },
@@ -1083,14 +1175,14 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "06:30",
-    "start_time": "06:30",
-    "group": "INTERF",
-    "title": "India(U20) 1-0 Singapore(U20)",
-    "homeTeam": "India(U20)",
-    "awayTeam": "Singapore(U20)",
-    "score": "1-0",
-    "matchId": "5154763",
+    "time": "06:15",
+    "start_time": "06:15",
+    "group": "TKM YL",
+    "title": "Arkadag FK 7-0 FC Merw",
+    "homeTeam": "Arkadag FK",
+    "awayTeam": "FC Merw",
+    "score": "7-0",
+    "matchId": "5154851",
     "status": "ET",
     "goals": [
       "",
@@ -1100,6 +1192,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "08:02",
+    "start_time": "08:02",
+    "group": "INT CF",
+    "title": "Aris Limassol FC 1-1 Al-Sadd",
+    "homeTeam": "Aris Limassol FC",
+    "awayTeam": "Al-Sadd",
+    "score": "1-1",
+    "matchId": "5154758",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "44' Werton (1-0)",
+      "",
+      "",
+      "",
+      "82' 1-1",
       ""
     ]
   },
@@ -1221,29 +1336,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "06:06",
-    "start_time": "06:06",
-    "group": "KAZ D1",
-    "title": "Akademiya Ontustik 3-1 FK Khan Tengri",
-    "homeTeam": "Akademiya Ontustik",
-    "awayTeam": "FK Khan Tengri",
-    "score": "3-1",
-    "matchId": "5054495",
-    "status": "ET",
-    "goals": [
-      "11' Bakdaulet Nuraly (1-0)<br>14' Ali Alikhan (2-0)",
-      "25' Bakhtishat Abdullayev (2-1)",
-      "",
-      "",
-      "",
-      "67' Ali Alikhan (3-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "12:01",
     "start_time": "12:01",
     "group": "UEFA ECL",
@@ -1344,6 +1436,29 @@
     "awayTeam": "Hammarby",
     "score": "0-0",
     "matchId": "5149090",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "06:30",
+    "start_time": "06:30",
+    "group": "INTERF",
+    "title": "India(U20) 1-0 Singapore(U20)",
+    "homeTeam": "India(U20)",
+    "awayTeam": "Singapore(U20)",
+    "score": "1-0",
+    "matchId": "5154763",
     "status": "ET",
     "goals": [
       "",
@@ -1497,14 +1612,14 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "06:15",
-    "start_time": "06:15",
-    "group": "TKM YL",
-    "title": "Arkadag FK 7-0 FC Merw",
-    "homeTeam": "Arkadag FK",
-    "awayTeam": "FC Merw",
-    "score": "7-0",
-    "matchId": "5154851",
+    "time": "06:30",
+    "start_time": "06:30",
+    "group": "INT CF",
+    "title": "Al Raed FC 1-4 Kazma SC",
+    "homeTeam": "Al Raed FC",
+    "awayTeam": "Kazma SC",
+    "score": "1-4",
+    "matchId": "5156042",
     "status": "ET",
     "goals": [
       "",
@@ -2049,29 +2164,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "08:02",
-    "start_time": "08:02",
-    "group": "INT CF",
-    "title": "Aris Limassol FC 1-1 Al-Sadd",
-    "homeTeam": "Aris Limassol FC",
-    "awayTeam": "Al-Sadd",
-    "score": "1-1",
-    "matchId": "5154758",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "44' Werton (1-0)",
-      "",
-      "",
-      "",
-      "82' 1-1",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "UEFA ECL",
@@ -2502,29 +2594,6 @@
       "",
       "",
       "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "05:52",
-    "start_time": "05:52",
-    "group": "SH FSC",
-    "title": "China(U17) 2-1 Bayer Leverkusen(U17)",
-    "homeTeam": "China(U17)",
-    "awayTeam": "Bayer Leverkusen(U17)",
-    "score": "2-1",
-    "matchId": "5153955",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "36' Mick Aziz Mohammadi (0-1)",
-      "",
-      "",
-      "61' Kong Xinuo (1-1)<br>62' Zhao Songyuan (2-1)",
       "",
       ""
     ]
@@ -3268,29 +3337,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "08:32",
-    "start_time": "08:32",
-    "group": "BLR D1",
-    "title": "Slonim 2-3 FC Minsk B",
-    "homeTeam": "Slonim",
-    "awayTeam": "FC Minsk B",
-    "score": "2-3",
-    "matchId": "5053516",
-    "status": "ET",
-    "goals": [
-      "7' Alexander Bulychev (1-0)<br>13' Vladislav Malyutin (1-1)",
-      "22' Vladislav Malyutin (1-2)",
-      "",
-      "",
-      "",
-      "64' Ilya Bondarenko (1-3)<br>65' Marat Kalinchenko (2-3)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "10:47",
     "start_time": "10:47",
     "group": "KUW D2",
@@ -3309,6 +3355,29 @@
       "",
       "",
       "90+4' Fahad Al Azmi (0-5)"
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "08:32",
+    "start_time": "08:32",
+    "group": "BLR D1",
+    "title": "Slonim 2-3 FC Minsk B",
+    "homeTeam": "Slonim",
+    "awayTeam": "FC Minsk B",
+    "score": "2-3",
+    "matchId": "5053516",
+    "status": "ET",
+    "goals": [
+      "7' Alexander Bulychev (1-0)<br>13' Vladislav Malyutin (1-1)",
+      "22' Vladislav Malyutin (1-2)",
+      "",
+      "",
+      "",
+      "64' Ilya Bondarenko (1-3)<br>65' Marat Kalinchenko (2-3)",
+      "",
+      ""
     ]
   },
   {
@@ -3429,29 +3498,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "08:01",
-    "start_time": "08:01",
-    "group": "INT CF",
-    "title": "Levadiakos F.C. 1-0 Panetolikos F.C.",
-    "homeTeam": "Levadiakos F.C.",
-    "awayTeam": "Panetolikos F.C.",
-    "score": "1-0",
-    "matchId": "5156043",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "83' 1-0",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "10:30",
     "start_time": "10:30",
     "group": "INT CF",
@@ -3469,6 +3515,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "08:01",
+    "start_time": "08:01",
+    "group": "INT CF",
+    "title": "Levadiakos F.C. 1-0 Panetolikos F.C.",
+    "homeTeam": "Levadiakos F.C.",
+    "awayTeam": "Panetolikos F.C.",
+    "score": "1-0",
+    "matchId": "5156043",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "83' 1-0",
       ""
     ]
   },

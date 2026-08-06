@@ -102,7 +102,7 @@
     "awayTeam": "Persebaya Surabaya",
     "score": "1-1",
     "matchId": "5154761",
-    "status": "HT",
+    "status": "51'",
     "goals": [
       "",
       "20' Ramadhan Sananta (0-1)<br>24' Patricio Matricardi (1-1)",
@@ -148,7 +148,7 @@
     "awayTeam": "Al-Salmiyah",
     "score": "0-0",
     "matchId": "5154413",
-    "status": "1'",
+    "status": "18'",
     "goals": [
       "",
       "",
@@ -171,30 +171,7 @@
     "awayTeam": "Molde(U19)",
     "score": "0-0",
     "matchId": "5069053",
-    "status": "2'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "07:02",
-    "start_time": "07:02",
-    "group": "ARG RL",
-    "title": "Deportivo Camioneros Reserve 0-0 Flandria Reserve",
-    "homeTeam": "Deportivo Camioneros Reserve",
-    "awayTeam": "Flandria Reserve",
-    "score": "0-0",
-    "matchId": "5156128",
-    "status": "1'",
+    "status": "17'",
     "goals": [
       "",
       "",
@@ -217,7 +194,7 @@
     "awayTeam": "Nueva Chicago Reserve",
     "score": "0-0",
     "matchId": "5156127",
-    "status": "1'",
+    "status": "16'",
     "goals": [
       "",
       "",
@@ -255,29 +232,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "07:02",
-    "start_time": "07:02",
-    "group": "ARG RL",
-    "title": "Real Pilar Reserve 0-0 Argentino de Merlo Reserve",
-    "homeTeam": "Real Pilar Reserve",
-    "awayTeam": "Argentino de Merlo Reserve",
-    "score": "0-0",
-    "matchId": "5156124",
-    "status": "1'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "07:00",
     "start_time": "07:00",
     "group": "UZB PFL",
@@ -286,7 +240,7 @@
     "awayTeam": "FK Andijan",
     "score": "0-0",
     "matchId": "5031929",
-    "status": "3'",
+    "status": "18'",
     "goals": [
       "",
       "",
@@ -309,7 +263,7 @@
     "awayTeam": "Nurnberg  Women\\s",
     "score": "0-1",
     "matchId": "5154411",
-    "status": "48'",
+    "status": "63'",
     "goals": [
       "10' Louna Lapassouse (0-1)",
       "",
@@ -332,7 +286,7 @@
     "awayTeam": "Shab Hadramaut",
     "score": "0-0",
     "matchId": "5064653",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "",
       "",
@@ -373,42 +327,19 @@
     "time": "06:01",
     "start_time": "06:01",
     "group": "NOR U19",
-    "title": "Stabaek(U19) 0-0 Fredrikstad(U19)",
+    "title": "Stabaek(U19) 1-1 Fredrikstad(U19)",
     "homeTeam": "Stabaek(U19)",
     "awayTeam": "Fredrikstad(U19)",
-    "score": "0-0",
+    "score": "1-1",
     "matchId": "5069051",
-    "status": "HT",
+    "status": "59'",
     "goals": [
       "",
       "",
       "",
       "",
+      "47' 0-1",
       "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "06:06",
-    "start_time": "06:06",
-    "group": "KAZ D1",
-    "title": "Akademiya Ontustik 3-1 FK Khan Tengri",
-    "homeTeam": "Akademiya Ontustik",
-    "awayTeam": "FK Khan Tengri",
-    "score": "3-1",
-    "matchId": "5054495",
-    "status": "ET",
-    "goals": [
-      "11' 1-0<br>14' Alikhan Ali (2-0)",
-      "25' Bakhtishat Abdullaev (2-1)",
-      "",
-      "",
-      "",
-      "61' Alikhan Ali (3-1)",
       "",
       ""
     ]
@@ -432,29 +363,6 @@
       "",
       "52' Christian Dos Santos (2-1)",
       "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "05:52",
-    "start_time": "05:52",
-    "group": "SH FSC",
-    "title": "China(U17) 2-1 Bayer Leverkusen(U17)",
-    "homeTeam": "China(U17)",
-    "awayTeam": "Bayer Leverkusen(U17)",
-    "score": "2-1",
-    "matchId": "5153955",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "36' Mick Aziz Mohammadi (0-1)",
-      "",
-      "",
-      "61' Kong Xinuo (1-1)<br>62' Zhao Songyuan (2-1)",
       "",
       ""
     ]
@@ -493,7 +401,7 @@
     "awayTeam": "FK Kaspiy Aktau B",
     "score": "0-0",
     "matchId": "5054501",
-    "status": "HT",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -557,12 +465,12 @@
     "time": "06:31",
     "start_time": "06:31",
     "group": "INT CF",
-    "title": "Al Raed FC 0-0 Kazma SC",
+    "title": "Al Raed FC 0-2 Kazma SC",
     "homeTeam": "Al Raed FC",
     "awayTeam": "Kazma SC",
-    "score": "0-0",
+    "score": "0-2",
     "matchId": "5156042",
-    "status": "32'",
+    "status": "45+'",
     "goals": [
       "",
       "",
@@ -570,6 +478,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "05:52",
+    "start_time": "05:52",
+    "group": "SH FSC",
+    "title": "China(U17) 2-1 Bayer Leverkusen(U17)",
+    "homeTeam": "China(U17)",
+    "awayTeam": "Bayer Leverkusen(U17)",
+    "score": "2-1",
+    "matchId": "5153955",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "36' Mick Aziz Mohammadi (0-1)",
+      "",
+      "",
+      "61' Kong Xinuo (1-1)<br>62' Zhao Songyuan (2-1)",
       "",
       ""
     ]
@@ -608,7 +539,7 @@
     "awayTeam": "Ekibastuz",
     "score": "0-2",
     "matchId": "5054497",
-    "status": "45'",
+    "status": "60'",
     "goals": [
       "",
       "26' Ansar Altynkhan (0-1)",
@@ -646,29 +577,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "06:35",
-    "start_time": "06:35",
-    "group": "NOR U19",
-    "title": "Lillestrom(U19) 3-0 Aalesund FK(U19)",
-    "homeTeam": "Lillestrom(U19)",
-    "awayTeam": "Aalesund FK(U19)",
-    "score": "3-0",
-    "matchId": "5069048",
-    "status": "73'",
-    "goals": [
-      "",
-      "16' Ole Alexander Haga (1-0)",
-      "35' Isa Daniel Jallow (2-0)",
-      "",
-      "56' Wahib Fadil (3-0)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "01:00",
     "start_time": "01:00",
     "group": "INT CF",
@@ -684,6 +592,29 @@
       "44' 3-0",
       "",
       "56' 4-0",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "06:35",
+    "start_time": "06:35",
+    "group": "NOR U19",
+    "title": "Lillestrom(U19) 5-0 Aalesund FK(U19)",
+    "homeTeam": "Lillestrom(U19)",
+    "awayTeam": "Aalesund FK(U19)",
+    "score": "5-0",
+    "matchId": "5069048",
+    "status": "88'",
+    "goals": [
+      "",
+      "16' Ole Alexander Haga (1-0)",
+      "35' Isa Daniel Jallow (2-0)",
+      "",
+      "56' Wahib Fadil (3-0)",
       "",
       "",
       ""
@@ -709,6 +640,29 @@
       "48' Mateo Lionel Lescano (1-1)",
       "68' Muhemmed Ablimit (2-1)",
       "85' Santiago Exequiel Luduena (2-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "06:06",
+    "start_time": "06:06",
+    "group": "KAZ D1",
+    "title": "Akademiya Ontustik 3-1 FK Khan Tengri",
+    "homeTeam": "Akademiya Ontustik",
+    "awayTeam": "FK Khan Tengri",
+    "score": "3-1",
+    "matchId": "5054495",
+    "status": "ET",
+    "goals": [
+      "11' 1-0<br>14' Alikhan Ali (2-0)",
+      "25' Bakhtishat Abdullaev (2-1)",
+      "",
+      "",
+      "",
+      "61' Alikhan Ali (3-1)",
+      "",
       ""
     ]
   },

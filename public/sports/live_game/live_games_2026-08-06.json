@@ -2,6 +2,29 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "CNCF WCAC",
+    "title": "Colombia Women\\s 0-0 Mexico Women\\s",
+    "homeTeam": "Colombia Women\\s",
+    "awayTeam": "Mexico Women\\s",
+    "score": "0-0",
+    "matchId": "5155144",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "118' Ingrid Guerra (1-0)<br>120+4' Ana Mendoza (1-1)"
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
     "time": "16:30",
     "start_time": "16:30",
     "group": "BOL D1",
@@ -94,29 +117,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "19:41",
-    "start_time": "19:41",
-    "group": "CNCF LC",
-    "title": "Portland Timbers 1-1 Puebla FC",
-    "homeTeam": "Portland Timbers",
-    "awayTeam": "Puebla FC",
-    "score": "1-1",
-    "matchId": "5050006",
-    "status": "30'",
-    "goals": [
-      "5' Ariel Daniel Lassiter Acuna (1-0)<br>14' Eduardo Mustre Torres (1-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "18:00",
     "start_time": "18:00",
     "group": "MEX D2",
@@ -186,6 +186,52 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
+    "time": "19:41",
+    "start_time": "19:41",
+    "group": "CNCF LC",
+    "title": "Portland Timbers 3-1 Puebla FC",
+    "homeTeam": "Portland Timbers",
+    "awayTeam": "Puebla FC",
+    "score": "3-1",
+    "matchId": "5050006",
+    "status": "42'",
+    "goals": [
+      "5' Ariel Daniel Lassiter Acuna (1-0)<br>14' Eduardo Mustre Torres (1-1)",
+      "",
+      "36' Cole Bassett (2-1)<br>38' David Pereira Da Costa (3-1)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "COL D2",
+    "title": "Bogota F.C. 0-1 Leones",
+    "homeTeam": "Bogota F.C.",
+    "awayTeam": "Leones",
+    "score": "0-1",
+    "matchId": "5072231",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "78' Dayan Estiwart Moreno Cajiao (0-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
     "time": "20:06",
     "start_time": "20:06",
     "group": "CNCF CACup",
@@ -194,7 +240,7 @@
     "awayTeam": "CD FAS",
     "score": "0-0",
     "matchId": "5077668",
-    "status": "5'",
+    "status": "17'",
     "goals": [
       "",
       "",
@@ -250,29 +296,6 @@
       "",
       "",
       "90+3' Mario Sergio Santos Costa, Marinho (4-0)"
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "COL D2",
-    "title": "Bogota F.C. 0-1 Leones",
-    "homeTeam": "Bogota F.C.",
-    "awayTeam": "Leones",
-    "score": "0-1",
-    "matchId": "5072231",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "78' Dayan Estiwart Moreno Cajiao (0-1)",
-      ""
     ]
   },
   {
@@ -342,29 +365,6 @@
       "70' Pedro Raul Garay da Silva (2-1)",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "CNCF WCAC",
-    "title": "Colombia Women\\s 0-0 Mexico Women\\s",
-    "homeTeam": "Colombia Women\\s",
-    "awayTeam": "Mexico Women\\s",
-    "score": "0-0",
-    "matchId": "5155144",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "118' Ingrid Guerra (1-0)<br>120+4' Ana Mendoza (1-1)"
     ]
   },
   {
@@ -539,7 +539,7 @@
     "awayTeam": "San Diego FC",
     "score": "3-0",
     "matchId": "5066777",
-    "status": "HT",
+    "status": "51'",
     "goals": [
       "11' Paul Brian Rodriguez Bravo (1-0)",
       "",

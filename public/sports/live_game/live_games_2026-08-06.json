@@ -2,29 +2,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "MEX D2",
-    "title": "CSyD Dorados de Sinaloa 2-2 Mineros de Zacatecas",
-    "homeTeam": "CSyD Dorados de Sinaloa",
-    "awayTeam": "Mineros de Zacatecas",
-    "score": "2-2",
-    "matchId": "5108947",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+2' Adri\u00e1n Villalobos (0-1)",
-      "",
-      "",
-      "77' Erick Fernando Carballo Flores (0-2)<br>82' Leonardo Vargas (1-2)",
-      "90' Jhan Carlos Rengifo Estupi\u00f1an (2-2)"
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "18:44",
     "start_time": "18:44",
     "group": "CNCF LC",
@@ -94,29 +71,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "BRA CGD2",
-    "title": "Guarani RS 0-2 Brasil de Pelotas RS",
-    "homeTeam": "Guarani RS",
-    "awayTeam": "Brasil de Pelotas RS",
-    "score": "0-2",
-    "matchId": "5113154",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "18:06",
     "start_time": "18:06",
     "group": "CNCF CACup",
@@ -129,6 +83,52 @@
     "goals": [
       "",
       "18' Alejandro Cabeza (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "CNCF WCAC",
+    "title": "Colombia Women\\s 0-0 Mexico Women\\s",
+    "homeTeam": "Colombia Women\\s",
+    "awayTeam": "Mexico Women\\s",
+    "score": "0-0",
+    "matchId": "5155144",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "118' Ingrid Guerra (1-0)<br>120+4' Ana Mendoza (1-1)"
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "BRA CGD2",
+    "title": "Guarani RS 0-2 Brasil de Pelotas RS",
+    "homeTeam": "Guarani RS",
+    "awayTeam": "Brasil de Pelotas RS",
+    "score": "0-2",
+    "matchId": "5113154",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
       "",
       "",
       "",
@@ -171,7 +171,7 @@
     "awayTeam": "CD FAS",
     "score": "1-0",
     "matchId": "5077668",
-    "status": "71'",
+    "status": "86'",
     "goals": [
       "",
       "",
@@ -222,8 +222,8 @@
       "5' Ariel Daniel Lassiter Acuna (1-0)<br>14' Eduardo Mustre Torres (1-1)",
       "",
       "36' Cole Bassett (2-1)<br>38' David Pereira Da Costa (3-1)",
-      "45+4' Cole Bassett (4-1)",
-      "57' Ariel Daniel Lassiter Acuna (5-1)",
+      "45+3' Cole Bassett (4-1)",
+      "56' Ariel Daniel Lassiter Acuna (5-1)",
       "",
       "79' Emiliano Gomez Dutra (5-2)",
       ""
@@ -273,29 +273,6 @@
       "",
       "",
       "90+3' Mario Sergio Santos Costa, Marinho (4-0)"
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "CNCF WCAC",
-    "title": "Colombia Women\\s 0-0 Mexico Women\\s",
-    "homeTeam": "Colombia Women\\s",
-    "awayTeam": "Mexico Women\\s",
-    "score": "0-0",
-    "matchId": "5155144",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "118' Ingrid Guerra (1-0)<br>120+4' Ana Mendoza (1-1)"
     ]
   },
   {
@@ -485,6 +462,29 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
+    "time": "19:12",
+    "start_time": "19:12",
+    "group": "CNCF LC",
+    "title": "Club America 3-1 San Diego FC",
+    "homeTeam": "Club America",
+    "awayTeam": "San Diego FC",
+    "score": "3-1",
+    "matchId": "5066777",
+    "status": "ET",
+    "goals": [
+      "11' Paul Brian Rodriguez Bravo (1-0)",
+      "",
+      "33' Erick Daniel Sanchez Ocegueda (2-0)",
+      "45+2' Isaias Violante (3-0)",
+      "",
+      "63' Luca Bombino (3-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "MEX D2",
@@ -502,6 +502,29 @@
       "46' Adri\u00e1n Justo (0-1)",
       "",
       "84' \u00c1ngel Tecpan\u00e9catl (0-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "19:00",
+    "start_time": "19:00",
+    "group": "CRC WD1",
+    "title": "Alajuelense Women\\s 5-0 Pococi Women\\s",
+    "homeTeam": "Alajuelense Women\\s",
+    "awayTeam": "Pococi Women\\s",
+    "score": "5-0",
+    "matchId": "5156905",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -531,47 +554,24 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "19:12",
-    "start_time": "19:12",
-    "group": "CNCF LC",
-    "title": "Club America 3-1 San Diego FC",
-    "homeTeam": "Club America",
-    "awayTeam": "San Diego FC",
-    "score": "3-1",
-    "matchId": "5066777",
-    "status": "ET",
-    "goals": [
-      "11' Paul Brian Rodriguez Bravo (1-0)",
-      "",
-      "33' Erick Daniel Sanchez Ocegueda (2-0)",
-      "45+2' Isaias Violante (3-0)",
-      "",
-      "63' Luca Bombino (3-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "19:00",
-    "start_time": "19:00",
-    "group": "CRC WD1",
-    "title": "Alajuelense Women\\s 5-0 Pococi Women\\s",
-    "homeTeam": "Alajuelense Women\\s",
-    "awayTeam": "Pococi Women\\s",
-    "score": "5-0",
-    "matchId": "5156905",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "MEX D2",
+    "title": "CSyD Dorados de Sinaloa 2-2 Mineros de Zacatecas",
+    "homeTeam": "CSyD Dorados de Sinaloa",
+    "awayTeam": "Mineros de Zacatecas",
+    "score": "2-2",
+    "matchId": "5108947",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
+      "45+2' Adri\u00e1n Villalobos (0-1)",
       "",
       "",
-      "",
-      "",
-      ""
+      "77' Erick Fernando Carballo Flores (0-2)<br>82' Leonardo Vargas (1-2)",
+      "90' Jhan Carlos Rengifo Estupi\u00f1an (2-2)"
     ]
   },
   {

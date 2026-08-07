@@ -2,21 +2,21 @@
   {
     "date": "2026-08-07",
     "day": "Friday",
-    "time": "09:33",
-    "start_time": "09:33",
-    "group": "GER OBS",
-    "title": "SV Schalding Heining 0-0 FC Pipinsried",
-    "homeTeam": "SV Schalding Heining",
-    "awayTeam": "FC Pipinsried",
-    "score": "0-0",
-    "matchId": "5086565",
-    "status": "4'",
+    "time": "01:45",
+    "start_time": "01:45",
+    "group": "FFSA SL",
+    "title": "Adelaide Comets FC 0-1 North Eastern Metrostars",
+    "homeTeam": "Adelaide Comets FC",
+    "awayTeam": "North Eastern Metrostars",
+    "score": "0-1",
+    "matchId": "5009089",
+    "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
-      "",
+      "56' 0-1",
       "",
       "",
       ""
@@ -33,7 +33,7 @@
     "awayTeam": "NK Triglav Kranj",
     "score": "0-0",
     "matchId": "5082274",
-    "status": "52'",
+    "status": "55'",
     "goals": [
       "",
       "",
@@ -79,7 +79,7 @@
     "awayTeam": "NK Rudar Velenje",
     "score": "1-0",
     "matchId": "5082242",
-    "status": "52'",
+    "status": "55'",
     "goals": [
       "2' Klemen Mlakar (1-0)",
       "",
@@ -125,7 +125,7 @@
     "awayTeam": "Jakobstads Bollklubb",
     "score": "1-2",
     "matchId": "5038998",
-    "status": "49'",
+    "status": "52'",
     "goals": [
       "",
       "17' Juuso Ost (0-1)<br>22' Markus Kronholm (1-1)",
@@ -171,7 +171,7 @@
     "awayTeam": "Inter Turku B",
     "score": "0-0",
     "matchId": "5033067",
-    "status": "53'",
+    "status": "56'",
     "goals": [
       "",
       "",
@@ -194,7 +194,7 @@
     "awayTeam": "DJK Don Bosco Bamberg",
     "score": "0-0",
     "matchId": "5086471",
-    "status": "3'",
+    "status": "11'",
     "goals": [
       "",
       "",
@@ -240,7 +240,7 @@
     "awayTeam": "Puskas Akademia",
     "score": "0-2",
     "matchId": "5084516",
-    "status": "46'",
+    "status": "49'",
     "goals": [
       "",
       "18' Martin Kern (0-1)<br>23' Georgiy Harutyunyan (0-2)",
@@ -278,29 +278,6 @@
   {
     "date": "2026-08-07",
     "day": "Friday",
-    "time": "01:45",
-    "start_time": "01:45",
-    "group": "FFSA SL",
-    "title": "Adelaide Comets FC 0-1 North Eastern Metrostars",
-    "homeTeam": "Adelaide Comets FC",
-    "awayTeam": "North Eastern Metrostars",
-    "score": "0-1",
-    "matchId": "5009089",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "56' 0-1",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "day": "Friday",
     "time": "08:32",
     "start_time": "08:32",
     "group": "FIN D2",
@@ -309,7 +286,7 @@
     "awayTeam": "Mikkelin Palloilijat",
     "score": "1-0",
     "matchId": "5020661",
-    "status": "49'",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -355,7 +332,7 @@
     "awayTeam": "USD Virtus Verona",
     "score": "1-0",
     "matchId": "5154751",
-    "status": "65'",
+    "status": "68'",
     "goals": [
       "",
       "",
@@ -447,7 +424,7 @@
     "awayTeam": "Solvesborgs GoIF",
     "score": "0-0",
     "matchId": "5026509",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -493,7 +470,7 @@
     "awayTeam": "FC Gloria Bistrita",
     "score": "0-2",
     "matchId": "5138745",
-    "status": "75'",
+    "status": "78'",
     "goals": [
       "",
       "",
@@ -516,7 +493,7 @@
     "awayTeam": "Drochtersen/Assel",
     "score": "0-0",
     "matchId": "5112278",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -562,7 +539,7 @@
     "awayTeam": "Polonia Lidzbark",
     "score": "2-1",
     "matchId": "5095763",
-    "status": "76'",
+    "status": "79'",
     "goals": [
       "",
       "27' Mateusz Kuzimski (0-1)",
@@ -585,7 +562,7 @@
     "awayTeam": "HSC Hannover",
     "score": "0-0",
     "matchId": "5112272",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -631,7 +608,7 @@
     "awayTeam": "Wigry Suwalki",
     "score": "1-1",
     "matchId": "5095755",
-    "status": "80'",
+    "status": "83'",
     "goals": [
       "",
       "",
@@ -654,7 +631,7 @@
     "awayTeam": "FV Illertissen",
     "score": "0-0",
     "matchId": "5113981",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -700,7 +677,7 @@
     "awayTeam": "Mashal Muborak",
     "score": "2-0",
     "matchId": "5031931",
-    "status": "77'",
+    "status": "80'",
     "goals": [
       "",
       "",
@@ -723,7 +700,7 @@
     "awayTeam": "Brabrand IF",
     "score": "0-0",
     "matchId": "5103957",
-    "status": "8'",
+    "status": "11'",
     "goals": [
       "",
       "",
@@ -764,12 +741,12 @@
     "time": "08:00",
     "start_time": "08:00",
     "group": "MOL  D2",
-    "title": "Univer Comrat 2-0 Zimbru Chisinau B",
+    "title": "Univer Comrat 2-1 Zimbru Chisinau B",
     "homeTeam": "Univer Comrat",
     "awayTeam": "Zimbru Chisinau B",
-    "score": "2-0",
+    "score": "2-1",
     "matchId": "5107131",
-    "status": "83'",
+    "status": "86'",
     "goals": [
       "",
       "",
@@ -792,7 +769,7 @@
     "awayTeam": "Austria Wien Amateure",
     "score": "0-0",
     "matchId": "5094957",
-    "status": "8'",
+    "status": "11'",
     "goals": [
       "",
       "",
@@ -861,7 +838,7 @@
     "awayTeam": "Oguzsport",
     "score": "0-2",
     "matchId": "5107122",
-    "status": "79'",
+    "status": "82'",
     "goals": [
       "",
       "",
@@ -869,7 +846,7 @@
       "",
       "",
       "74' 0-1",
-      "",
+      "79' 0-2",
       ""
     ]
   },
@@ -884,7 +861,7 @@
     "awayTeam": "Hertha Wels",
     "score": "0-0",
     "matchId": "5094950",
-    "status": "5'",
+    "status": "8'",
     "goals": [
       "",
       "",
@@ -930,7 +907,7 @@
     "awayTeam": "Vulturii Cutezatori",
     "score": "1-3",
     "matchId": "5107119",
-    "status": "83'",
+    "status": "86'",
     "goals": [
       "8' Marin Stan (0-1)<br>15' Thiago Lacerda (1-1)",
       "28' Vadim Gulceac (1-2)",
@@ -953,7 +930,7 @@
     "awayTeam": "WSG Swarovski Tirol B",
     "score": "0-0",
     "matchId": "5100709",
-    "status": "22'",
+    "status": "25'",
     "goals": [
       "",
       "",
@@ -999,7 +976,7 @@
     "awayTeam": "Fotbal Trinec",
     "score": "3-2",
     "matchId": "5085914",
-    "status": "81'",
+    "status": "84'",
     "goals": [
       "2' Martin Cerny (0-1)<br>13' Rene Dedic (0-2)",
       "29' Adam Rajnoha (1-2)",
@@ -1022,7 +999,7 @@
     "awayTeam": "Etoile du Sahel",
     "score": "0-0",
     "matchId": "5158053",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -1068,7 +1045,7 @@
     "awayTeam": "Astana B",
     "score": "3-1",
     "matchId": "5054502",
-    "status": "79'",
+    "status": "82'",
     "goals": [
       "9' Edige Oralbai (1-0)",
       "17' Edige Oralbai (2-0)",
@@ -1076,7 +1053,7 @@
       "",
       "51' Miras Turlybek (3-0)",
       "",
-      "",
+      "77' 3-1",
       ""
     ]
   },
@@ -1114,7 +1091,7 @@
     "awayTeam": "FK Ural Youth",
     "score": "2-2",
     "matchId": "5034549",
-    "status": "79'",
+    "status": "82'",
     "goals": [
       "",
       "28' 0-1",
@@ -1137,7 +1114,7 @@
     "awayTeam": "Karmiotissa FC",
     "score": "1-0",
     "matchId": "5156899",
-    "status": "32'",
+    "status": "35'",
     "goals": [
       "11' 1-0",
       "",
@@ -1183,7 +1160,7 @@
     "awayTeam": "JIPPO",
     "score": "3-0",
     "matchId": "5020660",
-    "status": "81'",
+    "status": "84'",
     "goals": [
       "7' Oliver Edward Brymer Whyte (1-0)",
       "24' Thomas Lahdensuo (2-0)<br>29' Oliver Edward Brymer Whyte (3-0)",
@@ -1229,7 +1206,7 @@
     "awayTeam": "Sileks Kratovo",
     "score": "1-0",
     "matchId": "5075049",
-    "status": "76'",
+    "status": "79'",
     "goals": [
       "",
       "",
@@ -1298,7 +1275,7 @@
     "awayTeam": "Sardarapat",
     "score": "1-2",
     "matchId": "5108825",
-    "status": "80'",
+    "status": "83'",
     "goals": [
       "",
       "20' Levon Vardanyan (0-1)<br>28' Levon Petrosyan (0-2)",
@@ -1362,12 +1339,12 @@
     "time": "08:00",
     "start_time": "08:00",
     "group": "ARM D1",
-    "title": "FC Ararat-Armenia 1-1 FC Urartu",
+    "title": "FC Ararat-Armenia 2-1 FC Urartu",
     "homeTeam": "FC Ararat-Armenia",
     "awayTeam": "FC Urartu",
-    "score": "1-1",
+    "score": "2-1",
     "matchId": "5108824",
-    "status": "79'",
+    "status": "82'",
     "goals": [
       "",
       "22' Alioune Ndour (1-0)",
@@ -1375,7 +1352,7 @@
       "",
       "",
       "",
-      "",
+      "81' Bernardo Oliveira Dias,Benny (2-1)",
       ""
     ]
   },
@@ -1390,7 +1367,7 @@
     "awayTeam": "Sestri Levante",
     "score": "0-1",
     "matchId": "5156245",
-    "status": "33'",
+    "status": "36'",
     "goals": [
       "",
       "26' 0-1",
@@ -1428,6 +1405,29 @@
   {
     "date": "2026-08-07",
     "day": "Friday",
+    "time": "09:33",
+    "start_time": "09:33",
+    "group": "GER OBS",
+    "title": "SV Schalding Heining 0-0 FC Pipinsried",
+    "homeTeam": "SV Schalding Heining",
+    "awayTeam": "FC Pipinsried",
+    "score": "0-0",
+    "matchId": "5086565",
+    "status": "12'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "day": "Friday",
     "time": "02:30",
     "start_time": "02:30",
     "group": "IND CFL",
@@ -1459,7 +1459,7 @@
     "awayTeam": "FC Arsenal Dzerzhinsk",
     "score": "3-0",
     "matchId": "5043702",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "28' Vadim Yakovlev (1-0)",
@@ -1522,12 +1522,12 @@
     "day": "Friday",
     "time": "03:00",
     "start_time": "03:00",
-    "group": "KOR WD1",
-    "title": "Incheon Hyundai Steel Red Angels WFC 0-1 Sejong Sportstoto Women\\s",
-    "homeTeam": "Incheon Hyundai Steel Red Angels WFC",
-    "awayTeam": "Sejong Sportstoto Women\\s",
-    "score": "0-1",
-    "matchId": "5052343",
+    "group": "UKR D2",
+    "title": "FC UCSA Tarasivka 1-0 Nyva Ternopil",
+    "homeTeam": "FC UCSA Tarasivka",
+    "awayTeam": "Nyva Ternopil",
+    "score": "1-0",
+    "matchId": "5110817",
     "status": "ET",
     "goals": [
       "",
@@ -1535,9 +1535,9 @@
       "",
       "",
       "",
+      "67' Dmytro Sabiyev (1-0)",
       "",
-      "",
-      "90+1' 0-1"
+      ""
     ]
   },
   {
@@ -1574,7 +1574,7 @@
     "awayTeam": "Kampala City Council(KCCA)",
     "score": "1-0",
     "matchId": "5156141",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "28' 1-0",
@@ -1666,7 +1666,7 @@
     "awayTeam": "NK Brinje Grosuplje(U19)",
     "score": "0-0",
     "matchId": "5158137",
-    "status": "39'",
+    "status": "42'",
     "goals": [
       "",
       "",
@@ -1683,12 +1683,12 @@
     "day": "Friday",
     "time": "03:00",
     "start_time": "03:00",
-    "group": "UKR D2",
-    "title": "FC UCSA Tarasivka 1-0 Nyva Ternopil",
-    "homeTeam": "FC UCSA Tarasivka",
-    "awayTeam": "Nyva Ternopil",
-    "score": "1-0",
-    "matchId": "5110817",
+    "group": "KOR WD1",
+    "title": "Incheon Hyundai Steel Red Angels WFC 0-1 Sejong Sportstoto Women\\s",
+    "homeTeam": "Incheon Hyundai Steel Red Angels WFC",
+    "awayTeam": "Sejong Sportstoto Women\\s",
+    "score": "0-1",
+    "matchId": "5052343",
     "status": "ET",
     "goals": [
       "",
@@ -1696,7 +1696,30 @@
       "",
       "",
       "",
-      "67' Dmytro Sabiyev (1-0)",
+      "",
+      "",
+      "90+1' 0-1"
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "day": "Friday",
+    "time": "00:30",
+    "start_time": "00:30",
+    "group": "NZWL",
+    "title": "West Coast Rangers Women\\s 2-2 Ellerslie Women\\s",
+    "homeTeam": "West Coast Rangers Women\\s",
+    "awayTeam": "Ellerslie Women\\s",
+    "score": "2-2",
+    "matchId": "5156185",
+    "status": "ET",
+    "goals": [
+      "",
+      "17' Cilla Fa\\'afua (0-1)",
+      "44' Rina Hirano (0-2)",
+      "",
+      "47' Lorna Selby (1-2)<br>55' Taylor Vujonvich (2-2)",
+      "",
       "",
       ""
     ]
@@ -1735,36 +1758,13 @@
     "awayTeam": "Ekranas",
     "score": "0-0",
     "matchId": "5089996",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
       "",
       "",
       "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "day": "Friday",
-    "time": "00:30",
-    "start_time": "00:30",
-    "group": "NZWL",
-    "title": "West Coast Rangers Women\\s 2-2 Ellerslie Women\\s",
-    "homeTeam": "West Coast Rangers Women\\s",
-    "awayTeam": "Ellerslie Women\\s",
-    "score": "2-2",
-    "matchId": "5156185",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Cilla Fa\\'afua (0-1)",
-      "44' Rina Hirano (0-2)",
-      "",
-      "47' Lorna Selby (1-2)<br>55' Taylor Vujonvich (2-2)",
       "",
       "",
       ""
@@ -1799,12 +1799,12 @@
     "time": "09:00",
     "start_time": "09:00",
     "group": "LIT D2",
-    "title": "Hegelmann Litauen B 0-0 Garliava",
+    "title": "Hegelmann Litauen B 0-1 Garliava",
     "homeTeam": "Hegelmann Litauen B",
     "awayTeam": "Garliava",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5089995",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -1850,11 +1850,11 @@
     "awayTeam": "Teplice B",
     "score": "3-0",
     "matchId": "5089074",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "26' Ondrej Novicky (1-0)<br>28' Ondrej Novicky (2-0)",
-      "31' 3-0",
+      "31' Jakub Cihak (3-0)",
       "",
       "",
       "",
@@ -1919,7 +1919,7 @@
     "awayTeam": "FC Bohemians 1905 B",
     "score": "1-0",
     "matchId": "5089071",
-    "status": "35'",
+    "status": "38'",
     "goals": [
       "",
       "17' 1-0",
@@ -1988,7 +1988,7 @@
     "awayTeam": "Sleza Wroclaw",
     "score": "0-0",
     "matchId": "5096790",
-    "status": "32'",
+    "status": "35'",
     "goals": [
       "",
       "",
@@ -2057,7 +2057,7 @@
     "awayTeam": "Rayon Sports FC",
     "score": "0-1",
     "matchId": "5155148",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "28' 0-1",
@@ -2103,7 +2103,7 @@
     "awayTeam": "El Salvador(U17)",
     "score": "0-0",
     "matchId": "5156045",
-    "status": "36'",
+    "status": "39'",
     "goals": [
       "",
       "",
@@ -2112,29 +2112,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "day": "Friday",
-    "time": "01:30",
-    "start_time": "01:30",
-    "group": "INT CF",
-    "title": "Cordoba CF 0-4 UD Almeria",
-    "homeTeam": "Cordoba CF",
-    "awayTeam": "UD Almeria",
-    "score": "0-4",
-    "matchId": "5154747",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "51' Nicolas Melamed Ribaudo (0-1)",
-      "61' 0-2<br>64' Alex Sola Lopez Ocana (0-3)",
-      "88' 0-4",
       ""
     ]
   },
@@ -2149,7 +2126,7 @@
     "awayTeam": "Jeunesse Sportive Omrane",
     "score": "0-0",
     "matchId": "5154774",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -2195,7 +2172,7 @@
     "awayTeam": "NK Bistrica",
     "score": "0-0",
     "matchId": "5082269",
-    "status": "36'",
+    "status": "39'",
     "goals": [
       "",
       "",
@@ -2218,11 +2195,11 @@
     "awayTeam": "FK Viktoria Zizkov",
     "score": "0-1",
     "matchId": "5085918",
-    "status": "39'",
+    "status": "42'",
     "goals": [
       "",
       "",
-      "",
+      "38' Michael H\u00f6nig (0-1)",
       "",
       "",
       "",
@@ -2264,11 +2241,11 @@
     "awayTeam": "Arsenal Ceska Lipa",
     "score": "3-0",
     "matchId": "5085916",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "14' Franck Muzambo Idumbo (1-0)",
       "",
-      "32' 2-0",
+      "32' 2-0<br>37' 3-0",
       "",
       "",
       "",
@@ -2379,11 +2356,11 @@
     "awayTeam": "MFK Karvina",
     "score": "0-2",
     "matchId": "5085912",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "29' Denny Samko (0-1)",
-      "",
+      "36' Adam Kronus (0-2)",
       "",
       "",
       "",
@@ -2425,7 +2402,7 @@
     "awayTeam": "SK Kladno",
     "score": "0-0",
     "matchId": "5085909",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -2448,11 +2425,11 @@
     "awayTeam": "SK Hanacka Slavia Kromeriz",
     "score": "1-0",
     "matchId": "5085905",
-    "status": "38'",
+    "status": "41'",
     "goals": [
       "",
       "",
-      "35' 1-0",
+      "35' Dominik Hasek (1-0)",
       "",
       "",
       "",
@@ -2471,7 +2448,7 @@
     "awayTeam": "HPS",
     "score": "1-1",
     "matchId": "5038706",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "12' Benjamin Rekola (0-1)",
       "20' Rayane Ouazine (1-1)",
@@ -2480,6 +2457,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "day": "Friday",
+    "time": "01:30",
+    "start_time": "01:30",
+    "group": "INT CF",
+    "title": "Cordoba CF 0-4 UD Almeria",
+    "homeTeam": "Cordoba CF",
+    "awayTeam": "UD Almeria",
+    "score": "0-4",
+    "matchId": "5154747",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "51' Nicolas Melamed Ribaudo (0-1)",
+      "61' 0-2<br>64' Alex Sola Lopez Ocana (0-3)",
+      "88' 0-4",
       ""
     ]
   },
@@ -2517,7 +2517,7 @@
     "awayTeam": "Mypa",
     "score": "1-0",
     "matchId": "5038705",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "7' Miro Salminen (1-0)",
       "",
@@ -2563,7 +2563,7 @@
     "awayTeam": "Union Plaani",
     "score": "0-0",
     "matchId": "5038704",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -2586,11 +2586,11 @@
     "awayTeam": "Lahden Reipas",
     "score": "2-1",
     "matchId": "5038703",
-    "status": "36'",
+    "status": "39'",
     "goals": [
       "3' Mehmet Ozel (0-1)<br>11' Mohammed Bekhedda (1-1)",
       "",
-      "",
+      "34' 2-1",
       "",
       "",
       "",
@@ -2632,7 +2632,7 @@
     "awayTeam": "Lokomotiv Moscow Youth",
     "score": "0-1",
     "matchId": "5034541",
-    "status": "36'",
+    "status": "39'",
     "goals": [
       "",
       "21' 0-1",
@@ -2724,7 +2724,7 @@
     "awayTeam": "VfB Eichstatt",
     "score": "0-1",
     "matchId": "5113979",
-    "status": "36'",
+    "status": "39'",
     "goals": [
       "",
       "23' 0-1",
@@ -2770,7 +2770,7 @@
     "awayTeam": "TSV Buchbach",
     "score": "0-0",
     "matchId": "5113977",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -2816,7 +2816,7 @@
     "awayTeam": "Pogon Siedlce",
     "score": "0-1",
     "matchId": "5082241",
-    "status": "35'",
+    "status": "38'",
     "goals": [
       "9' Maciej Roso\u0142ek (0-1)",
       "",
@@ -2862,7 +2862,7 @@
     "awayTeam": "Sturm Graz/Stattegg Women\\s",
     "score": "0-0",
     "matchId": "5102435",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -2908,11 +2908,11 @@
     "awayTeam": "Lustenau FC",
     "score": "4-0",
     "matchId": "5100704",
-    "status": "34'",
+    "status": "37'",
     "goals": [
       "14' 1-0",
       "19' 2-0<br>30' 3-0",
-      "",
+      "34' 4-0",
       "",
       "",
       "",
@@ -2954,7 +2954,7 @@
     "awayTeam": "Harju JK Laagri",
     "score": "0-0",
     "matchId": "5029015",
-    "status": "35'",
+    "status": "38'",
     "goals": [
       "",
       "",
@@ -3023,7 +3023,7 @@
     "awayTeam": "Torpedo Kutaisi",
     "score": "1-0",
     "matchId": "5024897",
-    "status": "33'",
+    "status": "36'",
     "goals": [
       "12' Jean Souza de Almeida (1-0)",
       "",
@@ -3092,7 +3092,7 @@
     "awayTeam": "IF Gnistan",
     "score": "1-2",
     "matchId": "5010675",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "9' Gabriel Europaeus (0-1)<br>10' Eetu Mommo (1-1)<br>11' Roman Eremenko (1-2)",
       "",
@@ -3253,7 +3253,7 @@
     "awayTeam": "Charlton Athletic Women\\s",
     "score": "0-0",
     "matchId": "5154753",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -3299,7 +3299,7 @@
     "awayTeam": "Universidad Catolica Women\\s",
     "score": "0-0",
     "matchId": "5044375",
-    "status": "46'",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -3345,7 +3345,7 @@
     "awayTeam": "NK Aluminij U19",
     "score": "0-0",
     "matchId": "5158040",
-    "status": "48'",
+    "status": "51'",
     "goals": [
       "",
       "",
@@ -3368,7 +3368,7 @@
     "awayTeam": "Sabadell",
     "score": "0-0",
     "matchId": "5154425",
-    "status": "3'",
+    "status": "6'",
     "goals": [
       "",
       "",
@@ -3414,7 +3414,7 @@
     "awayTeam": "Vrchovina",
     "score": "2-0",
     "matchId": "5108362",
-    "status": "47'",
+    "status": "50'",
     "goals": [
       "9' Jean David Beauguel (1-0)",
       "26' Jean David Beauguel (2-0)",
@@ -3437,7 +3437,7 @@
     "awayTeam": "FC Andorra",
     "score": "0-0",
     "matchId": "5149214",
-    "status": "5'",
+    "status": "8'",
     "goals": [
       "",
       "",
@@ -3483,7 +3483,7 @@
     "awayTeam": "Pelikan Lowicz",
     "score": "0-0",
     "matchId": "5095761",
-    "status": "46'",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -3506,7 +3506,7 @@
     "awayTeam": "OK Castkovce",
     "score": "0-1",
     "matchId": "5091566",
-    "status": "2'",
+    "status": "5'",
     "goals": [
       "",
       "",
@@ -3552,7 +3552,7 @@
     "awayTeam": "Braga(U19)",
     "score": "1-1",
     "matchId": "5154765",
-    "status": "49'",
+    "status": "52'",
     "goals": [
       "",
       "",

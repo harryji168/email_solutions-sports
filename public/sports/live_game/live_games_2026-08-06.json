@@ -10,7 +10,7 @@
     "awayTeam": "Club Tijuana",
     "score": "2-0",
     "matchId": "5050002",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "",
       "16' Joseph Yeramid Rosales Erazo (1-0)",
@@ -33,7 +33,7 @@
     "awayTeam": "Correcaminos UAT",
     "score": "1-2",
     "matchId": "5108951",
-    "status": "48'",
+    "status": "63'",
     "goals": [
       "13' Juan Aguayo (1-0)",
       "17' Juan Cantu (1-1)<br>19' W. Guzm\u00e1n (1-2)",
@@ -79,7 +79,7 @@
     "awayTeam": "Mineros de Zacatecas",
     "score": "0-1",
     "matchId": "5108947",
-    "status": "50'",
+    "status": "65'",
     "goals": [
       "",
       "",
@@ -102,7 +102,7 @@
     "awayTeam": "Club Necaxa",
     "score": "2-0",
     "matchId": "5050003",
-    "status": "72'",
+    "status": "87'",
     "goals": [
       "",
       "",
@@ -133,29 +133,6 @@
       "",
       "",
       "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "16:40",
-    "start_time": "16:40",
-    "group": "CNCF LC",
-    "title": "New York City FC 2-0 Santos Laguna",
-    "homeTeam": "New York City FC",
-    "awayTeam": "Santos Laguna",
-    "score": "2-0",
-    "matchId": "5050005",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "50' Tayvon Gray (1-0)",
-      "66' Nico Cavallo (2-0)",
       "",
       ""
     ]
@@ -355,7 +332,7 @@
     "awayTeam": "Independiente Yumbo",
     "score": "0-2",
     "matchId": "5072232",
-    "status": "HT",
+    "status": "57'",
     "goals": [
       "",
       "",
@@ -401,7 +378,7 @@
     "awayTeam": "CSD Municipal",
     "score": "0-1",
     "matchId": "5077670",
-    "status": "47'",
+    "status": "62'",
     "goals": [
       "",
       "18' Alejandro Cabeza (0-1)",
@@ -409,6 +386,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "16:40",
+    "start_time": "16:40",
+    "group": "CNCF LC",
+    "title": "New York City FC 2-0 Santos Laguna",
+    "homeTeam": "New York City FC",
+    "awayTeam": "Santos Laguna",
+    "score": "2-0",
+    "matchId": "5050005",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "50' Tayvon Gray (1-0)",
+      "66' Nico Cavallo (2-0)",
       "",
       ""
     ]
@@ -427,6 +427,29 @@
     "status": "ET",
     "goals": [
       "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "19:12",
+    "start_time": "19:12",
+    "group": "CNCF LC",
+    "title": "Club America 1-0 San Diego FC",
+    "homeTeam": "Club America",
+    "awayTeam": "San Diego FC",
+    "score": "1-0",
+    "matchId": "5066777",
+    "status": "14'",
+    "goals": [
+      "11' Paul Brian Rodriguez Bravo (1-0)",
       "",
       "",
       "",

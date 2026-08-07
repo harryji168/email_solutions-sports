@@ -25,24 +25,24 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "16:40",
-    "start_time": "16:40",
-    "group": "CNCF LC",
-    "title": "New York City FC 2-0 Santos Laguna",
-    "homeTeam": "New York City FC",
-    "awayTeam": "Santos Laguna",
-    "score": "2-0",
-    "matchId": "5050005",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "CNCF WCAC",
+    "title": "Colombia Women\\s 0-0 Mexico Women\\s",
+    "homeTeam": "Colombia Women\\s",
+    "awayTeam": "Mexico Women\\s",
+    "score": "0-0",
+    "matchId": "5155144",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
-      "50' Tayvon Gray (1-0)",
-      "66' Nico Cavallo (2-0)",
       "",
-      ""
+      "",
+      "",
+      "118' Ingrid Guerra (1-0)<br>120+4' Ana Mendoza (1-1)"
     ]
   },
   {
@@ -94,24 +94,24 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "CNCF WCAC",
-    "title": "Colombia Women\\s 0-0 Mexico Women\\s",
-    "homeTeam": "Colombia Women\\s",
-    "awayTeam": "Mexico Women\\s",
-    "score": "0-0",
-    "matchId": "5155144",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "MEX D2",
+    "title": "Leones Negros UdeG 1-3 Correcaminos UAT",
+    "homeTeam": "Leones Negros UdeG",
+    "awayTeam": "Correcaminos UAT",
+    "score": "1-3",
+    "matchId": "5108951",
     "status": "ET",
     "goals": [
+      "13' Juan Aguayo (1-0)",
+      "17' Juan Cantu (1-1)<br>19' W. Guzm\u00e1n (1-2)",
       "",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "118' Ingrid Guerra (1-0)<br>120+4' Ana Mendoza (1-1)"
+      "84' Joaquin Estopier (1-3)",
+      ""
     ]
   },
   {
@@ -140,29 +140,6 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "MEX D2",
-    "title": "Leones Negros UdeG 1-3 Correcaminos UAT",
-    "homeTeam": "Leones Negros UdeG",
-    "awayTeam": "Correcaminos UAT",
-    "score": "1-3",
-    "matchId": "5108951",
-    "status": "ET",
-    "goals": [
-      "13' Juan Aguayo (1-0)",
-      "17' Juan Cantu (1-1)<br>19' W. Guzm\u00e1n (1-2)",
-      "",
-      "",
-      "",
-      "",
-      "84' Joaquin Estopier (1-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
     "time": "20:06",
     "start_time": "20:06",
     "group": "CNCF CACup",
@@ -171,7 +148,7 @@
     "awayTeam": "CD FAS",
     "score": "1-0",
     "matchId": "5077668",
-    "status": "86'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -225,7 +202,7 @@
       "45+3' Cole Bassett (4-1)",
       "56' Ariel Daniel Lassiter Acuna (5-1)",
       "",
-      "79' Emiliano Gomez Dutra (5-2)",
+      "80' Emiliano Gomez Dutra (5-2)",
       ""
     ]
   },
@@ -416,6 +393,29 @@
   {
     "date": "2026-08-06",
     "day": "Thursday",
+    "time": "16:40",
+    "start_time": "16:40",
+    "group": "CNCF LC",
+    "title": "New York City FC 2-0 Santos Laguna",
+    "homeTeam": "New York City FC",
+    "awayTeam": "Santos Laguna",
+    "score": "2-0",
+    "matchId": "5050005",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "50' Tayvon Gray (1-0)",
+      "66' Nico Cavallo (2-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
     "time": "18:10",
     "start_time": "18:10",
     "group": "CNCF LC",
@@ -433,6 +433,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "day": "Thursday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "MEX D2",
+    "title": "Tlaxcala FC 0-2 Alebrijes de Oaxaca",
+    "homeTeam": "Tlaxcala FC",
+    "awayTeam": "Alebrijes de Oaxaca",
+    "score": "0-2",
+    "matchId": "5108938",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "46' Adri\u00e1n Justo (0-1)",
+      "",
+      "84' \u00c1ngel Tecpan\u00e9catl (0-2)",
       ""
     ]
   },
@@ -479,29 +502,6 @@
       "",
       "63' Luca Bombino (3-1)",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-06",
-    "day": "Thursday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "MEX D2",
-    "title": "Tlaxcala FC 0-2 Alebrijes de Oaxaca",
-    "homeTeam": "Tlaxcala FC",
-    "awayTeam": "Alebrijes de Oaxaca",
-    "score": "0-2",
-    "matchId": "5108938",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "46' Adri\u00e1n Justo (0-1)",
-      "",
-      "84' \u00c1ngel Tecpan\u00e9catl (0-2)",
       ""
     ]
   },

@@ -5,75 +5,6 @@
     "time": "03:00",
     "start_time": "03:00",
     "group": "JPN D1",
-    "title": "Avispa Fukuoka 0-1 Vissel Kobe",
-    "homeTeam": "Avispa Fukuoka",
-    "awayTeam": "Vissel Kobe",
-    "score": "0-1",
-    "matchId": "5078311",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' Yuya Osako (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "DEN D1",
-    "title": "FC Aarhus Fremad 3-1 HB Koge",
-    "homeTeam": "FC Aarhus Fremad",
-    "awayTeam": "HB Koge",
-    "score": "3-1",
-    "matchId": "5075491",
-    "status": "ET",
-    "goals": [
-      "9' Magnus Kaastrup Larsen (1-0)",
-      "27' Magnus Kaastrup Larsen (2-0)",
-      "",
-      "",
-      "53' Andreas Pisani (2-1)",
-      "62' Alexander Ludwig (3-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "00:15",
-    "start_time": "00:15",
-    "group": "AUS NSW",
-    "title": "Southern Districts Raiders 3-0 Western Sydney Wanderers Youth",
-    "homeTeam": "Southern Districts Raiders",
-    "awayTeam": "Western Sydney Wanderers Youth",
-    "score": "3-0",
-    "matchId": "5005432",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "36' Noah Chianese (1-0)",
-      "",
-      "",
-      "",
-      "86' Jakov Malbasa (2-0)",
-      "90+2' Jakov Malbasa (3-0)"
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "JPN D1",
     "title": "Cerezo Osaka 2-1 Fagiano Okayama",
     "homeTeam": "Cerezo Osaka",
     "awayTeam": "Fagiano Okayama",
@@ -324,29 +255,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "21:30",
-    "start_time": "21:30",
-    "group": "AUS TPL",
-    "title": "Kingborough Lions 3-1 Clarence Zebras",
-    "homeTeam": "Kingborough Lions",
-    "awayTeam": "Clarence Zebras",
-    "score": "3-1",
-    "matchId": "5008925",
-    "status": "ET",
-    "goals": [
-      "8' Joel Badger (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "67' Samuel Tooze (1-1)",
-      "78' Noah Mies (2-1)",
-      "90+4' Joel Badger (3-1)"
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "02:30",
     "start_time": "02:30",
     "group": "INT CF",
@@ -365,6 +273,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "21:30",
+    "start_time": "21:30",
+    "group": "AUS TPL",
+    "title": "Kingborough Lions 3-1 Clarence Zebras",
+    "homeTeam": "Kingborough Lions",
+    "awayTeam": "Clarence Zebras",
+    "score": "3-1",
+    "matchId": "5008925",
+    "status": "ET",
+    "goals": [
+      "8' Joel Badger (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "67' Samuel Tooze (1-1)",
+      "78' Noah Mies (2-1)",
+      "90+4' Joel Badger (3-1)"
     ]
   },
   {
@@ -503,29 +434,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "21:30",
-    "start_time": "21:30",
-    "group": "AUS TPL",
-    "title": "Glenorchy Knights 2-1 Launceston United",
-    "homeTeam": "Glenorchy Knights",
-    "awayTeam": "Launceston United",
-    "score": "2-1",
-    "matchId": "5008924",
-    "status": "ET",
-    "goals": [
-      "",
-      "20' Anthony Mamic (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "77' Teshawn Johnson (1-1)",
-      "90' Ramiro (2-1)"
     ]
   },
   {
@@ -692,6 +600,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "21:30",
+    "start_time": "21:30",
+    "group": "AUS TPL",
+    "title": "Glenorchy Knights 2-1 Launceston United",
+    "homeTeam": "Glenorchy Knights",
+    "awayTeam": "Launceston United",
+    "score": "2-1",
+    "matchId": "5008924",
+    "status": "ET",
+    "goals": [
+      "",
+      "20' Anthony Mamic (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "77' Teshawn Johnson (1-1)",
+      "90' Ramiro (2-1)"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "00:01",
     "start_time": "00:01",
     "group": "AUS NSWSL",
@@ -738,29 +669,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "21:30",
-    "start_time": "21:30",
-    "group": "AUS TPL",
-    "title": "Ulverstone FC 3-4 South East United",
-    "homeTeam": "Ulverstone FC",
-    "awayTeam": "South East United",
-    "score": "3-4",
-    "matchId": "5008926",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Bradley Sibanda (1-0)",
-      "42' Toby Anderson (2-0)",
-      "",
-      "",
-      "67' Jacob Sartori (2-1)",
-      "80' Luke Huigsloot (2-2)<br>89' Declan Brown (2-3)",
-      "90+1' Abel Quigley (2-4)<br>90+10' Toby Anderson (3-4)"
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "04:30",
     "start_time": "04:30",
     "group": "CHA D1",
@@ -802,6 +710,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "21:30",
+    "start_time": "21:30",
+    "group": "AUS TPL",
+    "title": "Ulverstone FC 3-4 South East United",
+    "homeTeam": "Ulverstone FC",
+    "awayTeam": "South East United",
+    "score": "3-4",
+    "matchId": "5008926",
+    "status": "ET",
+    "goals": [
+      "",
+      "17' Bradley Sibanda (1-0)",
+      "42' Toby Anderson (2-0)",
+      "",
+      "",
+      "67' Jacob Sartori (2-1)",
+      "80' Luke Huigsloot (2-2)<br>89' Declan Brown (2-3)",
+      "90+1' Abel Quigley (2-4)<br>90+10' Toby Anderson (3-4)"
     ]
   },
   {
@@ -871,6 +802,29 @@
       "",
       "",
       "97' Harrison Sawyer (0-1)<br>102' Nicolas Milanovic (1-1)"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "AUS WNPL",
+    "title": "Avondale FC Women\\s 1-0 South Melbourne Women\\s",
+    "homeTeam": "Avondale FC Women\\s",
+    "awayTeam": "South Melbourne Women\\s",
+    "score": "1-0",
+    "matchId": "5038478",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -1313,29 +1267,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "21:00",
-    "start_time": "21:00",
-    "group": "AUS VD2",
-    "title": "Keilor Park SC 0-4 Goulburn Valley Suns",
-    "homeTeam": "Keilor Park SC",
-    "awayTeam": "Goulburn Valley Suns",
-    "score": "0-4",
-    "matchId": "5072214",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "04:00",
     "start_time": "04:00",
     "group": "UEFA WCL",
@@ -1354,29 +1285,6 @@
       "",
       "",
       "90+1' Dorina Julianna Sov\u00e1ny (1-1)<br>97' Daryna Apanashchenko (2-1)<br>108' Tara Koci\u0107 (2-2)<br>111' Maryna Shaynyuk (3-2)"
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "21:30",
-    "start_time": "21:30",
-    "group": "AUS VCup",
-    "title": "Heidelberg United FC 1-3 Preston Lions",
-    "homeTeam": "Heidelberg United FC",
-    "awayTeam": "Preston Lions",
-    "score": "1-3",
-    "matchId": "5157710",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -1428,14 +1336,37 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "21:00",
+    "start_time": "21:00",
+    "group": "AUS VD2",
+    "title": "Keilor Park SC 0-4 Goulburn Valley Suns",
+    "homeTeam": "Keilor Park SC",
+    "awayTeam": "Goulburn Valley Suns",
+    "score": "0-4",
+    "matchId": "5072214",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "21:30",
     "start_time": "21:30",
-    "group": "AUS TNC",
-    "title": "Burnie United 4-10 Northern Rangers",
-    "homeTeam": "Burnie United",
-    "awayTeam": "Northern Rangers",
-    "score": "4-10",
-    "matchId": "5029743",
+    "group": "AUS VCup",
+    "title": "Heidelberg United FC 1-3 Preston Lions",
+    "homeTeam": "Heidelberg United FC",
+    "awayTeam": "Preston Lions",
+    "score": "1-3",
+    "matchId": "5157710",
     "status": "ET",
     "goals": [
       "",
@@ -1520,6 +1451,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "21:30",
+    "start_time": "21:30",
+    "group": "AUS TNC",
+    "title": "Burnie United 4-10 Northern Rangers",
+    "homeTeam": "Burnie United",
+    "awayTeam": "Northern Rangers",
+    "score": "4-10",
+    "matchId": "5029743",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "04:00",
     "start_time": "04:00",
     "group": "CHA D2",
@@ -1566,29 +1520,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "21:00",
-    "start_time": "21:00",
-    "group": "AUS TPL",
-    "title": "South Hobart 5-2 Riverside Olympic",
-    "homeTeam": "South Hobart",
-    "awayTeam": "Riverside Olympic",
-    "score": "5-2",
-    "matchId": "5008922",
-    "status": "ET",
-    "goals": [
-      "2' Austin Yost (1-0)",
-      "28' James Pelletier (1-1)",
-      "41' Jacob Lancaster (2-1)",
-      "",
-      "",
-      "66' C. Okine (2-2)<br>67' Austin Yost (3-2)<br>75' Xavier Williams (4-2)",
-      "83' Xavier Williams (5-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "02:00",
     "start_time": "02:00",
     "group": "JPN D3",
@@ -1606,6 +1537,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "21:00",
+    "start_time": "21:00",
+    "group": "AUS TPL",
+    "title": "South Hobart 5-2 Riverside Olympic",
+    "homeTeam": "South Hobart",
+    "awayTeam": "Riverside Olympic",
+    "score": "5-2",
+    "matchId": "5008922",
+    "status": "ET",
+    "goals": [
+      "2' Austin Yost (1-0)",
+      "28' James Pelletier (1-1)",
+      "41' Jacob Lancaster (2-1)",
+      "",
+      "",
+      "66' C. Okine (2-2)<br>67' Austin Yost (3-2)<br>75' Xavier Williams (4-2)",
+      "83' Xavier Williams (5-2)",
       ""
     ]
   },
@@ -1911,29 +1865,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "21:30",
-    "start_time": "21:30",
-    "group": "AUS TPL",
-    "title": "Devonport City Striker 6-0 Launceston City",
-    "homeTeam": "Devonport City Striker",
-    "awayTeam": "Launceston City",
-    "score": "6-0",
-    "matchId": "5008923",
-    "status": "ET",
-    "goals": [
-      "12' Jordan Payne (1-0)<br>15' Joshua Tollervey (2-0)",
-      "",
-      "",
-      "45+4' Ivan Jolivet (3-0)",
-      "47' Jordan Payne (4-0)",
-      "",
-      "78' Courage Layweh (5-0)<br>83' Joshua Tollervey (6-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "04:00",
     "start_time": "04:00",
     "group": "KOR D2",
@@ -1998,6 +1929,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "21:30",
+    "start_time": "21:30",
+    "group": "AUS CGP",
+    "title": "Canberra Olympic 2-5 Cooma Tigers",
+    "homeTeam": "Canberra Olympic",
+    "awayTeam": "Cooma Tigers",
+    "score": "2-5",
+    "matchId": "5038285",
+    "status": "ET",
+    "goals": [
+      "1' Aidan Milicevic (0-1)<br>8' O. Ahmed (1-1)<br>13' D. Ayo (2-1)",
+      "",
+      "42' Spencer Barber (2-2)",
+      "",
+      "",
+      "61' Aidan Milicevic (2-3)",
+      "89' Elijah Howe (2-4)",
+      "90+1' Marko Milutinovic (2-5)"
     ]
   },
   {
@@ -2072,29 +2026,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "22:00",
-    "start_time": "22:00",
-    "group": "AUS WNPL",
-    "title": "Avondale FC Women\\s 1-0 South Melbourne Women\\s",
-    "homeTeam": "Avondale FC Women\\s",
-    "awayTeam": "South Melbourne Women\\s",
-    "score": "1-0",
-    "matchId": "5038478",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "04:00",
     "start_time": "04:00",
     "group": "GER D2",
@@ -2136,29 +2067,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "21:30",
-    "start_time": "21:30",
-    "group": "AUS CGP",
-    "title": "Canberra Olympic 2-5 Cooma Tigers",
-    "homeTeam": "Canberra Olympic",
-    "awayTeam": "Cooma Tigers",
-    "score": "2-5",
-    "matchId": "5038285",
-    "status": "ET",
-    "goals": [
-      "1' Aidan Milicevic (0-1)<br>8' O. Ahmed (1-1)<br>13' D. Ayo (2-1)",
-      "",
-      "42' Spencer Barber (2-2)",
-      "",
-      "",
-      "61' Aidan Milicevic (2-3)",
-      "89' Elijah Howe (2-4)",
-      "90+1' Marko Milutinovic (2-5)"
     ]
   },
   {
@@ -2325,6 +2233,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "21:00",
+    "start_time": "21:00",
+    "group": "AUS FWPR",
+    "title": "Curtin University Reserve 3-4 Subiaco AFC Reserve",
+    "homeTeam": "Curtin University Reserve",
+    "awayTeam": "Subiaco AFC Reserve",
+    "score": "3-4",
+    "matchId": "5156914",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "04:00",
     "start_time": "04:00",
     "group": "GER D2",
@@ -2412,29 +2343,6 @@
       "63' 4-1<br>70' 5-1",
       "77' 6-1",
       "90+2' 7-1"
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "21:00",
-    "start_time": "21:00",
-    "group": "AUS FWPR",
-    "title": "Curtin University Reserve 3-4 Subiaco AFC Reserve",
-    "homeTeam": "Curtin University Reserve",
-    "awayTeam": "Subiaco AFC Reserve",
-    "score": "3-4",
-    "matchId": "5156914",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -2555,29 +2463,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "22:00",
-    "start_time": "22:00",
-    "group": "AUS NNSW",
-    "title": "Edgeworth Eagles FC 0-0 Weston Workers Bears FC",
-    "homeTeam": "Edgeworth Eagles FC",
-    "awayTeam": "Weston Workers Bears FC",
-    "score": "0-0",
-    "matchId": "5003125",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "23:47",
     "start_time": "23:47",
     "group": "AUS QSLU23",
@@ -2624,23 +2509,23 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "21:00",
-    "start_time": "21:00",
-    "group": "INT CF",
-    "title": "Auckland United Women\\s 0-7 Chelsea FC Women\\s",
-    "homeTeam": "Auckland United Women\\s",
-    "awayTeam": "Chelsea FC Women\\s",
-    "score": "0-7",
-    "matchId": "5158223",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "AUS NNSW",
+    "title": "Edgeworth Eagles FC 0-0 Weston Workers Bears FC",
+    "homeTeam": "Edgeworth Eagles FC",
+    "awayTeam": "Weston Workers Bears FC",
+    "score": "0-0",
+    "matchId": "5003125",
     "status": "ET",
     "goals": [
-      "11' Agnes Beever-Jones (0-1)<br>13' Agnes Beever-Jones (0-2)",
-      "22' Agnes Beever-Jones (0-3)<br>26' Sandy Baltimore (0-4)",
       "",
       "",
-      "56' Giulia Dragoni (0-5)",
-      "65' Maika Hamano (0-6)",
-      "87' Mayra Ramirez (0-7)",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -2716,6 +2601,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "21:00",
+    "start_time": "21:00",
+    "group": "INT CF",
+    "title": "Auckland United Women\\s 0-7 Chelsea FC Women\\s",
+    "homeTeam": "Auckland United Women\\s",
+    "awayTeam": "Chelsea FC Women\\s",
+    "score": "0-7",
+    "matchId": "5158223",
+    "status": "ET",
+    "goals": [
+      "11' Agnes Beever-Jones (0-1)<br>13' Agnes Beever-Jones (0-2)",
+      "22' Agnes Beever-Jones (0-3)<br>26' Sandy Baltimore (0-4)",
+      "",
+      "",
+      "56' Giulia Dragoni (0-5)",
+      "65' Maika Hamano (0-6)",
+      "87' Mayra Ramirez (0-7)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "04:00",
     "start_time": "04:00",
     "group": "KOR D1",
@@ -2785,29 +2693,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "22:00",
-    "start_time": "22:00",
-    "group": "FFSA SL",
-    "title": "Croydon FC 1-1 Sturt Lions",
-    "homeTeam": "Croydon FC",
-    "awayTeam": "Sturt Lions",
-    "score": "1-1",
-    "matchId": "5009088",
-    "status": "ET",
-    "goals": [
-      "",
-      "28' 0-1",
-      "39' 1-1",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "04:00",
     "start_time": "04:00",
     "group": "KOR D1",
@@ -2871,6 +2756,29 @@
       "",
       "69' 2-2<br>72' 3-2",
       "84' 3-3",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "FFSA SL",
+    "title": "Croydon FC 1-1 Sturt Lions",
+    "homeTeam": "Croydon FC",
+    "awayTeam": "Sturt Lions",
+    "score": "1-1",
+    "matchId": "5009088",
+    "status": "ET",
+    "goals": [
+      "",
+      "28' 0-1",
+      "39' 1-1",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -2946,52 +2854,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "21:00",
-    "start_time": "21:00",
-    "group": "RUS D3-3",
-    "title": "SKA-Khabarovsk B 0-2 FK Shumbrat Saransk",
-    "homeTeam": "SKA-Khabarovsk B",
-    "awayTeam": "FK Shumbrat Saransk",
-    "score": "0-2",
-    "matchId": "5056548",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "40' R. Yusupov (0-1)",
-      "",
-      "",
-      "",
-      "78' Vitalij Trofimov (0-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "22:00",
-    "start_time": "22:00",
-    "group": "AUS VLU23",
-    "title": "Dandenong City SC(U23) 5-0 Hume City(U23)",
-    "homeTeam": "Dandenong City SC(U23)",
-    "awayTeam": "Hume City(U23)",
-    "score": "5-0",
-    "matchId": "5034497",
-    "status": "ET",
-    "goals": [
-      "1' 1-0",
-      "16' 2-0<br>20' 3-0",
-      "",
-      "",
-      "50' 4-0",
-      "68' 5-0",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "03:30",
     "start_time": "03:30",
     "group": "INT CF",
@@ -3055,6 +2917,52 @@
       "55' 1-1",
       "",
       "83' 2-1",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "21:00",
+    "start_time": "21:00",
+    "group": "RUS D3-3",
+    "title": "SKA-Khabarovsk B 0-2 FK Shumbrat Saransk",
+    "homeTeam": "SKA-Khabarovsk B",
+    "awayTeam": "FK Shumbrat Saransk",
+    "score": "0-2",
+    "matchId": "5056548",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' R. Yusupov (0-1)",
+      "",
+      "",
+      "",
+      "78' Vitalij Trofimov (0-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "AUS VLU23",
+    "title": "Dandenong City SC(U23) 5-0 Hume City(U23)",
+    "homeTeam": "Dandenong City SC(U23)",
+    "awayTeam": "Hume City(U23)",
+    "score": "5-0",
+    "matchId": "5034497",
+    "status": "ET",
+    "goals": [
+      "1' 1-0",
+      "16' 2-0<br>20' 3-0",
+      "",
+      "",
+      "50' 4-0",
+      "68' 5-0",
+      "",
       ""
     ]
   },
@@ -3314,6 +3222,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "21:30",
+    "start_time": "21:30",
+    "group": "AUS TPL",
+    "title": "Devonport City Striker 6-0 Launceston City",
+    "homeTeam": "Devonport City Striker",
+    "awayTeam": "Launceston City",
+    "score": "6-0",
+    "matchId": "5008923",
+    "status": "ET",
+    "goals": [
+      "12' Jordan Payne (1-0)<br>15' Joshua Tollervey (2-0)",
+      "",
+      "",
+      "45+4' Ivan Jolivet (3-0)",
+      "47' Jordan Payne (4-0)",
+      "",
+      "78' Courage Layweh (5-0)<br>83' Joshua Tollervey (6-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "01:01",
     "start_time": "01:01",
     "group": "ROM D2",
@@ -3332,29 +3263,6 @@
       "66' Mihai Adascalitei (1-2)",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "21:00",
-    "start_time": "21:00",
-    "group": "NZCL",
-    "title": "Petone FC 0-2 Western Suburbs FC",
-    "homeTeam": "Petone FC",
-    "awayTeam": "Western Suburbs FC",
-    "score": "0-2",
-    "matchId": "5053938",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "87' Hamish Clark (0-1)",
-      "90+5' Ryan Harrison (0-2)"
     ]
   },
   {
@@ -3424,6 +3332,29 @@
       "",
       "83' 1-1",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "21:00",
+    "start_time": "21:00",
+    "group": "NZCL",
+    "title": "Petone FC 0-2 Western Suburbs FC",
+    "homeTeam": "Petone FC",
+    "awayTeam": "Western Suburbs FC",
+    "score": "0-2",
+    "matchId": "5053938",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "87' Hamish Clark (0-1)",
+      "90+5' Ryan Harrison (0-2)"
     ]
   },
   {
@@ -4050,29 +3981,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "21:00",
-    "start_time": "21:00",
-    "group": "AUS FWPR",
-    "title": "Murdoch Uni Melville Reserve 2-2 UWA Nedlands Reserve",
-    "homeTeam": "Murdoch Uni Melville Reserve",
-    "awayTeam": "UWA Nedlands Reserve",
-    "score": "2-2",
-    "matchId": "5156913",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "01:00",
     "start_time": "01:00",
     "group": "AUS NPLQ",
@@ -4127,6 +4035,29 @@
     "awayTeam": "Eastern Lions SC",
     "score": "2-2",
     "matchId": "5156850",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "21:00",
+    "start_time": "21:00",
+    "group": "AUS FWPR",
+    "title": "Murdoch Uni Melville Reserve 2-2 UWA Nedlands Reserve",
+    "homeTeam": "Murdoch Uni Melville Reserve",
+    "awayTeam": "UWA Nedlands Reserve",
+    "score": "2-2",
+    "matchId": "5156913",
     "status": "ET",
     "goals": [
       "",
@@ -4211,29 +4142,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "22:00",
-    "start_time": "22:00",
-    "group": "AUS WNPL",
-    "title": "Alamein Women\\s 0-1 Boroondara Eagles Women\\s",
-    "homeTeam": "Alamein Women\\s",
-    "awayTeam": "Boroondara Eagles Women\\s",
-    "score": "0-1",
-    "matchId": "5038477",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "03:00",
     "start_time": "03:00",
     "group": "JPN D2",
@@ -4274,6 +4182,29 @@
       "59' Connor Mynott Smith (2-0)",
       "62' Jonathan Olaoye (3-0)<br>68' Connor Mynott Smith (4-0)<br>69' Lukman Ahmed-Shaibu (5-0)<br>71' Christian Kreskas (6-0)",
       "82' Shota Sagara (7-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "AUS WNPL",
+    "title": "Alamein Women\\s 0-1 Boroondara Eagles Women\\s",
+    "homeTeam": "Alamein Women\\s",
+    "awayTeam": "Boroondara Eagles Women\\s",
+    "score": "0-1",
+    "matchId": "5038477",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -4395,29 +4326,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "22:00",
-    "start_time": "22:00",
-    "group": "AUS WNPL",
-    "title": "Essendon Royals Women\\s 5-2 Bentleigh Greens Women\\s",
-    "homeTeam": "Essendon Royals Women\\s",
-    "awayTeam": "Bentleigh Greens Women\\s",
-    "score": "5-2",
-    "matchId": "5038476",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "00:36",
     "start_time": "00:36",
     "group": "AUS NSW",
@@ -4464,22 +4372,22 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "00:34",
-    "start_time": "00:34",
-    "group": "AUS CGP",
-    "title": "Canberra Croatia 5-4 O\\Connor Knights",
-    "homeTeam": "Canberra Croatia",
-    "awayTeam": "O\\Connor Knights",
-    "score": "5-4",
-    "matchId": "5038287",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "AUS WNPL",
+    "title": "Essendon Royals Women\\s 5-2 Bentleigh Greens Women\\s",
+    "homeTeam": "Essendon Royals Women\\s",
+    "awayTeam": "Bentleigh Greens Women\\s",
+    "score": "5-2",
+    "matchId": "5038476",
     "status": "ET",
     "goals": [
-      "13' 0-1",
-      "17' 1-1",
-      "36' 2-1<br>41' 2-2",
-      "45+1' 2-3",
       "",
-      "63' 3-3<br>68' 3-4",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -4510,24 +4418,116 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "GER RegS",
-    "title": "SV Sandhausen 2-2 TSV Steinbach Haiger",
-    "homeTeam": "SV Sandhausen",
-    "awayTeam": "TSV Steinbach Haiger",
-    "score": "2-2",
-    "matchId": "5119482",
+    "time": "00:34",
+    "start_time": "00:34",
+    "group": "AUS CGP",
+    "title": "Canberra Croatia 5-4 O\\Connor Knights",
+    "homeTeam": "Canberra Croatia",
+    "awayTeam": "O\\Connor Knights",
+    "score": "5-4",
+    "matchId": "5038287",
     "status": "ET",
     "goals": [
-      "15' Till Hausotter (0-1)",
-      "20' Arianit Ferati (1-1)",
+      "13' 0-1",
+      "17' 1-1",
+      "36' 2-1<br>41' 2-2",
+      "45+1' 2-3",
+      "",
+      "63' 3-3<br>68' 3-4",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "JPN D1",
+    "title": "Avispa Fukuoka 0-1 Vissel Kobe",
+    "homeTeam": "Avispa Fukuoka",
+    "awayTeam": "Vissel Kobe",
+    "score": "0-1",
+    "matchId": "5078311",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' Yuya Osako (0-1)",
       "",
       "",
       "",
-      "69' Jakob Pfahl (1-2)",
       "",
-      "90+5' Stefan Maderer (2-2)"
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "00:15",
+    "start_time": "00:15",
+    "group": "AUS NSW",
+    "title": "Southern Districts Raiders 3-0 Western Sydney Wanderers Youth",
+    "homeTeam": "Southern Districts Raiders",
+    "awayTeam": "Western Sydney Wanderers Youth",
+    "score": "3-0",
+    "matchId": "5005432",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "36' Noah Chianese (1-0)",
+      "",
+      "",
+      "",
+      "86' Jakov Malbasa (2-0)",
+      "90+2' Jakov Malbasa (3-0)"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "DEN D1",
+    "title": "FC Aarhus Fremad 3-1 HB Koge",
+    "homeTeam": "FC Aarhus Fremad",
+    "awayTeam": "HB Koge",
+    "score": "3-1",
+    "matchId": "5075491",
+    "status": "ET",
+    "goals": [
+      "9' Magnus Kaastrup Larsen (1-0)",
+      "27' Magnus Kaastrup Larsen (2-0)",
+      "",
+      "",
+      "53' Andreas Pisani (2-1)",
+      "62' Alexander Ludwig (3-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "CHA D1",
+    "title": "Dingnan United 2-1 Dalian Kuncheng",
+    "homeTeam": "Dingnan United",
+    "awayTeam": "Dalian Kuncheng",
+    "score": "2-1",
+    "matchId": "5047564",
+    "status": "ET",
+    "goals": [
+      "14' Daciel dos Santos (1-0)",
+      "16' Daciel dos Santos (2-0)",
+      "",
+      "",
+      "",
+      "68' Cyrille Bayala (2-1)",
+      "",
+      ""
     ]
   },
   {
@@ -13005,7 +13005,7 @@
     "awayTeam": "Royale Union Saint-Gilloise",
     "score": "1-5",
     "matchId": "5082586",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "13' Norman Bassette (1-0)",
       "28' Promise David (1-1)",
@@ -13028,7 +13028,7 @@
     "awayTeam": "Lommel S.K.",
     "score": "1-1",
     "matchId": "5082583",
-    "status": "89'",
+    "status": "90+'",
     "goals": [
       "",
       "24' Ralf Seuntjens (0-1)",
@@ -13074,7 +13074,7 @@
     "awayTeam": "Stade de Reims",
     "score": "0-0",
     "matchId": "5075916",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -13097,7 +13097,7 @@
     "awayTeam": "Grenoble Foot 38",
     "score": "4-2",
     "matchId": "5075917",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "21' Victor Mayela (1-0)",
@@ -13120,7 +13120,7 @@
     "awayTeam": "Dijon",
     "score": "1-1",
     "matchId": "5075921",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -13143,7 +13143,7 @@
     "awayTeam": "Red Star FC",
     "score": "0-1",
     "matchId": "5075923",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -13166,7 +13166,7 @@
     "awayTeam": "AS Saint-Etienne",
     "score": "0-3",
     "matchId": "5075927",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "",
       "22' Jakob Breum (0-1)<br>24' Irvin Cardona (0-2)<br>28' Irvin Cardona (0-3)",
@@ -13184,12 +13184,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "FRA D2",
-    "title": "Rodez AF 2-1 Stade Lavallois",
+    "title": "Rodez AF 3-1 Stade Lavallois",
     "homeTeam": "Rodez AF",
     "awayTeam": "Stade Lavallois",
-    "score": "2-1",
+    "score": "3-1",
     "matchId": "5075926",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -13198,7 +13198,7 @@
       "52' Corentin Issanchou Roubiou (1-0)",
       "68' Ethan Clavreul (1-1)",
       "89' Ibrahima Balde (2-1)",
-      ""
+      "90+4' Octave Joly (3-1)"
     ]
   },
   {
@@ -13212,7 +13212,7 @@
     "awayTeam": "FC Annecy",
     "score": "0-1",
     "matchId": "5075925",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "11' Axel Drouhin (0-1)",
       "",
@@ -13235,7 +13235,7 @@
     "awayTeam": "En Avant Guingamp",
     "score": "2-1",
     "matchId": "5075919",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -13258,7 +13258,7 @@
     "awayTeam": "Deportivo de La Coruna",
     "score": "0-1",
     "matchId": "5156092",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -13281,7 +13281,7 @@
     "awayTeam": "Sao Paulo FC",
     "score": "1-1",
     "matchId": "5006411",
-    "status": "72'",
+    "status": "78'",
     "goals": [
       "",
       "",
@@ -13304,7 +13304,7 @@
     "awayTeam": "ADO Den Haag",
     "score": "2-0",
     "matchId": "5074463",
-    "status": "78'",
+    "status": "84'",
     "goals": [
       "",
       "",
@@ -13327,7 +13327,7 @@
     "awayTeam": "HNK Gorica",
     "score": "2-1",
     "matchId": "5076211",
-    "status": "76'",
+    "status": "82'",
     "goals": [
       "12' Mirko Maric (1-0)",
       "",
@@ -13350,7 +13350,7 @@
     "awayTeam": "Chacarita Juniors",
     "score": "1-0",
     "matchId": "5013741",
-    "status": "74'",
+    "status": "80'",
     "goals": [
       "",
       "17' Lucas Albertengo (1-0)",
@@ -13373,7 +13373,7 @@
     "awayTeam": "Sport Club do Recife",
     "score": "0-1",
     "matchId": "5036252",
-    "status": "74'",
+    "status": "80'",
     "goals": [
       "6' Chrystian Barletta (0-1)",
       "",
@@ -13396,7 +13396,7 @@
     "awayTeam": "FK Radnik Bijeljina",
     "score": "0-0",
     "matchId": "5111574",
-    "status": "80'",
+    "status": "86'",
     "goals": [
       "",
       "",
@@ -13414,12 +13414,12 @@
     "time": "12:02",
     "start_time": "12:02",
     "group": "BOS PL",
-    "title": "NK Siroki Brijeg 1-0 Sloga Doboj",
+    "title": "NK Siroki Brijeg 0-0 Sloga Doboj",
     "homeTeam": "NK Siroki Brijeg",
     "awayTeam": "Sloga Doboj",
-    "score": "1-0",
+    "score": "0-0",
     "matchId": "5111575",
-    "status": "77'",
+    "status": "83'",
     "goals": [
       "",
       "",
@@ -13437,12 +13437,12 @@
     "time": "12:00",
     "start_time": "12:00",
     "group": "BOL D1",
-    "title": "C.D. San Antonio Bulo Bulo 1-0 Nacional Potosi",
+    "title": "C.D. San Antonio Bulo Bulo 2-0 Nacional Potosi",
     "homeTeam": "C.D. San Antonio Bulo Bulo",
     "awayTeam": "Nacional Potosi",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5090728",
-    "status": "75'",
+    "status": "81'",
     "goals": [
       "",
       "",
@@ -13450,7 +13450,7 @@
       "",
       "",
       "",
-      "",
+      "80' Jonathan Perea (2-0)",
       ""
     ]
   },
@@ -13460,12 +13460,12 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "COL D1",
-    "title": "Independiente Santa Fe 1-0 Boyaca Chico",
+    "title": "Independiente Santa Fe 2-0 Boyaca Chico",
     "homeTeam": "Independiente Santa Fe",
     "awayTeam": "Boyaca Chico",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5072391",
-    "status": "74'",
+    "status": "80'",
     "goals": [
       "",
       "",
@@ -13473,7 +13473,7 @@
       "",
       "54' Hugo Rodallega Martinez (1-0)",
       "",
-      "",
+      "76' Juan Sebastian Palma Micolta (2-0)",
       ""
     ]
   },
@@ -13488,7 +13488,7 @@
     "awayTeam": "Everton de Vina del Mar",
     "score": "1-4",
     "matchId": "5021597",
-    "status": "74'",
+    "status": "80'",
     "goals": [
       "",
       "21' Julian Alfaro (0-1)",
@@ -13511,7 +13511,7 @@
     "awayTeam": "Cerro Porteno",
     "score": "1-0",
     "matchId": "5154064",
-    "status": "80'",
+    "status": "86'",
     "goals": [
       "",
       "",
@@ -13534,7 +13534,7 @@
     "awayTeam": "Palmeiras SP Women\\s",
     "score": "0-0",
     "matchId": "5029326",
-    "status": "72'",
+    "status": "78'",
     "goals": [
       "",
       "",
@@ -13557,7 +13557,7 @@
     "awayTeam": "Hammarby Women\\s",
     "score": "1-1",
     "matchId": "5156238",
-    "status": "79'",
+    "status": "85'",
     "goals": [
       "",
       "29' Svea Rehnberg (0-1)",
@@ -13575,12 +13575,12 @@
     "time": "12:02",
     "start_time": "12:02",
     "group": "CHI D4",
-    "title": "Naval Talcahuano 1-2 CDSC Aguara",
+    "title": "Naval Talcahuano 2-2 CDSC Aguara",
     "homeTeam": "Naval Talcahuano",
     "awayTeam": "CDSC Aguara",
-    "score": "1-2",
+    "score": "2-2",
     "matchId": "5158235",
-    "status": "74'",
+    "status": "80'",
     "goals": [
       "10' 0-1",
       "21' 1-1",
@@ -13603,7 +13603,7 @@
     "awayTeam": "San Marcos de Arica",
     "score": "0-1",
     "matchId": "5027382",
-    "status": "74'",
+    "status": "80'",
     "goals": [
       "",
       "",
@@ -13626,13 +13626,13 @@
     "awayTeam": "Atletico Escobar FC",
     "score": "0-1",
     "matchId": "5145182",
-    "status": "77'",
+    "status": "83'",
     "goals": [
       "",
       "",
       "",
       "",
-      "58' 0-1",
+      "58' Dante Ver\u00f3n (0-1)",
       "",
       "",
       ""
@@ -13649,14 +13649,14 @@
     "awayTeam": "El Linqueno",
     "score": "1-1",
     "matchId": "5145187",
-    "status": "74'",
+    "status": "80'",
     "goals": [
       "",
       "30' Valent\u00edn Montenegro (1-0)",
       "",
       "",
       "",
-      "",
+      "74' 1-1",
       "",
       ""
     ]
@@ -13672,14 +13672,14 @@
     "awayTeam": "Sportivo Ameliano Women\\s",
     "score": "4-2",
     "matchId": "5157137",
-    "status": "81'",
+    "status": "87'",
     "goals": [
       "8' Liz Bareiro (1-0)",
       "",
       "34' Ingrid Espinoza (2-0)<br>40' Bel\u00e9n Oviedo (3-0)",
       "",
       "49' Bel\u00e9n Oviedo (4-0)",
-      "71' 4-1",
+      "71' Abigail Musa (4-1)<br>75' Sherlyn Hern\u00e1ndez (4-2)",
       "",
       ""
     ]
@@ -13695,7 +13695,7 @@
     "awayTeam": "GD Vitoria Sernache",
     "score": "4-0",
     "matchId": "5128638",
-    "status": "77'",
+    "status": "83'",
     "goals": [
       "",
       "19' Yacouba Maiga (1-0)<br>26' Rodrigo Matos (2-0)",
@@ -13718,7 +13718,7 @@
     "awayTeam": "Deportes Iquique Women\\s",
     "score": "2-0",
     "matchId": "5044377",
-    "status": "79'",
+    "status": "85'",
     "goals": [
       "",
       "",
@@ -13741,7 +13741,7 @@
     "awayTeam": "Colo Colo Women\\s",
     "score": "0-1",
     "matchId": "5044378",
-    "status": "73'",
+    "status": "79'",
     "goals": [
       "12' Yast\u00edn Jim\u00e9nez (0-1)",
       "",
@@ -13764,14 +13764,14 @@
     "awayTeam": "Empoli FC",
     "score": "1-1",
     "matchId": "5156093",
-    "status": "73'",
+    "status": "79'",
     "goals": [
       "",
       "",
       "",
       "",
       "53' Samuele Regazzetti (0-1)",
-      "",
+      "67' Mattia Aramu (1-1)",
       "",
       ""
     ]
@@ -13787,7 +13787,7 @@
     "awayTeam": "SV 07 Elversberg",
     "score": "1-1",
     "matchId": "5156094",
-    "status": "79'",
+    "status": "85'",
     "goals": [
       "",
       "",
@@ -13833,7 +13833,7 @@
     "awayTeam": "RC Celta de Vigo",
     "score": "1-1",
     "matchId": "5149269",
-    "status": "75'",
+    "status": "81'",
     "goals": [
       "11' Giovanni Di Lorenzo (1-0)",
       "",
@@ -13856,7 +13856,7 @@
     "awayTeam": "Newcastle United F.C.",
     "score": "1-1",
     "matchId": "5149268",
-    "status": "67'",
+    "status": "73'",
     "goals": [
       "5' Filip Ugrinic (1-0)",
       "",
@@ -13879,7 +13879,7 @@
     "awayTeam": "AFC Bournemouth",
     "score": "1-2",
     "matchId": "5156087",
-    "status": "72'",
+    "status": "78'",
     "goals": [
       "",
       "",
@@ -13902,7 +13902,7 @@
     "awayTeam": "Sporting CP",
     "score": "0-1",
     "matchId": "5104540",
-    "status": "48'",
+    "status": "54'",
     "goals": [
       "",
       "",
@@ -13925,7 +13925,7 @@
     "awayTeam": "UD Las Palmas",
     "score": "1-2",
     "matchId": "5149270",
-    "status": "HT",
+    "status": "46'",
     "goals": [
       "4' Urko Izeta (1-0)",
       "26' Taisei Miyashiro (1-1)",
@@ -13948,7 +13948,7 @@
     "awayTeam": "Deportes Rengo",
     "score": "0-0",
     "matchId": "5140962",
-    "status": "HT",
+    "status": "48'",
     "goals": [
       "",
       "",
@@ -13971,7 +13971,7 @@
     "awayTeam": "River Plate",
     "score": "0-0",
     "matchId": "5052524",
-    "status": "36'",
+    "status": "42'",
     "goals": [
       "",
       "",
@@ -13994,7 +13994,7 @@
     "awayTeam": "Carabobo F.C.",
     "score": "0-0",
     "matchId": "5156547",
-    "status": "36'",
+    "status": "42'",
     "goals": [
       "",
       "",
@@ -14017,7 +14017,7 @@
     "awayTeam": "Santa Cruz (PE)",
     "score": "1-0",
     "matchId": "5045968",
-    "status": "33'",
+    "status": "39'",
     "goals": [
       "",
       "16' Dudu (1-0)",
@@ -14040,7 +14040,7 @@
     "awayTeam": "Ferroviaria SP",
     "score": "0-1",
     "matchId": "5045972",
-    "status": "36'",
+    "status": "42'",
     "goals": [
       "",
       "20' F\u00e1bio Fau (0-1)",
@@ -14058,15 +14058,15 @@
     "time": "13:01",
     "start_time": "13:01",
     "group": "BRA CP",
-    "title": "Primavera SP 0-1 Juventus-SP",
+    "title": "Primavera SP 0-2 Juventus-SP",
     "homeTeam": "Primavera SP",
     "awayTeam": "Juventus-SP",
-    "score": "0-1",
+    "score": "0-2",
     "matchId": "5077056",
-    "status": "35'",
+    "status": "41'",
     "goals": [
       "",
-      "30' 0-1",
+      "30' Felipe Augusto (0-1)",
       "",
       "",
       "",
@@ -14081,16 +14081,16 @@
     "time": "13:00",
     "start_time": "13:00",
     "group": "BRA CP",
-    "title": "Uniao Sao Joao EC 0-0 Comercial SP",
+    "title": "Uniao Sao Joao EC 1-0 Comercial SP",
     "homeTeam": "Uniao Sao Joao EC",
     "awayTeam": "Comercial SP",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5077058",
-    "status": "36'",
+    "status": "42'",
     "goals": [
       "",
       "",
-      "",
+      "38' 1-0",
       "",
       "",
       "",
@@ -14109,11 +14109,11 @@
     "awayTeam": "South Africa Women\\s",
     "score": "1-0",
     "matchId": "5155152",
-    "status": "36'",
+    "status": "42'",
     "goals": [
       "",
       "",
-      "31' 1-0",
+      "31' S. Ouzraoui Diki (1-0)",
       "",
       "",
       "",
@@ -14132,7 +14132,7 @@
     "awayTeam": "Independiente Del Valle Women\\s",
     "score": "0-0",
     "matchId": "5157265",
-    "status": "37'",
+    "status": "43'",
     "goals": [
       "",
       "",
@@ -14155,7 +14155,7 @@
     "awayTeam": "AD Cariari Pococi",
     "score": "0-1",
     "matchId": "5141059",
-    "status": "32'",
+    "status": "38'",
     "goals": [
       "7' 0-1",
       "",
@@ -14178,7 +14178,7 @@
     "awayTeam": "Los Angeles FC II",
     "score": "0-0",
     "matchId": "5029819",
-    "status": "33'",
+    "status": "39'",
     "goals": [
       "",
       "",
@@ -14201,7 +14201,7 @@
     "awayTeam": "Real Frontera",
     "score": "0-0",
     "matchId": "5156271",
-    "status": "36'",
+    "status": "42'",
     "goals": [
       "",
       "",
@@ -14224,7 +14224,7 @@
     "awayTeam": "SE Gama (DF)",
     "score": "0-0",
     "matchId": "5142805",
-    "status": "34'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -14247,7 +14247,7 @@
     "awayTeam": "Centro Sportivo Alagoano",
     "score": "0-0",
     "matchId": "5142809",
-    "status": "32'",
+    "status": "38'",
     "goals": [
       "",
       "",
@@ -14270,7 +14270,7 @@
     "awayTeam": "FC Barcelona",
     "score": "0-0",
     "matchId": "5156095",
-    "status": "21'",
+    "status": "27'",
     "goals": [
       "",
       "",
@@ -14293,7 +14293,7 @@
     "awayTeam": "Concon National",
     "score": "1-0",
     "matchId": "5140966",
-    "status": "34'",
+    "status": "40'",
     "goals": [
       "",
       "23' 1-0",
@@ -14311,15 +14311,15 @@
     "time": "13:01",
     "start_time": "13:01",
     "group": "CHI D3",
-    "title": "Lota Schwager 2-1 General VelAsquez",
+    "title": "Lota Schwager 2-2 General VelAsquez",
     "homeTeam": "Lota Schwager",
     "awayTeam": "General VelAsquez",
-    "score": "2-1",
+    "score": "2-2",
     "matchId": "5152156",
-    "status": "35'",
+    "status": "41'",
     "goals": [
-      "1' 1-0<br>4' Lucas Quiroga (2-0)",
-      "24' 2-1",
+      "1' Diego Bravo (1-0)<br>4' Lucas Quiroga (2-0)",
+      "24' Juan Abarca (2-1)",
       "",
       "",
       "",
@@ -14339,7 +14339,30 @@
     "awayTeam": "Deportivo Llacuabamba",
     "score": "0-0",
     "matchId": "5130791",
-    "status": "18'",
+    "status": "24'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "13:40",
+    "start_time": "13:40",
+    "group": "USA MLS",
+    "title": "New England Revolution 0-0 Houston Dynamo",
+    "homeTeam": "New England Revolution",
+    "awayTeam": "Houston Dynamo",
+    "score": "0-0",
+    "matchId": "5003176",
+    "status": "2'",
     "goals": [
       "",
       "",
@@ -14362,7 +14385,7 @@
     "awayTeam": "Atletico Grau",
     "score": "0-0",
     "matchId": "5072018",
-    "status": "6'",
+    "status": "12'",
     "goals": [
       "",
       "",
@@ -14380,14 +14403,14 @@
     "time": "13:30",
     "start_time": "13:30",
     "group": "COL WL",
-    "title": "Llaneros Women\\s 0-0 Atletico Nacional Women\\s",
+    "title": "Llaneros Women\\s 0-1 Atletico Nacional Women\\s",
     "homeTeam": "Llaneros Women\\s",
     "awayTeam": "Atletico Nacional Women\\s",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5043179",
-    "status": "6'",
+    "status": "12'",
     "goals": [
-      "",
+      "8' 0-1",
       "",
       "",
       "",
@@ -14408,7 +14431,7 @@
     "awayTeam": "Vinotinto FC",
     "score": "0-2",
     "matchId": "5044183",
-    "status": "78'",
+    "status": "84'",
     "goals": [
       "",
       "",
@@ -14416,52 +14439,6 @@
       "",
       "",
       "62' 0-2",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "POL CLJ",
-    "title": "Gornik Zabrze Youth 0-0 Stal Rzeszow Youth",
-    "homeTeam": "Gornik Zabrze Youth",
-    "awayTeam": "Stal Rzeszow Youth",
-    "score": "0-0",
-    "matchId": "5134264",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "CHA D1",
-    "title": "Dingnan United 2-1 Dalian Kuncheng",
-    "homeTeam": "Dingnan United",
-    "awayTeam": "Dalian Kuncheng",
-    "score": "2-1",
-    "matchId": "5047564",
-    "status": "ET",
-    "goals": [
-      "14' Daciel dos Santos (1-0)",
-      "16' Daciel dos Santos (2-0)",
-      "",
-      "",
-      "",
-      "68' Cyrille Bayala (2-1)",
       "",
       ""
     ]
@@ -14540,29 +14517,6 @@
     "day": "Saturday",
     "time": "05:00",
     "start_time": "05:00",
-    "group": "GER RegN",
-    "title": "SC Weiche Flensburg 08 5-2 Eimsbutteler TV",
-    "homeTeam": "SC Weiche Flensburg 08",
-    "awayTeam": "Eimsbutteler TV",
-    "score": "5-2",
-    "matchId": "5112275",
-    "status": "ET",
-    "goals": [
-      "14' Rasmus Tobinski (1-0)",
-      "19' Rasmus Tobinski (2-0)",
-      "36' T Hense (2-1)<br>40' K. Ntika (3-1)",
-      "",
-      "58' T.Marten (4-1)",
-      "",
-      "78' Rasmus Tobinski (5-1)<br>81' 5-2",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "05:00",
-    "start_time": "05:00",
     "group": "GER D3",
     "title": "MSV Duisburg 3-0 SV Meppen",
     "homeTeam": "MSV Duisburg",
@@ -14601,29 +14555,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "GER D3",
-    "title": "Havelse 2-3 VfB Stuttgart II",
-    "homeTeam": "Havelse",
-    "awayTeam": "VfB Stuttgart II",
-    "score": "2-3",
-    "matchId": "5112963",
-    "status": "ET",
-    "goals": [
-      "1' Niklas Tauer (1-0)",
-      "",
-      "42' Alexander Groiss (1-1)",
-      "",
-      "49' Jesse Edem Tugbenyo (2-1)",
-      "70' Tim Van Der Leij (2-2)",
-      "78' Jarzinho Malanga (2-3)",
       ""
     ]
   },
@@ -14678,6 +14609,29 @@
     "day": "Saturday",
     "time": "05:00",
     "start_time": "05:00",
+    "group": "POL CLJ",
+    "title": "Gornik Zabrze Youth 0-0 Stal Rzeszow Youth",
+    "homeTeam": "Gornik Zabrze Youth",
+    "awayTeam": "Stal Rzeszow Youth",
+    "score": "0-0",
+    "matchId": "5134264",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "05:00",
+    "start_time": "05:00",
     "group": "GER RegNO",
     "title": "FSV Luckenwalde 2-3 SV Tasmania Berlin",
     "homeTeam": "FSV Luckenwalde",
@@ -14724,6 +14678,52 @@
     "day": "Saturday",
     "time": "05:00",
     "start_time": "05:00",
+    "group": "GER RegN",
+    "title": "SC Weiche Flensburg 08 5-2 Eimsbutteler TV",
+    "homeTeam": "SC Weiche Flensburg 08",
+    "awayTeam": "Eimsbutteler TV",
+    "score": "5-2",
+    "matchId": "5112275",
+    "status": "ET",
+    "goals": [
+      "14' Rasmus Tobinski (1-0)",
+      "19' Rasmus Tobinski (2-0)",
+      "36' T Hense (2-1)<br>40' K. Ntika (3-1)",
+      "",
+      "58' T.Marten (4-1)",
+      "",
+      "78' Rasmus Tobinski (5-1)<br>81' 5-2",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "GER RegS",
+    "title": "FSV Frankfurt 2-2 VfR Mannheim",
+    "homeTeam": "FSV Frankfurt",
+    "awayTeam": "VfR Mannheim",
+    "score": "2-2",
+    "matchId": "5119478",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "54' Filip Pandza (1-0)<br>60' Filip Pandza (2-0)",
+      "61' Nolhan Kanetchi Assafoua (2-1)",
+      "",
+      "90+6' Robin Becker (2-2)"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "05:00",
+    "start_time": "05:00",
     "group": "GER RegS",
     "title": "Eintracht Trier 0-1 SG Barockstadt Fulda Lehnerz",
     "homeTeam": "Eintracht Trier",
@@ -14763,29 +14763,6 @@
       "74' B. \u00c7elik (2-1)",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "GER RegS",
-    "title": "FSV Frankfurt 2-2 VfR Mannheim",
-    "homeTeam": "FSV Frankfurt",
-    "awayTeam": "VfR Mannheim",
-    "score": "2-2",
-    "matchId": "5119478",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "54' Filip Pandza (1-0)<br>60' Filip Pandza (2-0)",
-      "61' Nolhan Kanetchi Assafoua (2-1)",
-      "",
-      "90+6' Robin Becker (2-2)"
     ]
   },
   {
@@ -14855,6 +14832,52 @@
       "63' Iosif Maroudis (1-1)",
       "",
       "90' 2-1"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "GER RegS",
+    "title": "SV Sandhausen 2-2 TSV Steinbach Haiger",
+    "homeTeam": "SV Sandhausen",
+    "awayTeam": "TSV Steinbach Haiger",
+    "score": "2-2",
+    "matchId": "5119482",
+    "status": "ET",
+    "goals": [
+      "15' Till Hausotter (0-1)",
+      "20' Arianit Ferati (1-1)",
+      "",
+      "",
+      "",
+      "69' Jakob Pfahl (1-2)",
+      "",
+      "90+5' Stefan Maderer (2-2)"
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "GER D3",
+    "title": "Havelse 2-3 VfB Stuttgart II",
+    "homeTeam": "Havelse",
+    "awayTeam": "VfB Stuttgart II",
+    "score": "2-3",
+    "matchId": "5112963",
+    "status": "ET",
+    "goals": [
+      "1' Niklas Tauer (1-0)",
+      "",
+      "42' Alexander Groiss (1-1)",
+      "",
+      "49' Jesse Edem Tugbenyo (2-1)",
+      "70' Tim Van Der Leij (2-2)",
+      "78' Jarzinho Malanga (2-3)",
+      ""
     ]
   },
   {

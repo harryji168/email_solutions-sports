@@ -33,7 +33,7 @@
     "awayTeam": "Atletico Grau",
     "score": "0-0",
     "matchId": "5072018",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -74,19 +74,19 @@
     "time": "14:00",
     "start_time": "14:00",
     "group": "HON D1",
-    "title": "Platense 1-2 Marathon",
+    "title": "Platense 1-1 Marathon",
     "homeTeam": "Platense",
     "awayTeam": "Marathon",
-    "score": "1-2",
+    "score": "1-1",
     "matchId": "5125546",
-    "status": "69'",
+    "status": "73'",
     "goals": [
       "",
       "",
       "44' Nicolas Ariel Messiniti (0-1)",
       "45+1' Cristian Daniel Gutierrez Zuniga (1-1)",
       "",
-      "69' 1-2",
+      "",
       "",
       ""
     ]
@@ -102,13 +102,13 @@
     "awayTeam": "CSD Comunicaciones",
     "score": "3-1",
     "matchId": "5083695",
-    "status": "67'",
+    "status": "71'",
     "goals": [
       "6' William Omar Duarte Figueroa (1-0)",
       "",
       "36' Del Cid H. (2-0)",
       "45+1' Daniel Bajan (3-0)",
-      "56' 3-1",
+      "55' Anderson Edgar Josue Ortiz Falla (3-1)",
       "",
       "",
       ""
@@ -125,7 +125,7 @@
     "awayTeam": "Inter Toronto",
     "score": "1-0",
     "matchId": "5033203",
-    "status": "56'",
+    "status": "60'",
     "goals": [
       "",
       "",
@@ -148,7 +148,7 @@
     "awayTeam": "Inca Aruba",
     "score": "1-0",
     "matchId": "5135807",
-    "status": "66'",
+    "status": "70'",
     "goals": [
       "",
       "29' Franklin Mart\u00ednez (1-0)",
@@ -171,14 +171,14 @@
     "awayTeam": "Cerro Porteno Women\\s",
     "score": "0-2",
     "matchId": "5157142",
-    "status": "72'",
+    "status": "76'",
     "goals": [
       "10' Daniela Gonz\u00e1lez (0-1)",
       "",
       "",
       "",
       "",
-      "68' 0-2",
+      "68' Rosa Aquino (0-2)",
       "",
       ""
     ]
@@ -194,7 +194,7 @@
     "awayTeam": "Champs Academy",
     "score": "1-0",
     "matchId": "5156907",
-    "status": "69'",
+    "status": "73'",
     "goals": [
       "",
       "",
@@ -217,7 +217,7 @@
     "awayTeam": "Club Independiente Petrolero",
     "score": "1-0",
     "matchId": "5090729",
-    "status": "56'",
+    "status": "60'",
     "goals": [
       "",
       "24' Jaime Dario Arrascaita Iriondo (1-0)",
@@ -240,7 +240,7 @@
     "awayTeam": "Cucuta",
     "score": "1-0",
     "matchId": "5072383",
-    "status": "53'",
+    "status": "57'",
     "goals": [
       "",
       "",
@@ -263,7 +263,7 @@
     "awayTeam": "Atletico Mineiro (MG)",
     "score": "1-2",
     "matchId": "5006413",
-    "status": "HT",
+    "status": "46'",
     "goals": [
       "3' Jandir Breno Souza Silva,Jaja (1-0)",
       "",
@@ -424,7 +424,7 @@
     "awayTeam": "EC Santo Andre",
     "score": "0-0",
     "matchId": "5077059",
-    "status": "31'",
+    "status": "35'",
     "goals": [
       "",
       "",
@@ -447,10 +447,10 @@
     "awayTeam": "New York Red Bulls B",
     "score": "0-2",
     "matchId": "5029820",
-    "status": "28'",
+    "status": "32'",
     "goals": [
       "6' Sean Baitinger (0-1)",
-      "24' 0-2",
+      "24' Sean Baitinger (0-2)",
       "",
       "",
       "",
@@ -470,7 +470,7 @@
     "awayTeam": "Sport Sebaco",
     "score": "0-0",
     "matchId": "5118986",
-    "status": "29'",
+    "status": "33'",
     "goals": [
       "",
       "",
@@ -493,7 +493,7 @@
     "awayTeam": "Cruz Azul Women\\s",
     "score": "2-0",
     "matchId": "5141592",
-    "status": "30'",
+    "status": "34'",
     "goals": [
       "4' Gabriela Garc\u00eda (1-0)<br>12' Scarlett Camberos (2-0)",
       "",
@@ -516,7 +516,7 @@
     "awayTeam": "Velez Sarsfield",
     "score": "0-1",
     "matchId": "5052514",
-    "status": "16'",
+    "status": "20'",
     "goals": [
       "12' Diego Alfonso Valdes Contreras (0-1)",
       "",
@@ -539,7 +539,7 @@
     "awayTeam": "Volta Redonda",
     "score": "0-0",
     "matchId": "5045973",
-    "status": "1'",
+    "status": "5'",
     "goals": [
       "",
       "",
@@ -562,7 +562,7 @@
     "awayTeam": "Barra SC",
     "score": "0-0",
     "matchId": "5045977",
-    "status": "1'",
+    "status": "5'",
     "goals": [
       "",
       "",
@@ -585,9 +585,32 @@
     "awayTeam": "Defensores Belgrano Villa Ramallo",
     "score": "0-0",
     "matchId": "5145183",
-    "status": "1'",
+    "status": "5'",
     "goals": [
       "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "15:32",
+    "start_time": "15:32",
+    "group": "USA NWSL",
+    "title": "Washington Spirit Women\\s 0-1 North Carolina Courage Women\\s",
+    "homeTeam": "Washington Spirit Women\\s",
+    "awayTeam": "North Carolina Courage Women\\s",
+    "score": "0-1",
+    "matchId": "5024415",
+    "status": "3'",
+    "goals": [
+      "3' 0-1",
       "",
       "",
       "",

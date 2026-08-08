@@ -5,16 +5,16 @@
     "time": "16:03",
     "start_time": "16:03",
     "group": "USA MLSRv",
-    "title": "Inter Miami CF B 0-0 Crown Legacy FC",
+    "title": "Inter Miami CF B 0-1 Crown Legacy FC",
     "homeTeam": "Inter Miami CF B",
     "awayTeam": "Crown Legacy FC",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5029824",
-    "status": "41'",
+    "status": "HT",
     "goals": [
       "",
       "",
-      "",
+      "44' Andrej Suboti\u0107 (0-1)",
       "",
       "",
       "",
@@ -33,7 +33,7 @@
     "awayTeam": "Racing Louisville Women\\s",
     "score": "0-1",
     "matchId": "5024416",
-    "status": "36'",
+    "status": "HT",
     "goals": [
       "",
       "16' Audrey McKeen (0-1)",
@@ -71,52 +71,6 @@
   {
     "date": "2026-08-07",
     "day": "Friday",
-    "time": "16:10",
-    "start_time": "16:10",
-    "group": "CAN CPL",
-    "title": "Forge FC 0-0 Vancouver FC",
-    "homeTeam": "Forge FC",
-    "awayTeam": "Vancouver FC",
-    "score": "0-0",
-    "matchId": "5033199",
-    "status": "34'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "day": "Friday",
-    "time": "16:13",
-    "start_time": "16:13",
-    "group": "ARG D2",
-    "title": "Ferrocarril Midland 1-0 Deportivo Maipu",
-    "homeTeam": "Ferrocarril Midland",
-    "awayTeam": "Deportivo Maipu",
-    "score": "1-0",
-    "matchId": "5013751",
-    "status": "31'",
-    "goals": [
-      "7' David Bulacio (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "day": "Friday",
     "time": "15:34",
     "start_time": "15:34",
     "group": "ARG D2M1",
@@ -125,7 +79,7 @@
     "awayTeam": "Deportivo Camioneros",
     "score": "0-0",
     "matchId": "5014640",
-    "status": "53'",
+    "status": "68'",
     "goals": [
       "",
       "",
@@ -148,7 +102,7 @@
     "awayTeam": "Sao Bernardo FC",
     "score": "0-1",
     "matchId": "5036251",
-    "status": "51'",
+    "status": "66'",
     "goals": [
       "",
       "30' Pedro Gabriel Pereira Lopes,Pedrinho (0-1)",
@@ -171,7 +125,7 @@
     "awayTeam": "Atlas",
     "score": "0-0",
     "matchId": "5050007",
-    "status": "4'",
+    "status": "19'",
     "goals": [
       "",
       "",
@@ -189,12 +143,35 @@
     "time": "16:31",
     "start_time": "16:31",
     "group": "BOL D1",
-    "title": "Real Tomayapo 0-0 Real Oruro",
+    "title": "Real Tomayapo 0-1 Real Oruro",
     "homeTeam": "Real Tomayapo",
     "awayTeam": "Real Oruro",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5090727",
-    "status": "13'",
+    "status": "28'",
+    "goals": [
+      "13' Santos Garcia (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "day": "Friday",
+    "time": "16:48",
+    "start_time": "16:48",
+    "group": "ARG D3FA",
+    "title": "Sportivo Belgrano 0-0 9 de Julio Rafaela",
+    "homeTeam": "Sportivo Belgrano",
+    "awayTeam": "9 de Julio Rafaela",
+    "score": "0-0",
+    "matchId": "5145185",
+    "status": "11'",
     "goals": [
       "",
       "",
@@ -217,30 +194,7 @@
     "awayTeam": "Ponte Preta",
     "score": "0-0",
     "matchId": "5036246",
-    "status": "14'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-07",
-    "day": "Friday",
-    "time": "15:36",
-    "start_time": "15:36",
-    "group": "ARG D1",
-    "title": "Rosario Central 0-0 Club Atletico Aldosivi",
-    "homeTeam": "Rosario Central",
-    "awayTeam": "Club Atletico Aldosivi",
-    "score": "0-0",
-    "matchId": "5052521",
-    "status": "48'",
+    "status": "29'",
     "goals": [
       "",
       "",
@@ -263,7 +217,7 @@
     "awayTeam": "C.F. Pachuca",
     "score": "0-0",
     "matchId": "5050008",
-    "status": "4'",
+    "status": "19'",
     "goals": [
       "",
       "",
@@ -271,6 +225,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "day": "Friday",
+    "time": "15:36",
+    "start_time": "15:36",
+    "group": "ARG D1",
+    "title": "Rosario Central 1-1 Club Atletico Aldosivi",
+    "homeTeam": "Rosario Central",
+    "awayTeam": "Club Atletico Aldosivi",
+    "score": "1-1",
+    "matchId": "5052521",
+    "status": "63'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "52' Alan Sosa (0-1)",
+      "61' Nicolas Zalazar (1-1)",
       "",
       ""
     ]
@@ -286,7 +263,7 @@
     "awayTeam": "Deportivo Santani",
     "score": "2-4",
     "matchId": "5154583",
-    "status": "86'",
+    "status": "ET",
     "goals": [
       "8' William Casanova (0-1)<br>14' Brahian Mart\u00ednez (0-2)",
       "18' Thyago Meza (0-3)",
@@ -301,6 +278,29 @@
   {
     "date": "2026-08-07",
     "day": "Friday",
+    "time": "16:13",
+    "start_time": "16:13",
+    "group": "ARG D2",
+    "title": "Ferrocarril Midland 1-0 Deportivo Maipu",
+    "homeTeam": "Ferrocarril Midland",
+    "awayTeam": "Deportivo Maipu",
+    "score": "1-0",
+    "matchId": "5013751",
+    "status": "45+'",
+    "goals": [
+      "7' David Bulacio (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "day": "Friday",
     "time": "15:02",
     "start_time": "15:02",
     "group": "ARG D2M1",
@@ -309,7 +309,7 @@
     "awayTeam": "Villa San Carlos",
     "score": "0-1",
     "matchId": "5014627",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -332,7 +332,7 @@
     "awayTeam": "CD Antofagasta",
     "score": "0-3",
     "matchId": "5027384",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -340,7 +340,7 @@
       "45+3' Adri\u00e1n Cuadra (0-1)",
       "",
       "",
-      "76' Jos\u00e9 Bandez (0-2)<br>80' 0-3",
+      "76' Jos\u00e9 Bandez (0-2)<br>80' Sebasti\u00e1n Leyton (0-3)",
       ""
     ]
   },
@@ -355,7 +355,7 @@
     "awayTeam": "Palmeiras Youth",
     "score": "0-1",
     "matchId": "5069497",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -378,7 +378,7 @@
     "awayTeam": "CA Juventud de Las Piedras",
     "score": "1-1",
     "matchId": "5155757",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "8' Axel Pandiani (1-0)",
       "",
@@ -387,6 +387,29 @@
       "",
       "",
       "76' Gaston Rodrigo Pereiro Lopez (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-07",
+    "day": "Friday",
+    "time": "16:10",
+    "start_time": "16:10",
+    "group": "CAN CPL",
+    "title": "Forge FC 0-1 Vancouver FC",
+    "homeTeam": "Forge FC",
+    "awayTeam": "Vancouver FC",
+    "score": "0-1",
+    "matchId": "5033199",
+    "status": "45+'",
+    "goals": [
+      "",
+      "",
+      "",
+      "45' 0-1",
+      "",
+      "",
+      "",
       ""
     ]
   },

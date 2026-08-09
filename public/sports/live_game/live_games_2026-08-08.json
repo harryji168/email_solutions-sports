@@ -10,7 +10,7 @@
     "awayTeam": "FC Dallas",
     "score": "0-1",
     "matchId": "5050012",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -28,12 +28,12 @@
     "time": "18:06",
     "start_time": "18:06",
     "group": "MEX WD1",
-    "title": "Necaxa Women\\s 1-1 Pumas UNAM Women\\s",
+    "title": "Necaxa Women\\s 1-2 Pumas UNAM Women\\s",
     "homeTeam": "Necaxa Women\\s",
     "awayTeam": "Pumas UNAM Women\\s",
-    "score": "1-1",
+    "score": "1-2",
     "matchId": "5141596",
-    "status": "86'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -42,30 +42,7 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "USA MLSRv",
-    "title": "Colorado Rapids B 0-0 Saint Louis City B",
-    "homeTeam": "Colorado Rapids B",
-    "awayTeam": "Saint Louis City B",
-    "score": "0-0",
-    "matchId": "5029826",
-    "status": "90'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "90' Emily Gielnik (1-2)"
     ]
   },
   {
@@ -97,12 +74,12 @@
     "time": "18:00",
     "start_time": "18:00",
     "group": "MEX D2",
-    "title": "Atletico Morelia 3-1 Cancun F.C.",
+    "title": "Atletico Morelia 4-1 Cancun F.C.",
     "homeTeam": "Atletico Morelia",
     "awayTeam": "Cancun F.C.",
-    "score": "3-1",
+    "score": "4-1",
     "matchId": "5108945",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "3' Christopher Trejo (0-1)",
       "",
@@ -110,8 +87,8 @@
       "45+6' V\u00edctor L\u00f3pez (1-1)",
       "56' Rub\u00e9n del Campo (2-1)",
       "",
-      "",
-      ""
+      "87' Rub\u00e9n del Campo (3-1)",
+      "90+4' 4-1"
     ]
   },
   {
@@ -171,7 +148,7 @@
     "awayTeam": "CD Cruz Azul Hidalgo",
     "score": "3-0",
     "matchId": "5108949",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "4' Jes\u00fas Ocejo (1-0)",
       "26' Daniel L\u00f3pez (2-0)",
@@ -194,7 +171,7 @@
     "awayTeam": "C.D. Guastatoya",
     "score": "2-0",
     "matchId": "5083694",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -217,7 +194,7 @@
     "awayTeam": "Alianza Lima",
     "score": "1-1",
     "matchId": "5072020",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "28' Jostin Alarcon (1-0)",
@@ -225,6 +202,29 @@
       "",
       "",
       "65' Federico Girotti (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "15:45",
+    "start_time": "15:45",
+    "group": "MEX U21",
+    "title": "Club Tijuana(U21) 1-0 Club Leon (U21)",
+    "homeTeam": "Club Tijuana(U21)",
+    "awayTeam": "Club Leon (U21)",
+    "score": "1-0",
+    "matchId": "5124540",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -286,7 +286,7 @@
     "awayTeam": "Oakland Roots",
     "score": "1-0",
     "matchId": "5006819",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "9' Rubio Yovani Mendez Rubin (1-0)",
       "",
@@ -439,29 +439,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "15:15",
-    "start_time": "15:15",
-    "group": "ARG D1",
-    "title": "Boca Juniors 1-1 Velez Sarsfield",
-    "homeTeam": "Boca Juniors",
-    "awayTeam": "Velez Sarsfield",
-    "score": "1-1",
-    "matchId": "5052514",
-    "status": "ET",
-    "goals": [
-      "12' Diego Alfonso Valdes Contreras (0-1)",
-      "",
-      "39' Santiago Ascacibar (1-1)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "18:25",
     "start_time": "18:25",
     "group": "USA MLSRv",
@@ -554,29 +531,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "14:31",
-    "start_time": "14:31",
-    "group": "BRA D2",
-    "title": "Botafogo Futebol Clube (SP) 2-1 America MG",
-    "homeTeam": "Botafogo Futebol Clube (SP)",
-    "awayTeam": "America MG",
-    "score": "2-1",
-    "matchId": "5036245",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "55' Fernando Elizari (0-1)",
-      "61' Hebert Willian Badaro Oliveira (1-1)<br>70' Filipe Dahora (2-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "NCA D1",
@@ -616,6 +570,29 @@
       "",
       "49' Luke Hille (1-0)",
       "63' Zachary Bohane (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "15:15",
+    "start_time": "15:15",
+    "group": "ARG D1",
+    "title": "Boca Juniors 1-1 Velez Sarsfield",
+    "homeTeam": "Boca Juniors",
+    "awayTeam": "Velez Sarsfield",
+    "score": "1-1",
+    "matchId": "5052514",
+    "status": "ET",
+    "goals": [
+      "12' Diego Alfonso Valdes Contreras (0-1)",
+      "",
+      "39' Santiago Ascacibar (1-1)",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -669,29 +646,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "15:01",
-    "start_time": "15:01",
-    "group": "MEX WD1",
-    "title": "Club America Women\\s 10-0 Cruz Azul Women\\s",
-    "homeTeam": "Club America Women\\s",
-    "awayTeam": "Cruz Azul Women\\s",
-    "score": "10-0",
-    "matchId": "5141592",
-    "status": "ET",
-    "goals": [
-      "4' Gabriela Garc\u00eda (1-0)<br>12' Scarlett Camberos (2-0)",
-      "",
-      "38' Geyse (3-0)",
-      "45+1' Kimberly Rodr\u00edguez (4-0)",
-      "48' Montserrat Saldivar (5-0)<br>51' Montserrat Saldivar (6-0)",
-      "62' Geyse (7-0)<br>75' Priscila (8-0)",
-      "79' Irene Guerrero (9-0)<br>81' Priscila (10-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "18:08",
     "start_time": "18:08",
     "group": "USLC",
@@ -709,6 +663,29 @@
       "",
       "",
       "78' Cristian Agustin Parano Rasguido (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "MEX WD1",
+    "title": "Club America Women\\s 10-0 Cruz Azul Women\\s",
+    "homeTeam": "Club America Women\\s",
+    "awayTeam": "Cruz Azul Women\\s",
+    "score": "10-0",
+    "matchId": "5141592",
+    "status": "ET",
+    "goals": [
+      "4' Gabriela Garc\u00eda (1-0)<br>12' Scarlett Camberos (2-0)",
+      "",
+      "38' Geyse (3-0)",
+      "45+1' Kimberly Rodr\u00edguez (4-0)",
+      "48' Montserrat Saldivar (5-0)<br>51' Montserrat Saldivar (6-0)",
+      "62' Geyse (7-0)<br>75' Priscila (8-0)",
+      "79' Irene Guerrero (9-0)<br>81' Priscila (10-0)",
       ""
     ]
   },
@@ -784,6 +761,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "16:45",
+    "start_time": "16:45",
+    "group": "PAR RL",
+    "title": "2 de Mayo Reserve 0-2 Olimpia Asuncion Reserve",
+    "homeTeam": "2 de Mayo Reserve",
+    "awayTeam": "Olimpia Asuncion Reserve",
+    "score": "0-2",
+    "matchId": "5158140",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "14:33",
     "start_time": "14:33",
     "group": "CHI D1",
@@ -847,6 +847,29 @@
       "53' Eli Conway (1-0)",
       "",
       "84' Reid Valentine (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "ECU D1",
+    "title": "Sociedad Deportiva Aucas 3-0 Leones del Norte",
+    "homeTeam": "Sociedad Deportiva Aucas",
+    "awayTeam": "Leones del Norte",
+    "score": "3-0",
+    "matchId": "5035287",
+    "status": "ET",
+    "goals": [
+      "",
+      "24' Eduar Ayrton Preciado Garcia (1-0)",
+      "31' Romario Bolanos (2-0)",
+      "",
+      "48' Romario Bolanos (3-0)",
+      "",
+      "",
       ""
     ]
   },
@@ -1037,29 +1060,6 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "14:01",
-    "start_time": "14:01",
-    "group": "CAN CPL",
-    "title": "Pacific FC 1-1 Inter Toronto",
-    "homeTeam": "Pacific FC",
-    "awayTeam": "Inter Toronto",
-    "score": "1-1",
-    "matchId": "5033203",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "44' Y. Toualy (1-0)",
-      "",
-      "",
-      "62' L. Singh (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
     "time": "16:15",
     "start_time": "16:15",
     "group": "PAN D1",
@@ -1145,6 +1145,29 @@
       "",
       "",
       "66' Samantha Calvillo (1-2)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "14:01",
+    "start_time": "14:01",
+    "group": "CAN CPL",
+    "title": "Pacific FC 1-1 Inter Toronto",
+    "homeTeam": "Pacific FC",
+    "awayTeam": "Inter Toronto",
+    "score": "1-1",
+    "matchId": "5033203",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "44' Y. Toualy (1-0)",
+      "",
+      "",
+      "62' L. Singh (1-1)",
       "",
       ""
     ]
@@ -1267,6 +1290,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "20:06",
+    "start_time": "20:06",
+    "group": "USL L1",
+    "title": "AV Alta 0-0 Fort Wayne",
+    "homeTeam": "AV Alta",
+    "awayTeam": "Fort Wayne",
+    "score": "0-0",
+    "matchId": "5007454",
+    "status": "3'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "16:05",
     "start_time": "16:05",
     "group": "SLV D1",
@@ -1290,6 +1336,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "20:06",
+    "start_time": "20:06",
+    "group": "FIJ D1",
+    "title": "Suva FA 0-0 Nasinu FC",
+    "homeTeam": "Suva FA",
+    "awayTeam": "Nasinu FC",
+    "score": "0-0",
+    "matchId": "5037508",
+    "status": "3'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "16:01",
     "start_time": "16:01",
     "group": "ARG D2M1",
@@ -1307,6 +1376,29 @@
       "",
       "",
       "79' M\u00e1ximo Guzm\u00e1n (0-4)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "20:01",
+    "start_time": "20:01",
+    "group": "FIJ D1",
+    "title": "Nadi FC 0-0 Nadroga FC",
+    "homeTeam": "Nadi FC",
+    "awayTeam": "Nadroga FC",
+    "score": "0-0",
+    "matchId": "5037506",
+    "status": "8'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -1359,21 +1451,21 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "ECU D1",
-    "title": "Sociedad Deportiva Aucas 3-0 Leones del Norte",
-    "homeTeam": "Sociedad Deportiva Aucas",
-    "awayTeam": "Leones del Norte",
-    "score": "3-0",
-    "matchId": "5035287",
-    "status": "ET",
+    "time": "20:01",
+    "start_time": "20:01",
+    "group": "FIJ D1",
+    "title": "Ba FC 0-0 Tailevu Naitasiri",
+    "homeTeam": "Ba FC",
+    "awayTeam": "Tailevu Naitasiri",
+    "score": "0-0",
+    "matchId": "5037505",
+    "status": "8'",
     "goals": [
       "",
-      "24' Eduar Ayrton Preciado Garcia (1-0)",
-      "31' Romario Bolanos (2-0)",
       "",
-      "48' Romario Bolanos (3-0)",
+      "",
+      "",
+      "",
       "",
       "",
       ""
@@ -1428,6 +1520,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "20:01",
+    "start_time": "20:01",
+    "group": "NZNL",
+    "title": "Auckland FC B 0-0 East Coast Bays",
+    "homeTeam": "Auckland FC B",
+    "awayTeam": "East Coast Bays",
+    "score": "0-0",
+    "matchId": "5053827",
+    "status": "8'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "16:06",
     "start_time": "16:06",
     "group": "USLC",
@@ -1474,6 +1589,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "20:07",
+    "start_time": "20:07",
+    "group": "AUS NNSW",
+    "title": "Broadmeadow Magic 0-0 Kahibah",
+    "homeTeam": "Broadmeadow Magic",
+    "awayTeam": "Kahibah",
+    "score": "0-0",
+    "matchId": "5003129",
+    "status": "2'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "16:06",
     "start_time": "16:06",
     "group": "USLC",
@@ -1505,7 +1643,7 @@
     "awayTeam": "Canberra White Eagles(U23)",
     "score": "0-0",
     "matchId": "5158308",
-    "status": "21'",
+    "status": "36'",
     "goals": [
       "",
       "",
@@ -1574,7 +1712,7 @@
     "awayTeam": "Atlante Women\\s",
     "score": "1-0",
     "matchId": "5141598",
-    "status": "HT",
+    "status": "46'",
     "goals": [
       "",
       "26' Diana Garc\u00eda (1-0)",
@@ -1666,7 +1804,7 @@
     "awayTeam": "Utah Royals Women\\s",
     "score": "0-0",
     "matchId": "5024414",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -1735,7 +1873,7 @@
     "awayTeam": "North Geelong Warriors(U23)",
     "score": "0-1",
     "matchId": "5156157",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -1781,7 +1919,7 @@
     "awayTeam": "Coastal Spirit FC",
     "score": "3-0",
     "matchId": "5054030",
-    "status": "HT",
+    "status": "53'",
     "goals": [
       "12' 1-0",
       "19' 2-0<br>25' 3-0",
@@ -1804,35 +1942,12 @@
     "awayTeam": "Christchurch United",
     "score": "0-3",
     "matchId": "5054029",
-    "status": "HT",
+    "status": "52'",
     "goals": [
       "9' 0-1",
       "",
       "39' 0-2",
       "45+1' 0-3",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-08",
-    "day": "Saturday",
-    "time": "19:10",
-    "start_time": "19:10",
-    "group": "CNCF LC",
-    "title": "Real Salt Lake 1-0 CF Atlante",
-    "homeTeam": "Real Salt Lake",
-    "awayTeam": "CF Atlante",
-    "score": "1-0",
-    "matchId": "5050015",
-    "status": "44'",
-    "goals": [
-      "",
-      "17' Sergi Solans (1-0)",
-      "",
-      "",
       "",
       "",
       "",
@@ -1865,6 +1980,29 @@
   {
     "date": "2026-08-08",
     "day": "Saturday",
+    "time": "19:10",
+    "start_time": "19:10",
+    "group": "CNCF LC",
+    "title": "Real Salt Lake 1-0 CF Atlante",
+    "homeTeam": "Real Salt Lake",
+    "awayTeam": "CF Atlante",
+    "score": "1-0",
+    "matchId": "5050015",
+    "status": "HT",
+    "goals": [
+      "",
+      "17' Sergi Solans (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
     "time": "19:05",
     "start_time": "19:05",
     "group": "USLC",
@@ -1873,7 +2011,7 @@
     "awayTeam": "Tampa Bay Rowdies",
     "score": "0-1",
     "matchId": "5006828",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "24' Mathew Dyan Myers (0-1)",
@@ -1896,7 +2034,7 @@
     "awayTeam": "New Mexico United",
     "score": "1-1",
     "matchId": "5006827",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "6' Valentin Noel (0-1)",
       "",
@@ -1919,7 +2057,7 @@
     "awayTeam": "Deportivo Saprissa",
     "score": "0-1",
     "matchId": "5075740",
-    "status": "HT",
+    "status": "50'",
     "goals": [
       "",
       "",
@@ -1942,7 +2080,7 @@
     "awayTeam": "Forward Madison",
     "score": "1-0",
     "matchId": "5007457",
-    "status": "52'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -1965,7 +2103,7 @@
     "awayTeam": "CD Arabe Unido",
     "score": "0-0",
     "matchId": "5111754",
-    "status": "67'",
+    "status": "82'",
     "goals": [
       "",
       "",
@@ -1988,7 +2126,7 @@
     "awayTeam": "Genesis",
     "score": "1-0",
     "matchId": "5125548",
-    "status": "65'",
+    "status": "80'",
     "goals": [
       "15' David Sayago (1-0)",
       "",
@@ -1996,6 +2134,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-08",
+    "day": "Saturday",
+    "time": "14:31",
+    "start_time": "14:31",
+    "group": "BRA D2",
+    "title": "Botafogo Futebol Clube (SP) 2-1 America MG",
+    "homeTeam": "Botafogo Futebol Clube (SP)",
+    "awayTeam": "America MG",
+    "score": "2-1",
+    "matchId": "5036245",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "55' Fernando Elizari (0-1)",
+      "61' Hebert Willian Badaro Oliveira (1-1)<br>70' Filipe Dahora (2-1)",
       "",
       ""
     ]
@@ -2011,14 +2172,14 @@
     "awayTeam": "Deportivo Cali",
     "score": "0-2",
     "matchId": "5072381",
-    "status": "65'",
+    "status": "80'",
     "goals": [
       "",
       "",
       "33' Andres Steven Rodriguez Ossa (0-1)",
       "",
       "",
-      "",
+      "66' Eduard Alexander Bello Gil (0-2)",
       "",
       ""
     ]

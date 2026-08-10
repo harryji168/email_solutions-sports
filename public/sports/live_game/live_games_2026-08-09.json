@@ -94,29 +94,6 @@
   {
     "date": "2026-08-09",
     "day": "Sunday",
-    "time": "19:26",
-    "start_time": "19:26",
-    "group": "CNCF LC",
-    "title": "Club America 1-0 Portland Timbers",
-    "homeTeam": "Club America",
-    "awayTeam": "Portland Timbers",
-    "score": "1-0",
-    "matchId": "5050021",
-    "status": "18'",
-    "goals": [
-      "6' Paul Brian Rodriguez Bravo (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-09",
-    "day": "Sunday",
     "time": "14:35",
     "start_time": "14:35",
     "group": "BRA D3",
@@ -140,6 +117,29 @@
   {
     "date": "2026-08-09",
     "day": "Sunday",
+    "time": "19:26",
+    "start_time": "19:26",
+    "group": "CNCF LC",
+    "title": "Club America 1-1 Portland Timbers",
+    "homeTeam": "Club America",
+    "awayTeam": "Portland Timbers",
+    "score": "1-1",
+    "matchId": "5050021",
+    "status": "28'",
+    "goals": [
+      "6' Paul Brian Rodriguez Bravo (1-0)",
+      "20' Kristoffer Velde (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "day": "Sunday",
     "time": "19:10",
     "start_time": "19:10",
     "group": "CNCF LC",
@@ -148,7 +148,7 @@
     "awayTeam": "Club Tijuana",
     "score": "1-0",
     "matchId": "5050025",
-    "status": "34'",
+    "status": "43'",
     "goals": [
       "",
       "22' Bi Bryan Zamble (1-0)",
@@ -171,7 +171,7 @@
     "awayTeam": "Choloma",
     "score": "2-1",
     "matchId": "5125551",
-    "status": "55'",
+    "status": "64'",
     "goals": [
       "",
       "22' Ferreira L. (0-1)<br>25' Cruz S. (1-1)",
@@ -194,7 +194,7 @@
     "awayTeam": "Atletico Nacional",
     "score": "1-0",
     "matchId": "5072379",
-    "status": "68'",
+    "status": "77'",
     "goals": [
       "",
       "",
@@ -209,29 +209,6 @@
   {
     "date": "2026-08-09",
     "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "BRA WT",
-    "title": "Sao Paulo Women\\s 1-0 Bragantino  Women\\s",
-    "homeTeam": "Sao Paulo Women\\s",
-    "awayTeam": "Bragantino  Women\\s",
-    "score": "1-0",
-    "matchId": "5029329",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "87' K\u00e9sia Senna (1-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-09",
-    "day": "Sunday",
     "time": "18:05",
     "start_time": "18:05",
     "group": "GUA D2",
@@ -240,7 +217,7 @@
     "awayTeam": "Santa Lucia Cotzumalguapa",
     "score": "3-0",
     "matchId": "5158724",
-    "status": "80'",
+    "status": "89'",
     "goals": [
       "",
       "",
@@ -258,12 +235,12 @@
     "time": "18:02",
     "start_time": "18:02",
     "group": "NCA D1",
-    "title": "Matagalpa FC 0-2 Managua FC",
+    "title": "Matagalpa FC 0-3 Managua FC",
     "homeTeam": "Matagalpa FC",
     "awayTeam": "Managua FC",
-    "score": "0-2",
+    "score": "0-3",
     "matchId": "5118993",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "13' Daniel D\u00edaz (0-1)",
       "16' Nazareno G\u00f3mez (0-2)",
@@ -271,7 +248,7 @@
       "",
       "",
       "",
-      "",
+      "85' Brandon Morgan (0-3)",
       ""
     ]
   },
@@ -286,7 +263,7 @@
     "awayTeam": "Angel City FC Women\\s",
     "score": "2-2",
     "matchId": "5024421",
-    "status": "78'",
+    "status": "87'",
     "goals": [
       "",
       "",
@@ -332,7 +309,7 @@
     "awayTeam": "Puebla FC",
     "score": "3-0",
     "matchId": "5050019",
-    "status": "74'",
+    "status": "83'",
     "goals": [
       "4' Myrto Uzuni (1-0)<br>7' Myrto Uzuni (2-0)",
       "",
@@ -457,6 +434,29 @@
       "72' Philip Zinckernagel (1-1)",
       "",
       "90' Robin Lod (2-1)<br>90+3' Robert Lewandowski (3-1)"
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "day": "Sunday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "BRA WT",
+    "title": "Sao Paulo Women\\s 1-0 Bragantino  Women\\s",
+    "homeTeam": "Sao Paulo Women\\s",
+    "awayTeam": "Bragantino  Women\\s",
+    "score": "1-0",
+    "matchId": "5029329",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "87' K\u00e9sia Senna (1-0)",
+      ""
     ]
   },
   {
@@ -968,6 +968,29 @@
   {
     "date": "2026-08-09",
     "day": "Sunday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "SLV D1",
+    "title": "Cacahuatique 0-0 Fuerte San Francisco",
+    "homeTeam": "Cacahuatique",
+    "awayTeam": "Fuerte San Francisco",
+    "score": "0-0",
+    "matchId": "5135813",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-09",
+    "day": "Sunday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA D1",
@@ -1167,29 +1190,6 @@
       "",
       "",
       "54' Mailton dos Santos de Sa (1-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-09",
-    "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "SLV D1",
-    "title": "Cacahuatique 0-0 Fuerte San Francisco",
-    "homeTeam": "Cacahuatique",
-    "awayTeam": "Fuerte San Francisco",
-    "score": "0-0",
-    "matchId": "5135813",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       ""

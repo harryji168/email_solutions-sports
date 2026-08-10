@@ -2,23 +2,23 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "INT CF",
-    "title": "Debibi United 3-3 Attram de Visser",
-    "homeTeam": "Debibi United",
-    "awayTeam": "Attram de Visser",
-    "score": "3-3",
-    "matchId": "5159356",
+    "time": "09:04",
+    "start_time": "09:04",
+    "group": "SLO U19",
+    "title": "FC Koper U19 5-1 NK Fuzinar(U19)",
+    "homeTeam": "FC Koper U19",
+    "awayTeam": "NK Fuzinar(U19)",
+    "score": "5-1",
+    "matchId": "5159203",
     "status": "ET",
     "goals": [
+      "8' 1-0",
+      "25' 2-0",
+      "40' 3-0",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
+      "53' 3-1",
+      "73' 4-1",
+      "85' 5-1",
       ""
     ]
   },
@@ -209,6 +209,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "UZB D1A",
+    "title": "Respublika FA 0-0 Aral Samali",
+    "homeTeam": "Respublika FA",
+    "awayTeam": "Aral Samali",
+    "score": "0-0",
+    "matchId": "5050378",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "08:59",
     "start_time": "08:59",
     "group": "SLO D1",
@@ -324,29 +347,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "08:26",
-    "start_time": "08:26",
-    "group": "SLO U19",
-    "title": "NK Olimpija Ljubljana (U19) 2-0 NK Rudar Velenje(U19)",
-    "homeTeam": "NK Olimpija Ljubljana (U19)",
-    "awayTeam": "NK Rudar Velenje(U19)",
-    "score": "2-0",
-    "matchId": "5159202",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' 1-0",
-      "35' 2-0",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "08:01",
     "start_time": "08:01",
     "group": "UZB D1A",
@@ -360,6 +360,29 @@
       "",
       "",
       "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "08:26",
+    "start_time": "08:26",
+    "group": "SLO U19",
+    "title": "NK Olimpija Ljubljana (U19) 2-0 NK Rudar Velenje(U19)",
+    "homeTeam": "NK Olimpija Ljubljana (U19)",
+    "awayTeam": "NK Rudar Velenje(U19)",
+    "score": "2-0",
+    "matchId": "5159202",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' 1-0",
+      "35' 2-0",
       "",
       "",
       "",
@@ -807,29 +830,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "BLR WPL",
-    "title": "Smorgon Women\\s 1-1 Belshina Women\\s",
-    "homeTeam": "Smorgon Women\\s",
-    "awayTeam": "Belshina Women\\s",
-    "score": "1-1",
-    "matchId": "5154580",
-    "status": "ET",
-    "goals": [
-      "4' Daria Myshlenik (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "76' Angelina Kovaleva (1-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "URU RL",
@@ -1267,29 +1267,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "09:04",
-    "start_time": "09:04",
-    "group": "SLO U19",
-    "title": "FC Koper U19 5-1 NK Fuzinar(U19)",
-    "homeTeam": "FC Koper U19",
-    "awayTeam": "NK Fuzinar(U19)",
-    "score": "5-1",
-    "matchId": "5159203",
-    "status": "ET",
-    "goals": [
-      "8' 1-0",
-      "25' 2-0",
-      "40' 3-0",
-      "",
-      "53' 3-1",
-      "73' 4-1",
-      "85' 5-1",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "10:28",
     "start_time": "10:28",
     "group": "DEN D4",
@@ -1306,6 +1283,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "08:06",
+    "start_time": "08:06",
+    "group": "UZB D1A",
+    "title": "Metallurg Bekabad 1-1 Yaypan FK",
+    "homeTeam": "Metallurg Bekabad",
+    "awayTeam": "Yaypan FK",
+    "score": "1-1",
+    "matchId": "5050376",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "52' Azizbek Abdumo&#699;minov (1-0)",
+      "62' Muzaffarxon Mo&#699;minov (1-1)",
       "",
       ""
     ]
@@ -1352,29 +1352,6 @@
       "",
       "",
       "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "08:06",
-    "start_time": "08:06",
-    "group": "UZB D1A",
-    "title": "Metallurg Bekabad 1-1 Yaypan FK",
-    "homeTeam": "Metallurg Bekabad",
-    "awayTeam": "Yaypan FK",
-    "score": "1-1",
-    "matchId": "5050376",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "52' Azizbek Abdumo&#699;minov (1-0)",
-      "62' Muzaffarxon Mo&#699;minov (1-1)",
       "",
       ""
     ]
@@ -1911,6 +1888,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "INT CF",
+    "title": "Debibi United 3-3 Attram de Visser",
+    "homeTeam": "Debibi United",
+    "awayTeam": "Attram de Visser",
+    "score": "3-3",
+    "matchId": "5159356",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "09:30",
     "start_time": "09:30",
     "group": "LAT D1",
@@ -1957,29 +1957,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "UZB D1A",
-    "title": "Respublika FA 0-0 Aral Samali",
-    "homeTeam": "Respublika FA",
-    "awayTeam": "Aral Samali",
-    "score": "0-0",
-    "matchId": "5050378",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "09:31",
     "start_time": "09:31",
     "group": "RUS D1",
@@ -2020,6 +1997,29 @@
       "60' David Maureira (2-2)",
       "",
       "87' Fernando Manriquez(Missed Pen) (2-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "BLR WPL",
+    "title": "Smorgon Women\\s 1-1 Belshina Women\\s",
+    "homeTeam": "Smorgon Women\\s",
+    "awayTeam": "Belshina Women\\s",
+    "score": "1-1",
+    "matchId": "5154580",
+    "status": "ET",
+    "goals": [
+      "4' Daria Myshlenik (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "76' Angelina Kovaleva (1-1)",
       ""
     ]
   },

@@ -33,7 +33,7 @@
     "awayTeam": "Haukar Women\\s",
     "score": "0-0",
     "matchId": "5058016",
-    "status": "44'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -71,6 +71,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "UZB D1A",
+    "title": "Respublika FA 0-0 Aral Samali",
+    "homeTeam": "Respublika FA",
+    "awayTeam": "Aral Samali",
+    "score": "0-0",
+    "matchId": "5050378",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "12:15",
     "start_time": "12:15",
     "group": "ICE PR",
@@ -79,7 +102,7 @@
     "awayTeam": "KR Reykjavik",
     "score": "0-3",
     "matchId": "5024348",
-    "status": "40'",
+    "status": "43'",
     "goals": [
       "4' Arnor Ingvi Traustason (0-1)<br>6' Eidur Gauti Saebjornsson (0-2)",
       "29' Eidur Gauti Saebjornsson (0-3)",
@@ -125,7 +148,7 @@
     "awayTeam": "CD Nacional",
     "score": "2-1",
     "matchId": "5104552",
-    "status": "40'",
+    "status": "43'",
     "goals": [
       "",
       "19' Goncalo Paciencia (1-0)<br>21' Goncalo Paciencia (2-0)",
@@ -226,29 +249,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "BLR WPL",
-    "title": "Smorgon Women\\s 1-1 Belshina Women\\s",
-    "homeTeam": "Smorgon Women\\s",
-    "awayTeam": "Belshina Women\\s",
-    "score": "1-1",
-    "matchId": "5154580",
-    "status": "ET",
-    "goals": [
-      "4' Daria Myshlenik (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "76' Angelina Kovaleva (1-1)",
       ""
     ]
   },
@@ -493,7 +493,7 @@
     "awayTeam": "Shaftesbury Town",
     "score": "1-0",
     "matchId": "5159344",
-    "status": "49'",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -534,12 +534,12 @@
     "time": "11:47",
     "start_time": "11:47",
     "group": "Eng S1",
-    "title": "Biggleswade FC 1-1 Stotfold",
+    "title": "Biggleswade FC 2-1 Stotfold",
     "homeTeam": "Biggleswade FC",
     "awayTeam": "Stotfold",
-    "score": "1-1",
+    "score": "2-1",
     "matchId": "5159199",
-    "status": "46'",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -585,7 +585,7 @@
     "awayTeam": "Rushden&Diamonds",
     "score": "1-1",
     "matchId": "5159355",
-    "status": "53'",
+    "status": "56'",
     "goals": [
       "",
       "",
@@ -623,29 +623,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "08:01",
-    "start_time": "08:01",
-    "group": "UZB D1A",
-    "title": "Olympic MobiUZ 0-0 Shurtan Guzar",
-    "homeTeam": "Olympic MobiUZ",
-    "awayTeam": "Shurtan Guzar",
-    "score": "0-0",
-    "matchId": "5050377",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "11:46",
     "start_time": "11:46",
     "group": "Eng N1",
@@ -654,7 +631,7 @@
     "awayTeam": "Sutton Coldfield Town",
     "score": "1-0",
     "matchId": "5159354",
-    "status": "49'",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -677,6 +654,29 @@
     "awayTeam": "Jadran Dekani (U19)",
     "score": "0-0",
     "matchId": "5159191",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "08:01",
+    "start_time": "08:01",
+    "group": "UZB D1A",
+    "title": "Olympic MobiUZ 0-0 Shurtan Guzar",
+    "homeTeam": "Olympic MobiUZ",
+    "awayTeam": "Shurtan Guzar",
+    "score": "0-0",
+    "matchId": "5050377",
     "status": "ET",
     "goals": [
       "",
@@ -723,7 +723,7 @@
     "awayTeam": "Bedworth United",
     "score": "0-0",
     "matchId": "5159200",
-    "status": "49'",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -792,7 +792,7 @@
     "awayTeam": "Wingate & Finchley",
     "score": "1-0",
     "matchId": "5129850",
-    "status": "HT",
+    "status": "48'",
     "goals": [
       "4' Ethan Kaiser (1-0)",
       "",
@@ -838,7 +838,7 @@
     "awayTeam": "Greenisland Women\\s",
     "score": "0-3",
     "matchId": "5160363",
-    "status": "48'",
+    "status": "51'",
     "goals": [
       "",
       "",
@@ -884,7 +884,7 @@
     "awayTeam": "Cliftonville Women\\s",
     "score": "1-1",
     "matchId": "5054860",
-    "status": "50'",
+    "status": "53'",
     "goals": [
       "",
       "",
@@ -930,7 +930,7 @@
     "awayTeam": "Batman Petrolspor",
     "score": "1-1",
     "matchId": "5114965",
-    "status": "66'",
+    "status": "69'",
     "goals": [
       "",
       "",
@@ -976,7 +976,7 @@
     "awayTeam": "FCSB",
     "score": "0-0",
     "matchId": "5093350",
-    "status": "64'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -1045,7 +1045,7 @@
     "awayTeam": "Spartak Varna",
     "score": "3-1",
     "matchId": "5074035",
-    "status": "74'",
+    "status": "77'",
     "goals": [
       "4' Franklin Geovane de Santana Chagas (1-0)",
       "28' Asen Chandarov (2-0)",
@@ -1106,29 +1106,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "UZB D1A",
-    "title": "Respublika FA 0-0 Aral Samali",
-    "homeTeam": "Respublika FA",
-    "awayTeam": "Aral Samali",
-    "score": "0-0",
-    "matchId": "5050378",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "INT CF",
@@ -1146,7 +1123,7 @@
       "",
       "",
       "",
-      ""
+      "90+5' 0-2"
     ]
   },
   {
@@ -1183,7 +1160,7 @@
     "awayTeam": "Montevideo City Torque Reserve",
     "score": "1-2",
     "matchId": "5159352",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1198,23 +1175,23 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "08:00",
-    "start_time": "08:00",
+    "time": "07:59",
+    "start_time": "07:59",
     "group": "BLR D1",
-    "title": "Volna Pinsk 0-0 Uni X-Labs Minsk",
-    "homeTeam": "Volna Pinsk",
-    "awayTeam": "Uni X-Labs Minsk",
-    "score": "0-0",
-    "matchId": "5053543",
+    "title": "FC Smorgon 2-0 BATE-2 Borisov",
+    "homeTeam": "FC Smorgon",
+    "awayTeam": "BATE-2 Borisov",
+    "score": "2-0",
+    "matchId": "5053542",
     "status": "ET",
     "goals": [
       "",
       "",
+      "44' Matvey Dukso (1-0)",
       "",
       "",
       "",
-      "",
-      "",
+      "88' Jean-Louis Nsangou (2-0)",
       ""
     ]
   },
@@ -1298,7 +1275,7 @@
     "awayTeam": "Cerro Largo Reserve",
     "score": "2-3",
     "matchId": "5159346",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1313,23 +1290,23 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "07:59",
-    "start_time": "07:59",
+    "time": "08:00",
+    "start_time": "08:00",
     "group": "BLR D1",
-    "title": "FC Smorgon 2-0 BATE-2 Borisov",
-    "homeTeam": "FC Smorgon",
-    "awayTeam": "BATE-2 Borisov",
-    "score": "2-0",
-    "matchId": "5053542",
+    "title": "Volna Pinsk 0-0 Uni X-Labs Minsk",
+    "homeTeam": "Volna Pinsk",
+    "awayTeam": "Uni X-Labs Minsk",
+    "score": "0-0",
+    "matchId": "5053543",
     "status": "ET",
     "goals": [
       "",
       "",
-      "44' Matvey Dukso (1-0)",
       "",
       "",
       "",
-      "88' Jean-Louis Nsangou (2-0)",
+      "",
+      "",
       ""
     ]
   },
@@ -1362,10 +1339,10 @@
     "time": "11:05",
     "start_time": "11:05",
     "group": "ARG D2M2",
-    "title": "Sportivo Barracas 1-0 Claypole",
+    "title": "Sportivo Barracas 2-0 Claypole",
     "homeTeam": "Sportivo Barracas",
     "awayTeam": "Claypole",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5015156",
     "status": "90+'",
     "goals": [
@@ -1459,7 +1436,7 @@
     "awayTeam": "Central Ballester",
     "score": "3-1",
     "matchId": "5015144",
-    "status": "90'",
+    "status": "90+'",
     "goals": [
       "",
       "20' Mat\u00edas Mart\u00ednez (1-0)",
@@ -1482,7 +1459,7 @@
     "awayTeam": "Belgrano Women\\s",
     "score": "0-6",
     "matchId": "5154675",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "24' Micaela Bulacio (0-1)",
@@ -1505,7 +1482,7 @@
     "awayTeam": "CU Deportivo Provincial Lobos",
     "score": "5-0",
     "matchId": "5159205",
-    "status": "87'",
+    "status": "90'",
     "goals": [
       "14' Mart\u00edn Videla (1-0)",
       "16' Juli\u00e1n P\u00e9rez (2-0)<br>28' Mart\u00edn Videla (3-0)",
@@ -1513,7 +1490,7 @@
       "",
       "52' Mart\u00edn Videla (4-0)",
       "",
-      "78' 5-0",
+      "78' Thiago Villoldo (5-0)",
       ""
     ]
   },
@@ -1689,7 +1666,7 @@
     "awayTeam": "CSyD Tristan Suarez",
     "score": "0-2",
     "matchId": "5013747",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "21' Nicolas Fernandez (0-1)<br>29' Diego Eugenio Becker (0-2)",
@@ -1712,7 +1689,7 @@
     "awayTeam": "Central Norte",
     "score": "1-1",
     "matchId": "5013738",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1767,29 +1744,6 @@
       "",
       "",
       "77' Stefan Radosavljevic (0-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "08:06",
-    "start_time": "08:06",
-    "group": "UZB D1A",
-    "title": "Metallurg Bekabad 1-1 Yaypan FK",
-    "homeTeam": "Metallurg Bekabad",
-    "awayTeam": "Yaypan FK",
-    "score": "1-1",
-    "matchId": "5050376",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "52' Azizbek Abdumo&#699;minov (1-0)",
-      "62' Muzaffarxon Mo&#699;minov (1-1)",
-      "",
       ""
     ]
   },
@@ -1859,6 +1813,29 @@
       "55' Kirill Goncharik (0-1)<br>60' Yegor Mikhey (0-2)",
       "",
       "84' Stanislav Matusevich (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "08:06",
+    "start_time": "08:06",
+    "group": "UZB D1A",
+    "title": "Metallurg Bekabad 1-1 Yaypan FK",
+    "homeTeam": "Metallurg Bekabad",
+    "awayTeam": "Yaypan FK",
+    "score": "1-1",
+    "matchId": "5050376",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "52' Azizbek Abdumo&#699;minov (1-0)",
+      "62' Muzaffarxon Mo&#699;minov (1-1)",
+      "",
       ""
     ]
   },
@@ -2112,6 +2089,29 @@
       "",
       "",
       "85' Matvii Los (0-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "BLR WPL",
+    "title": "Smorgon Women\\s 1-1 Belshina Women\\s",
+    "homeTeam": "Smorgon Women\\s",
+    "awayTeam": "Belshina Women\\s",
+    "score": "1-1",
+    "matchId": "5154580",
+    "status": "ET",
+    "goals": [
+      "4' Daria Myshlenik (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "76' Angelina Kovaleva (1-1)",
       ""
     ]
   },
@@ -2448,7 +2448,7 @@
     "awayTeam": "Guairena FC",
     "score": "0-0",
     "matchId": "5154588",
-    "status": "25'",
+    "status": "28'",
     "goals": [
       "",
       "",
@@ -2512,15 +2512,15 @@
     "time": "12:34",
     "start_time": "12:34",
     "group": "VEN D1",
-    "title": "Rayo Zuliano 0-0 Estudiantes Merida FC",
+    "title": "Rayo Zuliano 1-0 Estudiantes Merida FC",
     "homeTeam": "Rayo Zuliano",
     "awayTeam": "Estudiantes Merida FC",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5156552",
-    "status": "22'",
+    "status": "25'",
     "goals": [
       "",
-      "",
+      "22' Jose Luis Ochoa (1-0)",
       "",
       "",
       "",
@@ -2563,7 +2563,7 @@
     "awayTeam": "UMF Selfoss",
     "score": "1-0",
     "matchId": "5031030",
-    "status": "40'",
+    "status": "43'",
     "goals": [
       "",
       "",

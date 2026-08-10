@@ -102,7 +102,7 @@
     "awayTeam": "Sportivo Luqueno Reserve",
     "score": "0-0",
     "matchId": "5160235",
-    "status": "10'",
+    "status": "13'",
     "goals": [
       "",
       "",
@@ -148,7 +148,7 @@
     "awayTeam": "Plaza Colonia",
     "score": "0-0",
     "matchId": "5156168",
-    "status": "10'",
+    "status": "13'",
     "goals": [
       "",
       "",
@@ -166,12 +166,12 @@
     "time": "12:00",
     "start_time": "12:00",
     "group": "POR LRU23",
-    "title": "Academico Viseu(U23) 0-0 CD Estrela U23",
+    "title": "Academico Viseu(U23) 1-0 CD Estrela U23",
     "homeTeam": "Academico Viseu(U23)",
     "awayTeam": "CD Estrela U23",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5130980",
-    "status": "10'",
+    "status": "13'",
     "goals": [
       "",
       "",
@@ -209,29 +209,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "BSS Sporting Club 0-2 Railway FC",
-    "homeTeam": "BSS Sporting Club",
-    "awayTeam": "Railway FC",
-    "score": "0-2",
-    "matchId": "5160033",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "39' 0-1",
-      "",
-      "58' 0-2",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "12:05",
     "start_time": "12:05",
     "group": "USA MLSRv",
@@ -240,7 +217,7 @@
     "awayTeam": "Toronto FC II",
     "score": "0-0",
     "matchId": "5029818",
-    "status": "5'",
+    "status": "8'",
     "goals": [
       "",
       "",
@@ -332,7 +309,7 @@
     "awayTeam": "Exeter City F.C.",
     "score": "0-0",
     "matchId": "5091098",
-    "status": "10'",
+    "status": "13'",
     "goals": [
       "",
       "",
@@ -378,7 +355,7 @@
     "awayTeam": "Mushuc Runa",
     "score": "0-1",
     "matchId": "5035294",
-    "status": "10'",
+    "status": "13'",
     "goals": [
       "7' Renato Ibarra (0-1)",
       "",
@@ -424,7 +401,7 @@
     "awayTeam": "Shaftesbury Town",
     "score": "0-0",
     "matchId": "5159344",
-    "status": "23'",
+    "status": "26'",
     "goals": [
       "",
       "",
@@ -470,7 +447,7 @@
     "awayTeam": "Stotfold",
     "score": "0-0",
     "matchId": "5159199",
-    "status": "23'",
+    "status": "26'",
     "goals": [
       "",
       "",
@@ -516,7 +493,7 @@
     "awayTeam": "Rushden&Diamonds",
     "score": "1-0",
     "matchId": "5159355",
-    "status": "25'",
+    "status": "28'",
     "goals": [
       "",
       "",
@@ -562,7 +539,7 @@
     "awayTeam": "Sutton Coldfield Town",
     "score": "0-0",
     "matchId": "5159354",
-    "status": "24'",
+    "status": "27'",
     "goals": [
       "",
       "",
@@ -654,7 +631,7 @@
     "awayTeam": "Bedworth United",
     "score": "0-0",
     "matchId": "5159200",
-    "status": "22'",
+    "status": "25'",
     "goals": [
       "",
       "",
@@ -723,7 +700,7 @@
     "awayTeam": "Wingate & Finchley",
     "score": "1-0",
     "matchId": "5129850",
-    "status": "23'",
+    "status": "26'",
     "goals": [
       "4' Ethan Kaiser (1-0)",
       "",
@@ -769,7 +746,7 @@
     "awayTeam": "Greenisland Women\\s",
     "score": "0-1",
     "matchId": "5160363",
-    "status": "21'",
+    "status": "24'",
     "goals": [
       "",
       "",
@@ -815,7 +792,7 @@
     "awayTeam": "Cliftonville Women\\s",
     "score": "1-0",
     "matchId": "5054860",
-    "status": "23'",
+    "status": "26'",
     "goals": [
       "",
       "",
@@ -853,6 +830,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "BLR WPL",
+    "title": "Smorgon Women\\s 1-1 Belshina Women\\s",
+    "homeTeam": "Smorgon Women\\s",
+    "awayTeam": "Belshina Women\\s",
+    "score": "1-1",
+    "matchId": "5154580",
+    "status": "ET",
+    "goals": [
+      "4' Daria Myshlenik (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "76' Angelina Kovaleva (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "TFF 1. Lig",
@@ -861,7 +861,7 @@
     "awayTeam": "Batman Petrolspor",
     "score": "0-1",
     "matchId": "5114965",
-    "status": "40'",
+    "status": "43'",
     "goals": [
       "",
       "",
@@ -876,21 +876,21 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "08:00",
-    "start_time": "08:00",
+    "time": "08:01",
+    "start_time": "08:01",
     "group": "BLR D1",
-    "title": "Volna Pinsk 0-0 Uni X-Labs Minsk",
-    "homeTeam": "Volna Pinsk",
-    "awayTeam": "Uni X-Labs Minsk",
-    "score": "0-0",
-    "matchId": "5053543",
+    "title": "FK Orsha 0-3 FC Molodechno",
+    "homeTeam": "FK Orsha",
+    "awayTeam": "FC Molodechno",
+    "score": "0-3",
+    "matchId": "5053540",
     "status": "ET",
     "goals": [
+      "12' Andrei Alshanik (0-1)",
       "",
+      "41' Ilya Koval (0-2)",
       "",
-      "",
-      "",
-      "",
+      "59' Andrei Alshanik (0-3)",
       "",
       "",
       ""
@@ -907,7 +907,7 @@
     "awayTeam": "FCSB",
     "score": "0-0",
     "matchId": "5093350",
-    "status": "38'",
+    "status": "41'",
     "goals": [
       "",
       "",
@@ -1045,11 +1045,11 @@
     "awayTeam": "Kalamata AO",
     "score": "0-1",
     "matchId": "5159206",
-    "status": "52'",
+    "status": "55'",
     "goals": [
       "",
       "",
-      "43' 0-1",
+      "43' Jovanny Bol\u00edvar (0-1)",
       "",
       "",
       "",
@@ -1091,7 +1091,7 @@
     "awayTeam": "Montevideo City Torque Reserve",
     "score": "1-1",
     "matchId": "5159352",
-    "status": "51'",
+    "status": "54'",
     "goals": [
       "",
       "",
@@ -1106,23 +1106,23 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "08:01",
-    "start_time": "08:01",
+    "time": "07:59",
+    "start_time": "07:59",
     "group": "BLR D1",
-    "title": "FK Orsha 0-3 FC Molodechno",
-    "homeTeam": "FK Orsha",
-    "awayTeam": "FC Molodechno",
-    "score": "0-3",
-    "matchId": "5053540",
+    "title": "FC Smorgon 2-0 BATE-2 Borisov",
+    "homeTeam": "FC Smorgon",
+    "awayTeam": "BATE-2 Borisov",
+    "score": "2-0",
+    "matchId": "5053542",
     "status": "ET",
     "goals": [
-      "12' Andrei Alshanik (0-1)",
-      "",
-      "41' Ilya Koval (0-2)",
-      "",
-      "59' Andrei Alshanik (0-3)",
       "",
       "",
+      "44' Matvey Dukso (1-0)",
+      "",
+      "",
+      "",
+      "88' Jean-Louis Nsangou (2-0)",
       ""
     ]
   },
@@ -1137,7 +1137,7 @@
     "awayTeam": "La Luz Reserves",
     "score": "0-0",
     "matchId": "5159350",
-    "status": "48'",
+    "status": "51'",
     "goals": [
       "",
       "",
@@ -1206,7 +1206,7 @@
     "awayTeam": "Cerro Largo Reserve",
     "score": "1-2",
     "matchId": "5159346",
-    "status": "51'",
+    "status": "54'",
     "goals": [
       "",
       "",
@@ -1221,23 +1221,23 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "07:59",
-    "start_time": "07:59",
+    "time": "08:00",
+    "start_time": "08:00",
     "group": "BLR D1",
-    "title": "FC Smorgon 2-0 BATE-2 Borisov",
-    "homeTeam": "FC Smorgon",
-    "awayTeam": "BATE-2 Borisov",
-    "score": "2-0",
-    "matchId": "5053542",
+    "title": "Volna Pinsk 0-0 Uni X-Labs Minsk",
+    "homeTeam": "Volna Pinsk",
+    "awayTeam": "Uni X-Labs Minsk",
+    "score": "0-0",
+    "matchId": "5053543",
     "status": "ET",
     "goals": [
       "",
       "",
-      "44' Matvey Dukso (1-0)",
       "",
       "",
       "",
-      "88' Jean-Louis Nsangou (2-0)",
+      "",
+      "",
       ""
     ]
   },
@@ -1252,7 +1252,7 @@
     "awayTeam": "NK Maribor(U19)",
     "score": "0-1",
     "matchId": "5159204",
-    "status": "54'",
+    "status": "57'",
     "goals": [
       "",
       "",
@@ -1275,7 +1275,7 @@
     "awayTeam": "Claypole",
     "score": "0-0",
     "matchId": "5015156",
-    "status": "46'",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -1321,80 +1321,11 @@
     "awayTeam": "Deportivo Paraguayo",
     "score": "2-0",
     "matchId": "5015154",
-    "status": "50'",
+    "status": "53'",
     "goals": [
       "",
       "",
       "31' Santiago Gallardo (1-0)<br>33' Leandro R\u00edos (2-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "BLR WPL",
-    "title": "Smorgon Women\\s 1-1 Belshina Women\\s",
-    "homeTeam": "Smorgon Women\\s",
-    "awayTeam": "Belshina Women\\s",
-    "score": "1-1",
-    "matchId": "5154580",
-    "status": "ET",
-    "goals": [
-      "4' Daria Myshlenik (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "76' Angelina Kovaleva (1-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "11:06",
-    "start_time": "11:06",
-    "group": "ARG D2M2",
-    "title": "CA Fenix Pilar 2-0 Central Ballester",
-    "homeTeam": "CA Fenix Pilar",
-    "awayTeam": "Central Ballester",
-    "score": "2-0",
-    "matchId": "5015144",
-    "status": "HT",
-    "goals": [
-      "",
-      "20' Mat\u00edas Mart\u00ednez (1-0)",
-      "",
-      "45+1' Mat\u00edas Mart\u00ednez (2-0)",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "11:07",
-    "start_time": "11:07",
-    "group": "ARG WD1",
-    "title": "Independiente Women\\s 0-1 Belgrano Women\\s",
-    "homeTeam": "Independiente Women\\s",
-    "awayTeam": "Belgrano Women\\s",
-    "score": "0-1",
-    "matchId": "5154675",
-    "status": "46'",
-    "goals": [
-      "",
-      "24' Micaela Bulacio (0-1)",
-      "",
       "",
       "",
       "",
@@ -1423,6 +1354,52 @@
       "",
       "",
       "90+3' Islomjon Kenjaboev (2-1)"
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "11:06",
+    "start_time": "11:06",
+    "group": "ARG D2M2",
+    "title": "CA Fenix Pilar 2-0 Central Ballester",
+    "homeTeam": "CA Fenix Pilar",
+    "awayTeam": "Central Ballester",
+    "score": "2-0",
+    "matchId": "5015144",
+    "status": "48'",
+    "goals": [
+      "",
+      "20' Mat\u00edas Mart\u00ednez (1-0)",
+      "",
+      "45+1' Mat\u00edas Mart\u00ednez (2-0)",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "11:07",
+    "start_time": "11:07",
+    "group": "ARG WD1",
+    "title": "Independiente Women\\s 0-1 Belgrano Women\\s",
+    "homeTeam": "Independiente Women\\s",
+    "awayTeam": "Belgrano Women\\s",
+    "score": "0-1",
+    "matchId": "5154675",
+    "status": "49'",
+    "goals": [
+      "",
+      "24' Micaela Bulacio (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -1459,7 +1436,7 @@
     "awayTeam": "Nautico Hacoaj",
     "score": "0-0",
     "matchId": "5158294",
-    "status": "47'",
+    "status": "50'",
     "goals": [
       "",
       "",
@@ -1505,7 +1482,7 @@
     "awayTeam": "Skala IF",
     "score": "3-0",
     "matchId": "5022257",
-    "status": "52'",
+    "status": "55'",
     "goals": [
       "",
       "30' Petur Knudsen (1-0)",
@@ -1551,7 +1528,7 @@
     "awayTeam": "FC Eindhoven",
     "score": "0-0",
     "matchId": "5074876",
-    "status": "52'",
+    "status": "55'",
     "goals": [
       "",
       "",
@@ -1574,7 +1551,7 @@
     "awayTeam": "FC Volendam",
     "score": "1-1",
     "matchId": "5074877",
-    "status": "53'",
+    "status": "56'",
     "goals": [
       "",
       "19' Fabio Kluit (1-0)",
@@ -1620,7 +1597,7 @@
     "awayTeam": "CSyD Tristan Suarez",
     "score": "0-2",
     "matchId": "5013747",
-    "status": "47'",
+    "status": "50'",
     "goals": [
       "",
       "21' Nicolas Fernandez (0-1)<br>29' Diego Eugenio Becker (0-2)",
@@ -1643,7 +1620,7 @@
     "awayTeam": "Central Norte",
     "score": "0-0",
     "matchId": "5013738",
-    "status": "47'",
+    "status": "50'",
     "goals": [
       "",
       "",
@@ -1666,7 +1643,7 @@
     "awayTeam": "Fuglebakken KFUM",
     "score": "3-0",
     "matchId": "5156115",
-    "status": "85'",
+    "status": "88'",
     "goals": [
       "",
       "17' 1-0<br>22' 2-0",
@@ -1689,7 +1666,7 @@
     "awayTeam": "HB Torshavn",
     "score": "0-2",
     "matchId": "5022255",
-    "status": "82'",
+    "status": "85'",
     "goals": [
       "10' Storm Bugge Pettersen (0-1)",
       "",
@@ -1697,30 +1674,7 @@
       "",
       "",
       "",
-      "77' 0-2",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "08:06",
-    "start_time": "08:06",
-    "group": "UZB D1A",
-    "title": "Metallurg Bekabad 1-1 Yaypan FK",
-    "homeTeam": "Metallurg Bekabad",
-    "awayTeam": "Yaypan FK",
-    "score": "1-1",
-    "matchId": "5050376",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "52' Azizbek Abdumo&#699;minov (1-0)",
-      "62' Muzaffarxon Mo&#699;minov (1-1)",
-      "",
+      "77' Stefan Radosavljevic (0-2)",
       ""
     ]
   },
@@ -1735,7 +1689,7 @@
     "awayTeam": "Al Jazira FC",
     "score": "1-0",
     "matchId": "5072119",
-    "status": "80'",
+    "status": "83'",
     "goals": [
       "",
       "27' 1-0",
@@ -1758,7 +1712,7 @@
     "awayTeam": "Al Shamiya",
     "score": "2-0",
     "matchId": "5072117",
-    "status": "79'",
+    "status": "82'",
     "goals": [
       "12' 1-0",
       "",
@@ -1790,6 +1744,29 @@
       "55' Kirill Goncharik (0-1)<br>60' Yegor Mikhey (0-2)",
       "",
       "84' Stanislav Matusevich (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "08:06",
+    "start_time": "08:06",
+    "group": "UZB D1A",
+    "title": "Metallurg Bekabad 1-1 Yaypan FK",
+    "homeTeam": "Metallurg Bekabad",
+    "awayTeam": "Yaypan FK",
+    "score": "1-1",
+    "matchId": "5050376",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "52' Azizbek Abdumo&#699;minov (1-0)",
+      "62' Muzaffarxon Mo&#699;minov (1-1)",
+      "",
       ""
     ]
   },
@@ -2095,6 +2072,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "UZB D1A",
+    "title": "Respublika FA 0-0 Aral Samali",
+    "homeTeam": "Respublika FA",
+    "awayTeam": "Aral Samali",
+    "score": "0-0",
+    "matchId": "5050378",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "NOR D2",
@@ -2159,6 +2159,29 @@
       "",
       "77' Denys Dykyi (0-1)",
       "90+1' Vladyslav Supryaga (0-2)"
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "BSS Sporting Club 0-2 Railway FC",
+    "homeTeam": "BSS Sporting Club",
+    "awayTeam": "Railway FC",
+    "score": "0-2",
+    "matchId": "5160033",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "39' 0-1",
+      "",
+      "58' 0-2",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -2386,29 +2409,6 @@
       "39' 0-2",
       "",
       "60' 0-3",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "UZB D1A",
-    "title": "Respublika FA 0-0 Aral Samali",
-    "homeTeam": "Respublika FA",
-    "awayTeam": "Aral Samali",
-    "score": "0-0",
-    "matchId": "5050378",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       ""

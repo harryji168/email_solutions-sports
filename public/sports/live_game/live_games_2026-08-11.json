@@ -25,6 +25,29 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "POR LRU23",
+    "title": "FC Famalicao(U23) 2-2 Torreense(U23)",
+    "homeTeam": "FC Famalicao(U23)",
+    "awayTeam": "Torreense(U23)",
+    "score": "2-2",
+    "matchId": "5131035",
+    "status": "ET",
+    "goals": [
+      "13' 0-1",
+      "",
+      "37' 0-2",
+      "",
+      "52' 1-2<br>56' Oliver Tan (2-2)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
     "time": "04:30",
     "start_time": "04:30",
     "group": "CHA D2",
@@ -65,6 +88,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "POR LRU23",
+    "title": "Sporting Braga(U23) 2-3 Farense(U23)",
+    "homeTeam": "Sporting Braga(U23)",
+    "awayTeam": "Farense(U23)",
+    "score": "2-3",
+    "matchId": "5131031",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' Guilherme Moraes (1-0)",
+      "",
+      "",
+      "62' 1-1<br>72' 2-1<br>72' 2-2",
+      "82' Joao Costa (2-3)",
       ""
     ]
   },
@@ -148,7 +194,7 @@
     "awayTeam": "Sacachispas Reserve",
     "score": "0-1",
     "matchId": "5162964",
-    "status": "42'",
+    "status": "HT",
     "goals": [
       "",
       "29' 0-1",
@@ -157,29 +203,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "POR LRU23",
-    "title": "Sporting Braga(U23) 2-3 Farense(U23)",
-    "homeTeam": "Sporting Braga(U23)",
-    "awayTeam": "Farense(U23)",
-    "score": "2-3",
-    "matchId": "5131031",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' Guilherme Moraes (1-0)",
-      "",
-      "",
-      "62' 1-1<br>72' 2-1<br>72' 2-2",
-      "82' Joao Costa (2-3)",
       ""
     ]
   },
@@ -301,29 +324,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "07:03",
-    "start_time": "07:03",
-    "group": "RUS Cup",
-    "title": "Dinamo St. Petersburg 1-0 FC 10",
-    "homeTeam": "Dinamo St. Petersburg",
-    "awayTeam": "FC 10",
-    "score": "1-0",
-    "matchId": "5155160",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "44' Oleksandr Masalov (1-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "01:30",
     "start_time": "01:30",
     "group": "AUS CTU23",
@@ -340,6 +340,29 @@
       "",
       "",
       "65' 0-2<br>70' 0-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "07:03",
+    "start_time": "07:03",
+    "group": "RUS Cup",
+    "title": "Dinamo St. Petersburg 1-0 FC 10",
+    "homeTeam": "Dinamo St. Petersburg",
+    "awayTeam": "FC 10",
+    "score": "1-0",
+    "matchId": "5155160",
+    "status": "HT",
+    "goals": [
+      "",
+      "",
+      "44' Oleksandr Masalov (1-0)",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -378,7 +401,7 @@
     "awayTeam": "CA Atlas Reserves",
     "score": "1-2",
     "matchId": "5159201",
-    "status": "78'",
+    "status": "84'",
     "goals": [
       "9' 1-0",
       "",
@@ -424,7 +447,7 @@
     "awayTeam": "CDyS Juventud Unida Reserves",
     "score": "1-0",
     "matchId": "5162937",
-    "status": "84'",
+    "status": "90'",
     "goals": [
       "",
       "",
@@ -523,29 +546,6 @@
       "",
       "",
       "52' 0-1",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "POR LRU23",
-    "title": "FC Famalicao(U23) 2-2 Torreense(U23)",
-    "homeTeam": "FC Famalicao(U23)",
-    "awayTeam": "Torreense(U23)",
-    "score": "2-2",
-    "matchId": "5131035",
-    "status": "ET",
-    "goals": [
-      "13' 0-1",
-      "",
-      "37' 0-2",
-      "",
-      "52' 1-2<br>56' Oliver Tan (2-2)",
       "",
       "",
       ""
@@ -769,7 +769,7 @@
     "awayTeam": "Salam Al Qarfa",
     "score": "3-1",
     "matchId": "5064659",
-    "status": "90'",
+    "status": "90+'",
     "goals": [
       "",
       "18' 0-1",

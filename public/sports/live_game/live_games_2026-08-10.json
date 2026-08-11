@@ -2,6 +2,52 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "18:06",
+    "start_time": "18:06",
+    "group": "MEX WD1",
+    "title": "Club Leon Women\\s 1-1 Tigres UANL Women\\s",
+    "homeTeam": "Club Leon Women\\s",
+    "awayTeam": "Tigres UANL Women\\s",
+    "score": "1-1",
+    "matchId": "5141606",
+    "status": "75'",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+4' Valeria Razo (1-0)",
+      "",
+      "64' Diana Rosario Ord\u00f3\u00f1ez Torres (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "14:31",
+    "start_time": "14:31",
+    "group": "PAR D1",
+    "title": "Club Libertad 2-1 Sportivo Trinidense",
+    "homeTeam": "Club Libertad",
+    "awayTeam": "Sportivo Trinidense",
+    "score": "2-1",
+    "matchId": "5154068",
+    "status": "ET",
+    "goals": [
+      "",
+      "17' Ivan Emanuel Ramirez Ferreira (1-0)",
+      "40' Luis de La Cruz (1-1)",
+      "",
+      "",
+      "",
+      "87' Alan Max Benitez Dominguez (2-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "16:01",
     "start_time": "16:01",
     "group": "BRA D3",
@@ -25,23 +71,23 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "14:31",
-    "start_time": "14:31",
-    "group": "PAR D1",
-    "title": "Club Libertad 2-1 Sportivo Trinidense",
-    "homeTeam": "Club Libertad",
-    "awayTeam": "Sportivo Trinidense",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "ECU D1",
+    "title": "Libertad F.C. 2-1 C.D. Universidad Catolica del Ecuador",
+    "homeTeam": "Libertad F.C.",
+    "awayTeam": "C.D. Universidad Catolica del Ecuador",
     "score": "2-1",
-    "matchId": "5154068",
+    "matchId": "5035293",
     "status": "ET",
     "goals": [
       "",
-      "17' Ivan Emanuel Ramirez Ferreira (1-0)",
-      "40' Luis de La Cruz (1-1)",
+      "",
+      "40' Vilinton German Branda Merlin (1-0)",
       "",
       "",
-      "",
-      "87' Alan Max Benitez Dominguez (2-1)",
+      "67' Enrique Caicedo (2-0)",
+      "85' Saenddy Yanez (2-1)",
       ""
     ]
   },
@@ -94,29 +140,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "ECU D1",
-    "title": "Libertad F.C. 2-1 C.D. Universidad Catolica del Ecuador",
-    "homeTeam": "Libertad F.C.",
-    "awayTeam": "C.D. Universidad Catolica del Ecuador",
-    "score": "2-1",
-    "matchId": "5035293",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "40' Vilinton German Branda Merlin (1-0)",
-      "",
-      "",
-      "67' Enrique Caicedo (2-0)",
-      "85' Saenddy Yanez (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "URU D1",
@@ -133,6 +156,29 @@
       "45+3' Alex Bacilio Vazquez Alvez (2-2)",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "15:02",
+    "start_time": "15:02",
+    "group": "ARG D1",
+    "title": "Club Atletico Banfield 0-2 Club Atletico Belgrano",
+    "homeTeam": "Club Atletico Banfield",
+    "awayTeam": "Club Atletico Belgrano",
+    "score": "0-2",
+    "matchId": "5052513",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "48' Lucas Passerini (0-1)",
+      "61' Lisandro Ezequiel Lopez (0-2)",
       "",
       ""
     ]
@@ -157,29 +203,6 @@
       "",
       "70' Liliana Fernandez (1-0)",
       "77' Kayla Fernandez (2-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "15:02",
-    "start_time": "15:02",
-    "group": "ARG D1",
-    "title": "Club Atletico Banfield 0-2 Club Atletico Belgrano",
-    "homeTeam": "Club Atletico Banfield",
-    "awayTeam": "Club Atletico Belgrano",
-    "score": "0-2",
-    "matchId": "5052513",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "48' Lucas Passerini (0-1)",
-      "61' Lisandro Ezequiel Lopez (0-2)",
-      "",
       ""
     ]
   },
@@ -255,75 +278,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "PAN D1",
-    "title": "CA Independiente La Chorrera 2-2 Union Deportivo Universitario",
-    "homeTeam": "CA Independiente La Chorrera",
-    "awayTeam": "Union Deportivo Universitario",
-    "score": "2-2",
-    "matchId": "5111757",
-    "status": "69'",
-    "goals": [
-      "",
-      "21' Alexis Cundumi (0-1)",
-      "",
-      "45+2' Joel Clarke (0-2)",
-      "",
-      "61' Juan Gonz\u00e1lez (1-2)<br>63' 2-2",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "CRC D2",
-    "title": "Pitbulls 2-2 Guadalupe FC",
-    "homeTeam": "Pitbulls",
-    "awayTeam": "Guadalupe FC",
-    "score": "2-2",
-    "matchId": "5141060",
-    "status": "67'",
-    "goals": [
-      "9' Jostin Teller\u00eda (0-1)<br>13' Jostin Teller\u00eda (0-2)",
-      "",
-      "41' 1-2",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "17:15",
-    "start_time": "17:15",
-    "group": "ARG D1",
-    "title": "Union de Santa Fe 1-2 Central Cordoba de Santiago del Estero",
-    "homeTeam": "Union de Santa Fe",
-    "awayTeam": "Central Cordoba de Santiago del Estero",
-    "score": "1-2",
-    "matchId": "5052525",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Lucas Andres Menossi (1-0)",
-      "",
-      "",
-      "51' Michael Nicolas Santos Rosadilla (1-1)<br>54' Zahir Facundo Mansilla (1-2)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "ECU D1",
@@ -370,6 +324,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "CRC D2",
+    "title": "Pitbulls 2-2 Guadalupe FC",
+    "homeTeam": "Pitbulls",
+    "awayTeam": "Guadalupe FC",
+    "score": "2-2",
+    "matchId": "5141060",
+    "status": "82'",
+    "goals": [
+      "9' Jostin Teller\u00eda (0-1)<br>13' Jostin Teller\u00eda (0-2)",
+      "",
+      "41' 1-2",
+      "",
+      "",
+      "64' 2-2",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "BRA WT",
@@ -387,6 +364,29 @@
       "",
       "",
       "78' Raquel Fernandes (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "PAN D1",
+    "title": "CA Independiente La Chorrera 2-2 Union Deportivo Universitario",
+    "homeTeam": "CA Independiente La Chorrera",
+    "awayTeam": "Union Deportivo Universitario",
+    "score": "2-2",
+    "matchId": "5111757",
+    "status": "84'",
+    "goals": [
+      "",
+      "21' Alexis Cundumi (0-1)",
+      "",
+      "45+2' Joel Clarke (0-2)",
+      "",
+      "61' Juan Gonz\u00e1lez (1-2)<br>63' Davis Contreras (2-2)",
+      "",
       ""
     ]
   },
@@ -416,6 +416,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "17:15",
+    "start_time": "17:15",
+    "group": "ARG D1",
+    "title": "Union de Santa Fe 1-2 Central Cordoba de Santiago del Estero",
+    "homeTeam": "Union de Santa Fe",
+    "awayTeam": "Central Cordoba de Santiago del Estero",
+    "score": "1-2",
+    "matchId": "5052525",
+    "status": "ET",
+    "goals": [
+      "",
+      "17' Lucas Andres Menossi (1-0)",
+      "",
+      "",
+      "51' Michael Nicolas Santos Rosadilla (1-1)<br>54' Zahir Facundo Mansilla (1-2)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "BRA SPY",
@@ -433,29 +456,6 @@
       "",
       "",
       "81' 1-0<br>86' 1-1",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "18:06",
-    "start_time": "18:06",
-    "group": "MEX WD1",
-    "title": "Club Leon Women\\s 1-0 Tigres UANL Women\\s",
-    "homeTeam": "Club Leon Women\\s",
-    "awayTeam": "Tigres UANL Women\\s",
-    "score": "1-0",
-    "matchId": "5141606",
-    "status": "60'",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+4' Valeria Razo (1-0)",
-      "",
-      "",
-      "",
       ""
     ]
   },

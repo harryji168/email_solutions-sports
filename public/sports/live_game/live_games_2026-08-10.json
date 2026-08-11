@@ -5,12 +5,12 @@
     "time": "18:06",
     "start_time": "18:06",
     "group": "MEX WD1",
-    "title": "Club Leon Women\\s 1-1 Tigres UANL Women\\s",
+    "title": "Club Leon Women\\s 1-2 Tigres UANL Women\\s",
     "homeTeam": "Club Leon Women\\s",
     "awayTeam": "Tigres UANL Women\\s",
-    "score": "1-1",
+    "score": "1-2",
     "matchId": "5141606",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -19,7 +19,7 @@
       "",
       "64' Diana Rosario Ord\u00f3\u00f1ez Torres (1-1)",
       "",
-      ""
+      "90+7' Alexia Fernanda Delgado Alvarado (1-2)"
     ]
   },
   {
@@ -94,52 +94,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "14:31",
-    "start_time": "14:31",
-    "group": "PAR D1",
-    "title": "Club Libertad 2-1 Sportivo Trinidense",
-    "homeTeam": "Club Libertad",
-    "awayTeam": "Sportivo Trinidense",
-    "score": "2-1",
-    "matchId": "5154068",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Ivan Emanuel Ramirez Ferreira (1-0)",
-      "40' Luis de La Cruz (1-1)",
-      "",
-      "",
-      "",
-      "87' Alan Max Benitez Dominguez (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "ECU D1",
-    "title": "Libertad F.C. 2-1 C.D. Universidad Catolica del Ecuador",
-    "homeTeam": "Libertad F.C.",
-    "awayTeam": "C.D. Universidad Catolica del Ecuador",
-    "score": "2-1",
-    "matchId": "5035293",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "40' Vilinton German Branda Merlin (1-0)",
-      "",
-      "",
-      "67' Enrique Caicedo (2-0)",
-      "85' Saenddy Yanez (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "URU D1",
@@ -186,6 +140,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "14:31",
+    "start_time": "14:31",
+    "group": "PAR D1",
+    "title": "Club Libertad 2-1 Sportivo Trinidense",
+    "homeTeam": "Club Libertad",
+    "awayTeam": "Sportivo Trinidense",
+    "score": "2-1",
+    "matchId": "5154068",
+    "status": "ET",
+    "goals": [
+      "",
+      "17' Ivan Emanuel Ramirez Ferreira (1-0)",
+      "40' Luis de La Cruz (1-1)",
+      "",
+      "",
+      "",
+      "87' Alan Max Benitez Dominguez (2-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "16:32",
     "start_time": "16:32",
     "group": "VEN D1",
@@ -202,29 +179,6 @@
       "",
       "",
       "71' Juan Carlos Castellanos Anuel (1-2)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "15:02",
-    "start_time": "15:02",
-    "group": "ARG D1",
-    "title": "Club Atletico Banfield 0-2 Club Atletico Belgrano",
-    "homeTeam": "Club Atletico Banfield",
-    "awayTeam": "Club Atletico Belgrano",
-    "score": "0-2",
-    "matchId": "5052513",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "48' Lucas Passerini (0-1)",
-      "61' Lisandro Ezequiel Lopez (0-2)",
       "",
       ""
     ]
@@ -255,6 +209,52 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "ECU D1",
+    "title": "Libertad F.C. 2-1 C.D. Universidad Catolica del Ecuador",
+    "homeTeam": "Libertad F.C.",
+    "awayTeam": "C.D. Universidad Catolica del Ecuador",
+    "score": "2-1",
+    "matchId": "5035293",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' Vilinton German Branda Merlin (1-0)",
+      "",
+      "",
+      "67' Enrique Caicedo (2-0)",
+      "85' Saenddy Yanez (2-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "15:02",
+    "start_time": "15:02",
+    "group": "ARG D1",
+    "title": "Club Atletico Banfield 0-2 Club Atletico Belgrano",
+    "homeTeam": "Club Atletico Banfield",
+    "awayTeam": "Club Atletico Belgrano",
+    "score": "0-2",
+    "matchId": "5052513",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "48' Lucas Passerini (0-1)",
+      "61' Lisandro Ezequiel Lopez (0-2)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA D2",
@@ -267,6 +267,29 @@
     "goals": [
       "",
       "19' Carlos Eduardo de Sousa Leopoldino (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "20:00",
+    "start_time": "20:00",
+    "group": "ACGL",
+    "title": "Central Stallions 0-0 Tainan City",
+    "homeTeam": "Central Stallions",
+    "awayTeam": "Tainan City",
+    "score": "0-0",
+    "matchId": "5125529",
+    "status": "13'",
+    "goals": [
+      "",
+      "",
       "",
       "",
       "",
@@ -301,29 +324,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "BRA WT",
-    "title": "Botafogo RJ Women\\s 1-2 Fluminense (RJ) Women\\s",
-    "homeTeam": "Botafogo RJ Women\\s",
-    "awayTeam": "Fluminense (RJ) Women\\s",
-    "score": "1-2",
-    "matchId": "5029324",
-    "status": "ET",
-    "goals": [
-      "2' Patr\u00edcia Sochor (0-1)",
-      "22' Yasmin Cosmann (1-1)",
-      "",
-      "",
-      "",
-      "",
-      "78' Raquel Fernandes (1-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "18:00",
     "start_time": "18:00",
     "group": "CRC D2",
@@ -336,10 +336,10 @@
     "goals": [
       "9' Jostin Teller\u00eda (0-1)<br>13' Jostin Teller\u00eda (0-2)",
       "",
-      "41' 1-2",
+      "41' Jarret Forbes (1-2)",
       "",
       "",
-      "64' 2-2",
+      "64' Marcos Escoe (2-2)",
       "",
       ""
     ]
@@ -364,6 +364,29 @@
       "",
       "61' Juan Gonz\u00e1lez (1-2)<br>63' Davis Contreras (2-2)",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "BRA WT",
+    "title": "Botafogo RJ Women\\s 1-2 Fluminense (RJ) Women\\s",
+    "homeTeam": "Botafogo RJ Women\\s",
+    "awayTeam": "Fluminense (RJ) Women\\s",
+    "score": "1-2",
+    "matchId": "5029324",
+    "status": "ET",
+    "goals": [
+      "2' Patr\u00edcia Sochor (0-1)",
+      "22' Yasmin Cosmann (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "78' Raquel Fernandes (1-2)",
       ""
     ]
   },

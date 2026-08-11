@@ -10,7 +10,7 @@
     "awayTeam": "SK Prostejov",
     "score": "0-1",
     "matchId": "5143818",
-    "status": "12'",
+    "status": "15'",
     "goals": [
       "8' 0-1",
       "",
@@ -33,7 +33,7 @@
     "awayTeam": "Salon Palloilijat",
     "score": "0-0",
     "matchId": "5033073",
-    "status": "12'",
+    "status": "15'",
     "goals": [
       "",
       "",
@@ -56,99 +56,7 @@
     "awayTeam": "KuPS Akatemia",
     "score": "0-0",
     "matchId": "5033072",
-    "status": "12'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "08:31",
-    "start_time": "08:31",
-    "group": "FIN D3",
-    "title": "PK Keski Uusimaa(PKKU) 0-0 Inter Turku B",
-    "homeTeam": "PK Keski Uusimaa(PKKU)",
-    "awayTeam": "Inter Turku B",
-    "score": "0-0",
-    "matchId": "5033071",
-    "status": "12'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "08:31",
-    "start_time": "08:31",
-    "group": "FIN D3",
-    "title": "JJK Jyvaskyla 0-0 Tampere United",
-    "homeTeam": "JJK Jyvaskyla",
-    "awayTeam": "Tampere United",
-    "score": "0-0",
-    "matchId": "5033070",
-    "status": "12'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "08:31",
-    "start_time": "08:31",
-    "group": "RUS Cup",
-    "title": "FK Kvant Obninsk 0-0 FK Zvezda Ryazan",
-    "homeTeam": "FK Kvant Obninsk",
-    "awayTeam": "FK Zvezda Ryazan",
-    "score": "0-0",
-    "matchId": "5084224",
-    "status": "12'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "08:01",
-    "start_time": "08:01",
-    "group": "INT CF",
-    "title": "Tamale City 0-0 Koforidua Semper FC",
-    "homeTeam": "Tamale City",
-    "awayTeam": "Koforidua Semper FC",
-    "score": "0-0",
-    "matchId": "5162805",
-    "status": "45'",
+    "status": "15'",
     "goals": [
       "",
       "",
@@ -171,7 +79,99 @@
     "awayTeam": "Unicov",
     "score": "0-0",
     "matchId": "5143823",
-    "status": "11'",
+    "status": "14'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "08:31",
+    "start_time": "08:31",
+    "group": "FIN D3",
+    "title": "PK Keski Uusimaa(PKKU) 0-0 Inter Turku B",
+    "homeTeam": "PK Keski Uusimaa(PKKU)",
+    "awayTeam": "Inter Turku B",
+    "score": "0-0",
+    "matchId": "5033071",
+    "status": "15'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "08:31",
+    "start_time": "08:31",
+    "group": "FIN D3",
+    "title": "JJK Jyvaskyla 0-0 Tampere United",
+    "homeTeam": "JJK Jyvaskyla",
+    "awayTeam": "Tampere United",
+    "score": "0-0",
+    "matchId": "5033070",
+    "status": "15'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "08:31",
+    "start_time": "08:31",
+    "group": "RUS Cup",
+    "title": "FK Kvant Obninsk 0-0 FK Zvezda Ryazan",
+    "homeTeam": "FK Kvant Obninsk",
+    "awayTeam": "FK Zvezda Ryazan",
+    "score": "0-0",
+    "matchId": "5084224",
+    "status": "15'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "08:01",
+    "start_time": "08:01",
+    "group": "INT CF",
+    "title": "Tamale City 0-0 Koforidua Semper FC",
+    "homeTeam": "Tamale City",
+    "awayTeam": "Koforidua Semper FC",
+    "score": "0-0",
+    "matchId": "5162805",
+    "status": "45+'",
     "goals": [
       "",
       "",
@@ -217,7 +217,7 @@
     "awayTeam": "Orlando City B",
     "score": "2-0",
     "matchId": "5029830",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "10' Kevin Pierre Jr. (1-0)<br>13' Maximo Carrizo (2-0)",
       "",
@@ -240,7 +240,7 @@
     "awayTeam": "FC Hebar Pazardzhik",
     "score": "0-2",
     "matchId": "5095524",
-    "status": "45'",
+    "status": "HT",
     "goals": [
       "3' 0-1",
       "",
@@ -263,7 +263,7 @@
     "awayTeam": "Humenne",
     "score": "1-0",
     "matchId": "5154515",
-    "status": "43'",
+    "status": "45+'",
     "goals": [
       "",
       "23' 1-0",
@@ -286,7 +286,7 @@
     "awayTeam": "FC Tamper",
     "score": "2-1",
     "matchId": "5144808",
-    "status": "43'",
+    "status": "45+'",
     "goals": [
       "",
       "21' Erik Karl Ennuste (1-0)<br>24' Karel Eerme (2-0)<br>27' Henri Leoke (2-1)",
@@ -309,7 +309,7 @@
     "awayTeam": "AEL Larisa",
     "score": "0-1",
     "matchId": "5150938",
-    "status": "41'",
+    "status": "44'",
     "goals": [
       "11' Papageorgiou K. (0-1)",
       "",
@@ -332,7 +332,7 @@
     "awayTeam": "Al Hussein Irbid",
     "score": "2-0",
     "matchId": "5093108",
-    "status": "44'",
+    "status": "45+'",
     "goals": [
       "7' Dostonbek Khamdamov (1-0)",
       "30' Dostonbek Khamdamov (2-0)",
@@ -378,7 +378,7 @@
     "awayTeam": "Levski Sofia",
     "score": "0-1",
     "matchId": "5145318",
-    "status": "43'",
+    "status": "45+'",
     "goals": [
       "13' Reinaldo Nascimento Satorno (0-1)",
       "",
@@ -401,33 +401,10 @@
     "awayTeam": "Sacachispas Reserve",
     "score": "0-1",
     "matchId": "5162964",
-    "status": "68'",
+    "status": "71'",
     "goals": [
       "",
       "29' 0-1",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "08:03",
-    "start_time": "08:03",
-    "group": "INT CF",
-    "title": "ES Setif 0-0 Al-Qadsia SC",
-    "homeTeam": "ES Setif",
-    "awayTeam": "Al-Qadsia SC",
-    "score": "0-0",
-    "matchId": "5160366",
-    "status": "84'",
-    "goals": [
-      "",
-      "",
       "",
       "",
       "",
@@ -447,7 +424,7 @@
     "awayTeam": "Social Atletico Television Women\\s",
     "score": "0-0",
     "matchId": "5154674",
-    "status": "85'",
+    "status": "88'",
     "goals": [
       "",
       "",
@@ -470,7 +447,7 @@
     "awayTeam": "Berazategui Reserve",
     "score": "2-1",
     "matchId": "5162966",
-    "status": "85'",
+    "status": "88'",
     "goals": [
       "6' 1-0",
       "",
@@ -485,6 +462,29 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "POR LRU23",
+    "title": "FC Famalicao(U23) 2-2 Torreense(U23)",
+    "homeTeam": "FC Famalicao(U23)",
+    "awayTeam": "Torreense(U23)",
+    "score": "2-2",
+    "matchId": "5131035",
+    "status": "ET",
+    "goals": [
+      "13' 0-1",
+      "",
+      "37' 0-2",
+      "",
+      "52' 1-2<br>56' Oliver Tan (2-2)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
     "time": "07:03",
     "start_time": "07:03",
     "group": "ARG RL",
@@ -493,7 +493,7 @@
     "awayTeam": "All Boys Reserve",
     "score": "1-0",
     "matchId": "5162804",
-    "status": "82'",
+    "status": "85'",
     "goals": [
       "",
       "",
@@ -539,7 +539,7 @@
     "awayTeam": "Middlesbrough U21",
     "score": "0-9",
     "matchId": "5159097",
-    "status": "81'",
+    "status": "84'",
     "goals": [
       "5' Frankie Coulson (0-1)<br>8' Layton Campbell (0-2)",
       "",
@@ -562,7 +562,7 @@
     "awayTeam": "Homs Al Fidaa SC",
     "score": "0-1",
     "matchId": "5077497",
-    "status": "82'",
+    "status": "85'",
     "goals": [
       "10' 0-1",
       "",
@@ -608,7 +608,7 @@
     "awayTeam": "Sao Paulo Youth",
     "score": "2-0",
     "matchId": "5069558",
-    "status": "80'",
+    "status": "83'",
     "goals": [
       "",
       "",
@@ -631,7 +631,7 @@
     "awayTeam": "FC 10",
     "score": "1-1",
     "matchId": "5155160",
-    "status": "83'",
+    "status": "86'",
     "goals": [
       "",
       "",
@@ -663,6 +663,29 @@
       "59' 1-1",
       "63' 1-2",
       "87' 1-3",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "04:30",
+    "start_time": "04:30",
+    "group": "CHA D2",
+    "title": "Hangzhou Linping Wuyue F.C. 4-3 Guizhou Guiyang Athletic F.C.",
+    "homeTeam": "Hangzhou Linping Wuyue F.C.",
+    "awayTeam": "Guizhou Guiyang Athletic F.C.",
+    "score": "4-3",
+    "matchId": "5051242",
+    "status": "ET",
+    "goals": [
+      "14' Yao Xing (1-0)",
+      "20' Yin Jie (2-0)",
+      "",
+      "",
+      "46' Kong Yinquan (2-1)",
+      "63' He Tongshuai (3-1)<br>64' Liu Yujie (3-2)<br>69' Liu Yujie (3-3)",
+      "82' Yao Xing (4-3)",
       ""
     ]
   },
@@ -738,29 +761,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "04:30",
-    "start_time": "04:30",
-    "group": "CHA D2",
-    "title": "Hangzhou Linping Wuyue F.C. 4-3 Guizhou Guiyang Athletic F.C.",
-    "homeTeam": "Hangzhou Linping Wuyue F.C.",
-    "awayTeam": "Guizhou Guiyang Athletic F.C.",
-    "score": "4-3",
-    "matchId": "5051242",
-    "status": "ET",
-    "goals": [
-      "14' Yao Xing (1-0)",
-      "20' Yin Jie (2-0)",
-      "",
-      "",
-      "46' Kong Yinquan (2-1)",
-      "63' He Tongshuai (3-1)<br>64' Liu Yujie (3-2)<br>69' Liu Yujie (3-3)",
-      "82' Yao Xing (4-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "01:30",
     "start_time": "01:30",
     "group": "AUS CTU23",
@@ -830,6 +830,29 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "YEM D1",
+    "title": "Al Oruba(YEM) 3-1 Salam Al Qarfa",
+    "homeTeam": "Al Oruba(YEM)",
+    "awayTeam": "Salam Al Qarfa",
+    "score": "3-1",
+    "matchId": "5064659",
+    "status": "ET",
+    "goals": [
+      "",
+      "18' Mohammed Hassan Al-Jabri (0-1)",
+      "41' Haitham Al-Fakih (1-1)<br>43' Suhail Al-Salawi (2-1)",
+      "",
+      "",
+      "",
+      "79' Ali Al-Muntasir (3-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
     "time": "01:00",
     "start_time": "01:00",
     "group": "ACGL",
@@ -846,29 +869,6 @@
       "",
       "",
       "72' Dulguun Amaraa (1-1)<br>74' Naoki Kaneko (1-2)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "07:02",
-    "start_time": "07:02",
-    "group": "URU RL",
-    "title": "Racing Club Montevideo Reserve 0-1 Albion FC Reserve (URU)",
-    "homeTeam": "Racing Club Montevideo Reserve",
-    "awayTeam": "Albion FC Reserve (URU)",
-    "score": "0-1",
-    "matchId": "5159335",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "52' 0-1",
-      "",
       "",
       ""
     ]
@@ -893,6 +893,29 @@
       "",
       "72' 1-2",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "POR LRU23",
+    "title": "Sporting Braga(U23) 2-3 Farense(U23)",
+    "homeTeam": "Sporting Braga(U23)",
+    "awayTeam": "Farense(U23)",
+    "score": "2-3",
+    "matchId": "5131031",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' Guilherme Moraes (1-0)",
+      "",
+      "",
+      "62' 1-1<br>72' 2-1<br>72' 2-2",
+      "82' Joao Costa (2-3)",
       ""
     ]
   },
@@ -939,29 +962,6 @@
       "",
       "65' Oleksandr Abramchuk (3-1)<br>74' Yegor Shevchenko (3-2)",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "POR LRU23",
-    "title": "Sporting Braga(U23) 2-3 Farense(U23)",
-    "homeTeam": "Sporting Braga(U23)",
-    "awayTeam": "Farense(U23)",
-    "score": "2-3",
-    "matchId": "5131031",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' Guilherme Moraes (1-0)",
-      "",
-      "",
-      "62' 1-1<br>72' 2-1<br>72' 2-2",
-      "82' Joao Costa (2-3)",
       ""
     ]
   },
@@ -1106,23 +1106,23 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "YEM D1",
-    "title": "Al Oruba(YEM) 3-1 Salam Al Qarfa",
-    "homeTeam": "Al Oruba(YEM)",
-    "awayTeam": "Salam Al Qarfa",
-    "score": "3-1",
-    "matchId": "5064659",
+    "time": "07:02",
+    "start_time": "07:02",
+    "group": "URU RL",
+    "title": "Racing Club Montevideo Reserve 0-1 Albion FC Reserve (URU)",
+    "homeTeam": "Racing Club Montevideo Reserve",
+    "awayTeam": "Albion FC Reserve (URU)",
+    "score": "0-1",
+    "matchId": "5159335",
     "status": "ET",
     "goals": [
       "",
-      "18' Mohammed Hassan Al-Jabri (0-1)",
-      "41' Haitham Al-Fakih (1-1)<br>43' Suhail Al-Salawi (2-1)",
       "",
       "",
       "",
-      "79' Ali Al-Muntasir (3-1)",
+      "52' 0-1",
+      "",
+      "",
       ""
     ]
   },
@@ -1160,36 +1160,13 @@
     "awayTeam": "Ternana Women\\s",
     "score": "0-0",
     "matchId": "5162806",
-    "status": "12'",
+    "status": "15'",
     "goals": [
       "",
       "",
       "",
       "",
       "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "POR LRU23",
-    "title": "FC Famalicao(U23) 2-2 Torreense(U23)",
-    "homeTeam": "FC Famalicao(U23)",
-    "awayTeam": "Torreense(U23)",
-    "score": "2-2",
-    "matchId": "5131035",
-    "status": "ET",
-    "goals": [
-      "13' 0-1",
-      "",
-      "37' 0-2",
-      "",
-      "52' 1-2<br>56' Oliver Tan (2-2)",
       "",
       "",
       ""
@@ -1206,7 +1183,7 @@
     "awayTeam": "ASD Pineto Calcio",
     "score": "0-0",
     "matchId": "5160367",
-    "status": "9'",
+    "status": "12'",
     "goals": [
       "",
       "",
@@ -1229,7 +1206,7 @@
     "awayTeam": "UAI Urquiza Reserve",
     "score": "0-0",
     "matchId": "5162813",
-    "status": "12'",
+    "status": "15'",
     "goals": [
       "",
       "",

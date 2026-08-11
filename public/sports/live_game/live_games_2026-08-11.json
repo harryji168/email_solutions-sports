@@ -25,6 +25,29 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
+    "time": "11:30",
+    "start_time": "11:30",
+    "group": "INT CF",
+    "title": "Atletico Espeleno 2-2 Egabrense",
+    "homeTeam": "Atletico Espeleno",
+    "awayTeam": "Egabrense",
+    "score": "2-2",
+    "matchId": "5163450",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
     "time": "08:00",
     "start_time": "08:00",
     "group": "SVK Cup",
@@ -157,7 +180,7 @@
       "",
       "",
       "",
-      ""
+      "90' 1-1"
     ]
   },
   {
@@ -411,6 +434,29 @@
       "69' Meja Burman (0-3)",
       "",
       "90' Liv L\u00f6nner\u00f6 (1-3)"
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "11:30",
+    "start_time": "11:30",
+    "group": "ENG FAC",
+    "title": "Amersham Town 1-2 North Leigh",
+    "homeTeam": "Amersham Town",
+    "awayTeam": "North Leigh",
+    "score": "1-2",
+    "matchId": "5159109",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -968,29 +1014,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "10:00",
-    "start_time": "10:00",
-    "group": "PAR Cup",
-    "title": "4 de Mayo Capi\u00edbary 3-2 Fulgencio Yegros",
-    "homeTeam": "4 de Mayo Capi\u00edbary",
-    "awayTeam": "Fulgencio Yegros",
-    "score": "3-2",
-    "matchId": "5159154",
-    "status": "ET",
-    "goals": [
-      "",
-      "28' Alan Gaona (0-1)",
-      "",
-      "45+1' Juan Vargas (1-1)",
-      "49' Juan Maidana (2-1)<br>50' Fernando Ant\u00fanez (3-1)",
-      "",
-      "81' Fernando P\u00e1ez (3-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "03:00",
     "start_time": "03:00",
     "group": "POR LRU23",
@@ -1008,6 +1031,29 @@
       "",
       "62' 1-1<br>72' 2-1<br>72' 2-2",
       "82' Joao Costa (2-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "10:00",
+    "start_time": "10:00",
+    "group": "PAR Cup",
+    "title": "4 de Mayo Capi\u00edbary 3-2 Fulgencio Yegros",
+    "homeTeam": "4 de Mayo Capi\u00edbary",
+    "awayTeam": "Fulgencio Yegros",
+    "score": "3-2",
+    "matchId": "5159154",
+    "status": "ET",
+    "goals": [
+      "",
+      "28' Alan Gaona (0-1)",
+      "",
+      "45+1' Juan Vargas (1-1)",
+      "49' Juan Maidana (2-1)<br>50' Fernando Ant\u00fanez (3-1)",
+      "",
+      "81' Fernando P\u00e1ez (3-2)",
       ""
     ]
   },
@@ -2003,29 +2049,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "NIR CH",
-    "title": "Moyola Park 1-3 Strabane Athletic",
-    "homeTeam": "Moyola Park",
-    "awayTeam": "Strabane Athletic",
-    "score": "1-3",
-    "matchId": "5088774",
-    "status": "ET",
-    "goals": [
-      "8' 0-1",
-      "",
-      "32' 0-2",
-      "45+1' 1-2",
-      "",
-      "66' 1-3",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "09:01",
     "start_time": "09:01",
     "group": "INT CF",
@@ -2112,29 +2135,6 @@
       "",
       "72' Dulguun Amaraa (1-1)<br>74' Naoki Kaneko (1-2)",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "NIR CH",
-    "title": "Loughgall FC 2-2 Newington FC",
-    "homeTeam": "Loughgall FC",
-    "awayTeam": "Newington FC",
-    "score": "2-2",
-    "matchId": "5088772",
-    "status": "ET",
-    "goals": [
-      "7' Aodhfionn Casey (0-1)",
-      "21' Aodhfionn Casey (0-2)",
-      "42' 1-2",
-      "",
-      "",
-      "",
-      "79' 2-2",
       ""
     ]
   },
@@ -2448,7 +2448,7 @@
     "awayTeam": "Yateley United",
     "score": "0-2",
     "matchId": "5159168",
-    "status": "68'",
+    "status": "74'",
     "goals": [
       "",
       "",
@@ -2872,6 +2872,29 @@
       "",
       "",
       "103' Zane Helweh (0-1)<br>115' Harry Politidis (1-1)"
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "POR LRU23",
+    "title": "FC Famalicao(U23) 2-2 Torreense(U23)",
+    "homeTeam": "FC Famalicao(U23)",
+    "awayTeam": "Torreense(U23)",
+    "score": "2-2",
+    "matchId": "5131035",
+    "status": "ET",
+    "goals": [
+      "13' 0-1",
+      "",
+      "37' 0-2",
+      "",
+      "52' 1-2<br>56' Oliver Tan (2-2)",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -3498,29 +3521,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "POR LRU23",
-    "title": "FC Famalicao(U23) 2-2 Torreense(U23)",
-    "homeTeam": "FC Famalicao(U23)",
-    "awayTeam": "Torreense(U23)",
-    "score": "2-2",
-    "matchId": "5131035",
-    "status": "ET",
-    "goals": [
-      "13' 0-1",
-      "",
-      "37' 0-2",
-      "",
-      "52' 1-2<br>56' Oliver Tan (2-2)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "10:02",
     "start_time": "10:02",
     "group": "INT CF",
@@ -3938,19 +3938,65 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "NIR CH",
-    "title": "Newry City 1-4 Glenavon F.C.",
-    "homeTeam": "Newry City",
-    "awayTeam": "Glenavon F.C.",
-    "score": "1-4",
-    "matchId": "5088777",
+    "title": "Loughgall FC 2-2 Newington FC",
+    "homeTeam": "Loughgall FC",
+    "awayTeam": "Newington FC",
+    "score": "2-2",
+    "matchId": "5088772",
     "status": "ET",
     "goals": [
-      "9' Ryan Waide (0-1)",
-      "29' Pablo Andrade (1-1)",
+      "7' Aodhfionn Casey (0-1)",
+      "21' Aodhfionn Casey (0-2)",
+      "42' 1-2",
       "",
       "",
       "",
-      "65' Patrick Burns (1-2)",
+      "79' 2-2",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "SCO BCC",
+    "title": "Kelty Hearts F.C. 4-3 Motherwell FC(U21)",
+    "homeTeam": "Kelty Hearts F.C.",
+    "awayTeam": "Motherwell FC(U21)",
+    "score": "4-3",
+    "matchId": "5126702",
+    "status": "ET",
+    "goals": [
+      "",
+      "21' Zander McAllister (0-1)<br>23' Aaron Thomson (0-2)<br>30' Innes Murray (1-2)",
+      "40' Ryan Shanley (2-2)<br>44' Ryan Shanley (3-2)",
+      "",
+      "46' Jamie Hislop (4-2)<br>56' Lucas Weir (4-3)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "SCO BCC",
+    "title": "Montrose F.C. 2-0 Fraserburgh",
+    "homeTeam": "Montrose F.C.",
+    "awayTeam": "Fraserburgh",
+    "score": "2-0",
+    "matchId": "5126704",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "37' Gary Oliver (1-0)",
+      "",
+      "47' Jake Sutherland (2-0)",
+      "",
       "",
       ""
     ]
@@ -4099,12 +4145,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG-N PR",
-    "title": "FC United of Manchester 0-1 Leek Town",
+    "title": "FC United of Manchester 1-1 Leek Town",
     "homeTeam": "FC United of Manchester",
     "awayTeam": "Leek Town",
-    "score": "0-1",
+    "score": "1-1",
     "matchId": "5130975",
-    "status": "89'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -4457,8 +4503,8 @@
       "",
       "",
       "61' Scott Robinson (2-1)<br>64' Dylan Jones (3-1)",
-      "82' 4-1",
-      ""
+      "82' Ben Seymour (4-1)",
+      "90+1' 4-2"
     ]
   },
   {
@@ -4481,7 +4527,7 @@
       "",
       "",
       "",
-      ""
+      "90' Miracle Okafor (2-1)<br>90+4' Manny Ilesanmi (3-1)"
     ]
   },
   {
@@ -4527,7 +4573,7 @@
       "",
       "61' Chris Hussey (1-1)",
       "",
-      ""
+      "90' Jake Jervis (2-1)"
     ]
   },
   {
@@ -4618,7 +4664,7 @@
       "45+4' Harvey Sayer (2-0)",
       "",
       "65' Tyrone Baker (2-1)",
-      "84' 3-1",
+      "84' Adam Mills (3-1)",
       ""
     ]
   },
@@ -5254,7 +5300,7 @@
     "awayTeam": "AC Sparta Prague",
     "score": "3-0",
     "matchId": "5133941",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "20' Ernest Appiah Nuamah (1-0)",
@@ -5300,7 +5346,7 @@
     "awayTeam": "Sportivo Ameliano",
     "score": "0-0",
     "matchId": "5159156",
-    "status": "59'",
+    "status": "65'",
     "goals": [
       "",
       "",
@@ -5308,6 +5354,52 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "NIR CH",
+    "title": "Moyola Park 1-3 Strabane Athletic",
+    "homeTeam": "Moyola Park",
+    "awayTeam": "Strabane Athletic",
+    "score": "1-3",
+    "matchId": "5088774",
+    "status": "ET",
+    "goals": [
+      "8' 0-1",
+      "",
+      "32' 0-2",
+      "45+1' 1-2",
+      "",
+      "66' 1-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "NIR CH",
+    "title": "Newry City 1-4 Glenavon F.C.",
+    "homeTeam": "Newry City",
+    "awayTeam": "Glenavon F.C.",
+    "score": "1-4",
+    "matchId": "5088777",
+    "status": "ET",
+    "goals": [
+      "9' Ryan Waide (0-1)",
+      "29' Pablo Andrade (1-1)",
+      "",
+      "",
+      "",
+      "65' Patrick Burns (1-2)",
       "",
       ""
     ]
@@ -5361,29 +5453,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "SCO BCC",
-    "title": "Alloa Athletic 2-1 Stranraer F.C.",
-    "homeTeam": "Alloa Athletic",
-    "awayTeam": "Stranraer F.C.",
-    "score": "2-1",
-    "matchId": "5126661",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "58' Luke Rankin (1-0)",
-      "63' Owen Foster (2-0)",
-      "83' Robbie Foster (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "11:44",
     "start_time": "11:44",
     "group": "SCO BCC",
@@ -5430,29 +5499,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "11:47",
-    "start_time": "11:47",
-    "group": "SCO BCC",
-    "title": "Bonnyrigg Rose F.C. 1-0 Annan Athletic F.C.",
-    "homeTeam": "Bonnyrigg Rose F.C.",
-    "awayTeam": "Annan Athletic F.C.",
-    "score": "1-0",
-    "matchId": "5126667",
-    "status": "ET",
-    "goals": [
-      "",
-      "26' Kieran Watson (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "11:45",
     "start_time": "11:45",
     "group": "SCO BCC",
@@ -5476,23 +5522,46 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
+    "time": "11:47",
+    "start_time": "11:47",
+    "group": "SCO BCC",
+    "title": "Bonnyrigg Rose F.C. 1-0 Annan Athletic F.C.",
+    "homeTeam": "Bonnyrigg Rose F.C.",
+    "awayTeam": "Annan Athletic F.C.",
+    "score": "1-0",
+    "matchId": "5126667",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Kieran Watson (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
     "time": "11:46",
     "start_time": "11:46",
     "group": "SCO BCC",
-    "title": "Clyde F.C. 1-4 St. Mirren(U21)",
-    "homeTeam": "Clyde F.C.",
-    "awayTeam": "St. Mirren(U21)",
-    "score": "1-4",
-    "matchId": "5126676",
+    "title": "Clydebank FC 4-0 Hibernian FC(U21)",
+    "homeTeam": "Clydebank FC",
+    "awayTeam": "Hibernian FC(U21)",
+    "score": "4-0",
+    "matchId": "5126679",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
-      "53' Luke Douglas (0-1)<br>60' Craig Howie (1-1)",
-      "70' Jack Lavery (1-2)<br>75' Jack Lavery (1-3)",
-      "84' Ruari Duff (1-4)",
+      "56' Matt Niven (1-0)",
+      "",
+      "76' Josh Jack (2-0)<br>85' 3-0",
       ""
     ]
   },
@@ -5525,20 +5594,20 @@
     "time": "11:46",
     "start_time": "11:46",
     "group": "SCO BCC",
-    "title": "Clydebank FC 4-0 Hibernian FC(U21)",
-    "homeTeam": "Clydebank FC",
-    "awayTeam": "Hibernian FC(U21)",
-    "score": "4-0",
-    "matchId": "5126679",
+    "title": "Clyde F.C. 1-4 St. Mirren(U21)",
+    "homeTeam": "Clyde F.C.",
+    "awayTeam": "St. Mirren(U21)",
+    "score": "1-4",
+    "matchId": "5126676",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
-      "56' Matt Niven (1-0)",
-      "",
-      "76' Josh Jack (2-0)<br>85' 3-0",
+      "53' Luke Douglas (0-1)<br>60' Craig Howie (1-1)",
+      "70' Jack Lavery (1-2)<br>75' Jack Lavery (1-3)",
+      "84' Ruari Duff (1-4)",
       ""
     ]
   },
@@ -5585,6 +5654,29 @@
       "59' Finlay Gray (2-2)",
       "65' Rhys Armstrong (3-2)<br>67' Cameron Elliott (4-2)",
       "80' Ieuan Owen (4-3)<br>84' Keir Foster (5-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "SCO BCC",
+    "title": "Alloa Athletic 2-1 Stranraer F.C.",
+    "homeTeam": "Alloa Athletic",
+    "awayTeam": "Stranraer F.C.",
+    "score": "2-1",
+    "matchId": "5126661",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "58' Luke Rankin (1-0)",
+      "63' Owen Foster (2-0)",
+      "83' Robbie Foster (2-1)",
       ""
     ]
   },
@@ -5663,75 +5755,6 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "SCO BCC",
-    "title": "Gala Fairydean 0-4 Glasgow Rangers(U21)",
-    "homeTeam": "Gala Fairydean",
-    "awayTeam": "Glasgow Rangers(U21)",
-    "score": "0-4",
-    "matchId": "5126699",
-    "status": "ET",
-    "goals": [
-      "9' Zebedee Lawson (0-1)<br>10' Aiden McCallion (0-2)",
-      "24' Zebedee Lawson (0-3)",
-      "",
-      "",
-      "",
-      "67' Aiden McCallion (0-4)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "SCO BCC",
-    "title": "Kelty Hearts F.C. 4-3 Motherwell FC(U21)",
-    "homeTeam": "Kelty Hearts F.C.",
-    "awayTeam": "Motherwell FC(U21)",
-    "score": "4-3",
-    "matchId": "5126702",
-    "status": "ET",
-    "goals": [
-      "",
-      "21' Zander McAllister (0-1)<br>23' Aaron Thomson (0-2)<br>30' Innes Murray (1-2)",
-      "40' Ryan Shanley (2-2)<br>44' Ryan Shanley (3-2)",
-      "",
-      "46' Jamie Hislop (4-2)<br>56' Lucas Weir (4-3)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "SCO BCC",
-    "title": "Montrose F.C. 2-0 Fraserburgh",
-    "homeTeam": "Montrose F.C.",
-    "awayTeam": "Fraserburgh",
-    "score": "2-0",
-    "matchId": "5126704",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "37' Gary Oliver (1-0)",
-      "",
-      "47' Jake Sutherland (2-0)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "SCO BCC",
     "title": "Formartine United 4-1 Dundee(U21)",
     "homeTeam": "Formartine United",
     "awayTeam": "Dundee(U21)",
@@ -5746,6 +5769,29 @@
       "60' Gafar Abari (3-0)",
       "",
       "76' Aidan McCormick (4-0)<br>87' Lewis Wiseman (4-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "SCO BCC",
+    "title": "Gala Fairydean 0-4 Glasgow Rangers(U21)",
+    "homeTeam": "Gala Fairydean",
+    "awayTeam": "Glasgow Rangers(U21)",
+    "score": "0-4",
+    "matchId": "5126699",
+    "status": "ET",
+    "goals": [
+      "9' Zebedee Lawson (0-1)<br>10' Aiden McCallion (0-2)",
+      "24' Zebedee Lawson (0-3)",
+      "",
+      "",
+      "",
+      "67' Aiden McCallion (0-4)",
+      "",
       ""
     ]
   },

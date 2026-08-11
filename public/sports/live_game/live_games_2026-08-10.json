@@ -71,6 +71,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "CHI D1",
+    "title": "Audax Italiano 2-2 CD Nublense",
+    "homeTeam": "Audax Italiano",
+    "awayTeam": "CD Nublense",
+    "score": "2-2",
+    "matchId": "5021594",
+    "status": "ET",
+    "goals": [
+      "9' Robinson Manuel Rivera Zuniga (0-1)",
+      "",
+      "33' Michael Andres Fuentes Vadulli (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "90+2' Matias Plaza (1-2)<br>90+12' Cesar Ignacio Pinares Tamayo (2-2)"
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "17:15",
     "start_time": "17:15",
     "group": "ARG D1",
@@ -88,6 +111,29 @@
       "51' Michael Nicolas Santos Rosadilla (1-1)<br>54' Zahir Facundo Mansilla (1-2)",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "ECU D1",
+    "title": "Deportivo Cuenca 1-2 Manta F.C.",
+    "homeTeam": "Deportivo Cuenca",
+    "awayTeam": "Manta F.C.",
+    "score": "1-2",
+    "matchId": "5035290",
+    "status": "ET",
+    "goals": [
+      "15' Jerry Gabriel Leon Nazareno (0-1)",
+      "",
+      "44' Lucas Eduardo Mancinelli (1-1)",
+      "",
+      "",
+      "",
+      "84' Joaquin Verges (1-2)",
       ""
     ]
   },
@@ -117,29 +163,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "14:31",
-    "start_time": "14:31",
-    "group": "PAR D1",
-    "title": "Club Libertad 2-1 Sportivo Trinidense",
-    "homeTeam": "Club Libertad",
-    "awayTeam": "Sportivo Trinidense",
-    "score": "2-1",
-    "matchId": "5154068",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Ivan Emanuel Ramirez Ferreira (1-0)",
-      "40' Luis de La Cruz (1-1)",
-      "",
-      "",
-      "",
-      "87' Alan Max Benitez Dominguez (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "17:02",
     "start_time": "17:02",
     "group": "MEX WD1",
@@ -163,23 +186,23 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "ECU D1",
-    "title": "Libertad F.C. 2-1 C.D. Universidad Catolica del Ecuador",
-    "homeTeam": "Libertad F.C.",
-    "awayTeam": "C.D. Universidad Catolica del Ecuador",
+    "time": "14:31",
+    "start_time": "14:31",
+    "group": "PAR D1",
+    "title": "Club Libertad 2-1 Sportivo Trinidense",
+    "homeTeam": "Club Libertad",
+    "awayTeam": "Sportivo Trinidense",
     "score": "2-1",
-    "matchId": "5035293",
+    "matchId": "5154068",
     "status": "ET",
     "goals": [
       "",
+      "17' Ivan Emanuel Ramirez Ferreira (1-0)",
+      "40' Luis de La Cruz (1-1)",
       "",
-      "40' Vilinton German Branda Merlin (1-0)",
       "",
       "",
-      "67' Enrique Caicedo (2-0)",
-      "85' Saenddy Yanez (2-1)",
+      "87' Alan Max Benitez Dominguez (2-1)",
       ""
     ]
   },
@@ -212,12 +235,12 @@
     "time": "20:00",
     "start_time": "20:00",
     "group": "ACGL",
-    "title": "Central Stallions 2-1 Tainan City",
+    "title": "Central Stallions 2-2 Tainan City",
     "homeTeam": "Central Stallions",
     "awayTeam": "Tainan City",
-    "score": "2-1",
+    "score": "2-2",
     "matchId": "5125529",
-    "status": "88'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -226,30 +249,30 @@
       "",
       "64' 0-1<br>72' 1-1",
       "83' 2-1",
-      ""
+      "90+3' 2-2"
     ]
   },
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "CHI D1",
-    "title": "Audax Italiano 2-2 CD Nublense",
-    "homeTeam": "Audax Italiano",
-    "awayTeam": "CD Nublense",
-    "score": "2-2",
-    "matchId": "5021594",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "ECU D1",
+    "title": "Libertad F.C. 2-1 C.D. Universidad Catolica del Ecuador",
+    "homeTeam": "Libertad F.C.",
+    "awayTeam": "C.D. Universidad Catolica del Ecuador",
+    "score": "2-1",
+    "matchId": "5035293",
     "status": "ET",
     "goals": [
-      "9' Robinson Manuel Rivera Zuniga (0-1)",
-      "",
-      "33' Michael Andres Fuentes Vadulli (1-1)",
       "",
       "",
+      "40' Vilinton German Branda Merlin (1-0)",
       "",
       "",
-      "90+2' Matias Plaza (1-2)<br>90+12' Cesar Ignacio Pinares Tamayo (2-2)"
+      "67' Enrique Caicedo (2-0)",
+      "85' Saenddy Yanez (2-1)",
+      ""
     ]
   },
   {
@@ -370,29 +393,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "ECU D1",
-    "title": "Deportivo Cuenca 1-2 Manta F.C.",
-    "homeTeam": "Deportivo Cuenca",
-    "awayTeam": "Manta F.C.",
-    "score": "1-2",
-    "matchId": "5035290",
-    "status": "ET",
-    "goals": [
-      "15' Jerry Gabriel Leon Nazareno (0-1)",
-      "",
-      "44' Lucas Eduardo Mancinelli (1-1)",
-      "",
-      "",
-      "",
-      "84' Joaquin Verges (1-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "18:00",
     "start_time": "18:00",
     "group": "CRC D2",
@@ -409,29 +409,6 @@
       "",
       "",
       "64' Marcos Escoe (2-2)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "PAN D1",
-    "title": "CA Independiente La Chorrera 2-2 Union Deportivo Universitario",
-    "homeTeam": "CA Independiente La Chorrera",
-    "awayTeam": "Union Deportivo Universitario",
-    "score": "2-2",
-    "matchId": "5111757",
-    "status": "ET",
-    "goals": [
-      "",
-      "21' Alexis Cundumi (0-1)",
-      "",
-      "45+2' Joel Clarke (0-2)",
-      "",
-      "61' Juan Gonz\u00e1lez (1-2)<br>63' Davis Contreras (2-2)",
       "",
       ""
     ]
@@ -456,6 +433,29 @@
       "",
       "",
       "78' Raquel Fernandes (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "PAN D1",
+    "title": "CA Independiente La Chorrera 2-2 Union Deportivo Universitario",
+    "homeTeam": "CA Independiente La Chorrera",
+    "awayTeam": "Union Deportivo Universitario",
+    "score": "2-2",
+    "matchId": "5111757",
+    "status": "ET",
+    "goals": [
+      "",
+      "21' Alexis Cundumi (0-1)",
+      "",
+      "45+2' Joel Clarke (0-2)",
+      "",
+      "61' Juan Gonz\u00e1lez (1-2)<br>63' Davis Contreras (2-2)",
+      "",
       ""
     ]
   },

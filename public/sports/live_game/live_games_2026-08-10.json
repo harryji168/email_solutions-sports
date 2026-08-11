@@ -48,29 +48,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "CHI D1",
-    "title": "Audax Italiano 2-2 CD Nublense",
-    "homeTeam": "Audax Italiano",
-    "awayTeam": "CD Nublense",
-    "score": "2-2",
-    "matchId": "5021594",
-    "status": "ET",
-    "goals": [
-      "9' Robinson Manuel Rivera Zuniga (0-1)",
-      "",
-      "33' Michael Andres Fuentes Vadulli (1-1)",
-      "",
-      "",
-      "",
-      "",
-      "90+2' Matias Plaza (1-2)<br>90+12' Cesar Ignacio Pinares Tamayo (2-2)"
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "17:04",
     "start_time": "17:04",
     "group": "BRA WT",
@@ -232,6 +209,29 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
+    "time": "20:00",
+    "start_time": "20:00",
+    "group": "ACGL",
+    "title": "Central Stallions 0-1 Tainan City",
+    "homeTeam": "Central Stallions",
+    "awayTeam": "Tainan City",
+    "score": "0-1",
+    "matchId": "5125529",
+    "status": "70'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "64' 0-1",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
     "time": "15:02",
     "start_time": "15:02",
     "group": "ARG D1",
@@ -272,29 +272,6 @@
       "",
       "67' Enrique Caicedo (2-0)",
       "85' Saenddy Yanez (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
-    "time": "20:00",
-    "start_time": "20:00",
-    "group": "ACGL",
-    "title": "Central Stallions 0-0 Tainan City",
-    "homeTeam": "Central Stallions",
-    "awayTeam": "Tainan City",
-    "score": "0-0",
-    "matchId": "5125529",
-    "status": "55'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -416,29 +393,6 @@
   {
     "date": "2026-08-10",
     "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "PAN D1",
-    "title": "CA Independiente La Chorrera 2-2 Union Deportivo Universitario",
-    "homeTeam": "CA Independiente La Chorrera",
-    "awayTeam": "Union Deportivo Universitario",
-    "score": "2-2",
-    "matchId": "5111757",
-    "status": "ET",
-    "goals": [
-      "",
-      "21' Alexis Cundumi (0-1)",
-      "",
-      "45+2' Joel Clarke (0-2)",
-      "",
-      "61' Juan Gonz\u00e1lez (1-2)<br>63' Davis Contreras (2-2)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-10",
-    "day": "Monday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "BRA WT",
@@ -456,6 +410,29 @@
       "",
       "",
       "78' Raquel Fernandes (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "PAN D1",
+    "title": "CA Independiente La Chorrera 2-2 Union Deportivo Universitario",
+    "homeTeam": "CA Independiente La Chorrera",
+    "awayTeam": "Union Deportivo Universitario",
+    "score": "2-2",
+    "matchId": "5111757",
+    "status": "ET",
+    "goals": [
+      "",
+      "21' Alexis Cundumi (0-1)",
+      "",
+      "45+2' Joel Clarke (0-2)",
+      "",
+      "61' Juan Gonz\u00e1lez (1-2)<br>63' Davis Contreras (2-2)",
+      "",
       ""
     ]
   },
@@ -480,6 +457,29 @@
       "",
       "81' 1-0<br>86' 1-1",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-10",
+    "day": "Monday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "CHI D1",
+    "title": "Audax Italiano 2-2 CD Nublense",
+    "homeTeam": "Audax Italiano",
+    "awayTeam": "CD Nublense",
+    "score": "2-2",
+    "matchId": "5021594",
+    "status": "ET",
+    "goals": [
+      "9' Robinson Manuel Rivera Zuniga (0-1)",
+      "",
+      "33' Michael Andres Fuentes Vadulli (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "90+2' Matias Plaza (1-2)<br>90+12' Cesar Ignacio Pinares Tamayo (2-2)"
     ]
   },
   {

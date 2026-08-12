@@ -71,29 +71,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "16:06",
-    "start_time": "16:06",
-    "group": "CAN CC",
-    "title": "Atletico Ottawa 3-3 Supra Du Quebec",
-    "homeTeam": "Atletico Ottawa",
-    "awayTeam": "Supra Du Quebec",
-    "score": "3-3",
-    "matchId": "5065637",
-    "status": "ET",
-    "goals": [
-      "8' Lo\u00efc Kwemi (0-1)<br>15' Ibrahim Cond\u00e9 (0-2)",
-      "",
-      "",
-      "",
-      "50' Nicolas Fleuriau Chateau (1-2)<br>55' Sean Rea (1-3)",
-      "74' Nicolas Fleuriau Chateau (2-3)",
-      "",
-      "90+5' B. Tabla (3-3)"
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "17:06",
     "start_time": "17:06",
     "group": "CNCF CACup",
@@ -117,6 +94,29 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
+    "time": "16:06",
+    "start_time": "16:06",
+    "group": "CAN CC",
+    "title": "Atletico Ottawa 3-3 Supra Du Quebec",
+    "homeTeam": "Atletico Ottawa",
+    "awayTeam": "Supra Du Quebec",
+    "score": "3-3",
+    "matchId": "5065637",
+    "status": "ET",
+    "goals": [
+      "8' Lo\u00efc Kwemi (0-1)<br>15' Ibrahim Cond\u00e9 (0-2)",
+      "",
+      "",
+      "",
+      "50' Nicolas Fleuriau Chateau (1-2)<br>55' Sean Rea (1-3)",
+      "74' Nicolas Fleuriau Chateau (2-3)",
+      "",
+      "90+5' B. Tabla (3-3)"
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
     "time": "21:01",
     "start_time": "21:01",
     "group": "OFC CL",
@@ -125,7 +125,7 @@
     "awayTeam": "Tupapa Maraerenga",
     "score": "0-0",
     "matchId": "5044652",
-    "status": "3'",
+    "status": "15'",
     "goals": [
       "",
       "",
@@ -163,29 +163,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "17:31",
-    "start_time": "17:31",
-    "group": "CON CSA",
-    "title": "Club Bolivar 1-1 Sao Paulo FC",
-    "homeTeam": "Club Bolivar",
-    "awayTeam": "Sao Paulo FC",
-    "score": "1-1",
-    "matchId": "5150927",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' Robert Abel Arboleda Escobar (0-1)",
-      "",
-      "",
-      "",
-      "63' Carlos Antonio Melgar Vargas (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "16:01",
     "start_time": "16:01",
     "group": "ARG RL",
@@ -203,29 +180,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
-    "time": "19:10",
-    "start_time": "19:10",
-    "group": "CNCF LC",
-    "title": "Tigres UANL 1-1 Vancouver Whitecaps FC",
-    "homeTeam": "Tigres UANL",
-    "awayTeam": "Vancouver Whitecaps FC",
-    "score": "1-1",
-    "matchId": "5050031",
-    "status": "90+'",
-    "goals": [
-      "",
-      "19' Rodrigo Sebastian Aguirre Soto (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "79' Emmanuel Sabbi (1-1)",
       ""
     ]
   },
@@ -255,23 +209,23 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "17:01",
-    "start_time": "17:01",
-    "group": "ARG D1",
-    "title": "Talleres Cordoba 0-3 Club Atletico Lanus",
-    "homeTeam": "Talleres Cordoba",
-    "awayTeam": "Club Atletico Lanus",
-    "score": "0-3",
-    "matchId": "5052523",
+    "time": "17:31",
+    "start_time": "17:31",
+    "group": "CON CSA",
+    "title": "Club Bolivar 1-1 Sao Paulo FC",
+    "homeTeam": "Club Bolivar",
+    "awayTeam": "Sao Paulo FC",
+    "score": "1-1",
+    "matchId": "5150927",
     "status": "ET",
     "goals": [
       "",
+      "23' Robert Abel Arboleda Escobar (0-1)",
       "",
       "",
       "",
+      "63' Carlos Antonio Melgar Vargas (1-1)",
       "",
-      "74' Dylan Aquino (0-1)",
-      "79' Yoshan Valois (0-2)<br>87' Yoshan Valois (0-3)",
       ""
     ]
   },
@@ -393,29 +347,6 @@
   {
     "date": "2026-08-11",
     "day": "Tuesday",
-    "time": "17:40",
-    "start_time": "17:40",
-    "group": "CNCF LC",
-    "title": "Minnesota United FC 3-1 CF Atlante",
-    "homeTeam": "Minnesota United FC",
-    "awayTeam": "CF Atlante",
-    "score": "3-1",
-    "matchId": "5050029",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' Devin Padelford (0-1)",
-      "",
-      "59' Mauricio Gonzalez Villa (1-1)",
-      "75' Joaquin Nicolas Pereyra (2-1)",
-      "87' Joaquin Nicolas Pereyra (3-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-11",
-    "day": "Tuesday",
     "time": "16:40",
     "start_time": "16:40",
     "group": "CNCF LC",
@@ -433,6 +364,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "17:40",
+    "start_time": "17:40",
+    "group": "CNCF LC",
+    "title": "Minnesota United FC 3-1 CF Atlante",
+    "homeTeam": "Minnesota United FC",
+    "awayTeam": "CF Atlante",
+    "score": "3-1",
+    "matchId": "5050029",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' Devin Padelford (0-1)",
+      "",
+      "59' Mauricio Gonzalez Villa (1-1)",
+      "75' Joaquin Nicolas Pereyra (2-1)",
+      "87' Joaquin Nicolas Pereyra (3-1)",
       ""
     ]
   },
@@ -479,6 +433,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-11",
+    "day": "Tuesday",
+    "time": "17:01",
+    "start_time": "17:01",
+    "group": "ARG D1",
+    "title": "Talleres Cordoba 0-3 Club Atletico Lanus",
+    "homeTeam": "Talleres Cordoba",
+    "awayTeam": "Club Atletico Lanus",
+    "score": "0-3",
+    "matchId": "5052523",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "74' Dylan Aquino (0-1)",
+      "79' Yoshan Valois (0-2)<br>87' Yoshan Valois (0-3)",
       ""
     ]
   },

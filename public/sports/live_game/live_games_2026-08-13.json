@@ -163,6 +163,29 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
+    "time": "06:15",
+    "start_time": "06:15",
+    "group": "INT CF",
+    "title": "FC Liefering 0-4 Aris Limassol FC",
+    "homeTeam": "FC Liefering",
+    "awayTeam": "Aris Limassol FC",
+    "score": "0-4",
+    "matchId": "5165133",
+    "status": "ET",
+    "goals": [
+      "",
+      "20' 0-1<br>23' 0-2",
+      "33' 0-3",
+      "45+1' 0-4",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "IRE MSL",
@@ -200,29 +223,6 @@
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
-    "time": "06:15",
-    "start_time": "06:15",
-    "group": "INT CF",
-    "title": "FC Liefering 0-4 Aris Limassol FC",
-    "homeTeam": "FC Liefering",
-    "awayTeam": "Aris Limassol FC",
-    "score": "0-4",
-    "matchId": "5165133",
-    "status": "ET",
-    "goals": [
-      "",
-      "20' 0-1<br>23' 0-2",
-      "33' 0-3",
-      "45+1' 0-4",
       "",
       "",
       "",
@@ -378,6 +378,29 @@
     "awayTeam": "Temperley Reserve",
     "score": "0-0",
     "matchId": "5164814",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "KAZ D1",
+    "title": "Kairat Almaty B 0-0 Akademiya Ontustik",
+    "homeTeam": "Kairat Almaty B",
+    "awayTeam": "Akademiya Ontustik",
+    "score": "0-0",
+    "matchId": "5054507",
     "status": "ET",
     "goals": [
       "",
@@ -761,6 +784,29 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "BRA CGD2",
+    "title": "Esportivo (RS) 0-0 Santa Cruz RS",
+    "homeTeam": "Esportivo (RS)",
+    "awayTeam": "Santa Cruz RS",
+    "score": "0-0",
+    "matchId": "5113215",
+    "status": "6'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
     "time": "10:58",
     "start_time": "10:58",
     "group": "ICE D1",
@@ -807,6 +853,29 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "CHI D2",
+    "title": "San Luis Quillota 0-0 Deportes Temuco",
+    "homeTeam": "San Luis Quillota",
+    "awayTeam": "Deportes Temuco",
+    "score": "0-0",
+    "matchId": "5027392",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "ICE D1",
@@ -848,6 +917,29 @@
       "62' 1-1",
       "89' 2-1",
       "90+4' 2-2"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "INTERF",
+    "title": "USA Women\\s(U17) 0-0 Mexico Women\\s(U17)",
+    "homeTeam": "USA Women\\s(U17)",
+    "awayTeam": "Mexico Women\\s(U17)",
+    "score": "0-0",
+    "matchId": "5157786",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -922,6 +1014,29 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "BRA SPWL",
+    "title": "Sao Paulo Women\\s 0-0 Santos Women\\s",
+    "homeTeam": "Sao Paulo Women\\s",
+    "awayTeam": "Santos Women\\s",
+    "score": "0-0",
+    "matchId": "5065075",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "KSA PR",
@@ -968,6 +1083,29 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "CON CSA",
+    "title": "Vasco da Gama 0-0 Olimpia Asuncion",
+    "homeTeam": "Vasco da Gama",
+    "awayTeam": "Olimpia Asuncion",
+    "score": "0-0",
+    "matchId": "5150933",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "KSA PR",
@@ -991,21 +1129,21 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "07:12",
-    "start_time": "07:12",
-    "group": "INT CF",
-    "title": "ASO Chlef 1-1 Kazma SC",
-    "homeTeam": "ASO Chlef",
-    "awayTeam": "Kazma SC",
-    "score": "1-1",
-    "matchId": "5164288",
+    "time": "07:09",
+    "start_time": "07:09",
+    "group": "ARG RL",
+    "title": "Yupanqui  Reserve 0-0 Estrella del Sur Reserve",
+    "homeTeam": "Yupanqui  Reserve",
+    "awayTeam": "Estrella del Sur Reserve",
+    "score": "0-0",
+    "matchId": "5164817",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
-      "47' 0-1<br>54' 1-1",
+      "",
       "",
       "",
       ""
@@ -1025,6 +1163,29 @@
     "status": "ET",
     "goals": [
       "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "CON CSA",
+    "title": "Santos FC 0-1 Macara",
+    "homeTeam": "Santos FC",
+    "awayTeam": "Macara",
+    "score": "0-1",
+    "matchId": "5145100",
+    "status": "6'",
+    "goals": [
+      "5' Franco Posse (0-1)",
       "",
       "",
       "",
@@ -1076,6 +1237,29 @@
       "45' 0-2",
       "51' 0-3",
       "68' 1-3",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "LIB Cup",
+    "title": "Mirassol FC 0-0 Liga Deportiva Universitaria",
+    "homeTeam": "Mirassol FC",
+    "awayTeam": "Liga Deportiva Universitaria",
+    "score": "0-0",
+    "matchId": "5071261",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -1137,7 +1321,7 @@
     "awayTeam": "L.D.U.Portoviejo",
     "score": "0-0",
     "matchId": "5044193",
-    "status": "61'",
+    "status": "76'",
     "goals": [
       "",
       "",
@@ -1229,7 +1413,7 @@
     "awayTeam": "San Antonio FC(ECU)",
     "score": "0-1",
     "matchId": "5044190",
-    "status": "60'",
+    "status": "75'",
     "goals": [
       "8' Jackson Land\u00e1zury (0-1)",
       "",
@@ -1267,21 +1451,21 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "07:09",
-    "start_time": "07:09",
-    "group": "ARG RL",
-    "title": "Yupanqui  Reserve 0-0 Estrella del Sur Reserve",
-    "homeTeam": "Yupanqui  Reserve",
-    "awayTeam": "Estrella del Sur Reserve",
-    "score": "0-0",
-    "matchId": "5164817",
+    "time": "07:12",
+    "start_time": "07:12",
+    "group": "INT CF",
+    "title": "ASO Chlef 1-1 Kazma SC",
+    "homeTeam": "ASO Chlef",
+    "awayTeam": "Kazma SC",
+    "score": "1-1",
+    "matchId": "5164288",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
-      "",
+      "47' 0-1<br>54' 1-1",
       "",
       "",
       ""
@@ -1298,7 +1482,7 @@
     "awayTeam": "Depor. Santo Domingo",
     "score": "2-2",
     "matchId": "5044189",
-    "status": "60'",
+    "status": "75'",
     "goals": [
       "",
       "26' 1-0",
@@ -1390,7 +1574,7 @@
     "awayTeam": "Daquilema",
     "score": "2-0",
     "matchId": "5071321",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "2' Roberto Patricio Valarezo Romero (1-0)",
       "",
@@ -1398,7 +1582,7 @@
       "",
       "",
       "",
-      "80' 2-0",
+      "80' Armando Solis (2-0)",
       ""
     ]
   },
@@ -1436,7 +1620,7 @@
     "awayTeam": "Independiente Reserve",
     "score": "0-2",
     "matchId": "5156570",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1474,6 +1658,52 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "INT CF",
+    "title": "Nsuopun Fidelity 0-0 Tamale City",
+    "homeTeam": "Nsuopun Fidelity",
+    "awayTeam": "Tamale City",
+    "score": "0-0",
+    "matchId": "5163791",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "06:34",
+    "start_time": "06:34",
+    "group": "ARM D2",
+    "title": "Lernayin Artsakh 1-0 Ararat-Armenia B",
+    "homeTeam": "Lernayin Artsakh",
+    "awayTeam": "Ararat-Armenia B",
+    "score": "1-0",
+    "matchId": "5142852",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "38' Sepehr Ekran (1-0)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
     "time": "13:00",
     "start_time": "13:00",
     "group": "CAF WNC",
@@ -1482,7 +1712,7 @@
     "awayTeam": "Nigeria Women\\s",
     "score": "2-1",
     "matchId": "5159340",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1491,7 +1721,7 @@
       "56' Thembi Kgatlana (1-0)",
       "",
       "77' Refiloe Jane (2-0)",
-      ""
+      "90+3' Christy Ucheibe (2-1)"
     ]
   },
   {
@@ -1558,29 +1788,6 @@
       "35' Brighton Labeau (1-2)<br>38' Stigur Thordarson (2-2)",
       "",
       "55' Valdimar Thor Ingimundarson (3-2)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "INT CF",
-    "title": "Nsuopun Fidelity 0-0 Tamale City",
-    "homeTeam": "Nsuopun Fidelity",
-    "awayTeam": "Tamale City",
-    "score": "0-0",
-    "matchId": "5163791",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       ""
@@ -2417,29 +2624,6 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "KAZ D1",
-    "title": "Kairat Almaty B 0-0 Akademiya Ontustik",
-    "homeTeam": "Kairat Almaty B",
-    "awayTeam": "Akademiya Ontustik",
-    "score": "0-0",
-    "matchId": "5054507",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
     "time": "11:30",
     "start_time": "11:30",
     "group": "UEFA ECL",
@@ -2739,29 +2923,6 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "02:00",
-    "start_time": "02:00",
-    "group": "INT CF",
-    "title": "Hellas Verona Women\\s 4-2 Parma Women\\s",
-    "homeTeam": "Hellas Verona Women\\s",
-    "awayTeam": "Parma Women\\s",
-    "score": "4-2",
-    "matchId": "5159306",
-    "status": "ET",
-    "goals": [
-      "5' 1-0<br>5' 1-1",
-      "",
-      "",
-      "",
-      "53' 2-1<br>58' 3-1",
-      "62' 3-2<br>72' 4-2",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
     "time": "11:22",
     "start_time": "11:22",
     "group": "INT CF",
@@ -2847,6 +3008,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "02:00",
+    "start_time": "02:00",
+    "group": "INT CF",
+    "title": "Hellas Verona Women\\s 4-2 Parma Women\\s",
+    "homeTeam": "Hellas Verona Women\\s",
+    "awayTeam": "Parma Women\\s",
+    "score": "4-2",
+    "matchId": "5159306",
+    "status": "ET",
+    "goals": [
+      "5' 1-0<br>5' 1-1",
+      "",
+      "",
+      "",
+      "53' 2-1<br>58' 3-1",
+      "62' 3-2<br>72' 4-2",
       "",
       ""
     ]
@@ -3015,29 +3199,6 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "06:34",
-    "start_time": "06:34",
-    "group": "ARM D2",
-    "title": "Lernayin Artsakh 1-0 Ararat-Armenia B",
-    "homeTeam": "Lernayin Artsakh",
-    "awayTeam": "Ararat-Armenia B",
-    "score": "1-0",
-    "matchId": "5142852",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "38' Sepehr Ekran (1-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
     "time": "11:17",
     "start_time": "11:17",
     "group": "NOR U19",
@@ -3176,37 +3337,14 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "07:00",
-    "start_time": "07:00",
-    "group": "RUS Cup",
-    "title": "Spartak Nalchik 3-3 Alania Vladikavkaz",
-    "homeTeam": "Spartak Nalchik",
-    "awayTeam": "Alania Vladikavkaz",
-    "score": "3-3",
-    "matchId": "5084234",
-    "status": "ET",
-    "goals": [
-      "7' Ramonov Z. (0-1)",
-      "",
-      "34' Abdulkhamidov M. (0-2)<br>36' Abdulkhamidov M. (0-3)",
-      "",
-      "",
-      "",
-      "87' Kadykoev K. (1-3)",
-      "90+3' Selyaev A. (2-3)<br>90+5' Girzishev T. (3-3)"
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
-    "time": "11:00",
-    "start_time": "11:00",
+    "time": "08:59",
+    "start_time": "08:59",
     "group": "INT CF",
-    "title": "Muleno CF 0-1 Real Murcia(U19)",
-    "homeTeam": "Muleno CF",
-    "awayTeam": "Real Murcia(U19)",
-    "score": "0-1",
-    "matchId": "5164294",
+    "title": "FAR Rabat 2-1 Chabab Atlas Khenifra",
+    "homeTeam": "FAR Rabat",
+    "awayTeam": "Chabab Atlas Khenifra",
+    "score": "2-1",
+    "matchId": "5164291",
     "status": "ET",
     "goals": [
       "",
@@ -3222,14 +3360,14 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "08:59",
-    "start_time": "08:59",
+    "time": "11:00",
+    "start_time": "11:00",
     "group": "INT CF",
-    "title": "FAR Rabat 2-1 Chabab Atlas Khenifra",
-    "homeTeam": "FAR Rabat",
-    "awayTeam": "Chabab Atlas Khenifra",
-    "score": "2-1",
-    "matchId": "5164291",
+    "title": "Muleno CF 0-1 Real Murcia(U19)",
+    "homeTeam": "Muleno CF",
+    "awayTeam": "Real Murcia(U19)",
+    "score": "0-1",
+    "matchId": "5164294",
     "status": "ET",
     "goals": [
       "",
@@ -3263,6 +3401,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "07:00",
+    "start_time": "07:00",
+    "group": "RUS Cup",
+    "title": "Spartak Nalchik 3-3 Alania Vladikavkaz",
+    "homeTeam": "Spartak Nalchik",
+    "awayTeam": "Alania Vladikavkaz",
+    "score": "3-3",
+    "matchId": "5084234",
+    "status": "ET",
+    "goals": [
+      "7' Ramonov Z. (0-1)",
+      "",
+      "34' Abdulkhamidov M. (0-2)<br>36' Abdulkhamidov M. (0-3)",
+      "",
+      "",
+      "",
+      "87' Kadykoev K. (1-3)",
+      "90+3' Selyaev A. (2-3)<br>90+5' Girzishev T. (3-3)"
     ]
   },
   {
@@ -3337,29 +3498,6 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "09:01",
-    "start_time": "09:01",
-    "group": "ARG RL",
-    "title": "General Lamadrid Reserve 0-1 Defensores de Cambaceres Reserves",
-    "homeTeam": "General Lamadrid Reserve",
-    "awayTeam": "Defensores de Cambaceres Reserves",
-    "score": "0-1",
-    "matchId": "5164821",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' 0-1",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
     "time": "11:01",
     "start_time": "11:01",
     "group": "INT CF",
@@ -3377,6 +3515,29 @@
       "",
       "74' 1-1",
       "88' Emmanuel Attipoe (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "09:01",
+    "start_time": "09:01",
+    "group": "ARG RL",
+    "title": "General Lamadrid Reserve 0-1 Defensores de Cambaceres Reserves",
+    "homeTeam": "General Lamadrid Reserve",
+    "awayTeam": "Defensores de Cambaceres Reserves",
+    "score": "0-1",
+    "matchId": "5164821",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },

@@ -2,6 +2,29 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
+    "time": "17:01",
+    "start_time": "17:01",
+    "group": "ARG D3FA",
+    "title": "CSyB Atenas 2-1 Kimberley Mar del Plata",
+    "homeTeam": "CSyB Atenas",
+    "awayTeam": "Kimberley Mar del Plata",
+    "score": "2-1",
+    "matchId": "5145194",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "55' Alejo Mainero (1-0)",
+      "",
+      "88' Hern\u00e1n Sosa (1-1)",
+      "90+3' Paulo Oballes (2-1)"
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
     "time": "17:10",
     "start_time": "17:10",
     "group": "CNCF LC",
@@ -20,6 +43,29 @@
       "",
       "",
       "90+2' Hugo Cuypers (2-1)"
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "BRA CGD2",
+    "title": "Veranopolis RS 3-0 Aimore RS",
+    "homeTeam": "Veranopolis RS",
+    "awayTeam": "Aimore RS",
+    "score": "3-0",
+    "matchId": "5113230",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -71,29 +117,6 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
-    "time": "17:01",
-    "start_time": "17:01",
-    "group": "ARG D3FA",
-    "title": "CSyB Atenas 2-1 Kimberley Mar del Plata",
-    "homeTeam": "CSyB Atenas",
-    "awayTeam": "Kimberley Mar del Plata",
-    "score": "2-1",
-    "matchId": "5145194",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "55' Alejo Mainero (1-0)",
-      "",
-      "88' Hern\u00e1n Sosa (1-1)",
-      "90+3' Paulo Oballes (2-1)"
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
     "time": "16:03",
     "start_time": "16:03",
     "group": "INT CF",
@@ -102,52 +125,6 @@
     "awayTeam": "Monte Roraima/RR Youth",
     "score": "1-4",
     "matchId": "5164550",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "USL CUP",
-    "title": "Tampa Bay Rowdies 0-0 Louisville City FC",
-    "homeTeam": "Tampa Bay Rowdies",
-    "awayTeam": "Louisville City FC",
-    "score": "0-0",
-    "matchId": "5122646",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
-    "time": "14:01",
-    "start_time": "14:01",
-    "group": "INT CF",
-    "title": "Arapongas PR(U20) 4-0 Nautico RR Youth",
-    "homeTeam": "Arapongas PR(U20)",
-    "awayTeam": "Nautico RR Youth",
-    "score": "4-0",
-    "matchId": "5164540",
     "status": "ET",
     "goals": [
       "",
@@ -186,6 +163,29 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "USL CUP",
+    "title": "Tampa Bay Rowdies 0-0 Louisville City FC",
+    "homeTeam": "Tampa Bay Rowdies",
+    "awayTeam": "Louisville City FC",
+    "score": "0-0",
+    "matchId": "5122646",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
     "time": "16:40",
     "start_time": "16:40",
     "group": "CNCF LC",
@@ -209,6 +209,29 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
+    "time": "14:01",
+    "start_time": "14:01",
+    "group": "INT CF",
+    "title": "Arapongas PR(U20) 4-0 Nautico RR Youth",
+    "homeTeam": "Arapongas PR(U20)",
+    "awayTeam": "Nautico RR Youth",
+    "score": "4-0",
+    "matchId": "5164540",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
     "time": "16:06",
     "start_time": "16:06",
     "group": "USL CUP",
@@ -226,29 +249,6 @@
       "52' Adewale Abdulgafar Obalola (0-3)",
       "67' Augustine Williams (0-4)<br>73' Jordan Scarlett (1-4)",
       "85' Reeud Manin (2-4)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
-    "time": "16:48",
-    "start_time": "16:48",
-    "group": "ARG D3FA",
-    "title": "9 de Julio Rafaela 1-0 Gimnasia Chivilcoy",
-    "homeTeam": "9 de Julio Rafaela",
-    "awayTeam": "Gimnasia Chivilcoy",
-    "score": "1-0",
-    "matchId": "5145190",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Leandro Larrea (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -301,14 +301,14 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
-    "time": "15:00",
-    "start_time": "15:00",
+    "time": "16:00",
+    "start_time": "16:00",
     "group": "BRA CGD2",
-    "title": "Gremio Anapolis 1-1 Tupy de Jussara",
-    "homeTeam": "Gremio Anapolis",
-    "awayTeam": "Tupy de Jussara",
-    "score": "1-1",
-    "matchId": "5164078",
+    "title": "Goianesia GO 2-1 Morrinhos GO",
+    "homeTeam": "Goianesia GO",
+    "awayTeam": "Morrinhos GO",
+    "score": "2-1",
+    "matchId": "5163902",
     "status": "ET",
     "goals": [
       "",
@@ -324,18 +324,18 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "BRA CGD2",
-    "title": "Goianesia GO 2-1 Morrinhos GO",
-    "homeTeam": "Goianesia GO",
-    "awayTeam": "Morrinhos GO",
-    "score": "2-1",
-    "matchId": "5163902",
+    "time": "16:48",
+    "start_time": "16:48",
+    "group": "ARG D3FA",
+    "title": "9 de Julio Rafaela 1-0 Gimnasia Chivilcoy",
+    "homeTeam": "9 de Julio Rafaela",
+    "awayTeam": "Gimnasia Chivilcoy",
+    "score": "1-0",
+    "matchId": "5145190",
     "status": "ET",
     "goals": [
       "",
-      "",
+      "17' Leandro Larrea (1-0)",
       "",
       "",
       "",
@@ -401,29 +401,6 @@
     "awayTeam": "Fortaleza Youth",
     "score": "1-0",
     "matchId": "5164546",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
-    "time": "15:01",
-    "start_time": "15:01",
-    "group": "BRA CGD2",
-    "title": "Veranopolis RS 3-0 Aimore RS",
-    "homeTeam": "Veranopolis RS",
-    "awayTeam": "Aimore RS",
-    "score": "3-0",
-    "matchId": "5113230",
     "status": "ET",
     "goals": [
       "",
@@ -577,6 +554,29 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "OFC CL",
+    "title": "AS Tiga Sport 0-1 Auckland City FC",
+    "homeTeam": "AS Tiga Sport",
+    "awayTeam": "Auckland City FC",
+    "score": "0-1",
+    "matchId": "5044647",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "85' Mario Ilich (0-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA CGD2",
@@ -646,29 +646,6 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
-    "time": "20:00",
-    "start_time": "20:00",
-    "group": "OFC CL",
-    "title": "Central Coast 3-0 Association Sportive Venus",
-    "homeTeam": "Central Coast",
-    "awayTeam": "Association Sportive Venus",
-    "score": "3-0",
-    "matchId": "5044648",
-    "status": "HT",
-    "goals": [
-      "8' Barie Limoki (1-0)",
-      "19' Raphael Le\\'ai (2-0)<br>24' Bobby Leslie (3-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "CON CSA",
@@ -715,6 +692,29 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
+    "time": "20:00",
+    "start_time": "20:00",
+    "group": "OFC CL",
+    "title": "Central Coast 3-0 Association Sportive Venus",
+    "homeTeam": "Central Coast",
+    "awayTeam": "Association Sportive Venus",
+    "score": "3-0",
+    "matchId": "5044648",
+    "status": "52'",
+    "goals": [
+      "8' Barie Limoki (1-0)",
+      "19' Raphael Le\\'ai (2-0)<br>24' Bobby Leslie (3-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
     "time": "20:06",
     "start_time": "20:06",
     "group": "CNCF CACup",
@@ -723,7 +723,7 @@
     "awayTeam": "Verdes FC",
     "score": "2-1",
     "matchId": "5077671",
-    "status": "HT",
+    "status": "46'",
     "goals": [
       "4' Miguel \u00c1ngel Murillo Valencia (1-0)",
       "",
@@ -741,19 +741,19 @@
     "time": "19:43",
     "start_time": "19:43",
     "group": "CNCF LC",
-    "title": "Seattle Sounders FC 1-0 C.D. Guadalajara",
+    "title": "Seattle Sounders FC 1-1 C.D. Guadalajara",
     "homeTeam": "Seattle Sounders FC",
     "awayTeam": "C.D. Guadalajara",
-    "score": "1-0",
+    "score": "1-1",
     "matchId": "5050037",
-    "status": "53'",
+    "status": "65'",
     "goals": [
       "13' Gallatin Sandnes (1-0)",
       "",
       "",
       "",
       "",
-      "",
+      "61' Luis Rey (1-1)",
       "",
       ""
     ]
@@ -769,7 +769,7 @@
     "awayTeam": "Queretaro FC",
     "score": "1-1",
     "matchId": "5050033",
-    "status": "58'",
+    "status": "70'",
     "goals": [
       "12' Ali Avila (0-1)",
       "",
@@ -787,12 +787,12 @@
     "time": "19:25",
     "start_time": "19:25",
     "group": "CNCF LC",
-    "title": "San Diego FC 1-1 Puebla FC",
+    "title": "San Diego FC 3-1 Puebla FC",
     "homeTeam": "San Diego FC",
     "awayTeam": "Puebla FC",
-    "score": "1-1",
+    "score": "3-1",
     "matchId": "5050036",
-    "status": "74'",
+    "status": "86'",
     "goals": [
       "4' Osvald Soe (1-0)",
       "30' Kevin Andres Velasco Bonilla (1-1)",
@@ -800,7 +800,7 @@
       "",
       "",
       "",
-      "",
+      "76' David Vazquez (2-1)<br>80' Dagur Dan Thorhallsson (3-1)",
       ""
     ]
   },
@@ -838,13 +838,36 @@
     "awayTeam": "FC Dallas",
     "score": "3-1",
     "matchId": "5050038",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "8' Ernesto Alexis Vega Rojas (1-0)<br>9' Petar Musa (1-1)",
       "",
       "",
       "45+2' Federico Sebastian Vinas Barboza (2-1)",
       "50' Erick Gabriel Gutierrez Galaviz (3-1)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "BRA SPWL",
+    "title": "Bragantino  Women\\s 0-0 Ferroviaria SP Women\\s",
+    "homeTeam": "Bragantino  Women\\s",
+    "awayTeam": "Ferroviaria SP Women\\s",
+    "score": "0-0",
+    "matchId": "5065073",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       "",
       ""
@@ -869,29 +892,6 @@
       "",
       "",
       "64' Jes\u00fas Barea (1-0)<br>73' Tumi Moshobane (2-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "BRA SPWL",
-    "title": "Bragantino  Women\\s 0-0 Ferroviaria SP Women\\s",
-    "homeTeam": "Bragantino  Women\\s",
-    "awayTeam": "Ferroviaria SP Women\\s",
-    "score": "0-0",
-    "matchId": "5065073",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       ""
     ]
@@ -934,6 +934,29 @@
     "goals": [
       "14' Luis Gil (1-0)",
       "30' Jonas Fjellberg (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "BRA CGD2",
+    "title": "Gremio Anapolis 1-1 Tupy de Jussara",
+    "homeTeam": "Gremio Anapolis",
+    "awayTeam": "Tupy de Jussara",
+    "score": "1-1",
+    "matchId": "5164078",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
       "",
       "",
       "",
@@ -1083,29 +1106,6 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
-    "time": "17:17",
-    "start_time": "17:17",
-    "group": "ARG D3FA",
-    "title": "San Martin Mendoza 2-1 Sol de Mayo",
-    "homeTeam": "San Martin Mendoza",
-    "awayTeam": "Sol de Mayo",
-    "score": "2-1",
-    "matchId": "5145207",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' Felipe Rivarola (1-0)",
-      "41' Dami\u00e1n Arce (2-0)",
-      "",
-      "50' Santiago P\u00e9rez (2-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "CON CSA",
@@ -1122,6 +1122,29 @@
       "",
       "",
       "73' Tomas Cuello (0-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
+    "time": "17:17",
+    "start_time": "17:17",
+    "group": "ARG D3FA",
+    "title": "San Martin Mendoza 2-1 Sol de Mayo",
+    "homeTeam": "San Martin Mendoza",
+    "awayTeam": "Sol de Mayo",
+    "score": "2-1",
+    "matchId": "5145207",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' Felipe Rivarola (1-0)",
+      "41' Dami\u00e1n Arce (2-0)",
+      "",
+      "50' Santiago P\u00e9rez (2-1)",
+      "",
       "",
       ""
     ]
@@ -1192,29 +1215,6 @@
       "",
       "68' Moises Veliz (2-2)",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "OFC CL",
-    "title": "AS Tiga Sport 0-1 Auckland City FC",
-    "homeTeam": "AS Tiga Sport",
-    "awayTeam": "Auckland City FC",
-    "score": "0-1",
-    "matchId": "5044647",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "85' Mario Ilich (0-1)",
       ""
     ]
   },

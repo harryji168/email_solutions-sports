@@ -25,6 +25,29 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "BRA CGD2",
+    "title": "Veranopolis RS 3-0 Aimore RS",
+    "homeTeam": "Veranopolis RS",
+    "awayTeam": "Aimore RS",
+    "score": "3-0",
+    "matchId": "5113230",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
     "time": "17:10",
     "start_time": "17:10",
     "group": "CNCF LC",
@@ -301,29 +324,6 @@
   {
     "date": "2026-08-12",
     "day": "Wednesday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "BRA CGD2",
-    "title": "Gremio Anapolis 1-1 Tupy de Jussara",
-    "homeTeam": "Gremio Anapolis",
-    "awayTeam": "Tupy de Jussara",
-    "score": "1-1",
-    "matchId": "5164078",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
     "time": "16:48",
     "start_time": "16:48",
     "group": "ARG D3FA",
@@ -355,6 +355,29 @@
     "awayTeam": "Gramadense",
     "score": "1-1",
     "matchId": "5113211",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-12",
+    "day": "Wednesday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "BRA CGD2",
+    "title": "Gremio Anapolis 1-1 Tupy de Jussara",
+    "homeTeam": "Gremio Anapolis",
+    "awayTeam": "Tupy de Jussara",
+    "score": "1-1",
+    "matchId": "5164078",
     "status": "ET",
     "goals": [
       "",
@@ -526,29 +549,6 @@
       "",
       "",
       "90+4' Guido Nahuel Vadala (1-1)"
-    ]
-  },
-  {
-    "date": "2026-08-12",
-    "day": "Wednesday",
-    "time": "15:01",
-    "start_time": "15:01",
-    "group": "BRA CGD2",
-    "title": "Veranopolis RS 3-0 Aimore RS",
-    "homeTeam": "Veranopolis RS",
-    "awayTeam": "Aimore RS",
-    "score": "3-0",
-    "matchId": "5113230",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -746,16 +746,16 @@
     "awayTeam": "Verdes FC",
     "score": "4-1",
     "matchId": "5077671",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "4' Miguel \u00c1ngel Murillo Valencia (1-0)",
       "",
-      "34' L. Ibarra (1-1)<br>36' Jonathan Antonio Nolasco Mart\u00ednez (2-1)",
+      "34' L. Ibarra (1-1)<br>36' Jonathan Nolasco (2-1)",
       "",
       "57' Edgar Medrano (3-1)",
       "",
       "",
-      "90+1' 4-1"
+      "90+1' Melvin Urbina (4-1)"
     ]
   },
   {

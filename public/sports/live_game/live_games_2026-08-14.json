@@ -94,6 +94,29 @@
   {
     "date": "2026-08-14",
     "day": "Friday",
+    "time": "02:00",
+    "start_time": "02:00",
+    "group": "K3/K4 CH",
+    "title": "Busan Transpor Tation 1-0 Ulsan Citizen",
+    "homeTeam": "Busan Transpor Tation",
+    "awayTeam": "Ulsan Citizen",
+    "score": "1-0",
+    "matchId": "5165292",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "68' 1-0",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
     "time": "03:00",
     "start_time": "03:00",
     "group": "INT CF",
@@ -1060,29 +1083,6 @@
   {
     "date": "2026-08-14",
     "day": "Friday",
-    "time": "02:00",
-    "start_time": "02:00",
-    "group": "RUS YCL",
-    "title": "FC Pari Nizhny Novgorod  Youth 0-2 Akademiya Konoplev Youth",
-    "homeTeam": "FC Pari Nizhny Novgorod  Youth",
-    "awayTeam": "Akademiya Konoplev Youth",
-    "score": "0-2",
-    "matchId": "5034556",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "40' Eduard Martirosyan (0-1)",
-      "",
-      "50' 0-2",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
     "time": "08:59",
     "start_time": "08:59",
     "group": "POL D3",
@@ -1216,29 +1216,6 @@
       "",
       "",
       "90+1' 1-2"
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
-    "time": "02:45",
-    "start_time": "02:45",
-    "group": "Aus VPL",
-    "title": "Dandenong City SC 2-0 Altona Magic",
-    "homeTeam": "Dandenong City SC",
-    "awayTeam": "Altona Magic",
-    "score": "2-0",
-    "matchId": "5005020",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "80' 1-0<br>86' 2-0",
-      ""
     ]
   },
   {
@@ -1842,29 +1819,6 @@
   {
     "date": "2026-08-14",
     "day": "Friday",
-    "time": "02:00",
-    "start_time": "02:00",
-    "group": "K3/K4 CH",
-    "title": "Busan Transpor Tation 1-0 Ulsan Citizen",
-    "homeTeam": "Busan Transpor Tation",
-    "awayTeam": "Ulsan Citizen",
-    "score": "1-0",
-    "matchId": "5165292",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "68' 1-0",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
     "time": "06:00",
     "start_time": "06:00",
     "group": "INT CF",
@@ -1929,6 +1883,29 @@
       "",
       "",
       "90' 2-1"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "03:30",
+    "start_time": "03:30",
+    "group": "Aus VPL",
+    "title": "St Albans Saints SC 1-1 Bentleigh Greens",
+    "homeTeam": "St Albans Saints SC",
+    "awayTeam": "Bentleigh Greens",
+    "score": "1-1",
+    "matchId": "5005023",
+    "status": "ET",
+    "goals": [
+      "9' Yuto Kokuryo (0-1)",
+      "26' Nicolas Koek (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -2233,29 +2210,6 @@
   {
     "date": "2026-08-14",
     "day": "Friday",
-    "time": "01:00",
-    "start_time": "01:00",
-    "group": "INT CF",
-    "title": "NK Karlovac 2-2 Trnje",
-    "homeTeam": "NK Karlovac",
-    "awayTeam": "Trnje",
-    "score": "2-2",
-    "matchId": "5160391",
-    "status": "ET",
-    "goals": [
-      "",
-      "21' 0-1",
-      "",
-      "",
-      "48' I. Fumic (1-1)<br>56' 1-2",
-      "67' Luka Kapulica (2-2)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
     "time": "06:00",
     "start_time": "06:00",
     "group": "UKR D2",
@@ -2271,6 +2225,29 @@
       "36' Maksym Protsiv (1-0)<br>42' Vladyslav Chushenko (2-0)",
       "",
       "52' Kos Oleg Vasilyevich (3-0)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "02:00",
+    "start_time": "02:00",
+    "group": "RUS YCL",
+    "title": "FC Pari Nizhny Novgorod  Youth 0-2 Akademiya Konoplev Youth",
+    "homeTeam": "FC Pari Nizhny Novgorod  Youth",
+    "awayTeam": "Akademiya Konoplev Youth",
+    "score": "0-2",
+    "matchId": "5034556",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' Eduard Martirosyan (0-1)",
+      "",
+      "50' 0-2",
       "",
       "",
       ""
@@ -2394,6 +2371,29 @@
   {
     "date": "2026-08-14",
     "day": "Friday",
+    "time": "01:00",
+    "start_time": "01:00",
+    "group": "INT CF",
+    "title": "NK Karlovac 2-2 Trnje",
+    "homeTeam": "NK Karlovac",
+    "awayTeam": "Trnje",
+    "score": "2-2",
+    "matchId": "5160391",
+    "status": "ET",
+    "goals": [
+      "",
+      "21' 0-1",
+      "",
+      "",
+      "48' I. Fumic (1-1)<br>56' 1-2",
+      "67' Luka Kapulica (2-2)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
     "time": "06:00",
     "start_time": "06:00",
     "group": "INTERF",
@@ -2412,6 +2412,29 @@
       "",
       "78' Fadilla (6-0)",
       "90+1' Dima Waliyoddin Asaad (7-0)"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "02:45",
+    "start_time": "02:45",
+    "group": "Aus VPL",
+    "title": "Dandenong City SC 2-0 Altona Magic",
+    "homeTeam": "Dandenong City SC",
+    "awayTeam": "Altona Magic",
+    "score": "2-0",
+    "matchId": "5005020",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "80' 1-0<br>86' 2-0",
+      ""
     ]
   },
   {
@@ -2503,29 +2526,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "AUS WNPL",
-    "title": "Box Hill United Women\\s 1-1 Avondale FC Women\\s",
-    "homeTeam": "Box Hill United Women\\s",
-    "awayTeam": "Avondale FC Women\\s",
-    "score": "1-1",
-    "matchId": "5038485",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Juri Kawano (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "81' Laura Pickett (1-1)",
       ""
     ]
   },
@@ -2848,6 +2848,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "AUS WNPL",
+    "title": "Box Hill United Women\\s 1-1 Avondale FC Women\\s",
+    "homeTeam": "Box Hill United Women\\s",
+    "awayTeam": "Avondale FC Women\\s",
+    "score": "1-1",
+    "matchId": "5038485",
+    "status": "ET",
+    "goals": [
+      "",
+      "17' Juri Kawano (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "81' Laura Pickett (1-1)",
       ""
     ]
   },
@@ -4366,29 +4389,6 @@
       "",
       "",
       "76' Przemyslaw Haraszkiewicz (1-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
-    "time": "03:30",
-    "start_time": "03:30",
-    "group": "Aus VPL",
-    "title": "St Albans Saints SC 1-1 Bentleigh Greens",
-    "homeTeam": "St Albans Saints SC",
-    "awayTeam": "Bentleigh Greens",
-    "score": "1-1",
-    "matchId": "5005023",
-    "status": "ET",
-    "goals": [
-      "9' Yuto Kokuryo (0-1)",
-      "26' Nicolas Koek (1-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -8259,6 +8259,29 @@
   {
     "date": "2026-08-14",
     "day": "Friday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "IRE FAIC",
+    "title": "Galway United 1-1 Bray Wanderers",
+    "homeTeam": "Galway United",
+    "awayTeam": "Bray Wanderers",
+    "score": "1-1",
+    "matchId": "5135668",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "80' Tyreik Sammy (0-1)<br>86' David Hurley (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
     "time": "11:47",
     "start_time": "11:47",
     "group": "IRE FAIC",
@@ -9194,7 +9217,7 @@
       "41' Sergi Altimira (3-0)",
       "",
       "",
-      "66' Fabio Samuel Amorim da Silva (3-1)<br>69' Alioune Ndoye (3-2)",
+      "66' Fabio Samuel Amorim da Silva (3-1)<br>68' Alioune Ndoye (3-2)",
       "",
       ""
     ]
@@ -9325,7 +9348,7 @@
     "awayTeam": "12 de Junio VH",
     "score": "0-2",
     "matchId": "5154590",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "20' Hector Lezcano (0-1)",
@@ -9348,7 +9371,7 @@
     "awayTeam": "U.D. Oliveirense",
     "score": "1-1",
     "matchId": "5128644",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -9371,7 +9394,7 @@
     "awayTeam": "Yaracuyanos",
     "score": "0-0",
     "matchId": "5165393",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -9394,7 +9417,7 @@
     "awayTeam": "Comerciantes Unidos",
     "score": "1-0",
     "matchId": "5071967",
-    "status": "52'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -9417,7 +9440,7 @@
     "awayTeam": "Cuenca Juniors",
     "score": "0-0",
     "matchId": "5044188",
-    "status": "62'",
+    "status": "77'",
     "goals": [
       "",
       "",
@@ -9440,7 +9463,7 @@
     "awayTeam": "Santos Youth",
     "score": "0-1",
     "matchId": "5069522",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "",
       "24' Gustavo Assis (0-1)",
@@ -9463,12 +9486,12 @@
     "awayTeam": "New York Red Bulls B",
     "score": "0-2",
     "matchId": "5029832",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "",
-      "",
-      "",
+      "41' Christian Gallagher (0-1)",
+      "45+3' Andy Rojas (0-2)",
       "",
       "",
       "",
@@ -9486,7 +9509,30 @@
     "awayTeam": "Consultants Moravia",
     "score": "0-0",
     "matchId": "5141063",
-    "status": "23'",
+    "status": "38'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "PAR D1",
+    "title": "Recoleta FC 0-0 Club 2 de Mayo",
+    "homeTeam": "Recoleta FC",
+    "awayTeam": "Club 2 de Mayo",
+    "score": "0-0",
+    "matchId": "5154069",
+    "status": "6'",
     "goals": [
       "",
       "",
@@ -9550,29 +9596,6 @@
     "time": "10:00",
     "start_time": "10:00",
     "group": "GER RegNO",
-    "title": "SV Babelsberg 03 3-3 RSV Eintracht 1949",
-    "homeTeam": "SV Babelsberg 03",
-    "awayTeam": "RSV Eintracht 1949",
-    "score": "3-3",
-    "matchId": "5112798",
-    "status": "ET",
-    "goals": [
-      "9' Isma Baraze Adam (0-1)",
-      "",
-      "36' Lukas L\u00e4mmel (1-1)",
-      "",
-      "47' Theo Ogbidi (2-1)",
-      "61' Isma Baraze Adam (2-2)",
-      "77' Isma Baraze Adam (2-3)",
-      "90+12' Joshua Okpalaike (3-3)"
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
-    "time": "10:00",
-    "start_time": "10:00",
-    "group": "GER RegNO",
     "title": "Hertha BSC Berlin Am 1-1 Berliner FC Dynamo",
     "homeTeam": "Hertha BSC Berlin Am",
     "awayTeam": "Berliner FC Dynamo",
@@ -9618,18 +9641,18 @@
     "day": "Friday",
     "time": "10:00",
     "start_time": "10:00",
-    "group": "GER RegS",
-    "title": "SSV Ulm 1846 0-2 Kickers Offenbach",
-    "homeTeam": "SSV Ulm 1846",
-    "awayTeam": "Kickers Offenbach",
-    "score": "0-2",
-    "matchId": "5119489",
+    "group": "FRA D3",
+    "title": "Amiens SC 0-1 La Roche VF",
+    "homeTeam": "Amiens SC",
+    "awayTeam": "La Roche VF",
+    "score": "0-1",
+    "matchId": "5101711",
     "status": "ET",
     "goals": [
       "",
       "",
+      "42' Mouhamadou Mansour Samb (0-1)",
       "",
-      "45' Maximilian Schmid (0-1)<br>45+4' Maximilian Wolfram (0-2)",
       "",
       "",
       "",
@@ -9656,29 +9679,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
-    "time": "10:00",
-    "start_time": "10:00",
-    "group": "FRA D3",
-    "title": "Cannes AS 1-1 Fleury Merogis",
-    "homeTeam": "Cannes AS",
-    "awayTeam": "Fleury Merogis",
-    "score": "1-1",
-    "matchId": "5101715",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+2' K\u00e9vin Farade (0-1)",
-      "",
-      "",
-      "87' George Morgan (1-1)",
       ""
     ]
   },
@@ -9723,6 +9723,98 @@
       "",
       "",
       "55' Stan Janno (1-1)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "10:00",
+    "start_time": "10:00",
+    "group": "GER RegNO",
+    "title": "SV Babelsberg 03 3-3 RSV Eintracht 1949",
+    "homeTeam": "SV Babelsberg 03",
+    "awayTeam": "RSV Eintracht 1949",
+    "score": "3-3",
+    "matchId": "5112798",
+    "status": "ET",
+    "goals": [
+      "9' Isma Baraze Adam (0-1)",
+      "",
+      "36' Lukas L\u00e4mmel (1-1)",
+      "",
+      "47' Theo Ogbidi (2-1)",
+      "61' Isma Baraze Adam (2-2)",
+      "77' Isma Baraze Adam (2-3)",
+      "90+12' Joshua Okpalaike (3-3)"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "10:00",
+    "start_time": "10:00",
+    "group": "FRA D3",
+    "title": "Thionville Lusitanos 4-3 Stade Malherbe Caen",
+    "homeTeam": "Thionville Lusitanos",
+    "awayTeam": "Stade Malherbe Caen",
+    "score": "4-3",
+    "matchId": "5101721",
+    "status": "ET",
+    "goals": [
+      "14' Fahd El Khoumisti (0-1)",
+      "16' Mohamed Hafid (0-2)<br>21' Karim Bouhmidi (1-2)",
+      "",
+      "",
+      "53' Muamer Aljic (2-2)",
+      "63' Fadel Gobitaka (3-2)<br>67' Karim Bouhmidi (4-2)",
+      "88' Armand Gnanduillet (4-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "10:00",
+    "start_time": "10:00",
+    "group": "FRA D3",
+    "title": "Versailles 78 1-0 Le Puy-en-Velay",
+    "homeTeam": "Versailles 78",
+    "awayTeam": "Le Puy-en-Velay",
+    "score": "1-0",
+    "matchId": "5101726",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' Shelton Guillaume (1-0)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "10:00",
+    "start_time": "10:00",
+    "group": "FRA D3",
+    "title": "Villefranche 2-0 Paris 13 Atletico",
+    "homeTeam": "Villefranche",
+    "awayTeam": "Paris 13 Atletico",
+    "score": "2-0",
+    "matchId": "5101727",
+    "status": "ET",
+    "goals": [
+      "",
+      "17' Yohan Tad\u00e9 (1-0)",
+      "31' Mathieu Cachbach (2-0)",
+      "",
+      "",
       "",
       "",
       ""
@@ -9780,43 +9872,20 @@
     "time": "10:00",
     "start_time": "10:00",
     "group": "FRA D3",
-    "title": "Versailles 78 1-0 Le Puy-en-Velay",
-    "homeTeam": "Versailles 78",
-    "awayTeam": "Le Puy-en-Velay",
-    "score": "1-0",
-    "matchId": "5101726",
+    "title": "Cannes AS 1-1 Fleury Merogis",
+    "homeTeam": "Cannes AS",
+    "awayTeam": "Fleury Merogis",
+    "score": "1-1",
+    "matchId": "5101715",
     "status": "ET",
     "goals": [
       "",
       "",
-      "40' Shelton Guillaume (1-0)",
+      "",
+      "45+2' K\u00e9vin Farade (0-1)",
       "",
       "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
-    "time": "10:00",
-    "start_time": "10:00",
-    "group": "FRA D3",
-    "title": "Villefranche 2-0 Paris 13 Atletico",
-    "homeTeam": "Villefranche",
-    "awayTeam": "Paris 13 Atletico",
-    "score": "2-0",
-    "matchId": "5101727",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Yohan Tad\u00e9 (1-0)",
-      "31' Mathieu Cachbach (2-0)",
-      "",
-      "",
-      "",
-      "",
+      "87' George Morgan (1-1)",
       ""
     ]
   },
@@ -9839,29 +9908,6 @@
       "",
       "",
       "70' 2-0",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
-    "time": "10:00",
-    "start_time": "10:00",
-    "group": "FRA D3",
-    "title": "Amiens SC 0-1 La Roche VF",
-    "homeTeam": "Amiens SC",
-    "awayTeam": "La Roche VF",
-    "score": "0-1",
-    "matchId": "5101711",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "42' Mouhamadou Mansour Samb (0-1)",
-      "",
-      "",
-      "",
       "",
       ""
     ]
@@ -9917,21 +9963,21 @@
     "day": "Friday",
     "time": "10:00",
     "start_time": "10:00",
-    "group": "FRA D3",
-    "title": "Thionville Lusitanos 4-3 Stade Malherbe Caen",
-    "homeTeam": "Thionville Lusitanos",
-    "awayTeam": "Stade Malherbe Caen",
-    "score": "4-3",
-    "matchId": "5101721",
+    "group": "GER RegS",
+    "title": "SSV Ulm 1846 0-2 Kickers Offenbach",
+    "homeTeam": "SSV Ulm 1846",
+    "awayTeam": "Kickers Offenbach",
+    "score": "0-2",
+    "matchId": "5119489",
     "status": "ET",
     "goals": [
-      "14' Fahd El Khoumisti (0-1)",
-      "16' Mohamed Hafid (0-2)<br>21' Karim Bouhmidi (1-2)",
       "",
       "",
-      "53' Muamer Aljic (2-2)",
-      "63' Fadel Gobitaka (3-2)<br>67' Karim Bouhmidi (4-2)",
-      "88' Armand Gnanduillet (4-3)",
+      "",
+      "45' Maximilian Schmid (0-1)<br>45+4' Maximilian Wolfram (0-2)",
+      "",
+      "",
+      "",
       ""
     ]
   },

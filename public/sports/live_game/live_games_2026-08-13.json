@@ -2,21 +2,44 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "INTERF",
+    "title": "Chile Women\\s(U17) 0-3 Canada Women\\s(U17)",
+    "homeTeam": "Chile Women\\s(U17)",
+    "awayTeam": "Canada Women\\s(U17)",
+    "score": "0-3",
+    "matchId": "5157791",
+    "status": "ET",
+    "goals": [
+      "15' Christ-Mayron Brou (0-1)",
+      "",
+      "",
+      "",
+      "47' Brooklyn Schwartzberg (0-2)",
+      "",
+      "89' Iris Oppong (0-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
     "time": "19:00",
     "start_time": "19:00",
     "group": "CNCF CACup",
-    "title": "Luis Angel Firpo 2-0 Diriangen",
+    "title": "Luis Angel Firpo 3-0 Diriangen",
     "homeTeam": "Luis Angel Firpo",
     "awayTeam": "Diriangen",
-    "score": "2-0",
+    "score": "3-0",
     "matchId": "5077640",
-    "status": "47'",
+    "status": "62'",
     "goals": [
       "",
       "16' Rafael \u00c1guila (1-0)",
       "43' Mauricio Cerritos (2-0)",
       "",
-      "",
+      "52' Diego Alexis Ortez Argueta (3-0)",
       "",
       "",
       ""
@@ -43,29 +66,6 @@
       "",
       "77' C. Gonz\u00e1lez (3-0)",
       "90+1' Isaac D\u00edaz (4-0)"
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
-    "time": "17:06",
-    "start_time": "17:06",
-    "group": "CNCF CACup",
-    "title": "Alianza FC (PAN) 1-0 UMECIT FC",
-    "homeTeam": "Alianza FC (PAN)",
-    "awayTeam": "UMECIT FC",
-    "score": "1-0",
-    "matchId": "5077660",
-    "status": "ET",
-    "goals": [
-      "",
-      "30' Alvin Mendoza (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -111,6 +111,29 @@
       "58' Leandro Benegas (1-1)",
       "",
       "88' Diego Arias (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "16:40",
+    "start_time": "16:40",
+    "group": "CNCF LC",
+    "title": "New York City FC 1-2 Club Necaxa",
+    "homeTeam": "New York City FC",
+    "awayTeam": "Club Necaxa",
+    "score": "1-2",
+    "matchId": "5050040",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "37' Keaton Alexander Parks (1-0)",
+      "",
+      "58' Juan David Valencia Longa (1-1)",
+      "",
+      "79' Juan Pablo Torres Patino (1-2)",
       ""
     ]
   },
@@ -235,16 +258,16 @@
     "time": "19:40",
     "start_time": "19:40",
     "group": "CNCF LC",
-    "title": "Portland Timbers 0-1 Club Tijuana",
+    "title": "Portland Timbers 1-1 Club Tijuana",
     "homeTeam": "Portland Timbers",
     "awayTeam": "Club Tijuana",
-    "score": "0-1",
+    "score": "1-1",
     "matchId": "5050042",
-    "status": "31'",
+    "status": "45+'",
     "goals": [
       "",
       "19' Mourad El Ghezouani (0-1)",
-      "",
+      "40' Kevin Kelsy (1-1)",
       "",
       "",
       "",
@@ -304,18 +327,18 @@
     "time": "19:00",
     "start_time": "19:00",
     "group": "CNCF CACup",
-    "title": "Antigua GFC 0-1 Marathon",
+    "title": "Antigua GFC 0-2 Marathon",
     "homeTeam": "Antigua GFC",
     "awayTeam": "Marathon",
-    "score": "0-1",
+    "score": "0-2",
     "matchId": "5077649",
-    "status": "47'",
+    "status": "62'",
     "goals": [
       "",
       "",
       "",
       "45+2' Nicol\u00e1s Messiniti (0-1)",
-      "",
+      "57' Yairo Moreno (0-2)",
       "",
       "",
       ""
@@ -341,29 +364,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "INTERF",
-    "title": "Chile Women\\s(U17) 0-3 Canada Women\\s(U17)",
-    "homeTeam": "Chile Women\\s(U17)",
-    "awayTeam": "Canada Women\\s(U17)",
-    "score": "0-3",
-    "matchId": "5157791",
-    "status": "ET",
-    "goals": [
-      "15' Christ-Mayron Brou (0-1)",
-      "",
-      "",
-      "",
-      "47' Brooklyn Schwartzberg (0-2)",
-      "",
-      "89' Iris Oppong (0-3)",
       ""
     ]
   },
@@ -462,29 +462,6 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "16:40",
-    "start_time": "16:40",
-    "group": "CNCF LC",
-    "title": "New York City FC 1-2 Club Necaxa",
-    "homeTeam": "New York City FC",
-    "awayTeam": "Club Necaxa",
-    "score": "1-2",
-    "matchId": "5050040",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "37' Keaton Alexander Parks (1-0)",
-      "",
-      "58' Juan David Valencia Longa (1-1)",
-      "",
-      "79' Juan Pablo Torres Patino (1-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
     "time": "17:40",
     "start_time": "17:40",
     "group": "CNCF LC",
@@ -524,6 +501,29 @@
       "",
       "59' Amari Manning (1-0)",
       "67' Mia Urbano (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "17:06",
+    "start_time": "17:06",
+    "group": "CNCF CACup",
+    "title": "Alianza FC (PAN) 1-0 UMECIT FC",
+    "homeTeam": "Alianza FC (PAN)",
+    "awayTeam": "UMECIT FC",
+    "score": "1-0",
+    "matchId": "5077660",
+    "status": "ET",
+    "goals": [
+      "",
+      "30' Alvin Mendoza (1-0)",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]

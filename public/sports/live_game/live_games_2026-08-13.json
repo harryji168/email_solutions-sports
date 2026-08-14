@@ -48,29 +48,6 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "16:40",
-    "start_time": "16:40",
-    "group": "CNCF LC",
-    "title": "New York City FC 1-2 Club Necaxa",
-    "homeTeam": "New York City FC",
-    "awayTeam": "Club Necaxa",
-    "score": "1-2",
-    "matchId": "5050040",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "37' Keaton Alexander Parks (1-0)",
-      "",
-      "58' Juan David Valencia Longa (1-1)",
-      "",
-      "79' Juan Pablo Torres Patino (1-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
     "time": "17:33",
     "start_time": "17:33",
     "group": "CHI D2",
@@ -163,6 +140,29 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
+    "time": "16:40",
+    "start_time": "16:40",
+    "group": "CNCF LC",
+    "title": "New York City FC 1-2 Club Necaxa",
+    "homeTeam": "New York City FC",
+    "awayTeam": "Club Necaxa",
+    "score": "1-2",
+    "matchId": "5050040",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "37' Keaton Alexander Parks (1-0)",
+      "",
+      "58' Juan David Valencia Longa (1-1)",
+      "",
+      "79' Juan Pablo Torres Patino (1-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "LIB Cup",
@@ -235,12 +235,12 @@
     "time": "19:40",
     "start_time": "19:40",
     "group": "CNCF LC",
-    "title": "Portland Timbers 2-1 Club Tijuana",
+    "title": "Portland Timbers 3-1 Club Tijuana",
     "homeTeam": "Portland Timbers",
     "awayTeam": "Club Tijuana",
-    "score": "2-1",
+    "score": "3-1",
     "matchId": "5050042",
-    "status": "72'",
+    "status": "90'",
     "goals": [
       "",
       "19' Mourad El Ghezouani (0-1)",
@@ -248,7 +248,7 @@
       "",
       "",
       "64' Antony Alves Santos (2-1)",
-      "",
+      "77' Ariel Daniel Lassiter Acuna (3-1)",
       ""
     ]
   },
@@ -324,14 +324,14 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "CON CSA",
-    "title": "Vasco da Gama 0-0 Olimpia Asuncion",
-    "homeTeam": "Vasco da Gama",
-    "awayTeam": "Olimpia Asuncion",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "BRA CGD2",
+    "title": "Esportivo (RS) 0-0 Santa Cruz RS",
+    "homeTeam": "Esportivo (RS)",
+    "awayTeam": "Santa Cruz RS",
     "score": "0-0",
-    "matchId": "5150933",
+    "matchId": "5113215",
     "status": "ET",
     "goals": [
       "",
@@ -347,14 +347,14 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "15:01",
-    "start_time": "15:01",
-    "group": "BRA CGD2",
-    "title": "Esportivo (RS) 0-0 Santa Cruz RS",
-    "homeTeam": "Esportivo (RS)",
-    "awayTeam": "Santa Cruz RS",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "CON CSA",
+    "title": "Vasco da Gama 0-0 Olimpia Asuncion",
+    "homeTeam": "Vasco da Gama",
+    "awayTeam": "Olimpia Asuncion",
     "score": "0-0",
-    "matchId": "5113215",
+    "matchId": "5150933",
     "status": "ET",
     "goals": [
       "",
@@ -432,29 +432,6 @@
       "",
       "48' Jon Gallagher (1-0)",
       "67' Myrto Uzuni (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
-    "time": "17:06",
-    "start_time": "17:06",
-    "group": "CNCF CACup",
-    "title": "Alianza FC (PAN) 1-0 UMECIT FC",
-    "homeTeam": "Alianza FC (PAN)",
-    "awayTeam": "UMECIT FC",
-    "score": "1-0",
-    "matchId": "5077660",
-    "status": "ET",
-    "goals": [
-      "",
-      "30' Alvin Mendoza (1-0)",
-      "",
-      "",
-      "",
-      "",
       "",
       ""
     ]
@@ -549,6 +526,29 @@
       "67' Puso Dithejane (0-1)",
       "81' Nicolas Alejandro Ibanez (1-1)",
       "90+3' Puso Dithejane (1-2)"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "17:06",
+    "start_time": "17:06",
+    "group": "CNCF CACup",
+    "title": "Alianza FC (PAN) 1-0 UMECIT FC",
+    "homeTeam": "Alianza FC (PAN)",
+    "awayTeam": "UMECIT FC",
+    "score": "1-0",
+    "matchId": "5077660",
+    "status": "ET",
+    "goals": [
+      "",
+      "30' Alvin Mendoza (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {

@@ -94,29 +94,6 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "16:40",
-    "start_time": "16:40",
-    "group": "CNCF LC",
-    "title": "New York City FC 1-2 Club Necaxa",
-    "homeTeam": "New York City FC",
-    "awayTeam": "Club Necaxa",
-    "score": "1-2",
-    "matchId": "5050040",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "37' Keaton Alexander Parks (1-0)",
-      "",
-      "58' Juan David Valencia Longa (1-1)",
-      "",
-      "79' Juan Pablo Torres Patino (1-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
     "time": "17:32",
     "start_time": "17:32",
     "group": "CHI D2",
@@ -248,7 +225,7 @@
       "",
       "",
       "64' Antony Alves Santos (2-1)",
-      "77' Ariel Daniel Lassiter Acuna (3-1)",
+      "76' Ariel Daniel Lassiter Acuna (3-1)",
       ""
     ]
   },
@@ -301,29 +278,6 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
-    "time": "19:00",
-    "start_time": "19:00",
-    "group": "CNCF CACup",
-    "title": "Antigua GFC 0-3 Marathon",
-    "homeTeam": "Antigua GFC",
-    "awayTeam": "Marathon",
-    "score": "0-3",
-    "matchId": "5077649",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+2' Nicol\u00e1s Messiniti (0-1)",
-      "57' Yairo Moreno (0-2)",
-      "75' Damin Ram\u00edrez (0-3)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "CON CSA",
@@ -340,6 +294,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "19:00",
+    "start_time": "19:00",
+    "group": "CNCF CACup",
+    "title": "Antigua GFC 0-3 Marathon",
+    "homeTeam": "Antigua GFC",
+    "awayTeam": "Marathon",
+    "score": "0-3",
+    "matchId": "5077649",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+2' Nicol\u00e1s Messiniti (0-1)",
+      "57' Yairo Moreno (0-2)",
+      "75' Damin Ram\u00edrez (0-3)",
       "",
       ""
     ]
@@ -387,29 +364,6 @@
       "",
       "",
       "76' Mart\u00edn Carre\u00f1o (1-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-13",
-    "day": "Thursday",
-    "time": "17:06",
-    "start_time": "17:06",
-    "group": "CNCF CACup",
-    "title": "Alianza FC (PAN) 1-0 UMECIT FC",
-    "homeTeam": "Alianza FC (PAN)",
-    "awayTeam": "UMECIT FC",
-    "score": "1-0",
-    "matchId": "5077660",
-    "status": "ET",
-    "goals": [
-      "",
-      "30' Alvin Mendoza (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -485,6 +439,29 @@
   {
     "date": "2026-08-13",
     "day": "Thursday",
+    "time": "17:06",
+    "start_time": "17:06",
+    "group": "CNCF CACup",
+    "title": "Alianza FC (PAN) 1-0 UMECIT FC",
+    "homeTeam": "Alianza FC (PAN)",
+    "awayTeam": "UMECIT FC",
+    "score": "1-0",
+    "matchId": "5077660",
+    "status": "ET",
+    "goals": [
+      "",
+      "30' Alvin Mendoza (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "BRA SPWL",
@@ -526,6 +503,29 @@
       "67' Puso Dithejane (0-1)",
       "81' Nicolas Alejandro Ibanez (1-1)",
       "90+3' Puso Dithejane (1-2)"
+    ]
+  },
+  {
+    "date": "2026-08-13",
+    "day": "Thursday",
+    "time": "16:40",
+    "start_time": "16:40",
+    "group": "CNCF LC",
+    "title": "New York City FC 1-2 Club Necaxa",
+    "homeTeam": "New York City FC",
+    "awayTeam": "Club Necaxa",
+    "score": "1-2",
+    "matchId": "5050040",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "37' Keaton Alexander Parks (1-0)",
+      "",
+      "58' Juan David Valencia Longa (1-1)",
+      "",
+      "79' Juan Pablo Torres Patino (1-2)",
+      ""
     ]
   },
   {

@@ -401,7 +401,7 @@
     "awayTeam": "Canberra White Eagles(U23)",
     "score": "1-0",
     "matchId": "5164839",
-    "status": "67'",
+    "status": "70'",
     "goals": [
       "",
       "",
@@ -424,13 +424,13 @@
     "awayTeam": "South Melbourne(U23)",
     "score": "1-2",
     "matchId": "5034742",
-    "status": "62'",
+    "status": "65'",
     "goals": [
       "12' 0-1",
       "",
       "44' 1-1",
       "",
-      "",
+      "57' 1-2",
       "",
       "",
       ""
@@ -442,12 +442,12 @@
     "time": "19:15",
     "start_time": "19:15",
     "group": "AUS TSC",
-    "title": "Taroona 11-0 Glenorchy Knights B",
+    "title": "Taroona 13-0 Glenorchy Knights B",
     "homeTeam": "Taroona",
     "awayTeam": "Glenorchy Knights B",
-    "score": "11-0",
+    "score": "13-0",
     "matchId": "5030014",
-    "status": "83'",
+    "status": "86'",
     "goals": [
       "",
       "",
@@ -470,7 +470,7 @@
     "awayTeam": "Denver Summit Women\\s",
     "score": "1-1",
     "matchId": "5024424",
-    "status": "85'",
+    "status": "88'",
     "goals": [
       "",
       "",
@@ -493,7 +493,7 @@
     "awayTeam": "Chicago Red Stars Women\\s",
     "score": "1-0",
     "matchId": "5024425",
-    "status": "85'",
+    "status": "88'",
     "goals": [
       "",
       "",
@@ -516,7 +516,7 @@
     "awayTeam": "Bay FC Women\\s",
     "score": "3-2",
     "matchId": "5024426",
-    "status": "87'",
+    "status": "90'",
     "goals": [
       "7' Karlie Lema (0-1)<br>8' Miyabi Moriya (1-1)",
       "22' Narumi Miura (2-1)<br>29' Heather Suzanne Gilchrist (2-2)",
@@ -524,7 +524,7 @@
       "",
       "",
       "",
-      "79' 3-2",
+      "79' Mina Tanaka (3-2)",
       ""
     ]
   },
@@ -761,6 +761,29 @@
   {
     "date": "2026-08-14",
     "day": "Friday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "BRA WT",
+    "title": "Atletico Mineiro Women\\s 2-0 Gremio Women\\s",
+    "homeTeam": "Atletico Mineiro Women\\s",
+    "awayTeam": "Gremio Women\\s",
+    "score": "2-0",
+    "matchId": "5029331",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "51' Anny Marab\u00e1 (1-0)",
+      "",
+      "",
+      "90+2' M\u00f3nica Ramos (2-0)"
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "PAR D2",
@@ -876,29 +899,6 @@
   {
     "date": "2026-08-14",
     "day": "Friday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "CHI D1",
-    "title": "C.D. Universidad de Concepcion 0-2 La Serena",
-    "homeTeam": "C.D. Universidad de Concepcion",
-    "awayTeam": "La Serena",
-    "score": "0-2",
-    "matchId": "5021609",
-    "status": "ET",
-    "goals": [
-      "",
-      "25' Angelo Jose Henriquez Iturra (0-1)",
-      "",
-      "",
-      "60' Rafael Marcelo Delgado (0-2)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA D2",
@@ -915,6 +915,29 @@
       "",
       "",
       "65' Benjamin Borasi (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-14",
+    "day": "Friday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "CHI D1",
+    "title": "C.D. Universidad de Concepcion 0-2 La Serena",
+    "homeTeam": "C.D. Universidad de Concepcion",
+    "awayTeam": "La Serena",
+    "score": "0-2",
+    "matchId": "5021609",
+    "status": "ET",
+    "goals": [
+      "",
+      "25' Angelo Jose Henriquez Iturra (0-1)",
+      "",
+      "",
+      "60' Rafael Marcelo Delgado (0-2)",
+      "",
       "",
       ""
     ]
@@ -940,29 +963,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-14",
-    "day": "Friday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "BRA WT",
-    "title": "Atletico Mineiro Women\\s 2-0 Gremio Women\\s",
-    "homeTeam": "Atletico Mineiro Women\\s",
-    "awayTeam": "Gremio Women\\s",
-    "score": "2-0",
-    "matchId": "5029331",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "51' Anny Marab\u00e1 (1-0)",
-      "",
-      "",
-      "90+2' M\u00f3nica Ramos (2-0)"
     ]
   },
   {

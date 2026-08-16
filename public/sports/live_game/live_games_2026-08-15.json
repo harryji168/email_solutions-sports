@@ -71,29 +71,6 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
-    "time": "16:06",
-    "start_time": "16:06",
-    "group": "ARG D1",
-    "title": "Newell\\s Old Boys 2-0 Deportivo Riestra",
-    "homeTeam": "Newell\\s Old Boys",
-    "awayTeam": "Deportivo Riestra",
-    "score": "2-0",
-    "matchId": "5052534",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "67' Facundo Guch (1-0)",
-      "85' Walter Mazzantti (2-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "day": "Saturday",
     "time": "14:03",
     "start_time": "14:03",
     "group": "CHI D4",
@@ -111,6 +88,29 @@
       "54' 2-1",
       "68' 3-1<br>73' 3-2",
       "80' 4-2",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "16:06",
+    "start_time": "16:06",
+    "group": "ARG D1",
+    "title": "Newell\\s Old Boys 2-0 Deportivo Riestra",
+    "homeTeam": "Newell\\s Old Boys",
+    "awayTeam": "Deportivo Riestra",
+    "score": "2-0",
+    "matchId": "5052534",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "67' Facundo Guch (1-0)",
+      "85' Walter Mazzantti (2-0)",
       ""
     ]
   },
@@ -163,6 +163,75 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
+    "time": "19:33",
+    "start_time": "19:33",
+    "group": "AUS VLU23",
+    "title": "Preston Lions(U23) 0-1 Dandenong Thunder(U23)",
+    "homeTeam": "Preston Lions(U23)",
+    "awayTeam": "Dandenong Thunder(U23)",
+    "score": "0-1",
+    "matchId": "5034745",
+    "status": "7'",
+    "goals": [
+      "2' 0-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "19:36",
+    "start_time": "19:36",
+    "group": "USLC",
+    "title": "Las Vegas Lights FC 0-0 Brooklyn FC",
+    "homeTeam": "Las Vegas Lights FC",
+    "awayTeam": "Brooklyn FC",
+    "score": "0-0",
+    "matchId": "5006835",
+    "status": "4'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "19:40",
+    "start_time": "19:40",
+    "group": "USA MLS",
+    "title": "San Jose Earthquakes 0-0 Saint Louis City",
+    "homeTeam": "San Jose Earthquakes",
+    "awayTeam": "Saint Louis City",
+    "score": "0-0",
+    "matchId": "5003428",
+    "status": "0'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
     "time": "19:06",
     "start_time": "19:06",
     "group": "USLC",
@@ -171,7 +240,7 @@
     "awayTeam": "Monterey Bay FC",
     "score": "0-0",
     "matchId": "5006837",
-    "status": "19'",
+    "status": "34'",
     "goals": [
       "",
       "",
@@ -194,7 +263,7 @@
     "awayTeam": "Louisville City FC",
     "score": "0-1",
     "matchId": "5006838",
-    "status": "18'",
+    "status": "33'",
     "goals": [
       "6' Ray Serrano (0-1)",
       "",
@@ -212,16 +281,16 @@
     "time": "19:00",
     "start_time": "19:00",
     "group": "CRC D1",
-    "title": "Deportivo Saprissa 1-0 C.S. Cartagines",
+    "title": "Deportivo Saprissa 2-1 C.S. Cartagines",
     "homeTeam": "Deportivo Saprissa",
     "awayTeam": "C.S. Cartagines",
-    "score": "1-0",
+    "score": "2-1",
     "matchId": "5075743",
-    "status": "25'",
+    "status": "40'",
     "goals": [
       "13' Jefferson Brenes Rojas (1-0)",
       "",
-      "",
+      "31' Douglas Andrey Lopez Araya (1-1)<br>34' Jefferson Brenes Rojas (2-1)",
       "",
       "",
       "",
@@ -235,12 +304,12 @@
     "time": "18:30",
     "start_time": "18:30",
     "group": "PAN D1",
-    "title": "UMECIT FC 0-0 Sporting San Miguelito",
+    "title": "UMECIT FC 0-1 Sporting San Miguelito",
     "homeTeam": "UMECIT FC",
     "awayTeam": "Sporting San Miguelito",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5111759",
-    "status": "HT",
+    "status": "54'",
     "goals": [
       "",
       "",
@@ -263,7 +332,30 @@
     "awayTeam": "FC Tulsa",
     "score": "0-0",
     "matchId": "5006836",
-    "status": "45+'",
+    "status": "HT",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "18:32",
+    "start_time": "18:32",
+    "group": "HON D1",
+    "title": "Real Espana 0-0 Atletico Independiente",
+    "homeTeam": "Real Espana",
+    "awayTeam": "Atletico Independiente",
+    "score": "0-0",
+    "matchId": "5125554",
+    "status": "46'",
     "goals": [
       "",
       "",
@@ -301,29 +393,6 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
-    "time": "18:32",
-    "start_time": "18:32",
-    "group": "HON D1",
-    "title": "Real Espana 0-0 Atletico Independiente",
-    "homeTeam": "Real Espana",
-    "awayTeam": "Atletico Independiente",
-    "score": "0-0",
-    "matchId": "5125554",
-    "status": "45+'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "day": "Saturday",
     "time": "18:40",
     "start_time": "18:40",
     "group": "USA MLS",
@@ -332,7 +401,7 @@
     "awayTeam": "Minnesota United FC",
     "score": "0-0",
     "matchId": "5003426",
-    "status": "45'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -355,7 +424,7 @@
     "awayTeam": "Sporting Kansas City",
     "score": "0-0",
     "matchId": "5003425",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -378,7 +447,7 @@
     "awayTeam": "Labasa FC",
     "score": "1-4",
     "matchId": "5037513",
-    "status": "HT",
+    "status": "52'",
     "goals": [
       "14' 0-1",
       "18' 0-2<br>19' 0-3<br>30' 0-4",
@@ -401,7 +470,30 @@
     "awayTeam": "Cacahuatique",
     "score": "0-0",
     "matchId": "5135823",
-    "status": "50'",
+    "status": "65'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "18:11",
+    "start_time": "18:11",
+    "group": "MEX WD1",
+    "title": "Tigres UANL Women\\s 1-0 FC Juarez Women\\s",
+    "homeTeam": "Tigres UANL Women\\s",
+    "awayTeam": "FC Juarez Women\\s",
+    "score": "1-0",
+    "matchId": "5141613",
+    "status": "69'",
     "goals": [
       "",
       "",
@@ -439,29 +531,6 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
-    "time": "18:11",
-    "start_time": "18:11",
-    "group": "MEX WD1",
-    "title": "Tigres UANL Women\\s 0-0 FC Juarez Women\\s",
-    "homeTeam": "Tigres UANL Women\\s",
-    "awayTeam": "FC Juarez Women\\s",
-    "score": "0-0",
-    "matchId": "5141613",
-    "status": "54'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "day": "Saturday",
     "time": "18:06",
     "start_time": "18:06",
     "group": "NCA D1",
@@ -470,7 +539,7 @@
     "awayTeam": "San Marcos",
     "score": "1-0",
     "matchId": "5118996",
-    "status": "65'",
+    "status": "80'",
     "goals": [
       "",
       "17' Carlos Guardado (1-0)",
@@ -488,19 +557,19 @@
     "time": "18:07",
     "start_time": "18:07",
     "group": "USL L1",
-    "title": "Spokane Velocity 1-1 Corpus Christi FC",
+    "title": "Spokane Velocity 2-1 Corpus Christi FC",
     "homeTeam": "Spokane Velocity",
     "awayTeam": "Corpus Christi FC",
-    "score": "1-1",
+    "score": "2-1",
     "matchId": "5007486",
-    "status": "62'",
+    "status": "77'",
     "goals": [
       "11' Neco Brett (1-0)",
       "",
       "",
       "",
-      "",
-      "",
+      "57' Jack Keaney (1-1)",
+      "70' Nil Vinyals (2-1)",
       "",
       ""
     ]
@@ -511,19 +580,19 @@
     "time": "18:01",
     "start_time": "18:01",
     "group": "MEX D2",
-    "title": "CSyD Dorados de Sinaloa 0-2 Tlaxcala FC",
+    "title": "CSyD Dorados de Sinaloa 1-2 Tlaxcala FC",
     "homeTeam": "CSyD Dorados de Sinaloa",
     "awayTeam": "Tlaxcala FC",
-    "score": "0-2",
+    "score": "1-2",
     "matchId": "5108964",
-    "status": "61'",
+    "status": "76'",
     "goals": [
       "",
       "17' Ismael Govea Sol\u00f3rzano (0-1)",
       "39' Daniel \u00c1lvarez (0-2)",
       "",
       "",
-      "",
+      "64' Jhan Rengifo (1-2)",
       "",
       ""
     ]
@@ -539,7 +608,7 @@
     "awayTeam": "CD Alacranes de Durango",
     "score": "2-0",
     "matchId": "5108959",
-    "status": "61'",
+    "status": "76'",
     "goals": [
       "",
       "",
@@ -562,7 +631,7 @@
     "awayTeam": "C.D. Malacateco",
     "score": "3-2",
     "matchId": "5083701",
-    "status": "57'",
+    "status": "72'",
     "goals": [
       "6' Dairon Reyes (1-0)<br>8' Dewinder Bradley (2-0)<br>13' Eliser Evangelista Quinones Tenorio (2-1)",
       "24' Fernando Missael Morales Arriaga (2-2)",
@@ -585,7 +654,7 @@
     "awayTeam": "El Paso Locomotive",
     "score": "0-3",
     "matchId": "5006841",
-    "status": "58'",
+    "status": "73'",
     "goals": [
       "",
       "20' Alexis Mendez (0-1)",
@@ -608,7 +677,7 @@
     "awayTeam": "Birmingham Legion",
     "score": "1-1",
     "matchId": "5006832",
-    "status": "59'",
+    "status": "74'",
     "goals": [
       "",
       "24' Nico Brown (0-1)",
@@ -626,19 +695,19 @@
     "time": "18:10",
     "start_time": "18:10",
     "group": "MEX D1",
-    "title": "Monterrey 4-1 FC Juarez",
+    "title": "Monterrey 5-1 FC Juarez",
     "homeTeam": "Monterrey",
     "awayTeam": "FC Juarez",
-    "score": "4-1",
+    "score": "5-1",
     "matchId": "5077264",
-    "status": "51'",
+    "status": "66'",
     "goals": [
       "6' Luca Orellano (1-0)<br>15' Diego Martin Rossi Marachlian (2-0)",
       "29' Hugo Cuypers (3-0)",
       "32' Oscar Eduardo Estupinan Vallesilla (3-1)",
       "45+3' Orbelin Pineda Alvarado (4-1)",
       "",
-      "",
+      "62' Lucas Ocampos (5-1)",
       "",
       ""
     ]
@@ -654,7 +723,7 @@
     "awayTeam": "Portland Timbers B",
     "score": "0-2",
     "matchId": "5029837",
-    "status": "77'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -677,7 +746,7 @@
     "awayTeam": "Orlando Pride Women\\s",
     "score": "1-1",
     "matchId": "5024428",
-    "status": "80'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -700,7 +769,7 @@
     "awayTeam": "Vancouver Whitecaps B",
     "score": "4-1",
     "matchId": "5029843",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "23' Stefan Dobrijevic (1-0)",
@@ -718,12 +787,12 @@
     "time": "17:38",
     "start_time": "17:38",
     "group": "USA WPSL",
-    "title": "Dallas Trinity Women\\s 1-0 Tampa Bay Sun Women\\s",
+    "title": "Dallas Trinity Women\\s 1-1 Tampa Bay Sun Women\\s",
     "homeTeam": "Dallas Trinity Women\\s",
     "awayTeam": "Tampa Bay Sun Women\\s",
-    "score": "1-0",
+    "score": "1-1",
     "matchId": "5166297",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -746,7 +815,7 @@
     "awayTeam": "UTC Cajamarca",
     "score": "1-0",
     "matchId": "5071959",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -769,7 +838,7 @@
     "awayTeam": "Inter Miami CF",
     "score": "4-1",
     "matchId": "5003424",
-    "status": "78'",
+    "status": "90+'",
     "goals": [
       "",
       "17' Andy Najar (1-0)",
@@ -792,7 +861,7 @@
     "awayTeam": "Los Angeles Galaxy",
     "score": "1-0",
     "matchId": "5003423",
-    "status": "80'",
+    "status": "90+'",
     "goals": [
       "",
       "21' Guilherme Augusto Vieira dos Santos (1-0)",
@@ -871,29 +940,6 @@
       "",
       "77' Germain Haewegene (2-3)<br>84' Ryan Watson (3-3)",
       "90+1' Matthew Ellis (4-3)"
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "day": "Saturday",
-    "time": "16:05",
-    "start_time": "16:05",
-    "group": "ARG D2",
-    "title": "CA Estudiantes 2-0 Chacarita Juniors",
-    "homeTeam": "CA Estudiantes",
-    "awayTeam": "Chacarita Juniors",
-    "score": "2-0",
-    "matchId": "5013759",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "63' Ian Vera (1-0)",
-      "77' Facundo Ardiles (2-0)",
-      ""
     ]
   },
   {
@@ -1083,6 +1129,29 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
+    "time": "14:47",
+    "start_time": "14:47",
+    "group": "MEX WD1",
+    "title": "Club America Women\\s 5-1 Puebla Women\\s",
+    "homeTeam": "Club America Women\\s",
+    "awayTeam": "Puebla Women\\s",
+    "score": "5-1",
+    "matchId": "5141609",
+    "status": "ET",
+    "goals": [
+      "2' Brina Laine Micheels (0-1)<br>8' M. Sald\u00edvar (1-1)",
+      "",
+      "37' Priscila (2-1)",
+      "45+1' A. Soto (3-1)",
+      "55' Geyse da Silva (4-1)",
+      "",
+      "",
+      "90+3' 5-1"
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
     "time": "16:31",
     "start_time": "16:31",
     "group": "VEN D1",
@@ -1124,6 +1193,29 @@
       "61' William Conner Antley (1-0)",
       "",
       "90+2' Louis Perez (2-0)"
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "14:34",
+    "start_time": "14:34",
+    "group": "SLV D1",
+    "title": "Fuerte San Francisco 1-0 Isidro Metapan",
+    "homeTeam": "Fuerte San Francisco",
+    "awayTeam": "Isidro Metapan",
+    "score": "1-0",
+    "matchId": "5135821",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+3' Vinicius Santana (1-0)",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -1175,29 +1267,6 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
-    "time": "14:47",
-    "start_time": "14:47",
-    "group": "MEX WD1",
-    "title": "Club America Women\\s 5-1 Puebla Women\\s",
-    "homeTeam": "Club America Women\\s",
-    "awayTeam": "Puebla Women\\s",
-    "score": "5-1",
-    "matchId": "5141609",
-    "status": "ET",
-    "goals": [
-      "2' Brina Laine Micheels (0-1)<br>8' M. Sald\u00edvar (1-1)",
-      "",
-      "37' Priscila (2-1)",
-      "45+1' A. Soto (3-1)",
-      "55' Geyse da Silva (4-1)",
-      "",
-      "",
-      "90+3' 5-1"
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "day": "Saturday",
     "time": "16:40",
     "start_time": "16:40",
     "group": "USA MLS",
@@ -1237,29 +1306,6 @@
       "",
       "",
       "73' Pep Biel Mas Jaume (3-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "day": "Saturday",
-    "time": "14:34",
-    "start_time": "14:34",
-    "group": "SLV D1",
-    "title": "Fuerte San Francisco 1-0 Isidro Metapan",
-    "homeTeam": "Fuerte San Francisco",
-    "awayTeam": "Isidro Metapan",
-    "score": "1-0",
-    "matchId": "5135821",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+3' Vinicius Santana (1-0)",
-      "",
-      "",
       "",
       ""
     ]
@@ -1773,52 +1819,6 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
-    "time": "16:33",
-    "start_time": "16:33",
-    "group": "BRA CP",
-    "title": "Marilia (SP) 0-1 CA Linense SP",
-    "homeTeam": "Marilia (SP)",
-    "awayTeam": "CA Linense SP",
-    "score": "0-1",
-    "matchId": "5077068",
-    "status": "ET",
-    "goals": [
-      "15' Guilherme Caf\u00e9 (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "day": "Saturday",
-    "time": "16:38",
-    "start_time": "16:38",
-    "group": "BRA D3",
-    "title": "Santa Cruz (PE) 0-1 Maranhao MA",
-    "homeTeam": "Santa Cruz (PE)",
-    "awayTeam": "Maranhao MA",
-    "score": "0-1",
-    "matchId": "5045994",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "33' Felipe Cruz (0-1)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "day": "Saturday",
     "time": "16:35",
     "start_time": "16:35",
     "group": "BRA D3",
@@ -1837,6 +1837,52 @@
       "",
       "78' Ryan Santos (2-2)<br>82' Petterson (3-2)",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "16:42",
+    "start_time": "16:42",
+    "group": "URU D1",
+    "title": "Montevideo Wanderers 1-1 Cerro Largo F.C.",
+    "homeTeam": "Montevideo Wanderers",
+    "awayTeam": "Cerro Largo F.C.",
+    "score": "1-1",
+    "matchId": "5159988",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+4' Joaquin Zeballos Machado (1-0)",
+      "",
+      "68' Axel Pandiani (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "16:13",
+    "start_time": "16:13",
+    "group": "USA MLSRv",
+    "title": "Columbus Crew B 4-2 New York City FC B",
+    "homeTeam": "Columbus Crew B",
+    "awayTeam": "New York City FC B",
+    "score": "4-2",
+    "matchId": "5029835",
+    "status": "ET",
+    "goals": [
+      "14' K. Gbambl\u00e9 (1-0)",
+      "",
+      "",
+      "45+5' Cooper Flax (1-1)",
+      "54' Owen Presthus (2-1)<br>59' Owen Presthus (3-1)",
+      "",
+      "",
+      "90+2' L. Sunjic (3-2)<br>90+7' K. Gbambl\u00e9 (4-2)"
     ]
   },
   {
@@ -1888,24 +1934,24 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
-    "time": "16:13",
-    "start_time": "16:13",
-    "group": "USA MLSRv",
-    "title": "Columbus Crew B 4-2 New York City FC B",
-    "homeTeam": "Columbus Crew B",
-    "awayTeam": "New York City FC B",
-    "score": "4-2",
-    "matchId": "5029835",
+    "time": "16:33",
+    "start_time": "16:33",
+    "group": "BRA CP",
+    "title": "Marilia (SP) 0-1 CA Linense SP",
+    "homeTeam": "Marilia (SP)",
+    "awayTeam": "CA Linense SP",
+    "score": "0-1",
+    "matchId": "5077068",
     "status": "ET",
     "goals": [
-      "14' K. Gbambl\u00e9 (1-0)",
+      "15' Guilherme Caf\u00e9 (0-1)",
       "",
       "",
-      "45+5' Cooper Flax (1-1)",
-      "54' Owen Presthus (2-1)<br>59' Owen Presthus (3-1)",
       "",
       "",
-      "90+2' L. Sunjic (3-2)<br>90+7' K. Gbambl\u00e9 (4-2)"
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -1923,7 +1969,7 @@
     "goals": [
       "",
       "28' Dorian Rodriguez (0-1)",
-      "42' Alexis Yohaslin Gamboa Rojas (1-1)",
+      "41' Alexis Yohaslin Gamboa Rojas (1-1)",
       "",
       "",
       "69' Kenyel Jaheim Michel Vargas (2-1)",
@@ -2003,22 +2049,22 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
-    "time": "16:42",
-    "start_time": "16:42",
-    "group": "URU D1",
-    "title": "Montevideo Wanderers 1-1 Cerro Largo F.C.",
-    "homeTeam": "Montevideo Wanderers",
-    "awayTeam": "Cerro Largo F.C.",
-    "score": "1-1",
-    "matchId": "5159988",
+    "time": "16:38",
+    "start_time": "16:38",
+    "group": "BRA D3",
+    "title": "Santa Cruz (PE) 0-1 Maranhao MA",
+    "homeTeam": "Santa Cruz (PE)",
+    "awayTeam": "Maranhao MA",
+    "score": "0-1",
+    "matchId": "5045994",
     "status": "ET",
     "goals": [
       "",
       "",
+      "33' Felipe Cruz (0-1)",
       "",
-      "45+4' Joaquin Zeballos Machado (1-0)",
       "",
-      "68' Axel Pandiani (1-1)",
+      "",
       "",
       ""
     ]
@@ -2043,6 +2089,29 @@
       "",
       "62' Edinson Mero (1-2)",
       "78' Edinson Mero (2-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "14:31",
+    "start_time": "14:31",
+    "group": "VEN D1",
+    "title": "Universidad Central de Venezuela F.C. 0-1 Caracas FC",
+    "homeTeam": "Universidad Central de Venezuela F.C.",
+    "awayTeam": "Caracas FC",
+    "score": "0-1",
+    "matchId": "5165171",
+    "status": "ET",
+    "goals": [
+      "",
+      "19' Robert Hernandez (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -2095,46 +2164,23 @@
   {
     "date": "2026-08-15",
     "day": "Saturday",
-    "time": "14:31",
-    "start_time": "14:31",
-    "group": "VEN D1",
-    "title": "Universidad Central de Venezuela F.C. 0-1 Caracas FC",
-    "homeTeam": "Universidad Central de Venezuela F.C.",
-    "awayTeam": "Caracas FC",
-    "score": "0-1",
-    "matchId": "5165171",
-    "status": "ET",
-    "goals": [
-      "",
-      "19' Robert Hernandez (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-15",
-    "day": "Saturday",
     "time": "16:05",
     "start_time": "16:05",
     "group": "ARG D2",
-    "title": "Quilmes Atletico Club 3-0 San Telmo",
-    "homeTeam": "Quilmes Atletico Club",
-    "awayTeam": "San Telmo",
-    "score": "3-0",
-    "matchId": "5013767",
+    "title": "CA Estudiantes 2-0 Chacarita Juniors",
+    "homeTeam": "CA Estudiantes",
+    "awayTeam": "Chacarita Juniors",
+    "score": "2-0",
+    "matchId": "5013759",
     "status": "ET",
     "goals": [
-      "3' Aaron Spetale (1-0)<br>11' Aaron Spetale (2-0)",
       "",
       "",
       "",
       "",
-      "66' Ulises Vera (3-0)",
       "",
+      "63' Ian Vera (1-0)",
+      "77' Facundo Ardiles (2-0)",
       ""
     ]
   },
@@ -2159,6 +2205,29 @@
       "63' Tomas Silva (1-1)",
       "",
       "90+3' Juan Pablo Gobetto (1-2)"
+    ]
+  },
+  {
+    "date": "2026-08-15",
+    "day": "Saturday",
+    "time": "16:05",
+    "start_time": "16:05",
+    "group": "ARG D2",
+    "title": "Quilmes Atletico Club 3-0 San Telmo",
+    "homeTeam": "Quilmes Atletico Club",
+    "awayTeam": "San Telmo",
+    "score": "3-0",
+    "matchId": "5013767",
+    "status": "ET",
+    "goals": [
+      "3' Aaron Spetale (1-0)<br>11' Aaron Spetale (2-0)",
+      "",
+      "",
+      "",
+      "",
+      "66' Ulises Vera (3-0)",
+      "",
+      ""
     ]
   },
   {
@@ -24629,7 +24698,7 @@
       "",
       "",
       "77' Jack Healy (0-1)<br>84' Fraser Mackie (1-1)",
-      "90' To Z. (2-1)"
+      "90' Zak To (2-1)"
     ]
   },
   {

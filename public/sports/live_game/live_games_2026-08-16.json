@@ -2,6 +2,29 @@
   {
     "date": "2026-08-16",
     "day": "Sunday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "BRA D3",
+    "title": "Barra SC 1-0 Itabaiana(SE)",
+    "homeTeam": "Barra SC",
+    "awayTeam": "Itabaiana(SE)",
+    "score": "1-0",
+    "matchId": "5045988",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "90+4' 1-0"
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "day": "Sunday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "ECU D1",
@@ -10,7 +33,7 @@
     "awayTeam": "Liga Deportiva Universitaria",
     "score": "0-1",
     "matchId": "5035295",
-    "status": "73'",
+    "status": "88'",
     "goals": [
       "",
       "",
@@ -48,15 +71,15 @@
   {
     "date": "2026-08-16",
     "day": "Sunday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA D3",
-    "title": "Barra SC 1-0 Itabaiana(SE)",
-    "homeTeam": "Barra SC",
-    "awayTeam": "Itabaiana(SE)",
-    "score": "1-0",
-    "matchId": "5045988",
-    "status": "ET",
+    "time": "18:30",
+    "start_time": "18:30",
+    "group": "BOL D1",
+    "title": "Club Independiente Petrolero 0-0 GV San Jose",
+    "homeTeam": "Club Independiente Petrolero",
+    "awayTeam": "GV San Jose",
+    "score": "0-0",
+    "matchId": "5158746",
+    "status": "17'",
     "goals": [
       "",
       "",
@@ -65,7 +88,7 @@
       "",
       "",
       "",
-      "90+4' 1-0"
+      ""
     ]
   },
   {
@@ -79,7 +102,7 @@
     "awayTeam": "Rosario Central",
     "score": "0-1",
     "matchId": "5052527",
-    "status": "86'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -531,6 +554,29 @@
   {
     "date": "2026-08-16",
     "day": "Sunday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "BRA D2",
+    "title": "America MG 1-3 Athletic Club MG",
+    "homeTeam": "America MG",
+    "awayTeam": "Athletic Club MG",
+    "score": "1-3",
+    "matchId": "5036253",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45' Kauan Rodrigues da Silva (0-1)",
+      "52' Lucas Sosa (0-2)",
+      "66' Carlos Moises de Lima, Carlinhos (0-3)",
+      "86' Gonzalo Mathias Mastriani Borges (1-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "day": "Sunday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "INTERF",
@@ -763,6 +809,29 @@
     "day": "Sunday",
     "time": "14:30",
     "start_time": "14:30",
+    "group": "BRA D1",
+    "title": "Mirassol FC 1-5 CR Flamengo (RJ)",
+    "homeTeam": "Mirassol FC",
+    "awayTeam": "CR Flamengo (RJ)",
+    "score": "1-5",
+    "matchId": "5006421",
+    "status": "ET",
+    "goals": [
+      "",
+      "22' Jorge Andres Carrascal Guardo (0-1)",
+      "",
+      "",
+      "53' Luiz de Araujo Guimaraes Neto (0-2)<br>56' Pedro Guilherme Abreu dos Santos (0-3)",
+      "66' Pedro Guilherme Abreu dos Santos (0-4)<br>74' Samuel Dias Lino (0-5)",
+      "77' Joao Victor Carroll Santana (1-5)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "day": "Sunday",
+    "time": "14:30",
+    "start_time": "14:30",
     "group": "PAR D1",
     "title": "Olimpia Asuncion 2-1 Sportivo Ameliano",
     "homeTeam": "Olimpia Asuncion",
@@ -853,29 +922,6 @@
   {
     "date": "2026-08-16",
     "day": "Sunday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA D2",
-    "title": "America MG 1-3 Athletic Club MG",
-    "homeTeam": "America MG",
-    "awayTeam": "Athletic Club MG",
-    "score": "1-3",
-    "matchId": "5036253",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45' Kauan Rodrigues da Silva (0-1)",
-      "52' Lucas Sosa (0-2)",
-      "66' Carlos Moises de Lima, Carlinhos (0-3)",
-      "86' Gonzalo Mathias Mastriani Borges (1-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "day": "Sunday",
     "time": "14:01",
     "start_time": "14:01",
     "group": "ARG D1",
@@ -945,29 +991,6 @@
   {
     "date": "2026-08-16",
     "day": "Sunday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA D1",
-    "title": "Mirassol FC 1-5 CR Flamengo (RJ)",
-    "homeTeam": "Mirassol FC",
-    "awayTeam": "CR Flamengo (RJ)",
-    "score": "1-5",
-    "matchId": "5006421",
-    "status": "ET",
-    "goals": [
-      "",
-      "22' Jorge Andres Carrascal Guardo (0-1)",
-      "",
-      "",
-      "53' Luiz de Araujo Guimaraes Neto (0-2)<br>56' Pedro Guilherme Abreu dos Santos (0-3)",
-      "66' Pedro Guilherme Abreu dos Santos (0-4)<br>74' Samuel Dias Lino (0-5)",
-      "77' Joao Victor Carroll Santana (1-5)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "day": "Sunday",
     "time": "18:30",
     "start_time": "18:30",
     "group": "HON D1",
@@ -976,7 +999,7 @@
     "awayTeam": "Juticalpa",
     "score": "0-0",
     "matchId": "5125558",
-    "status": "2'",
+    "status": "17'",
     "goals": [
       "",
       "",
@@ -999,7 +1022,7 @@
     "awayTeam": "C.D. Guadalajara",
     "score": "0-0",
     "matchId": "5077269",
-    "status": "20'",
+    "status": "35'",
     "goals": [
       "",
       "",
@@ -1040,12 +1063,12 @@
     "time": "18:08",
     "start_time": "18:08",
     "group": "USA NWSL",
-    "title": "Angel City FC Women\\s 0-0 Washington Spirit Women\\s",
+    "title": "Angel City FC Women\\s 1-0 Washington Spirit Women\\s",
     "homeTeam": "Angel City FC Women\\s",
     "awayTeam": "Washington Spirit Women\\s",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5024430",
-    "status": "24'",
+    "status": "39'",
     "goals": [
       "",
       "",
@@ -1114,7 +1137,7 @@
     "awayTeam": "Chile Women\\s(U17)",
     "score": "0-0",
     "matchId": "5158811",
-    "status": "HT",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -1137,14 +1160,14 @@
     "awayTeam": "Jalapa ART",
     "score": "1-1",
     "matchId": "5119001",
-    "status": "71'",
+    "status": "86'",
     "goals": [
       "",
       "",
       "",
       "",
       "51' Oscar Villalobos (0-1)",
-      "68' 1-1",
+      "68' Ronald Palacios (1-1)",
       "",
       ""
     ]
@@ -1160,14 +1183,37 @@
     "awayTeam": "Jicaral Sercoba",
     "score": "0-1",
     "matchId": "5141064",
-    "status": "73'",
+    "status": "88'",
     "goals": [
       "",
       "",
       "",
       "",
       "",
-      "72' 0-1",
+      "71' 0-1",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-16",
+    "day": "Sunday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "BRA D3",
+    "title": "Confianca (SE) 1-1 Maringa FC",
+    "homeTeam": "Confianca (SE)",
+    "awayTeam": "Maringa FC",
+    "score": "1-1",
+    "matchId": "5045990",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "54' Caique Calito (0-1)<br>60' \u00cdcaro (1-1)",
+      "",
       "",
       ""
     ]
@@ -1206,7 +1252,7 @@
     "awayTeam": "CD Antofagasta",
     "score": "0-1",
     "matchId": "5027397",
-    "status": "70'",
+    "status": "85'",
     "goals": [
       "",
       "",
@@ -1221,45 +1267,22 @@
   {
     "date": "2026-08-16",
     "day": "Sunday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA D3",
-    "title": "Confianca (SE) 1-1 Maringa FC",
-    "homeTeam": "Confianca (SE)",
-    "awayTeam": "Maringa FC",
-    "score": "1-1",
-    "matchId": "5045990",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "54' Caique Calito (0-1)<br>60' \u00cdcaro (1-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-16",
-    "day": "Sunday",
     "time": "17:05",
     "start_time": "17:05",
     "group": "SLV D1",
-    "title": "CD Platense Municipal Zacatecoluca 1-0 CD FAS",
+    "title": "CD Platense Municipal Zacatecoluca 2-1 CD FAS",
     "homeTeam": "CD Platense Municipal Zacatecoluca",
     "awayTeam": "CD FAS",
-    "score": "1-0",
+    "score": "2-1",
     "matchId": "5135824",
-    "status": "63'",
+    "status": "78'",
     "goals": [
       "",
       "",
       "",
       "",
       "49' Xavi Garc\u00eda (1-0)",
-      "",
+      "63' Rafael Tejada (1-1)<br>73' 2-1",
       "",
       ""
     ]

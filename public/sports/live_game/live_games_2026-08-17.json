@@ -28,16 +28,16 @@
     "time": "20:06",
     "start_time": "20:06",
     "group": "MEX D1",
-    "title": "C.F. Pachuca 0-1 Puebla FC",
+    "title": "C.F. Pachuca 0-2 Puebla FC",
     "homeTeam": "C.F. Pachuca",
     "awayTeam": "Puebla FC",
-    "score": "0-1",
+    "score": "0-2",
     "matchId": "5077272",
-    "status": "26'",
+    "status": "41'",
     "goals": [
       "",
       "16' Emiliano Gomez Dutra (0-1)",
-      "",
+      "33' Kevin Andres Velasco Bonilla (0-2)",
       "",
       "",
       "",
@@ -89,6 +89,29 @@
       "71' Augusin Ivan Campana (1-1)",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
+    "time": "17:31",
+    "start_time": "17:31",
+    "group": "CHI D1",
+    "title": "Palestino 5-1 Huachipato FC",
+    "homeTeam": "Palestino",
+    "awayTeam": "Huachipato FC",
+    "score": "5-1",
+    "matchId": "5021608",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' Lionel Altamirano (0-1)",
+      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
+      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
+      "",
+      "87' Francisco Tomas Montes Romero (4-1)",
+      "90+6' Gonzalo Tapia (5-1)"
     ]
   },
   {
@@ -209,29 +232,6 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "MEX D1",
-    "title": "Club Necaxa 1-2 Club Leon",
-    "homeTeam": "Club Necaxa",
-    "awayTeam": "Club Leon",
-    "score": "1-2",
-    "matchId": "5077271",
-    "status": "ET",
-    "goals": [
-      "",
-      "27' Daniel Arcila (0-1)",
-      "",
-      "",
-      "",
-      "65' Matias Espindola (1-1)<br>72' Juan Pablo Dominguez Chonteco (1-2)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
     "time": "17:28",
     "start_time": "17:28",
     "group": "ARG D1",
@@ -255,6 +255,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "MEX D1",
+    "title": "Club Necaxa 1-2 Club Leon",
+    "homeTeam": "Club Necaxa",
+    "awayTeam": "Club Leon",
+    "score": "1-2",
+    "matchId": "5077271",
+    "status": "ET",
+    "goals": [
+      "",
+      "27' Daniel Arcila (0-1)",
+      "",
+      "",
+      "",
+      "65' Matias Espindola (1-1)<br>72' Juan Pablo Dominguez Chonteco (1-2)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "19:03",
     "start_time": "19:03",
     "group": "CRC D1",
@@ -263,7 +286,7 @@
     "awayTeam": "Escorpiones Belen",
     "score": "2-0",
     "matchId": "5075744",
-    "status": "69'",
+    "status": "84'",
     "goals": [
       "2' Erson Josimar Mendez James (1-0)<br>4' Marco Urena (2-0)",
       "",
@@ -434,52 +457,6 @@
       "68' 1-0",
       "79' Josu\u00e9 Mart\u00ednez (1-1)<br>87' 2-1",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "BRA D1",
-    "title": "SC Internacional 1-1 Clube do Remo (PA)",
-    "homeTeam": "SC Internacional",
-    "awayTeam": "Clube do Remo (PA)",
-    "score": "1-1",
-    "matchId": "5006420",
-    "status": "ET",
-    "goals": [
-      "3' Johan Carbonero (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "90+5' Vitor Frerazin Bueno (1-1)"
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "17:31",
-    "start_time": "17:31",
-    "group": "CHI D1",
-    "title": "Palestino 5-1 Huachipato FC",
-    "homeTeam": "Palestino",
-    "awayTeam": "Huachipato FC",
-    "score": "5-1",
-    "matchId": "5021608",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "40' Lionel Altamirano (0-1)",
-      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
-      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
-      "",
-      "87' Francisco Tomas Montes Romero (4-1)",
-      "90+6' Gonzalo Tapia (5-1)"
     ]
   },
   {

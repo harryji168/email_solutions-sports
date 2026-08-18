@@ -48,29 +48,6 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
-    "time": "17:31",
-    "start_time": "17:31",
-    "group": "CHI D1",
-    "title": "Palestino 3-1 Huachipato FC",
-    "homeTeam": "Palestino",
-    "awayTeam": "Huachipato FC",
-    "score": "3-1",
-    "matchId": "5021608",
-    "status": "85'",
-    "goals": [
-      "",
-      "",
-      "40' Lionel Altamirano (0-1)",
-      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
-      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
     "time": "18:03",
     "start_time": "18:03",
     "group": "ECU D1",
@@ -89,6 +66,29 @@
       "71' Augusin Ivan Campana (1-1)",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
+    "time": "17:31",
+    "start_time": "17:31",
+    "group": "CHI D1",
+    "title": "Palestino 5-1 Huachipato FC",
+    "homeTeam": "Palestino",
+    "awayTeam": "Huachipato FC",
+    "score": "5-1",
+    "matchId": "5021608",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' Lionel Altamirano (0-1)",
+      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
+      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
+      "",
+      "87' Francisco Tomas Montes Romero (4-1)",
+      "90+6' Gonzalo Tapia (5-1)"
     ]
   },
   {
@@ -140,29 +140,6 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "PAN D1",
-    "title": "Tauro FC 0-1 CD Arabe Unido",
-    "homeTeam": "Tauro FC",
-    "awayTeam": "CD Arabe Unido",
-    "score": "0-1",
-    "matchId": "5111760",
-    "status": "58'",
-    "goals": [
-      "14' Reynaldo Graham (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
     "time": "16:00",
     "start_time": "16:00",
     "group": "BRA D3",
@@ -186,6 +163,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "PAN D1",
+    "title": "Tauro FC 0-1 CD Arabe Unido",
+    "homeTeam": "Tauro FC",
+    "awayTeam": "CD Arabe Unido",
+    "score": "0-1",
+    "matchId": "5111760",
+    "status": "76'",
+    "goals": [
+      "14' Reynaldo Graham (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "17:30",
     "start_time": "17:30",
     "group": "CHI D2",
@@ -194,7 +194,7 @@
     "awayTeam": "Deportes Recoleta",
     "score": "1-1",
     "matchId": "5027399",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "22' Brayams Viveros (0-1)",
@@ -202,7 +202,7 @@
       "",
       "",
       "",
-      "82' Brayams Viveros (1-1)",
+      "82' Ignacio Lara (1-1)",
       ""
     ]
   },
@@ -212,19 +212,19 @@
     "time": "18:00",
     "start_time": "18:00",
     "group": "MEX D1",
-    "title": "Club Necaxa 0-1 Club Leon",
+    "title": "Club Necaxa 1-2 Club Leon",
     "homeTeam": "Club Necaxa",
     "awayTeam": "Club Leon",
-    "score": "0-1",
+    "score": "1-2",
     "matchId": "5077271",
-    "status": "58'",
+    "status": "76'",
     "goals": [
       "",
       "27' Daniel Arcila (0-1)",
       "",
       "",
       "",
-      "",
+      "65' Matias Espindola (1-1)<br>72' Juan Pablo Dominguez Chonteco (1-2)",
       "",
       ""
     ]
@@ -263,7 +263,7 @@
     "awayTeam": "Escorpiones Belen",
     "score": "2-0",
     "matchId": "5075744",
-    "status": "14'",
+    "status": "32'",
     "goals": [
       "2' Erson Josimar Mendez James (1-0)<br>4' Marco Urena (2-0)",
       "",
@@ -324,6 +324,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "17:28",
+    "start_time": "17:28",
+    "group": "ARG D1",
+    "title": "Gimnasia Mendoza 3-1 Talleres Cordoba",
+    "homeTeam": "Gimnasia Mendoza",
+    "awayTeam": "Talleres Cordoba",
+    "score": "3-1",
+    "matchId": "5052532",
+    "status": "ET",
+    "goals": [
+      "9' Agustin Modica (1-0)",
+      "20' Agustin Modica (2-0)",
+      "",
+      "",
+      "51' Luciano Cesar Cingolani (3-0)",
+      "",
+      "85' Santiago Fernandez (3-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "16:00",
     "start_time": "16:00",
     "group": "BRA D3",
@@ -378,57 +401,11 @@
     "awayTeam": "CF Monterrey Women\\s",
     "score": "0-3",
     "matchId": "5141624",
-    "status": "49'",
+    "status": "67'",
     "goals": [
       "5' Jermaine Seoposenwe (0-1)",
       "19' Luc\u00eda Garc\u00eda C\u00f3rdoba (0-2)",
-      "32' Marcela Restrepo (0-3)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "17:28",
-    "start_time": "17:28",
-    "group": "ARG D1",
-    "title": "Gimnasia Mendoza 3-1 Talleres Cordoba",
-    "homeTeam": "Gimnasia Mendoza",
-    "awayTeam": "Talleres Cordoba",
-    "score": "3-1",
-    "matchId": "5052532",
-    "status": "90'",
-    "goals": [
-      "9' Agustin Modica (1-0)",
-      "20' Agustin Modica (2-0)",
-      "",
-      "",
-      "51' Luciano Cesar Cingolani (3-0)",
-      "",
-      "85' Santiago Fernandez (3-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "18:03",
-    "start_time": "18:03",
-    "group": "CRC D2",
-    "title": "Pitbulls 0-0 CS Uruguay De Coronado",
-    "homeTeam": "Pitbulls",
-    "awayTeam": "CS Uruguay De Coronado",
-    "score": "0-0",
-    "matchId": "5141066",
-    "status": "56'",
-    "goals": [
-      "",
-      "",
-      "",
+      "32' Marcela Restrepo Valencia (0-3)",
       "",
       "",
       "",
@@ -457,6 +434,29 @@
       "",
       "",
       "90+5' Vitor Frerazin Bueno (1-1)"
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
+    "time": "18:03",
+    "start_time": "18:03",
+    "group": "CRC D2",
+    "title": "Pitbulls 1-0 CS Uruguay De Coronado",
+    "homeTeam": "Pitbulls",
+    "awayTeam": "CS Uruguay De Coronado",
+    "score": "1-0",
+    "matchId": "5141066",
+    "status": "74'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "68' 1-0",
+      "",
+      ""
     ]
   },
   {

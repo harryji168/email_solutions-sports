@@ -2,6 +2,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "17:31",
+    "start_time": "17:31",
+    "group": "CHI D1",
+    "title": "Palestino 5-1 Huachipato FC",
+    "homeTeam": "Palestino",
+    "awayTeam": "Huachipato FC",
+    "score": "5-1",
+    "matchId": "5021608",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' Lionel Altamirano (0-1)",
+      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
+      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
+      "",
+      "87' Francisco Tomas Montes Romero (4-1)",
+      "90+6' Gonzalo Tapia (5-1)"
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "ARG D3FA",
@@ -48,6 +71,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "CHI D2",
+    "title": "Deportes Temuco 1-1 Deportes Recoleta",
+    "homeTeam": "Deportes Temuco",
+    "awayTeam": "Deportes Recoleta",
+    "score": "1-1",
+    "matchId": "5027399",
+    "status": "ET",
+    "goals": [
+      "",
+      "22' Brayams Viveros (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "82' Ignacio Lara (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "18:05",
     "start_time": "18:05",
     "group": "MEX WD1",
@@ -64,29 +110,6 @@
       "",
       "52' Eug\u00e9nie Anne Claudine Le Sommer-Dariel (1-1)",
       "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "18:03",
-    "start_time": "18:03",
-    "group": "ECU D1",
-    "title": "Macara 1-1 C.D. Universidad Catolica del Ecuador",
-    "homeTeam": "Macara",
-    "awayTeam": "C.D. Universidad Catolica del Ecuador",
-    "score": "1-1",
-    "matchId": "5035299",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "52' Daniel Emiliano Clavijo Romero (0-1)",
-      "71' Augusin Ivan Campana (1-1)",
       "",
       ""
     ]
@@ -117,45 +140,22 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "CHI D2",
-    "title": "Deportes Temuco 1-1 Deportes Recoleta",
-    "homeTeam": "Deportes Temuco",
-    "awayTeam": "Deportes Recoleta",
+    "time": "18:03",
+    "start_time": "18:03",
+    "group": "ECU D1",
+    "title": "Macara 1-1 C.D. Universidad Catolica del Ecuador",
+    "homeTeam": "Macara",
+    "awayTeam": "C.D. Universidad Catolica del Ecuador",
     "score": "1-1",
-    "matchId": "5027399",
-    "status": "ET",
-    "goals": [
-      "",
-      "22' Brayams Viveros (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "82' Ignacio Lara (1-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "MEX WD1",
-    "title": "Club Leon Women\\s 0-1 Queretaro FC Women\\s",
-    "homeTeam": "Club Leon Women\\s",
-    "awayTeam": "Queretaro FC Women\\s",
-    "score": "0-1",
-    "matchId": "5141620",
+    "matchId": "5035299",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
-      "55' Allie Suzanne George (0-1)",
-      "",
+      "52' Daniel Emiliano Clavijo Romero (0-1)",
+      "71' Augusin Ivan Campana (1-1)",
       "",
       ""
     ]
@@ -178,6 +178,29 @@
       "",
       "",
       "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "MEX WD1",
+    "title": "Club Leon Women\\s 0-1 Queretaro FC Women\\s",
+    "homeTeam": "Club Leon Women\\s",
+    "awayTeam": "Queretaro FC Women\\s",
+    "score": "0-1",
+    "matchId": "5141620",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "55' Allie Suzanne George (0-1)",
       "",
       "",
       ""
@@ -263,7 +286,7 @@
     "awayTeam": "Puebla FC",
     "score": "2-2",
     "matchId": "5077272",
-    "status": "64'",
+    "status": "82'",
     "goals": [
       "",
       "16' Emiliano Gomez Dutra (0-1)",
@@ -388,29 +411,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "17:31",
-    "start_time": "17:31",
-    "group": "CHI D1",
-    "title": "Palestino 5-1 Huachipato FC",
-    "homeTeam": "Palestino",
-    "awayTeam": "Huachipato FC",
-    "score": "5-1",
-    "matchId": "5021608",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "40' Lionel Altamirano (0-1)",
-      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
-      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
-      "",
-      "87' Francisco Tomas Montes Romero (4-1)",
-      "90+6' Gonzalo Tapia (5-1)"
     ]
   },
   {

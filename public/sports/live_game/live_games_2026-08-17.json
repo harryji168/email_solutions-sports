@@ -25,6 +25,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "17:31",
+    "start_time": "17:31",
+    "group": "CHI D1",
+    "title": "Palestino 3-1 Huachipato FC",
+    "homeTeam": "Palestino",
+    "awayTeam": "Huachipato FC",
+    "score": "3-1",
+    "matchId": "5021608",
+    "status": "55'",
+    "goals": [
+      "",
+      "",
+      "40' Lionel Altamirano (0-1)",
+      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
+      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "18:05",
     "start_time": "18:05",
     "group": "MEX WD1",
@@ -33,7 +56,7 @@
     "awayTeam": "Atlas Women\\s",
     "score": "1-1",
     "matchId": "5141622",
-    "status": "72'",
+    "status": "87'",
     "goals": [
       "",
       "18' Aitana Mart\u00ednez (0-1)",
@@ -56,7 +79,7 @@
     "awayTeam": "C.D. Universidad Catolica del Ecuador",
     "score": "1-1",
     "matchId": "5035299",
-    "status": "74'",
+    "status": "89'",
     "goals": [
       "",
       "",
@@ -64,6 +87,29 @@
       "",
       "52' Daniel Emiliano Clavijo Romero (0-1)",
       "71' Augusin Ivan Campana (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
+    "time": "17:28",
+    "start_time": "17:28",
+    "group": "ARG D1",
+    "title": "Gimnasia Mendoza 3-0 Talleres Cordoba",
+    "homeTeam": "Gimnasia Mendoza",
+    "awayTeam": "Talleres Cordoba",
+    "score": "3-0",
+    "matchId": "5052532",
+    "status": "60'",
+    "goals": [
+      "9' Agustin Modica (1-0)",
+      "20' Agustin Modica (2-0)",
+      "",
+      "",
+      "51' Luciano Cesar Cingolani (3-0)",
+      "",
       "",
       ""
     ]
@@ -125,7 +171,7 @@
     "awayTeam": "CD Arabe Unido",
     "score": "0-1",
     "matchId": "5111760",
-    "status": "32'",
+    "status": "45+'",
     "goals": [
       "14' Reynaldo Graham (0-1)",
       "",
@@ -171,7 +217,7 @@
     "awayTeam": "Deportes Recoleta",
     "score": "0-1",
     "matchId": "5027399",
-    "status": "HT",
+    "status": "60'",
     "goals": [
       "",
       "22' Brayams Viveros (0-1)",
@@ -194,35 +240,12 @@
     "awayTeam": "Club Leon",
     "score": "0-1",
     "matchId": "5077271",
-    "status": "32'",
+    "status": "45+'",
     "goals": [
       "",
       "27' Daniel Arcila (0-1)",
       "",
       "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "17:31",
-    "start_time": "17:31",
-    "group": "CHI D1",
-    "title": "Palestino 1-1 Huachipato FC",
-    "homeTeam": "Palestino",
-    "awayTeam": "Huachipato FC",
-    "score": "1-1",
-    "matchId": "5021608",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "40' Lionel Altamirano (0-1)",
-      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
       "",
       "",
       "",
@@ -301,29 +324,6 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
-    "time": "17:28",
-    "start_time": "17:28",
-    "group": "ARG D1",
-    "title": "Gimnasia Mendoza 2-0 Talleres Cordoba",
-    "homeTeam": "Gimnasia Mendoza",
-    "awayTeam": "Talleres Cordoba",
-    "score": "2-0",
-    "matchId": "5052532",
-    "status": "45'",
-    "goals": [
-      "9' Agustin Modica (1-0)",
-      "20' Agustin Modica (2-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
     "time": "16:00",
     "start_time": "16:00",
     "group": "BRA D3",
@@ -373,15 +373,38 @@
     "time": "18:06",
     "start_time": "18:06",
     "group": "MEX WD1",
-    "title": "Santos Laguna Women\\s 0-2 CF Monterrey Women\\s",
+    "title": "Santos Laguna Women\\s 0-3 CF Monterrey Women\\s",
     "homeTeam": "Santos Laguna Women\\s",
     "awayTeam": "CF Monterrey Women\\s",
-    "score": "0-2",
+    "score": "0-3",
     "matchId": "5141624",
-    "status": "26'",
+    "status": "41'",
     "goals": [
       "5' Jermaine Seoposenwe (0-1)",
-      "19' Luc\u00eda Garc\u00eda (0-2)",
+      "19' Luc\u00eda Garc\u00eda C\u00f3rdoba (0-2)",
+      "32' Marcela Restrepo (0-3)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
+    "time": "18:03",
+    "start_time": "18:03",
+    "group": "CRC D2",
+    "title": "Pitbulls 0-0 CS Uruguay De Coronado",
+    "homeTeam": "Pitbulls",
+    "awayTeam": "CS Uruguay De Coronado",
+    "score": "0-0",
+    "matchId": "5141066",
+    "status": "44'",
+    "goals": [
+      "",
+      "",
       "",
       "",
       "",
@@ -411,29 +434,6 @@
       "",
       "",
       "90+5' Vitor Frerazin Bueno (1-1)"
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "18:03",
-    "start_time": "18:03",
-    "group": "CRC D2",
-    "title": "Pitbulls 0-0 CS Uruguay De Coronado",
-    "homeTeam": "Pitbulls",
-    "awayTeam": "CS Uruguay De Coronado",
-    "score": "0-0",
-    "matchId": "5141066",
-    "status": "29'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {

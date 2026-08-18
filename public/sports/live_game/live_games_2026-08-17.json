@@ -2,29 +2,6 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
-    "time": "17:28",
-    "start_time": "17:28",
-    "group": "ARG D1",
-    "title": "Gimnasia Mendoza 3-0 Talleres Cordoba",
-    "homeTeam": "Gimnasia Mendoza",
-    "awayTeam": "Talleres Cordoba",
-    "score": "3-0",
-    "matchId": "5052532",
-    "status": "75'",
-    "goals": [
-      "9' Agustin Modica (1-0)",
-      "20' Agustin Modica (2-0)",
-      "",
-      "",
-      "51' Luciano Cesar Cingolani (3-0)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "ARG D3FA",
@@ -71,6 +48,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "17:31",
+    "start_time": "17:31",
+    "group": "CHI D1",
+    "title": "Palestino 3-1 Huachipato FC",
+    "homeTeam": "Palestino",
+    "awayTeam": "Huachipato FC",
+    "score": "3-1",
+    "matchId": "5021608",
+    "status": "85'",
+    "goals": [
+      "",
+      "",
+      "40' Lionel Altamirano (0-1)",
+      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
+      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "18:03",
     "start_time": "18:03",
     "group": "ECU D1",
@@ -87,29 +87,6 @@
       "",
       "52' Daniel Emiliano Clavijo Romero (0-1)",
       "71' Augusin Ivan Campana (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "17:31",
-    "start_time": "17:31",
-    "group": "CHI D1",
-    "title": "Palestino 3-1 Huachipato FC",
-    "homeTeam": "Palestino",
-    "awayTeam": "Huachipato FC",
-    "score": "3-1",
-    "matchId": "5021608",
-    "status": "70'",
-    "goals": [
-      "",
-      "",
-      "40' Lionel Altamirano (0-1)",
-      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
-      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
-      "",
       "",
       ""
     ]
@@ -140,6 +117,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "15:15",
+    "start_time": "15:15",
+    "group": "ARG D1",
+    "title": "Velez Sarsfield 1-1 Defensa y Justicia",
+    "homeTeam": "Velez Sarsfield",
+    "awayTeam": "Defensa y Justicia",
+    "score": "1-1",
+    "matchId": "5052540",
+    "status": "ET",
+    "goals": [
+      "4' Manuel Lanzini (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "79' Leandro Miguel Fernandez (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "18:00",
     "start_time": "18:00",
     "group": "PAN D1",
@@ -148,7 +148,7 @@
     "awayTeam": "CD Arabe Unido",
     "score": "0-1",
     "matchId": "5111760",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "14' Reynaldo Graham (0-1)",
       "",
@@ -186,38 +186,15 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
-    "time": "15:15",
-    "start_time": "15:15",
-    "group": "ARG D1",
-    "title": "Velez Sarsfield 1-1 Defensa y Justicia",
-    "homeTeam": "Velez Sarsfield",
-    "awayTeam": "Defensa y Justicia",
-    "score": "1-1",
-    "matchId": "5052540",
-    "status": "ET",
-    "goals": [
-      "4' Manuel Lanzini (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "79' Leandro Miguel Fernandez (1-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
     "time": "17:30",
     "start_time": "17:30",
     "group": "CHI D2",
-    "title": "Deportes Temuco 0-1 Deportes Recoleta",
+    "title": "Deportes Temuco 1-1 Deportes Recoleta",
     "homeTeam": "Deportes Temuco",
     "awayTeam": "Deportes Recoleta",
-    "score": "0-1",
+    "score": "1-1",
     "matchId": "5027399",
-    "status": "75'",
+    "status": "90'",
     "goals": [
       "",
       "22' Brayams Viveros (0-1)",
@@ -225,7 +202,7 @@
       "",
       "",
       "",
-      "",
+      "82' Brayams Viveros (1-1)",
       ""
     ]
   },
@@ -240,7 +217,7 @@
     "awayTeam": "Club Leon",
     "score": "0-1",
     "matchId": "5077271",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "",
       "27' Daniel Arcila (0-1)",
@@ -272,6 +249,29 @@
       "58' Axel Baigorria (2-1)",
       "",
       "83' Richard Salinas (3-1)<br>85' Nestor G\u00f3mez (4-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
+    "time": "19:03",
+    "start_time": "19:03",
+    "group": "CRC D1",
+    "title": "Sporting San Jose 2-0 Escorpiones Belen",
+    "homeTeam": "Sporting San Jose",
+    "awayTeam": "Escorpiones Belen",
+    "score": "2-0",
+    "matchId": "5075744",
+    "status": "14'",
+    "goals": [
+      "2' Erson Josimar Mendez James (1-0)<br>4' Marco Urena (2-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -378,7 +378,7 @@
     "awayTeam": "CF Monterrey Women\\s",
     "score": "0-3",
     "matchId": "5141624",
-    "status": "HT",
+    "status": "49'",
     "goals": [
       "5' Jermaine Seoposenwe (0-1)",
       "19' Luc\u00eda Garc\u00eda C\u00f3rdoba (0-2)",
@@ -393,6 +393,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "17:28",
+    "start_time": "17:28",
+    "group": "ARG D1",
+    "title": "Gimnasia Mendoza 3-1 Talleres Cordoba",
+    "homeTeam": "Gimnasia Mendoza",
+    "awayTeam": "Talleres Cordoba",
+    "score": "3-1",
+    "matchId": "5052532",
+    "status": "90'",
+    "goals": [
+      "9' Agustin Modica (1-0)",
+      "20' Agustin Modica (2-0)",
+      "",
+      "",
+      "51' Luciano Cesar Cingolani (3-0)",
+      "",
+      "85' Santiago Fernandez (3-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "18:03",
     "start_time": "18:03",
     "group": "CRC D2",
@@ -401,7 +424,7 @@
     "awayTeam": "CS Uruguay De Coronado",
     "score": "0-0",
     "matchId": "5141066",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "",
       "",

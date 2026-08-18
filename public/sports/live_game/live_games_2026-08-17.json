@@ -2,29 +2,6 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
-    "time": "17:31",
-    "start_time": "17:31",
-    "group": "CHI D1",
-    "title": "Palestino 5-1 Huachipato FC",
-    "homeTeam": "Palestino",
-    "awayTeam": "Huachipato FC",
-    "score": "5-1",
-    "matchId": "5021608",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "40' Lionel Altamirano (0-1)",
-      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
-      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
-      "",
-      "87' Francisco Tomas Montes Romero (4-1)",
-      "90+6' Gonzalo Tapia (5-1)"
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "ARG D3FA",
@@ -65,29 +42,6 @@
       "51' Luciano Cesar Cingolani (3-0)",
       "",
       "85' Santiago Fernandez (3-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-17",
-    "day": "Monday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "CHI D2",
-    "title": "Deportes Temuco 1-1 Deportes Recoleta",
-    "homeTeam": "Deportes Temuco",
-    "awayTeam": "Deportes Recoleta",
-    "score": "1-1",
-    "matchId": "5027399",
-    "status": "ET",
-    "goals": [
-      "",
-      "22' Brayams Viveros (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "82' Ignacio Lara (1-1)",
       ""
     ]
   },
@@ -209,6 +163,29 @@
   {
     "date": "2026-08-17",
     "day": "Monday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "CHI D2",
+    "title": "Deportes Temuco 1-1 Deportes Recoleta",
+    "homeTeam": "Deportes Temuco",
+    "awayTeam": "Deportes Recoleta",
+    "score": "1-1",
+    "matchId": "5027399",
+    "status": "ET",
+    "goals": [
+      "",
+      "22' Brayams Viveros (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "82' Ignacio Lara (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
     "time": "18:00",
     "start_time": "18:00",
     "group": "MEX D1",
@@ -281,12 +258,12 @@
     "time": "20:06",
     "start_time": "20:06",
     "group": "MEX D1",
-    "title": "C.F. Pachuca 2-2 Puebla FC",
+    "title": "C.F. Pachuca 2-3 Puebla FC",
     "homeTeam": "C.F. Pachuca",
     "awayTeam": "Puebla FC",
-    "score": "2-2",
+    "score": "2-3",
     "matchId": "5077272",
-    "status": "82'",
+    "status": "ET",
     "goals": [
       "",
       "16' Emiliano Gomez Dutra (0-1)",
@@ -295,7 +272,7 @@
       "",
       "63' Jose Salomon Rondon Gimenez (2-2)",
       "",
-      ""
+      "90+3' Facundo Ezequiel Almada (2-3)"
     ]
   },
   {
@@ -319,6 +296,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "day": "Monday",
+    "time": "17:31",
+    "start_time": "17:31",
+    "group": "CHI D1",
+    "title": "Palestino 5-1 Huachipato FC",
+    "homeTeam": "Palestino",
+    "awayTeam": "Huachipato FC",
+    "score": "5-1",
+    "matchId": "5021608",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' Lionel Altamirano (0-1)",
+      "45+1' Sebastian Agustin Gallegos Berriel (1-1)",
+      "47' Ronnie Alan Fernandez Saez (2-1)<br>50' Ian Alegria (3-1)",
+      "",
+      "87' Francisco Tomas Montes Romero (4-1)",
+      "90+6' Gonzalo Tapia (5-1)"
     ]
   },
   {

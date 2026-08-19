@@ -56,7 +56,7 @@
     "awayTeam": "Ceara Sporting Club",
     "score": "1-0",
     "matchId": "5036270",
-    "status": "80'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -79,7 +79,7 @@
     "awayTeam": "Estudiantes de La Plata",
     "score": "0-3",
     "matchId": "5071272",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -97,12 +97,12 @@
     "time": "18:24",
     "start_time": "18:24",
     "group": "BOL LFPB",
-    "title": "The Strongest 3-1 Oriente Petrolero",
+    "title": "The Strongest 2-1 Oriente Petrolero",
     "homeTeam": "The Strongest",
     "awayTeam": "Oriente Petrolero",
-    "score": "3-1",
+    "score": "2-1",
     "matchId": "5159233",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -111,7 +111,30 @@
       "",
       "",
       "81' Nahuel Roldan (1-1)",
-      "90+3' Martin Chiatti (2-1)<br>90+7' 3-1"
+      "90+3' Martin Chiatti (2-1)"
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "day": "Tuesday",
+    "time": "18:35",
+    "start_time": "18:35",
+    "group": "CON CSA",
+    "title": "Sao Paulo FC 3-1 Club Bolivar",
+    "homeTeam": "Sao Paulo FC",
+    "awayTeam": "Club Bolivar",
+    "score": "3-1",
+    "matchId": "5150928",
+    "status": "ET",
+    "goals": [
+      "",
+      "18' Luciano da Rocha Neves (1-0)",
+      "",
+      "",
+      "",
+      "61' Dairon Estibens Asprilla Rivas (1-1)<br>68' Jonathan Calleri (2-1)",
+      "76' Jose Sabino Chagas Monteiro (3-1)",
+      ""
     ]
   },
   {
@@ -125,7 +148,7 @@
     "awayTeam": "Verdes FC",
     "score": "2-0",
     "matchId": "5077676",
-    "status": "57'",
+    "status": "72'",
     "goals": [
       "8' Diego Mesen (1-0)",
       "",
@@ -194,7 +217,7 @@
     "awayTeam": "Independiente Del Valle",
     "score": "0-1",
     "matchId": "5071258",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "11' Aron Rodriguez (0-1)",
       "",
@@ -232,23 +255,46 @@
   {
     "date": "2026-08-18",
     "day": "Tuesday",
-    "time": "18:35",
-    "start_time": "18:35",
-    "group": "CON CSA",
-    "title": "Sao Paulo FC 3-1 Club Bolivar",
-    "homeTeam": "Sao Paulo FC",
-    "awayTeam": "Club Bolivar",
-    "score": "3-1",
-    "matchId": "5150928",
-    "status": "89'",
+    "time": "17:15",
+    "start_time": "17:15",
+    "group": "ARG Cup",
+    "title": "Club Atletico Banfield 2-2 Ferrocarril Midland",
+    "homeTeam": "Club Atletico Banfield",
+    "awayTeam": "Ferrocarril Midland",
+    "score": "2-2",
+    "matchId": "5071933",
+    "status": "ET",
+    "goals": [
+      "15' Alexander Nicolas Machado Aycaguer (1-0)",
+      "22' Tomas Adoryan (2-0)",
+      "",
+      "",
+      "49' Facundo Marin (2-1)<br>53' Luciano Leonel Recalde (2-2)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "day": "Tuesday",
+    "time": "18:39",
+    "start_time": "18:39",
+    "group": "BRA D2",
+    "title": "Goias 0-1 Esporte Clube Juventude",
+    "homeTeam": "Goias",
+    "awayTeam": "Esporte Clube Juventude",
+    "score": "0-1",
+    "matchId": "5036268",
+    "status": "ET",
     "goals": [
       "",
-      "18' Luciano da Rocha Neves (1-0)",
       "",
       "",
       "",
-      "61' Dairon Estibens Asprilla Rivas (1-1)<br>68' Jonathan Calleri (2-1)",
-      "76' Jose Sabino Chagas Monteiro (3-1)",
+      "",
+      "",
+      "88' Fabio de Lima Costa (0-1)",
       ""
     ]
   },
@@ -264,29 +310,6 @@
     "score": "0-0",
     "matchId": "5036269",
     "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "day": "Tuesday",
-    "time": "18:39",
-    "start_time": "18:39",
-    "group": "BRA D2",
-    "title": "Goias 0-0 Esporte Clube Juventude",
-    "homeTeam": "Goias",
-    "awayTeam": "Esporte Clube Juventude",
-    "score": "0-0",
-    "matchId": "5036268",
-    "status": "85'",
     "goals": [
       "",
       "",

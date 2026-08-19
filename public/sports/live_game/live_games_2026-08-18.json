@@ -4,6 +4,29 @@
     "day": "Tuesday",
     "time": "15:00",
     "start_time": "15:00",
+    "group": "LIB Cup",
+    "title": "Independiente Rivadavia 1-1 Fluminense FC",
+    "homeTeam": "Independiente Rivadavia",
+    "awayTeam": "Fluminense FC",
+    "score": "1-1",
+    "matchId": "5071270",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "75' Kevin Serna (0-1)",
+      "",
+      "90+7' Alex Adrian Arce Barrios (1-1)"
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "day": "Tuesday",
+    "time": "15:00",
+    "start_time": "15:00",
     "group": "CON CSA",
     "title": "Recoleta FC 0-4 Boca Juniors",
     "homeTeam": "Recoleta FC",
@@ -25,6 +48,29 @@
   {
     "date": "2026-08-18",
     "day": "Tuesday",
+    "time": "18:44",
+    "start_time": "18:44",
+    "group": "BRA D2",
+    "title": "Nautico PE 1-0 Ceara Sporting Club",
+    "homeTeam": "Nautico PE",
+    "awayTeam": "Ceara Sporting Club",
+    "score": "1-0",
+    "matchId": "5036270",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+9' Leonardo de Oliveira Silva,Leo Indio (1-0)",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "day": "Tuesday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "BOL LFPB",
@@ -40,29 +86,6 @@
       "",
       "",
       "53' Pedro Henrique de Oliveira Correia (2-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "day": "Tuesday",
-    "time": "18:44",
-    "start_time": "18:44",
-    "group": "BRA D2",
-    "title": "Nautico PE 1-0 Ceara Sporting Club",
-    "homeTeam": "Nautico PE",
-    "awayTeam": "Ceara Sporting Club",
-    "score": "1-0",
-    "matchId": "5036270",
-    "status": "90+'",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+9' Leonardo de Oliveira Silva,Leo Indio (1-0)",
-      "",
       "",
       "",
       ""
@@ -117,52 +140,6 @@
   {
     "date": "2026-08-18",
     "day": "Tuesday",
-    "time": "18:35",
-    "start_time": "18:35",
-    "group": "CON CSA",
-    "title": "Sao Paulo FC 3-1 Club Bolivar",
-    "homeTeam": "Sao Paulo FC",
-    "awayTeam": "Club Bolivar",
-    "score": "3-1",
-    "matchId": "5150928",
-    "status": "ET",
-    "goals": [
-      "",
-      "18' Luciano da Rocha Neves (1-0)",
-      "",
-      "",
-      "",
-      "61' Dairon Estibens Asprilla Rivas (1-1)<br>68' Jonathan Calleri (2-1)",
-      "76' Jose Sabino Chagas Monteiro (3-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "day": "Tuesday",
-    "time": "19:07",
-    "start_time": "19:07",
-    "group": "CNCF CACup",
-    "title": "C.S. Cartagines 2-0 Verdes FC",
-    "homeTeam": "C.S. Cartagines",
-    "awayTeam": "Verdes FC",
-    "score": "2-0",
-    "matchId": "5077676",
-    "status": "72'",
-    "goals": [
-      "8' Diego Mesen (1-0)",
-      "",
-      "42' Rolando Ernesto Morales Hernandez (2-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "day": "Tuesday",
     "time": "16:00",
     "start_time": "16:00",
     "group": "BRA CP",
@@ -199,6 +176,29 @@
       "",
       "",
       "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "day": "Tuesday",
+    "time": "19:07",
+    "start_time": "19:07",
+    "group": "CNCF CACup",
+    "title": "C.S. Cartagines 2-0 Verdes FC",
+    "homeTeam": "C.S. Cartagines",
+    "awayTeam": "Verdes FC",
+    "score": "2-0",
+    "matchId": "5077676",
+    "status": "87'",
+    "goals": [
+      "8' Diego Mesen (1-0)",
+      "",
+      "42' Rolando Ernesto Morales Hernandez (2-0)",
       "",
       "",
       "",
@@ -301,6 +301,29 @@
   {
     "date": "2026-08-18",
     "day": "Tuesday",
+    "time": "18:35",
+    "start_time": "18:35",
+    "group": "CON CSA",
+    "title": "Sao Paulo FC 3-1 Club Bolivar",
+    "homeTeam": "Sao Paulo FC",
+    "awayTeam": "Club Bolivar",
+    "score": "3-1",
+    "matchId": "5150928",
+    "status": "ET",
+    "goals": [
+      "",
+      "18' Luciano da Rocha Neves (1-0)",
+      "",
+      "",
+      "",
+      "61' Dairon Estibens Asprilla Rivas (1-1)<br>68' Jonathan Calleri (2-1)",
+      "76' Jose Sabino Chagas Monteiro (3-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "day": "Tuesday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA D2",
@@ -319,29 +342,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "day": "Tuesday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "LIB Cup",
-    "title": "Independiente Rivadavia 1-1 Fluminense FC",
-    "homeTeam": "Independiente Rivadavia",
-    "awayTeam": "Fluminense FC",
-    "score": "1-1",
-    "matchId": "5071270",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "75' Kevin Serna (0-1)",
-      "",
-      "90+7' Alex Adrian Arce Barrios (1-1)"
     ]
   },
   {

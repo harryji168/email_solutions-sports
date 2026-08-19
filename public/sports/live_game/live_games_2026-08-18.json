@@ -186,29 +186,6 @@
   {
     "date": "2026-08-18",
     "day": "Tuesday",
-    "time": "19:07",
-    "start_time": "19:07",
-    "group": "CNCF CACup",
-    "title": "C.S. Cartagines 2-0 Verdes FC",
-    "homeTeam": "C.S. Cartagines",
-    "awayTeam": "Verdes FC",
-    "score": "2-0",
-    "matchId": "5077676",
-    "status": "87'",
-    "goals": [
-      "8' Diego Mesen (1-0)",
-      "",
-      "42' Rolando Ernesto Morales Hernandez (2-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-18",
-    "day": "Tuesday",
     "time": "18:36",
     "start_time": "18:36",
     "group": "LIB Cup",
@@ -227,6 +204,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "day": "Tuesday",
+    "time": "19:07",
+    "start_time": "19:07",
+    "group": "CNCF CACup",
+    "title": "C.S. Cartagines 4-0 Verdes FC",
+    "homeTeam": "C.S. Cartagines",
+    "awayTeam": "Verdes FC",
+    "score": "4-0",
+    "matchId": "5077676",
+    "status": "ET",
+    "goals": [
+      "8' Diego Mesen (1-0)",
+      "",
+      "42' Rolando Ernesto Morales Hernandez (2-0)",
+      "",
+      "",
+      "",
+      "",
+      "90' Geancarlo Castro (3-0)<br>90+4' Geancarlo Castro (4-0)"
     ]
   },
   {
@@ -301,6 +301,29 @@
   {
     "date": "2026-08-18",
     "day": "Tuesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "BRA D2",
+    "title": "Londrina (PR) 0-0 Atletico Clube Goianiense",
+    "homeTeam": "Londrina (PR)",
+    "awayTeam": "Atletico Clube Goianiense",
+    "score": "0-0",
+    "matchId": "5036269",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-18",
+    "day": "Tuesday",
     "time": "18:35",
     "start_time": "18:35",
     "group": "CON CSA",
@@ -324,15 +347,15 @@
   {
     "date": "2026-08-18",
     "day": "Tuesday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "BRA D2",
-    "title": "Londrina (PR) 0-0 Atletico Clube Goianiense",
-    "homeTeam": "Londrina (PR)",
-    "awayTeam": "Atletico Clube Goianiense",
+    "time": "20:02",
+    "start_time": "20:02",
+    "group": "OFC CL",
+    "title": "Auckland City FC 0-0 Rewa FC",
+    "homeTeam": "Auckland City FC",
+    "awayTeam": "Rewa FC",
     "score": "0-0",
-    "matchId": "5036269",
-    "status": "ET",
+    "matchId": "5168369",
+    "status": "2'",
     "goals": [
       "",
       "",

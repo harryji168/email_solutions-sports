@@ -48,6 +48,29 @@
   {
     "date": "2026-08-19",
     "day": "Wednesday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "ARG RL",
+    "title": "Talleres Cordoba Reserve 2-2 Rosario Central Reserve",
+    "homeTeam": "Talleres Cordoba Reserve",
+    "awayTeam": "Rosario Central Reserve",
+    "score": "2-2",
+    "matchId": "5156582",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "day": "Wednesday",
     "time": "15:38",
     "start_time": "15:38",
     "group": "USA NWSL",
@@ -71,22 +94,22 @@
   {
     "date": "2026-08-19",
     "day": "Wednesday",
-    "time": "16:03",
-    "start_time": "16:03",
-    "group": "USA MLSRv",
-    "title": "Crown Legacy FC 0-2 Connecticut FC",
-    "homeTeam": "Crown Legacy FC",
-    "awayTeam": "Connecticut FC",
-    "score": "0-2",
-    "matchId": "5029847",
+    "time": "16:10",
+    "start_time": "16:10",
+    "group": "CAN CPL",
+    "title": "Atletico Ottawa 4-0 Vancouver FC",
+    "homeTeam": "Atletico Ottawa",
+    "awayTeam": "Vancouver FC",
+    "score": "4-0",
+    "matchId": "5033212",
     "status": "ET",
     "goals": [
-      "",
-      "16' Bryan Destin (0-1)",
-      "",
+      "13' J. Assi (1-0)",
       "",
       "",
-      "72' Alen Colnari\u010d (0-2)",
+      "",
+      "59' J. Assi (2-0)",
+      "63' Nicolas Fleuriau Chateau (3-0)<br>73' Emiliano Garc\u00eda (4-0)",
       "",
       ""
     ]
@@ -163,29 +186,6 @@
   {
     "date": "2026-08-19",
     "day": "Wednesday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "ARG RL",
-    "title": "Talleres Cordoba Reserve 2-2 Rosario Central Reserve",
-    "homeTeam": "Talleres Cordoba Reserve",
-    "awayTeam": "Rosario Central Reserve",
-    "score": "2-2",
-    "matchId": "5156582",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "day": "Wednesday",
     "time": "19:40",
     "start_time": "19:40",
     "group": "USA MLS",
@@ -194,7 +194,7 @@
     "awayTeam": "Houston Dynamo",
     "score": "0-0",
     "matchId": "5003446",
-    "status": "11'",
+    "status": "26'",
     "goals": [
       "",
       "",
@@ -217,7 +217,7 @@
     "awayTeam": "San Diego FC",
     "score": "0-0",
     "matchId": "5003445",
-    "status": "11'",
+    "status": "26'",
     "goals": [
       "",
       "",
@@ -240,7 +240,7 @@
     "awayTeam": "San Jose Earthquakes",
     "score": "0-0",
     "matchId": "5003444",
-    "status": "11'",
+    "status": "26'",
     "goals": [
       "",
       "",
@@ -248,6 +248,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "day": "Wednesday",
+    "time": "16:03",
+    "start_time": "16:03",
+    "group": "USA MLSRv",
+    "title": "Crown Legacy FC 0-2 Connecticut FC",
+    "homeTeam": "Crown Legacy FC",
+    "awayTeam": "Connecticut FC",
+    "score": "0-2",
+    "matchId": "5029847",
+    "status": "ET",
+    "goals": [
+      "",
+      "16' Bryan Destin (0-1)",
+      "",
+      "",
+      "",
+      "72' Alen Colnari\u010d (0-2)",
       "",
       ""
     ]
@@ -263,7 +286,7 @@
     "awayTeam": "Sayaxche",
     "score": "1-0",
     "matchId": "5170290",
-    "status": "HT",
+    "status": "47'",
     "goals": [
       "11' 1-0",
       "",
@@ -286,7 +309,7 @@
     "awayTeam": "Deportivo Saprissa Women\\s",
     "score": "0-0",
     "matchId": "5171000",
-    "status": "HT",
+    "status": "48'",
     "goals": [
       "",
       "",
@@ -304,17 +327,17 @@
     "time": "19:13",
     "start_time": "19:13",
     "group": "USLC",
-    "title": "Phoenix Rising FC 1-0 Colorado Springs Switchbacks FC",
+    "title": "Phoenix Rising FC 1-1 Colorado Springs Switchbacks FC",
     "homeTeam": "Phoenix Rising FC",
     "awayTeam": "Colorado Springs Switchbacks FC",
-    "score": "1-0",
+    "score": "1-1",
     "matchId": "5006844",
-    "status": "38'",
+    "status": "HT",
     "goals": [
       "",
       "",
       "35' Ihsan Sacko (1-0)",
-      "",
+      "45+2' Adrien Perez (1-1)",
       "",
       "",
       "",
@@ -327,18 +350,41 @@
     "time": "18:30",
     "start_time": "18:30",
     "group": "USA MLS",
-    "title": "Seattle Sounders FC 0-0 Austin FC",
+    "title": "Seattle Sounders FC 0-1 Austin FC",
     "homeTeam": "Seattle Sounders FC",
     "awayTeam": "Austin FC",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5003443",
-    "status": "52'",
+    "status": "67'",
     "goals": [
       "",
       "",
       "",
       "",
       "",
+      "67' 0-1",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "day": "Wednesday",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "INTERF",
+    "title": "USA Women\\s(U17) 4-1 Canada Women\\s(U17)",
+    "homeTeam": "USA Women\\s(U17)",
+    "awayTeam": "Canada Women\\s(U17)",
+    "score": "4-1",
+    "matchId": "5163559",
+    "status": "ET",
+    "goals": [
+      "4' Amari Manning (1-0)<br>9' Ailish Hennessy (1-1)",
+      "",
+      "38' Maddie DiMaria (2-1)<br>41' Maddie DiMaria (3-1)",
+      "",
+      "55' Maddie DiMaria (4-1)",
       "",
       "",
       ""
@@ -396,19 +442,19 @@
     "time": "18:30",
     "start_time": "18:30",
     "group": "USA MLS",
-    "title": "Real Salt Lake 2-3 FC Dallas",
+    "title": "Real Salt Lake 3-3 FC Dallas",
     "homeTeam": "Real Salt Lake",
     "awayTeam": "FC Dallas",
-    "score": "2-3",
+    "score": "3-3",
     "matchId": "5003442",
-    "status": "50'",
+    "status": "65'",
     "goals": [
       "",
       "16' Joaquin Valiente Cioli (0-1)<br>20' Petar Musa (0-2)",
       "38' Sergi Solans (1-2)",
       "45' Petar Musa (1-3)",
-      "50' 2-3",
-      "",
+      "50' Morgan Guilavogui (2-3)",
+      "64' Diego Luna (3-3)",
       "",
       ""
     ]
@@ -424,7 +470,7 @@
     "awayTeam": "Los Angeles FC",
     "score": "1-0",
     "matchId": "5003441",
-    "status": "49'",
+    "status": "64'",
     "goals": [
       "",
       "22' Jeremy Ebobisse (1-0)",
@@ -447,7 +493,7 @@
     "awayTeam": "Orsomarso",
     "score": "1-1",
     "matchId": "5072245",
-    "status": "79'",
+    "status": "90+'",
     "goals": [
       "11' Kevin \u00c1lvarez (1-0)",
       "",
@@ -465,21 +511,21 @@
     "time": "18:02",
     "start_time": "18:02",
     "group": "GUA D2",
-    "title": "Nueva Santa Rosa CDF 0-0 AFF Guatemala",
+    "title": "Nueva Santa Rosa CDF 2-0 AFF Guatemala",
     "homeTeam": "Nueva Santa Rosa CDF",
     "awayTeam": "AFF Guatemala",
-    "score": "0-0",
+    "score": "2-0",
     "matchId": "5170288",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
-      "26' 1-0",
       "",
       "",
       "",
       "",
       "",
-      ""
+      "",
+      "90' 1-0<br>90' 2-0"
     ]
   },
   {
@@ -516,7 +562,7 @@
     "awayTeam": "UMECIT FC",
     "score": "4-1",
     "matchId": "5077663",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "",
       "16' Nicol\u00e1s Mart\u00ednez (1-0)<br>20' Lynner Garc\u00eda (2-0)<br>25' Nicol\u00e1s Mart\u00ednez (3-0)",
@@ -562,7 +608,7 @@
     "awayTeam": "Alianza San Salvador",
     "score": "0-1",
     "matchId": "5077651",
-    "status": "86'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -570,6 +616,29 @@
       "",
       "",
       "62' Matias Mier (0-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "day": "Wednesday",
+    "time": "17:45",
+    "start_time": "17:45",
+    "group": "USA MLSRv",
+    "title": "North Texas 0-0 Austin FC B",
+    "homeTeam": "North Texas",
+    "awayTeam": "Austin FC B",
+    "score": "0-0",
+    "matchId": "5029853",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -639,29 +708,6 @@
       "45+4' Ederson Salomon Rodriguez Lima (2-1)",
       "",
       "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "day": "Wednesday",
-    "time": "16:10",
-    "start_time": "16:10",
-    "group": "CAN CPL",
-    "title": "Atletico Ottawa 4-0 Vancouver FC",
-    "homeTeam": "Atletico Ottawa",
-    "awayTeam": "Vancouver FC",
-    "score": "4-0",
-    "matchId": "5033212",
-    "status": "ET",
-    "goals": [
-      "13' J. Assi (1-0)",
-      "",
-      "",
-      "",
-      "59' J. Assi (2-0)",
-      "63' Nicolas Fleuriau Chateau (3-0)<br>73' Emiliano Garc\u00eda (4-0)",
       "",
       ""
     ]
@@ -1183,7 +1229,7 @@
     "awayTeam": "Chicago Fire",
     "score": "1-2",
     "matchId": "5003436",
-    "status": "80'",
+    "status": "90+'",
     "goals": [
       "4' Puso Dithejane (0-1)",
       "",
@@ -1261,29 +1307,6 @@
       "",
       "",
       "78' Noah Streit (1-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "day": "Wednesday",
-    "time": "14:36",
-    "start_time": "14:36",
-    "group": "GUA D2",
-    "title": "Amatitlan 0-2 CD Puerto de Iztapa",
-    "homeTeam": "Amatitlan",
-    "awayTeam": "CD Puerto de Iztapa",
-    "score": "0-2",
-    "matchId": "5170289",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "37' 0-1",
-      "",
-      "57' 0-2",
-      "",
-      "",
       ""
     ]
   },
@@ -1382,6 +1405,29 @@
   {
     "date": "2026-08-19",
     "day": "Wednesday",
+    "time": "14:36",
+    "start_time": "14:36",
+    "group": "GUA D2",
+    "title": "Amatitlan 0-2 CD Puerto de Iztapa",
+    "homeTeam": "Amatitlan",
+    "awayTeam": "CD Puerto de Iztapa",
+    "score": "0-2",
+    "matchId": "5170289",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "37' 0-1",
+      "",
+      "57' 0-2",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-19",
+    "day": "Wednesday",
     "time": "16:07",
     "start_time": "16:07",
     "group": "USL L1",
@@ -1445,29 +1491,6 @@
       "",
       "",
       "76' Diego M\u00e1rquez (1-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-19",
-    "day": "Wednesday",
-    "time": "15:01",
-    "start_time": "15:01",
-    "group": "INTERF",
-    "title": "USA Women\\s(U17) 4-1 Canada Women\\s(U17)",
-    "homeTeam": "USA Women\\s(U17)",
-    "awayTeam": "Canada Women\\s(U17)",
-    "score": "4-1",
-    "matchId": "5163559",
-    "status": "ET",
-    "goals": [
-      "4' Amari Manning (1-0)<br>9' Ailish Hennessy (1-1)",
-      "",
-      "38' Maddie DiMaria (2-1)<br>41' Maddie DiMaria (3-1)",
-      "",
-      "55' Maddie DiMaria (4-1)",
-      "",
-      "",
       ""
     ]
   },

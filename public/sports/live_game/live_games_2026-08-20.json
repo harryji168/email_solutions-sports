@@ -27,6 +27,52 @@
     "day": "Thursday",
     "time": "16:00",
     "start_time": "16:00",
+    "group": "BRA CGD2",
+    "title": "Brasil Farroupilha RS 1-1 Uniao Frederiquense RS",
+    "homeTeam": "Brasil Farroupilha RS",
+    "awayTeam": "Uniao Frederiquense RS",
+    "score": "1-1",
+    "matchId": "5113262",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "time": "16:30",
+    "start_time": "16:30",
+    "group": "BRA D2",
+    "title": "Gremio Novorizontino 3-0 America MG",
+    "homeTeam": "Gremio Novorizontino",
+    "awayTeam": "America MG",
+    "score": "3-0",
+    "matchId": "5036271",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' Patrick Marcos de Sousa Freita (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "81' Robson dos Santos Fernandes (2-0)",
+      "90+1' Carlos Henrique de Moura Brito, Carlao (3-0)"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "time": "16:00",
+    "start_time": "16:00",
     "group": "MEX D2",
     "title": "Venados FC 4-2 CSyD Dorados de Sinaloa",
     "homeTeam": "Venados FC",
@@ -43,29 +89,6 @@
       "66' S. Lora (3-2)",
       "",
       "90' Luis Mac\u00edas (4-2)"
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
-    "time": "20:06",
-    "start_time": "20:06",
-    "group": "CNCF CACup",
-    "title": "Luis Angel Firpo 0-0 Liga Deportiva Alajuelense",
-    "homeTeam": "Luis Angel Firpo",
-    "awayTeam": "Liga Deportiva Alajuelense",
-    "score": "0-0",
-    "matchId": "5077642",
-    "status": "19'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -94,14 +117,60 @@
   {
     "date": "2026-08-20",
     "day": "Thursday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "BRA CGD2",
-    "title": "Brasil Farroupilha RS 1-1 Uniao Frederiquense RS",
-    "homeTeam": "Brasil Farroupilha RS",
-    "awayTeam": "Uniao Frederiquense RS",
-    "score": "1-1",
-    "matchId": "5113262",
+    "time": "19:10",
+    "start_time": "19:10",
+    "group": "MEX D2",
+    "title": "Atletico Morelia 1-3 Correcaminos UAT",
+    "homeTeam": "Atletico Morelia",
+    "awayTeam": "Correcaminos UAT",
+    "score": "1-3",
+    "matchId": "5108978",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "33' Tom\u00e1s Sandoval (0-1)",
+      "",
+      "",
+      "65' Bryan Mendoza (0-2)<br>74' Omar Islas (0-3)",
+      "",
+      "90+4' Alonso Flores (1-3)"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "time": "20:06",
+    "start_time": "20:06",
+    "group": "CNCF CACup",
+    "title": "Luis Angel Firpo 0-0 Liga Deportiva Alajuelense",
+    "homeTeam": "Luis Angel Firpo",
+    "awayTeam": "Liga Deportiva Alajuelense",
+    "score": "0-0",
+    "matchId": "5077642",
+    "status": "34'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "CFUCC",
+    "title": "Cavalier FC 0-0 Salcedo",
+    "homeTeam": "Cavalier FC",
+    "awayTeam": "Salcedo",
+    "score": "0-0",
+    "matchId": "5077709",
     "status": "ET",
     "goals": [
       "",
@@ -135,52 +204,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "CFUCC",
-    "title": "Cavalier FC 0-0 Salcedo",
-    "homeTeam": "Cavalier FC",
-    "awayTeam": "Salcedo",
-    "score": "0-0",
-    "matchId": "5077709",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
-    "time": "19:10",
-    "start_time": "19:10",
-    "group": "MEX D2",
-    "title": "Atletico Morelia 1-3 Correcaminos UAT",
-    "homeTeam": "Atletico Morelia",
-    "awayTeam": "Correcaminos UAT",
-    "score": "1-3",
-    "matchId": "5108978",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "33' Tom\u00e1s Sandoval (0-1)",
-      "",
-      "",
-      "65' Bryan Mendoza (0-2)<br>74' Omar Islas (0-3)",
-      "",
-      "90+4' Alonso Flores (1-3)"
     ]
   },
   {
@@ -227,29 +250,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
-    "time": "16:30",
-    "start_time": "16:30",
-    "group": "BRA D2",
-    "title": "Gremio Novorizontino 3-0 America MG",
-    "homeTeam": "Gremio Novorizontino",
-    "awayTeam": "America MG",
-    "score": "3-0",
-    "matchId": "5036271",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' Patrick Marcos de Sousa Freita (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "81' Robson dos Santos Fernandes (2-0)",
-      "90+1' Carlos Henrique de Moura Brito, Carlao (3-0)"
     ]
   },
   {
@@ -304,12 +304,12 @@
     "time": "19:03",
     "start_time": "19:03",
     "group": "USA MLSRv",
-    "title": "Los Angeles FC II 2-0 Sporting Kansas City II",
+    "title": "Los Angeles FC II 2-1 Sporting Kansas City II",
     "homeTeam": "Los Angeles FC II",
     "awayTeam": "Sporting Kansas City II",
-    "score": "2-0",
+    "score": "2-1",
     "matchId": "5029854",
-    "status": "64'",
+    "status": "79'",
     "goals": [
       "12' Sebastian Nava (1-0)",
       "23' Emir Ponciano (2-0)",
@@ -317,7 +317,7 @@
       "",
       "",
       "",
-      "",
+      "76' 2-1",
       ""
     ]
   },
@@ -462,29 +462,6 @@
   {
     "date": "2026-08-20",
     "day": "Thursday",
-    "time": "18:37",
-    "start_time": "18:37",
-    "group": "CON CSA",
-    "title": "Botafogo de Futebol e Regatas 1-0 Cienciano",
-    "homeTeam": "Botafogo de Futebol e Regatas",
-    "awayTeam": "Cienciano",
-    "score": "1-0",
-    "matchId": "5150936",
-    "status": "ET",
-    "goals": [
-      "8' Danilo Pereira da Silva (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
     "time": "19:09",
     "start_time": "19:09",
     "group": "CNCF CACup",
@@ -502,6 +479,29 @@
       "",
       "71' Jorge Benguch\u00e9 (0-2)",
       "76' Anthony Stewart (1-2)<br>80' Michaell Chirinos (1-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "time": "18:37",
+    "start_time": "18:37",
+    "group": "CON CSA",
+    "title": "Botafogo de Futebol e Regatas 1-0 Cienciano",
+    "homeTeam": "Botafogo de Futebol e Regatas",
+    "awayTeam": "Cienciano",
+    "score": "1-0",
+    "matchId": "5150936",
+    "status": "ET",
+    "goals": [
+      "8' Danilo Pereira da Silva (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },

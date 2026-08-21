@@ -48,6 +48,29 @@
   {
     "date": "2026-08-20",
     "day": "Thursday",
+    "time": "16:30",
+    "start_time": "16:30",
+    "group": "BRA D2",
+    "title": "Gremio Novorizontino 3-0 America MG",
+    "homeTeam": "Gremio Novorizontino",
+    "awayTeam": "America MG",
+    "score": "3-0",
+    "matchId": "5036271",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' Patrick Marcos de Sousa Freita (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "81' Robson dos Santos Fernandes (2-0)",
+      "90+1' Carlos Henrique de Moura Brito, Carlao (3-0)"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
     "time": "19:10",
     "start_time": "19:10",
     "group": "MEX D2",
@@ -94,29 +117,6 @@
   {
     "date": "2026-08-20",
     "day": "Thursday",
-    "time": "16:30",
-    "start_time": "16:30",
-    "group": "BRA D2",
-    "title": "Gremio Novorizontino 3-0 America MG",
-    "homeTeam": "Gremio Novorizontino",
-    "awayTeam": "America MG",
-    "score": "3-0",
-    "matchId": "5036271",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' Patrick Marcos de Sousa Freita (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "81' Robson dos Santos Fernandes (2-0)",
-      "90+1' Carlos Henrique de Moura Brito, Carlao (3-0)"
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
     "time": "18:32",
     "start_time": "18:32",
     "group": "LIB Cup",
@@ -148,7 +148,7 @@
     "awayTeam": "Liga Deportiva Alajuelense",
     "score": "1-0",
     "matchId": "5077642",
-    "status": "47'",
+    "status": "62'",
     "goals": [
       "",
       "",
@@ -171,29 +171,6 @@
     "awayTeam": "Salcedo",
     "score": "0-0",
     "matchId": "5077709",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "BRA CGD2",
-    "title": "Brasil Farroupilha RS 1-1 Uniao Frederiquense RS",
-    "homeTeam": "Brasil Farroupilha RS",
-    "awayTeam": "Uniao Frederiquense RS",
-    "score": "1-1",
-    "matchId": "5113262",
     "status": "ET",
     "goals": [
       "",
@@ -393,6 +370,29 @@
   {
     "date": "2026-08-20",
     "day": "Thursday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "BRA CGD2",
+    "title": "Brasil Farroupilha RS 1-1 Uniao Frederiquense RS",
+    "homeTeam": "Brasil Farroupilha RS",
+    "awayTeam": "Uniao Frederiquense RS",
+    "score": "1-1",
+    "matchId": "5113262",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
     "time": "13:31",
     "start_time": "13:31",
     "group": "COL D2",
@@ -462,29 +462,6 @@
   {
     "date": "2026-08-20",
     "day": "Thursday",
-    "time": "19:03",
-    "start_time": "19:03",
-    "group": "USA MLSRv",
-    "title": "Los Angeles FC II 2-1 Sporting Kansas City II",
-    "homeTeam": "Los Angeles FC II",
-    "awayTeam": "Sporting Kansas City II",
-    "score": "2-1",
-    "matchId": "5029854",
-    "status": "ET",
-    "goals": [
-      "12' Sebastian Nava (1-0)",
-      "23' Emir Ponciano (2-0)",
-      "",
-      "",
-      "",
-      "",
-      "76' Ty Haas (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
     "time": "19:09",
     "start_time": "19:09",
     "group": "CNCF CACup",
@@ -525,6 +502,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "time": "19:03",
+    "start_time": "19:03",
+    "group": "USA MLSRv",
+    "title": "Los Angeles FC II 2-1 Sporting Kansas City II",
+    "homeTeam": "Los Angeles FC II",
+    "awayTeam": "Sporting Kansas City II",
+    "score": "2-1",
+    "matchId": "5029854",
+    "status": "ET",
+    "goals": [
+      "12' Sebastian Nava (1-0)",
+      "23' Emir Ponciano (2-0)",
+      "",
+      "",
+      "",
+      "",
+      "76' Ty Haas (2-1)",
       ""
     ]
   },

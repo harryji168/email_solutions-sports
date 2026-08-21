@@ -56,7 +56,7 @@
     "awayTeam": "Liga Deportiva Alajuelense",
     "score": "0-0",
     "matchId": "5077642",
-    "status": "3'",
+    "status": "6'",
     "goals": [
       "",
       "",
@@ -255,29 +255,6 @@
   {
     "date": "2026-08-20",
     "day": "Thursday",
-    "time": "16:30",
-    "start_time": "16:30",
-    "group": "BRA D2",
-    "title": "Gremio Novorizontino 3-0 America MG",
-    "homeTeam": "Gremio Novorizontino",
-    "awayTeam": "America MG",
-    "score": "3-0",
-    "matchId": "5036271",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' Patrick Marcos de Sousa Freita (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "81' Robson dos Santos Fernandes (2-0)",
-      "90+1' Carlos Henrique de Moura Brito, Carlao (3-0)"
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "CFUCC",
@@ -296,6 +273,29 @@
       "74' Nicholas Dillon (1-1)",
       "82' Nicholas Dillon (2-1)",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "time": "16:30",
+    "start_time": "16:30",
+    "group": "BRA D2",
+    "title": "Gremio Novorizontino 3-0 America MG",
+    "homeTeam": "Gremio Novorizontino",
+    "awayTeam": "America MG",
+    "score": "3-0",
+    "matchId": "5036271",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' Patrick Marcos de Sousa Freita (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "81' Robson dos Santos Fernandes (2-0)",
+      "90+1' Carlos Henrique de Moura Brito, Carlao (3-0)"
     ]
   },
   {
@@ -342,6 +342,29 @@
       "75' Bryan Roque (3-0)",
       "",
       "90+8' Ismael Govea Solorzano (3-1)<br>90+10' Cristian Gonzalez (3-2)"
+    ]
+  },
+  {
+    "date": "2026-08-20",
+    "day": "Thursday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "BRA CGD2",
+    "title": "Brasil Farroupilha RS 1-1 Uniao Frederiquense RS",
+    "homeTeam": "Brasil Farroupilha RS",
+    "awayTeam": "Uniao Frederiquense RS",
+    "score": "1-1",
+    "matchId": "5113262",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -439,29 +462,6 @@
   {
     "date": "2026-08-20",
     "day": "Thursday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "BRA CGD2",
-    "title": "Brasil Farroupilha RS 1-1 Uniao Frederiquense RS",
-    "homeTeam": "Brasil Farroupilha RS",
-    "awayTeam": "Uniao Frederiquense RS",
-    "score": "1-1",
-    "matchId": "5113262",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-20",
-    "day": "Thursday",
     "time": "19:09",
     "start_time": "19:09",
     "group": "CNCF CACup",
@@ -493,7 +493,7 @@
     "awayTeam": "Sporting Kansas City II",
     "score": "2-0",
     "matchId": "5029854",
-    "status": "48'",
+    "status": "51'",
     "goals": [
       "12' Sebastian Nava (1-0)",
       "23' Emir Ponciano (2-0)",

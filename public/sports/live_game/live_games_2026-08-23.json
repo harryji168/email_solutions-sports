@@ -2,15 +2,38 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "AUS NTWPL",
+    "title": "Broadmeadow Magic Women\\s 1-0 Charlestown Azzurri Women\\s",
+    "homeTeam": "Broadmeadow Magic Women\\s",
+    "awayTeam": "Charlestown Azzurri Women\\s",
+    "score": "1-0",
+    "matchId": "5171252",
+    "status": "ET",
+    "goals": [
+      "",
+      "22' 1-0",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "23:34",
     "start_time": "23:34",
     "group": "Aus VPL",
-    "title": "South Melbourne 1-1 Heidelberg United FC",
+    "title": "South Melbourne 1-2 Heidelberg United FC",
     "homeTeam": "South Melbourne",
     "awayTeam": "Heidelberg United FC",
-    "score": "1-1",
+    "score": "1-2",
     "matchId": "5005044",
-    "status": "85'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -19,7 +42,7 @@
       "54' Andrico Mesourouni (1-0)",
       "66' Kayne Razmovski (1-1)",
       "",
-      ""
+      "90+1' 1-2"
     ]
   },
   {
@@ -42,6 +65,29 @@
       "48' 0-2",
       "",
       "88' 0-3",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "AUS NTWPL",
+    "title": "New Lambton Eagles Women\\s 10-0 Newcastle Olympic Women\\s",
+    "homeTeam": "New Lambton Eagles Women\\s",
+    "awayTeam": "Newcastle Olympic Women\\s",
+    "score": "10-0",
+    "matchId": "5171251",
+    "status": "ET",
+    "goals": [
+      "11' 1-0",
+      "25' 2-0",
+      "",
+      "",
+      "54' 3-0<br>56' 4-0",
+      "67' 5-0<br>73' 6-0",
+      "76' 7-0<br>79' 8-0<br>84' 9-0<br>86' 10-0",
       ""
     ]
   },
@@ -143,12 +189,12 @@
     "time": "00:02",
     "start_time": "00:02",
     "group": "WAUS WD1",
-    "title": "UWA-Nedlands FC Women\\s 0-0 Subiaco AFC Women\\s",
+    "title": "UWA-Nedlands FC Women\\s 0-1 Subiaco AFC Women\\s",
     "homeTeam": "UWA-Nedlands FC Women\\s",
     "awayTeam": "Subiaco AFC Women\\s",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5053130",
-    "status": "12'",
+    "status": "21'",
     "goals": [
       "",
       "",
@@ -171,7 +217,7 @@
     "awayTeam": "Balcatta Women\\s",
     "score": "0-0",
     "matchId": "5053128",
-    "status": "10'",
+    "status": "19'",
     "goals": [
       "",
       "",
@@ -194,32 +240,9 @@
     "awayTeam": "Perth Azzurri Women\\s",
     "score": "0-0",
     "matchId": "5053127",
-    "status": "9'",
+    "status": "18'",
     "goals": [
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "00:02",
-    "start_time": "00:02",
-    "group": "KOR D4",
-    "title": "Jecheon Citizen FC 1-0 Sejong SA",
-    "homeTeam": "Jecheon Citizen FC",
-    "awayTeam": "Sejong SA",
-    "score": "1-0",
-    "matchId": "5048112",
-    "status": "12'",
-    "goals": [
-      "2' 1-0",
       "",
       "",
       "",
@@ -235,12 +258,12 @@
     "time": "00:07",
     "start_time": "00:07",
     "group": "AUS NSWW",
-    "title": "Sydney University Women\\s 0-0 UNSW FC Women\\s",
+    "title": "Sydney University Women\\s 1-0 UNSW FC Women\\s",
     "homeTeam": "Sydney University Women\\s",
     "awayTeam": "UNSW FC Women\\s",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5048556",
-    "status": "7'",
+    "status": "16'",
     "goals": [
       "",
       "",
@@ -301,6 +324,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "00:02",
+    "start_time": "00:02",
+    "group": "KOR D4",
+    "title": "Jecheon Citizen FC 2-0 Sejong SA",
+    "homeTeam": "Jecheon Citizen FC",
+    "awayTeam": "Sejong SA",
+    "score": "2-0",
+    "matchId": "5048112",
+    "status": "21'",
+    "goals": [
+      "2' 1-0",
+      "16' 2-0",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "23:56",
     "start_time": "23:56",
     "group": "AUS NSWW",
@@ -309,7 +355,7 @@
     "awayTeam": "WS Wanderers Women\\s B",
     "score": "0-1",
     "matchId": "5048555",
-    "status": "18'",
+    "status": "27'",
     "goals": [
       "",
       "",
@@ -332,7 +378,7 @@
     "awayTeam": "FC AWJ",
     "score": "0-0",
     "matchId": "5173083",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -355,7 +401,7 @@
     "awayTeam": "Bandito Ikoma",
     "score": "2-0",
     "matchId": "5173082",
-    "status": "43'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -364,29 +410,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "22:00",
-    "start_time": "22:00",
-    "group": "AUS NSWW",
-    "title": "Macarthur Rams Women\\s 3-2 Western City Rangers Women\\s",
-    "homeTeam": "Macarthur Rams Women\\s",
-    "awayTeam": "Western City Rangers Women\\s",
-    "score": "3-2",
-    "matchId": "5048554",
-    "status": "ET",
-    "goals": [
-      "4' 0-1",
-      "28' 1-1",
-      "",
-      "",
-      "59' 2-1",
-      "66' 3-1",
-      "82' 3-2",
       ""
     ]
   },
@@ -462,75 +485,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "23:13",
-    "start_time": "23:13",
-    "group": "AUS NSW",
-    "title": "Sydney Olympic 0-1 Marconi Stallions",
-    "homeTeam": "Sydney Olympic",
-    "awayTeam": "Marconi Stallions",
-    "score": "0-1",
-    "matchId": "5005456",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "84' Ahmad Elhelou (0-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "22:00",
-    "start_time": "22:00",
-    "group": "AUS NTWPL",
-    "title": "Broadmeadow Magic Women\\s 1-0 Charlestown Azzurri Women\\s",
-    "homeTeam": "Broadmeadow Magic Women\\s",
-    "awayTeam": "Charlestown Azzurri Women\\s",
-    "score": "1-0",
-    "matchId": "5171252",
-    "status": "ET",
-    "goals": [
-      "",
-      "22' 1-0",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "22:00",
-    "start_time": "22:00",
-    "group": "AUS NTWPL",
-    "title": "New Lambton Eagles Women\\s 10-0 Newcastle Olympic Women\\s",
-    "homeTeam": "New Lambton Eagles Women\\s",
-    "awayTeam": "Newcastle Olympic Women\\s",
-    "score": "10-0",
-    "matchId": "5171251",
-    "status": "ET",
-    "goals": [
-      "11' 1-0",
-      "25' 2-0",
-      "",
-      "",
-      "54' 3-0<br>56' 4-0",
-      "67' 5-0<br>73' 6-0",
-      "76' 7-0<br>79' 8-0<br>84' 9-0<br>86' 10-0",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "22:00",
     "start_time": "22:00",
     "group": "AUS NPLW1",
@@ -554,6 +508,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "23:13",
+    "start_time": "23:13",
+    "group": "AUS NSW",
+    "title": "Sydney Olympic 0-1 Marconi Stallions",
+    "homeTeam": "Sydney Olympic",
+    "awayTeam": "Marconi Stallions",
+    "score": "0-1",
+    "matchId": "5005456",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "84' Ahmad Elhelou (0-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "23:35",
     "start_time": "23:35",
     "group": "JPN RL",
@@ -562,7 +539,7 @@
     "awayTeam": "Velago Ikoma",
     "score": "2-4",
     "matchId": "5173084",
-    "status": "84'",
+    "status": "90+'",
     "goals": [
       "",
       "19' 0-1<br>20' 0-2<br>22' 0-3<br>29' 0-4",
@@ -585,7 +562,7 @@
     "awayTeam": "Ryutsu Keizai University FC",
     "score": "3-3",
     "matchId": "5172994",
-    "status": "86'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -594,6 +571,29 @@
       "48' 2-1<br>55' 3-1",
       "69' 3-2",
       "82' 3-3",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "22:00",
+    "start_time": "22:00",
+    "group": "AUS NSWW",
+    "title": "Macarthur Rams Women\\s 3-2 Western City Rangers Women\\s",
+    "homeTeam": "Macarthur Rams Women\\s",
+    "awayTeam": "Western City Rangers Women\\s",
+    "score": "3-2",
+    "matchId": "5048554",
+    "status": "ET",
+    "goals": [
+      "4' 0-1",
+      "28' 1-1",
+      "",
+      "",
+      "59' 2-1",
+      "66' 3-1",
+      "82' 3-2",
       ""
     ]
   },
@@ -8508,4 +8508,5 @@
       "",
       ""
     ]
-  
+  }
+]

@@ -25,29 +25,6 @@
   {
     "date": "2026-08-22",
     "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "VEN D2",
-    "title": "Deportivo Lara 3-0 Academia Puerto Cabello B",
-    "homeTeam": "Deportivo Lara",
-    "awayTeam": "Academia Puerto Cabello B",
-    "score": "3-0",
-    "matchId": "5171867",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "day": "Saturday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "GUA D1",
@@ -88,6 +65,29 @@
       "56' Facundo Castelli (2-0)<br>59' Alvaro Ampuero Garcia Rossell (2-1)",
       "67' Kevin Sandoval (3-1)",
       "89' Christopher Robin Olivares Burga (4-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "VEN D2",
+    "title": "Deportivo Lara 3-0 Academia Puerto Cabello B",
+    "homeTeam": "Deportivo Lara",
+    "awayTeam": "Academia Puerto Cabello B",
+    "score": "3-0",
+    "matchId": "5171867",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -301,6 +301,29 @@
   {
     "date": "2026-08-22",
     "day": "Saturday",
+    "time": "14:01",
+    "start_time": "14:01",
+    "group": "BRA WD2",
+    "title": "Vasco da Gama Women\\s 2-1 Taubate Women\\s",
+    "homeTeam": "Vasco da Gama Women\\s",
+    "awayTeam": "Taubate Women\\s",
+    "score": "2-1",
+    "matchId": "5159993",
+    "status": "ET",
+    "goals": [
+      "14' Lourdes (1-0)",
+      "27' Lourdes (2-0)",
+      "",
+      "",
+      "",
+      "",
+      "86' 2-1",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "day": "Saturday",
     "time": "16:36",
     "start_time": "16:36",
     "group": "USA MLSRv",
@@ -364,7 +387,7 @@
       "",
       "",
       "",
-      "90+2' A\u00efssata Traor\u00e9 (1-1)"
+      "90+2' A\u00efssata Traor\u00e9 (1-1)<br>90+17' Ashley Nicole Sanchez (2-1)"
     ]
   },
   {
@@ -393,23 +416,23 @@
   {
     "date": "2026-08-22",
     "day": "Saturday",
-    "time": "14:01",
-    "start_time": "14:01",
-    "group": "BRA WD2",
-    "title": "Vasco da Gama Women\\s 2-1 Taubate Women\\s",
-    "homeTeam": "Vasco da Gama Women\\s",
-    "awayTeam": "Taubate Women\\s",
-    "score": "2-1",
-    "matchId": "5159993",
+    "time": "14:06",
+    "start_time": "14:06",
+    "group": "PAR WD1",
+    "title": "2 de Mayo Women\\s 1-4 Club Guarani Women\\s",
+    "homeTeam": "2 de Mayo Women\\s",
+    "awayTeam": "Club Guarani Women\\s",
+    "score": "1-4",
+    "matchId": "5170745",
     "status": "ET",
     "goals": [
-      "14' Lourdes (1-0)",
-      "27' Lourdes (2-0)",
       "",
       "",
+      "34' Nora Peralta (0-1)<br>36' Deysi S\u00e1nchez (0-2)",
       "",
+      "51' Alejandra Escurra (0-3)",
+      "69' Nora Peralta (0-4)<br>72' Rosalba Alegre (1-4)",
       "",
-      "86' 2-1",
       ""
     ]
   },
@@ -531,29 +554,6 @@
   {
     "date": "2026-08-22",
     "day": "Saturday",
-    "time": "14:06",
-    "start_time": "14:06",
-    "group": "PAR WD1",
-    "title": "2 de Mayo Women\\s 1-4 Club Guarani Women\\s",
-    "homeTeam": "2 de Mayo Women\\s",
-    "awayTeam": "Club Guarani Women\\s",
-    "score": "1-4",
-    "matchId": "5170745",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "34' Nora Peralta (0-1)<br>36' Deysi S\u00e1nchez (0-2)",
-      "",
-      "51' Alejandra Escurra (0-3)",
-      "69' Nora Peralta (0-4)<br>72' Rosalba Alegre (1-4)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "day": "Saturday",
     "time": "16:40",
     "start_time": "16:40",
     "group": "USA MLS",
@@ -623,6 +623,29 @@
   {
     "date": "2026-08-22",
     "day": "Saturday",
+    "time": "14:02",
+    "start_time": "14:02",
+    "group": "BRA WT",
+    "title": "Juventude RS Women\\s 2-2 Bahia de Feira BA Women\\s",
+    "homeTeam": "Juventude RS Women\\s",
+    "awayTeam": "Bahia de Feira BA Women\\s",
+    "score": "2-2",
+    "matchId": "5029346",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' Paloma Lemos (1-0)",
+      "31' Raquel Domingues (1-1)",
+      "",
+      "54' Raquel Domingues (1-2)",
+      "",
+      "",
+      "90+1' 2-2"
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "day": "Saturday",
     "time": "16:40",
     "start_time": "16:40",
     "group": "USA MLS",
@@ -640,6 +663,29 @@
       "",
       "",
       "83' Kalani Kossa-Rienzi (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "day": "Saturday",
+    "time": "21:00",
+    "start_time": "21:00",
+    "group": "AUS TPL",
+    "title": "South Hobart 0-0 Devonport City Striker",
+    "homeTeam": "South Hobart",
+    "awayTeam": "Devonport City Striker",
+    "score": "0-0",
+    "matchId": "5168362",
+    "status": "6'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -695,12 +741,12 @@
     "time": "20:30",
     "start_time": "20:30",
     "group": "JPN RL",
-    "title": "Route Eleven 0-1 Kansai University",
+    "title": "Route Eleven 1-2 Kansai University",
     "homeTeam": "Route Eleven",
     "awayTeam": "Kansai University",
-    "score": "0-1",
+    "score": "1-2",
     "matchId": "5173085",
-    "status": "21'",
+    "status": "36'",
     "goals": [
       "",
       "",
@@ -746,7 +792,7 @@
     "awayTeam": "El Paso Locomotive",
     "score": "0-0",
     "matchId": "5006848",
-    "status": "34'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -815,12 +861,12 @@
     "awayTeam": "FC Naples",
     "score": "1-0",
     "matchId": "5007502",
-    "status": "45'",
+    "status": "HT",
     "goals": [
       "",
       "",
       "",
-      "",
+      "45' Joaqu\u00edn Acu\u00f1a (1-0)",
       "",
       "",
       "",
@@ -861,7 +907,7 @@
     "awayTeam": "Navua FC",
     "score": "0-0",
     "matchId": "5037463",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -907,7 +953,7 @@
     "awayTeam": "Western Sydney Wanderers(U20)",
     "score": "2-0",
     "matchId": "5072552",
-    "status": "HT",
+    "status": "48'",
     "goals": [
       "",
       "",
@@ -953,7 +999,7 @@
     "awayTeam": "Marconi Stallions(U20)",
     "score": "0-0",
     "matchId": "5072546",
-    "status": "45'",
+    "status": "46'",
     "goals": [
       "",
       "",
@@ -1063,17 +1109,17 @@
     "time": "20:11",
     "start_time": "20:11",
     "group": "USLC",
-    "title": "Sacramento Republic FC 2-0 Phoenix Rising FC",
+    "title": "Sacramento Republic FC 2-1 Phoenix Rising FC",
     "homeTeam": "Sacramento Republic FC",
     "awayTeam": "Phoenix Rising FC",
-    "score": "2-0",
+    "score": "2-1",
     "matchId": "5006855",
-    "status": "40'",
+    "status": "HT",
     "goals": [
       "",
       "19' Tyler Wolff (1-0)<br>27' Memo Rodriguez (2-0)",
       "",
-      "",
+      "45' Ihsan Sacko (2-1)",
       "",
       "",
       "",
@@ -1114,7 +1160,7 @@
     "awayTeam": "Atlas",
     "score": "0-2",
     "matchId": "5077278",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "30' Edgar Zaldivar Valverde (0-1)",
@@ -1201,19 +1247,19 @@
     "time": "19:40",
     "start_time": "19:40",
     "group": "USA MLS",
-    "title": "San Jose Earthquakes 1-3 Minnesota United FC",
+    "title": "San Jose Earthquakes 1-4 Minnesota United FC",
     "homeTeam": "San Jose Earthquakes",
     "awayTeam": "Minnesota United FC",
-    "score": "1-3",
+    "score": "1-4",
     "matchId": "5003459",
-    "status": "50'",
+    "status": "65'",
     "goals": [
       "4' Timo Werner (1-0)<br>10' Joaquin Nicolas Pereyra (1-1)",
       "",
       "40' Kelvin Yeboah (1-2)<br>44' Kelvin Yeboah (1-3)",
       "",
       "",
-      "",
+      "65' Marcus Caldeira (1-4)",
       "",
       ""
     ]
@@ -1252,7 +1298,7 @@
     "awayTeam": "Colorado Rapids",
     "score": "2-0",
     "matchId": "5003458",
-    "status": "51'",
+    "status": "66'",
     "goals": [
       "",
       "27' Onni Valakari (1-0)",
@@ -1260,29 +1306,6 @@
       "",
       "",
       "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "BRA WT",
-    "title": "Gremio Women\\s 1-0 Botafogo RJ Women\\s",
-    "homeTeam": "Gremio Women\\s",
-    "awayTeam": "Botafogo RJ Women\\s",
-    "score": "1-0",
-    "matchId": "5029345",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "75' Day Silva (1-0)",
       "",
       ""
     ]
@@ -1321,32 +1344,9 @@
     "awayTeam": "Portland Timbers",
     "score": "0-1",
     "matchId": "5003457",
-    "status": "52'",
+    "status": "67'",
     "goals": [
       "4' David Pereira Da Costa (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "day": "Saturday",
-    "time": "14:05",
-    "start_time": "14:05",
-    "group": "COL D1",
-    "title": "Deportes Tolima 0-0 Atletico Bucaramanga",
-    "homeTeam": "Deportes Tolima",
-    "awayTeam": "Atletico Bucaramanga",
-    "score": "0-0",
-    "matchId": "5072417",
-    "status": "ET",
-    "goals": [
-      "",
       "",
       "",
       "",
@@ -1407,20 +1407,20 @@
     "day": "Saturday",
     "time": "19:00",
     "start_time": "19:00",
-    "group": "NZCL",
-    "title": "Napier City Rovers 2-2 Miramar Rangers AFC",
-    "homeTeam": "Napier City Rovers",
-    "awayTeam": "Miramar Rangers AFC",
-    "score": "2-2",
-    "matchId": "5053944",
-    "status": "90+'",
+    "group": "JPN RL",
+    "title": "FC Tokushima 2-1 Tadotso Club",
+    "homeTeam": "FC Tokushima",
+    "awayTeam": "Tadotso Club",
+    "score": "2-1",
+    "matchId": "5173086",
+    "status": "ET",
     "goals": [
-      "8' 1-0",
-      "27' 1-1",
       "",
       "",
-      "48' 2-1",
-      "67' 2-2",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -1451,6 +1451,52 @@
   {
     "date": "2026-08-22",
     "day": "Saturday",
+    "time": "19:00",
+    "start_time": "19:00",
+    "group": "NZCL",
+    "title": "Napier City Rovers 2-3 Miramar Rangers AFC",
+    "homeTeam": "Napier City Rovers",
+    "awayTeam": "Miramar Rangers AFC",
+    "score": "2-3",
+    "matchId": "5053944",
+    "status": "ET",
+    "goals": [
+      "8' 1-0",
+      "27' 1-1",
+      "",
+      "",
+      "48' 2-1",
+      "67' 2-2",
+      "",
+      "90+6' 2-3"
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "day": "Saturday",
+    "time": "16:06",
+    "start_time": "16:06",
+    "group": "USLC",
+    "title": "Brooklyn FC 0-1 Pittsburgh Riverhounds SC",
+    "homeTeam": "Brooklyn FC",
+    "awayTeam": "Pittsburgh Riverhounds SC",
+    "score": "0-1",
+    "matchId": "5006846",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "83' Sam Bassett (0-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "day": "Saturday",
     "time": "19:03",
     "start_time": "19:03",
     "group": "SLV D1",
@@ -1459,7 +1505,7 @@
     "awayTeam": "Aguila",
     "score": "1-0",
     "matchId": "5135835",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1497,14 +1543,14 @@
   {
     "date": "2026-08-22",
     "day": "Saturday",
-    "time": "16:06",
-    "start_time": "16:06",
-    "group": "USLC",
-    "title": "Brooklyn FC 0-1 Pittsburgh Riverhounds SC",
-    "homeTeam": "Brooklyn FC",
-    "awayTeam": "Pittsburgh Riverhounds SC",
-    "score": "0-1",
-    "matchId": "5006846",
+    "time": "14:05",
+    "start_time": "14:05",
+    "group": "COL D1",
+    "title": "Deportes Tolima 0-0 Atletico Bucaramanga",
+    "homeTeam": "Deportes Tolima",
+    "awayTeam": "Atletico Bucaramanga",
+    "score": "0-0",
+    "matchId": "5072417",
     "status": "ET",
     "goals": [
       "",
@@ -1513,7 +1559,7 @@
       "",
       "",
       "",
-      "83' Sam Bassett (0-1)",
+      "",
       ""
     ]
   },
@@ -1528,7 +1574,7 @@
     "awayTeam": "CSD Xelaju MC",
     "score": "2-0",
     "matchId": "5083711",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "",
       "23' Jose Franco (1-0)",
@@ -1574,7 +1620,7 @@
     "awayTeam": "FC Tulsa",
     "score": "1-5",
     "matchId": "5006853",
-    "status": "80'",
+    "status": "90+'",
     "goals": [
       "4' Arquimides Ordonez (0-1)",
       "20' Arquimides Ordonez (0-2)",
@@ -1582,6 +1628,29 @@
       "",
       "47' Christopher Hegardt (1-2)<br>55' Arquimides Ordonez (1-3)",
       "69' Delentz Pierre (1-4)<br>72' Logan Dorsey (1-5)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "BRA WT",
+    "title": "Gremio Women\\s 1-0 Botafogo RJ Women\\s",
+    "homeTeam": "Gremio Women\\s",
+    "awayTeam": "Botafogo RJ Women\\s",
+    "score": "1-0",
+    "matchId": "5029345",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "75' Day Silva (1-0)",
       "",
       ""
     ]
@@ -1620,7 +1689,7 @@
     "awayTeam": "Sporting San Jose",
     "score": "0-3",
     "matchId": "5075747",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1628,7 +1697,7 @@
       "",
       "53' Jose Mario Pinto (0-1)",
       "67' Alexander Agustin Lopez Rodriguez (0-2)",
-      "87' 0-3",
+      "87' Daniel Colindres Solera (0-3)",
       ""
     ]
   },
@@ -1653,29 +1722,6 @@
       "63' Rafa Mineira (1-2)",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "day": "Saturday",
-    "time": "14:02",
-    "start_time": "14:02",
-    "group": "BRA WT",
-    "title": "Juventude RS Women\\s 2-2 Bahia de Feira BA Women\\s",
-    "homeTeam": "Juventude RS Women\\s",
-    "awayTeam": "Bahia de Feira BA Women\\s",
-    "score": "2-2",
-    "matchId": "5029346",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' Paloma Lemos (1-0)",
-      "31' Raquel Domingues (1-1)",
-      "",
-      "54' Raquel Domingues (1-2)",
-      "",
-      "",
-      "90+1' 2-2"
     ]
   },
   {
@@ -1773,6 +1819,29 @@
   {
     "date": "2026-08-22",
     "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "HON D1",
+    "title": "Atletico Independiente 1-1 Genesis",
+    "homeTeam": "Atletico Independiente",
+    "awayTeam": "Genesis",
+    "score": "1-1",
+    "matchId": "5125560",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "61' Elias Alderete (0-1)",
+      "79' Cruz S. (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "day": "Saturday",
     "time": "14:07",
     "start_time": "14:07",
     "group": "USA MLSRv",
@@ -1859,29 +1928,6 @@
       "47' Kerlly Corozo (0-2)",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-22",
-    "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "HON D1",
-    "title": "Atletico Independiente 1-1 Genesis",
-    "homeTeam": "Atletico Independiente",
-    "awayTeam": "Genesis",
-    "score": "1-1",
-    "matchId": "5125560",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "61' Elias Alderete (0-1)",
-      "79' Cruz S. (1-1)",
       ""
     ]
   },

@@ -25,6 +25,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "19:02",
+    "start_time": "19:02",
+    "group": "USA MLSRv",
+    "title": "Ventura County FC 0-0 Portland Timbers B",
+    "homeTeam": "Ventura County FC",
+    "awayTeam": "Portland Timbers B",
+    "score": "0-0",
+    "matchId": "5029877",
+    "status": "3'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "14:32",
     "start_time": "14:32",
     "group": "BRA D3",
@@ -48,6 +71,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "19:04",
+    "start_time": "19:04",
+    "group": "GUA D1",
+    "title": "C.D. Malacateco 0-0 Deportivo San Pedro",
+    "homeTeam": "C.D. Malacateco",
+    "awayTeam": "Deportivo San Pedro",
+    "score": "0-0",
+    "matchId": "5083709",
+    "status": "1'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "18:15",
     "start_time": "18:15",
     "group": "COL D1",
@@ -56,7 +102,7 @@
     "awayTeam": "Once Caldas",
     "score": "0-0",
     "matchId": "5072427",
-    "status": "36'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -87,6 +133,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "14:15",
+    "start_time": "14:15",
+    "group": "BOL D1",
+    "title": "Club Deportivo Guabira 1-1 Blooming",
+    "homeTeam": "Club Deportivo Guabira",
+    "awayTeam": "Blooming",
+    "score": "1-1",
+    "matchId": "5158753",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "57' Miguel Villarroel (0-1)",
+      "69' Pedro Henrique de Oliveira Correia (1-1)",
       "",
       ""
     ]
@@ -125,7 +194,7 @@
     "awayTeam": "UNAN Managua",
     "score": "0-0",
     "matchId": "5119012",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -148,7 +217,7 @@
     "awayTeam": "Mineros de Zacatecas",
     "score": "2-0",
     "matchId": "5108972",
-    "status": "HT",
+    "status": "48'",
     "goals": [
       "11' Daniel Villaseca (1-0)",
       "22' Daniel Villaseca (2-0)",
@@ -171,7 +240,7 @@
     "awayTeam": "Club Necaxa",
     "score": "0-0",
     "matchId": "5077281",
-    "status": "HT",
+    "status": "46'",
     "goals": [
       "",
       "",
@@ -189,18 +258,18 @@
     "time": "17:35",
     "start_time": "17:35",
     "group": "USA MLSRv",
-    "title": "Colorado Rapids B 2-0 Real Monarchs",
+    "title": "Colorado Rapids B 3-0 Real Monarchs",
     "homeTeam": "Colorado Rapids B",
     "awayTeam": "Real Monarchs",
-    "score": "2-0",
+    "score": "3-0",
     "matchId": "5029862",
-    "status": "54'",
+    "status": "68'",
     "goals": [
       "",
       "",
       "43' Christopher Aquino (1-0)",
       "",
-      "52' 2-0",
+      "52' Josh Copeland (2-0)",
       "",
       "",
       ""
@@ -217,7 +286,7 @@
     "awayTeam": "San Jose Earthquakes B",
     "score": "0-0",
     "matchId": "5029879",
-    "status": "58'",
+    "status": "72'",
     "goals": [
       "",
       "",
@@ -240,7 +309,7 @@
     "awayTeam": "Boca Juniors",
     "score": "1-1",
     "matchId": "5052551",
-    "status": "59'",
+    "status": "73'",
     "goals": [
       "9' Faustino Marcos Alberto Rojo (1-0)",
       "28' Miguel Angel Merentiel Serrano (1-1)",
@@ -286,7 +355,7 @@
     "awayTeam": "Club America Women\\s",
     "score": "0-7",
     "matchId": "5141638",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "3' Geyse da Silva (0-1)",
       "25' Geyse da Silva (0-2)<br>30' Irene Guerrero (0-3)",
@@ -309,7 +378,7 @@
     "awayTeam": "Deportivo Achuapa",
     "score": "1-0",
     "matchId": "5173010",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -332,7 +401,7 @@
     "awayTeam": "Gotham FC Women\\s",
     "score": "0-0",
     "matchId": "5024440",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -350,12 +419,12 @@
     "time": "18:07",
     "start_time": "18:07",
     "group": "GUA D1",
-    "title": "Deportivo Marquense 2-0 Coban Imperial",
+    "title": "Deportivo Marquense 2-1 Coban Imperial",
     "homeTeam": "Deportivo Marquense",
     "awayTeam": "Coban Imperial",
-    "score": "2-0",
+    "score": "2-1",
     "matchId": "5083710",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "",
       "16' David Chuc (1-0)",
@@ -363,7 +432,7 @@
       "",
       "",
       "",
-      "88' 2-1",
+      "88' Uri Emanuel Amaral Benitez (2-1)",
       ""
     ]
   },
@@ -378,7 +447,7 @@
     "awayTeam": "A.D. San Carlos",
     "score": "0-1",
     "matchId": "5075746",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -401,7 +470,7 @@
     "awayTeam": "C.S. Emelec",
     "score": "2-0",
     "matchId": "5035309",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "2' Janner Hitcler Corozo Alman (1-0)",
       "18' Luis Geovanny Segovia Vega (2-0)",
@@ -669,6 +738,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "14:32",
+    "start_time": "14:32",
+    "group": "BRA D1",
+    "title": "Associacao Chapecoense de Futebol 1-0 Sao Paulo FC",
+    "homeTeam": "Associacao Chapecoense de Futebol",
+    "awayTeam": "Sao Paulo FC",
+    "score": "1-0",
+    "matchId": "5006427",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Bruno de Jesus Pacheco (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "16:03",
     "start_time": "16:03",
     "group": "USA MLSRv",
@@ -807,29 +899,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "16:02",
-    "start_time": "16:02",
-    "group": "MEX D1",
-    "title": "Atletico San Luis 1-1 C.F. Pachuca",
-    "homeTeam": "Atletico San Luis",
-    "awayTeam": "C.F. Pachuca",
-    "score": "1-1",
-    "matchId": "5077280",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "83' Luis Ronaldo Najera Reyna (1-0)",
-      "90+3' Carlos Agustin Moreno Luna (1-1)"
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "15:15",
     "start_time": "15:15",
     "group": "ARG D1",
@@ -847,29 +916,6 @@
       "",
       "61' Diego Alfonso Valdes Contreras (2-1)",
       "79' Manuel Lanzini (2-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "14:32",
-    "start_time": "14:32",
-    "group": "BRA D1",
-    "title": "Associacao Chapecoense de Futebol 1-0 Sao Paulo FC",
-    "homeTeam": "Associacao Chapecoense de Futebol",
-    "awayTeam": "Sao Paulo FC",
-    "score": "1-0",
-    "matchId": "5006427",
-    "status": "ET",
-    "goals": [
-      "",
-      "26' Bruno de Jesus Pacheco (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -894,6 +940,29 @@
       "",
       "80' \u00c1ngel Mendieta (1-2)",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "16:02",
+    "start_time": "16:02",
+    "group": "MEX D1",
+    "title": "Atletico San Luis 1-1 C.F. Pachuca",
+    "homeTeam": "Atletico San Luis",
+    "awayTeam": "C.F. Pachuca",
+    "score": "1-1",
+    "matchId": "5077280",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "83' Luis Ronaldo Najera Reyna (1-0)",
+      "90+3' Carlos Agustin Moreno Luna (1-1)"
     ]
   },
   {
@@ -1083,29 +1152,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "HON D1",
-    "title": "Marathon 1-1 Real Espana",
-    "homeTeam": "Marathon",
-    "awayTeam": "Real Espana",
-    "score": "1-1",
-    "matchId": "5125563",
-    "status": "ET",
-    "goals": [
-      "13' Nicolas Ariel Messiniti (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "67' Darixon Eniel Vuelto Perez (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "14:03",
     "start_time": "14:03",
     "group": "GUA D1",
@@ -1129,22 +1175,22 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "14:15",
-    "start_time": "14:15",
-    "group": "BOL D1",
-    "title": "Club Deportivo Guabira 1-1 Blooming",
-    "homeTeam": "Club Deportivo Guabira",
-    "awayTeam": "Blooming",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "HON D1",
+    "title": "Marathon 1-1 Real Espana",
+    "homeTeam": "Marathon",
+    "awayTeam": "Real Espana",
     "score": "1-1",
-    "matchId": "5158753",
+    "matchId": "5125563",
     "status": "ET",
     "goals": [
+      "13' Nicolas Ariel Messiniti (1-0)",
       "",
       "",
       "",
       "",
-      "57' Miguel Villarroel (0-1)",
-      "69' Pedro Henrique de Oliveira Correia (1-1)",
+      "67' Darixon Eniel Vuelto Perez (1-1)",
       "",
       ""
     ]

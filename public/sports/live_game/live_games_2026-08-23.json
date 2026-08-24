@@ -25,29 +25,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "14:32",
-    "start_time": "14:32",
-    "group": "BRA D1",
-    "title": "Associacao Chapecoense de Futebol 1-0 Sao Paulo FC",
-    "homeTeam": "Associacao Chapecoense de Futebol",
-    "awayTeam": "Sao Paulo FC",
-    "score": "1-0",
-    "matchId": "5006427",
-    "status": "ET",
-    "goals": [
-      "",
-      "26' Bruno de Jesus Pacheco (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "19:02",
     "start_time": "19:02",
     "group": "USA MLSRv",
@@ -56,7 +33,7 @@
     "awayTeam": "Portland Timbers B",
     "score": "0-0",
     "matchId": "5029877",
-    "status": "18'",
+    "status": "33'",
     "goals": [
       "",
       "",
@@ -102,7 +79,7 @@
     "awayTeam": "Deportivo San Pedro",
     "score": "0-0",
     "matchId": "5083709",
-    "status": "16'",
+    "status": "31'",
     "goals": [
       "",
       "",
@@ -125,7 +102,7 @@
     "awayTeam": "Once Caldas",
     "score": "0-0",
     "matchId": "5072427",
-    "status": "HT",
+    "status": "60'",
     "goals": [
       "",
       "",
@@ -148,7 +125,7 @@
     "awayTeam": "Deportivo Quiche FC",
     "score": "2-0",
     "matchId": "5173008",
-    "status": "60'",
+    "status": "75'",
     "goals": [
       "",
       "",
@@ -194,7 +171,7 @@
     "awayTeam": "UNAN Managua",
     "score": "0-0",
     "matchId": "5119012",
-    "status": "59'",
+    "status": "74'",
     "goals": [
       "",
       "",
@@ -217,7 +194,7 @@
     "awayTeam": "Mineros de Zacatecas",
     "score": "2-0",
     "matchId": "5108972",
-    "status": "63'",
+    "status": "78'",
     "goals": [
       "11' Daniel Villaseca (1-0)",
       "22' Daniel Villaseca (2-0)",
@@ -240,7 +217,7 @@
     "awayTeam": "Club Necaxa",
     "score": "0-0",
     "matchId": "5077281",
-    "status": "61'",
+    "status": "76'",
     "goals": [
       "",
       "",
@@ -258,12 +235,12 @@
     "time": "17:35",
     "start_time": "17:35",
     "group": "USA MLSRv",
-    "title": "Colorado Rapids B 3-0 Real Monarchs",
+    "title": "Colorado Rapids B 4-1 Real Monarchs",
     "homeTeam": "Colorado Rapids B",
     "awayTeam": "Real Monarchs",
-    "score": "3-0",
+    "score": "4-1",
     "matchId": "5029862",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -272,30 +249,7 @@
       "52' Josh Copeland (2-0)",
       "67' Jonathan de la Fuente (3-0)",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "14:15",
-    "start_time": "14:15",
-    "group": "BOL D1",
-    "title": "Club Deportivo Guabira 1-1 Blooming",
-    "homeTeam": "Club Deportivo Guabira",
-    "awayTeam": "Blooming",
-    "score": "1-1",
-    "matchId": "5158753",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "57' Miguel Villarroel (0-1)",
-      "69' Pedro Henrique de Oliveira Correia (1-1)",
-      "",
-      ""
+      "90+2' 3-1"
     ]
   },
   {
@@ -309,7 +263,7 @@
     "awayTeam": "San Jose Earthquakes B",
     "score": "1-0",
     "matchId": "5029879",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -332,7 +286,7 @@
     "awayTeam": "Boca Juniors",
     "score": "1-1",
     "matchId": "5052551",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "9' Faustino Marcos Alberto Rojo (1-0)",
       "28' Miguel Angel Merentiel Serrano (1-1)",
@@ -830,23 +784,23 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "16:01",
-    "start_time": "16:01",
-    "group": "COL D2",
-    "title": "Deportes Quindio 1-0 Envigado F.C.",
-    "homeTeam": "Deportes Quindio",
-    "awayTeam": "Envigado F.C.",
-    "score": "1-0",
-    "matchId": "5072267",
+    "time": "16:03",
+    "start_time": "16:03",
+    "group": "USA MLSRv",
+    "title": "Crown Legacy FC 3-1 Chattanooga",
+    "homeTeam": "Crown Legacy FC",
+    "awayTeam": "Chattanooga",
+    "score": "3-1",
+    "matchId": "5029869",
     "status": "ET",
     "goals": [
       "",
+      "26' Andrej Suboti\u0107 (1-0)",
       "",
       "",
-      "",
-      "",
-      "70' Andr\u00e9s Carabal\u00ed (1-0)",
-      "",
+      "50' Hugo Mbongue (2-0)",
+      "63' Daniel Mangarov (2-1)",
+      "84' Hugo Mbongue (3-1)",
       ""
     ]
   },
@@ -870,6 +824,29 @@
       "",
       "72' Matias Gallegos (3-0)",
       "80' Camilo N\u00fa\u00f1ez (3-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "15:15",
+    "start_time": "15:15",
+    "group": "ARG D1",
+    "title": "River Plate 2-2 Velez Sarsfield",
+    "homeTeam": "River Plate",
+    "awayTeam": "Velez Sarsfield",
+    "score": "2-2",
+    "matchId": "5052552",
+    "status": "ET",
+    "goals": [
+      "11' Angel Correa (1-0)",
+      "",
+      "43' Thiago Silvero (2-0)",
+      "",
+      "",
+      "61' Diego Alfonso Valdes Contreras (2-1)",
+      "79' Manuel Lanzini (2-2)",
       ""
     ]
   },
@@ -945,29 +922,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "15:15",
-    "start_time": "15:15",
-    "group": "ARG D1",
-    "title": "River Plate 2-2 Velez Sarsfield",
-    "homeTeam": "River Plate",
-    "awayTeam": "Velez Sarsfield",
-    "score": "2-2",
-    "matchId": "5052552",
-    "status": "ET",
-    "goals": [
-      "11' Angel Correa (1-0)",
-      "",
-      "43' Thiago Silvero (2-0)",
-      "",
-      "",
-      "61' Diego Alfonso Valdes Contreras (2-1)",
-      "79' Manuel Lanzini (2-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "16:12",
     "start_time": "16:12",
     "group": "USA MLS",
@@ -993,20 +947,43 @@
     "day": "Sunday",
     "time": "16:01",
     "start_time": "16:01",
-    "group": "CRC D2",
-    "title": "AD Rosario 3-2 Municipal Grecia",
-    "homeTeam": "AD Rosario",
-    "awayTeam": "Municipal Grecia",
-    "score": "3-2",
-    "matchId": "5141080",
+    "group": "COL D2",
+    "title": "Deportes Quindio 1-0 Envigado F.C.",
+    "homeTeam": "Deportes Quindio",
+    "awayTeam": "Envigado F.C.",
+    "score": "1-0",
+    "matchId": "5072267",
     "status": "ET",
     "goals": [
-      "4' 0-1",
       "",
       "",
       "",
       "",
-      "67' 1-1<br>70' 2-1<br>75' 3-1",
+      "",
+      "70' Andr\u00e9s Carabal\u00ed (1-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "14:15",
+    "start_time": "14:15",
+    "group": "BOL D1",
+    "title": "Club Deportivo Guabira 1-1 Blooming",
+    "homeTeam": "Club Deportivo Guabira",
+    "awayTeam": "Blooming",
+    "score": "1-1",
+    "matchId": "5158753",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "57' Miguel Villarroel (0-1)",
+      "69' Pedro Henrique de Oliveira Correia (1-1)",
       "",
       ""
     ]
@@ -1078,6 +1055,29 @@
       "",
       "",
       "90+8' Ronaldo Royero (1-0)"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "14:32",
+    "start_time": "14:32",
+    "group": "BRA D1",
+    "title": "Associacao Chapecoense de Futebol 1-0 Sao Paulo FC",
+    "homeTeam": "Associacao Chapecoense de Futebol",
+    "awayTeam": "Sao Paulo FC",
+    "score": "1-0",
+    "matchId": "5006427",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Bruno de Jesus Pacheco (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -1175,6 +1175,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "HON D1",
+    "title": "Marathon 1-1 Real Espana",
+    "homeTeam": "Marathon",
+    "awayTeam": "Real Espana",
+    "score": "1-1",
+    "matchId": "5125563",
+    "status": "ET",
+    "goals": [
+      "13' Nicolas Ariel Messiniti (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "67' Darixon Eniel Vuelto Perez (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "14:03",
     "start_time": "14:03",
     "group": "BRA D2",
@@ -1244,45 +1267,22 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "16:03",
-    "start_time": "16:03",
-    "group": "USA MLSRv",
-    "title": "Crown Legacy FC 3-1 Chattanooga",
-    "homeTeam": "Crown Legacy FC",
-    "awayTeam": "Chattanooga",
-    "score": "3-1",
-    "matchId": "5029869",
+    "time": "16:01",
+    "start_time": "16:01",
+    "group": "CRC D2",
+    "title": "AD Rosario 3-2 Municipal Grecia",
+    "homeTeam": "AD Rosario",
+    "awayTeam": "Municipal Grecia",
+    "score": "3-2",
+    "matchId": "5141080",
     "status": "ET",
     "goals": [
-      "",
-      "26' Andrej Suboti\u0107 (1-0)",
-      "",
-      "",
-      "50' Hugo Mbongue (2-0)",
-      "63' Daniel Mangarov (2-1)",
-      "84' Hugo Mbongue (3-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "HON D1",
-    "title": "Marathon 1-1 Real Espana",
-    "homeTeam": "Marathon",
-    "awayTeam": "Real Espana",
-    "score": "1-1",
-    "matchId": "5125563",
-    "status": "ET",
-    "goals": [
-      "13' Nicolas Ariel Messiniti (1-0)",
+      "4' 0-1",
       "",
       "",
       "",
       "",
-      "67' Darixon Eniel Vuelto Perez (1-1)",
+      "67' 1-1<br>70' 2-1<br>75' 3-1",
       "",
       ""
     ]

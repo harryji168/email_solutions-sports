@@ -33,12 +33,35 @@
     "awayTeam": "Portland Timbers B",
     "score": "1-1",
     "matchId": "5029877",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "",
       "",
       "41' Daniel Cervantes (0-1)",
       "45' E. Preston (1-1)",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "19:04",
+    "start_time": "19:04",
+    "group": "GUA D1",
+    "title": "C.D. Malacateco 1-0 Deportivo San Pedro",
+    "homeTeam": "C.D. Malacateco",
+    "awayTeam": "Deportivo San Pedro",
+    "score": "1-0",
+    "matchId": "5083709",
+    "status": "54'",
+    "goals": [
+      "",
+      "",
+      "43' Kevin Ramirez (1-0)",
+      "",
       "",
       "",
       "",
@@ -71,29 +94,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "19:04",
-    "start_time": "19:04",
-    "group": "GUA D1",
-    "title": "C.D. Malacateco 1-0 Deportivo San Pedro",
-    "homeTeam": "C.D. Malacateco",
-    "awayTeam": "Deportivo San Pedro",
-    "score": "1-0",
-    "matchId": "5083709",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "43' Kevin Ramirez (1-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "18:15",
     "start_time": "18:15",
     "group": "COL D1",
@@ -102,7 +102,7 @@
     "awayTeam": "Once Caldas",
     "score": "1-1",
     "matchId": "5072427",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -204,6 +204,29 @@
       "",
       "80' Jes\u00fas Hern\u00e1ndez (3-0)<br>82' Pablo Padilla (3-1)<br>84' \u00d3scar Mazat\u00e1n (3-2)",
       "90+2' Cruz Medina (4-2)"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "14:15",
+    "start_time": "14:15",
+    "group": "BOL D1",
+    "title": "Club Deportivo Guabira 1-1 Blooming",
+    "homeTeam": "Club Deportivo Guabira",
+    "awayTeam": "Blooming",
+    "score": "1-1",
+    "matchId": "5158753",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "57' Miguel Villarroel (0-1)",
+      "69' Pedro Henrique de Oliveira Correia (1-1)",
+      "",
+      ""
     ]
   },
   {
@@ -347,6 +370,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "14:32",
+    "start_time": "14:32",
+    "group": "BRA D1",
+    "title": "Associacao Chapecoense de Futebol 1-0 Sao Paulo FC",
+    "homeTeam": "Associacao Chapecoense de Futebol",
+    "awayTeam": "Sao Paulo FC",
+    "score": "1-0",
+    "matchId": "5006427",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Bruno de Jesus Pacheco (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "18:05",
     "start_time": "18:05",
     "group": "GUA D2",
@@ -410,29 +456,6 @@
       "",
       "",
       "88' Uri Emanuel Amaral Benitez (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "14:15",
-    "start_time": "14:15",
-    "group": "BOL D1",
-    "title": "Club Deportivo Guabira 1-1 Blooming",
-    "homeTeam": "Club Deportivo Guabira",
-    "awayTeam": "Blooming",
-    "score": "1-1",
-    "matchId": "5158753",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "57' Miguel Villarroel (0-1)",
-      "69' Pedro Henrique de Oliveira Correia (1-1)",
-      "",
       ""
     ]
   },
@@ -830,23 +853,23 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "15:15",
-    "start_time": "15:15",
-    "group": "ARG D1",
-    "title": "River Plate 2-2 Velez Sarsfield",
-    "homeTeam": "River Plate",
-    "awayTeam": "Velez Sarsfield",
-    "score": "2-2",
-    "matchId": "5052552",
+    "time": "16:01",
+    "start_time": "16:01",
+    "group": "COL D2",
+    "title": "Deportes Quindio 1-0 Envigado F.C.",
+    "homeTeam": "Deportes Quindio",
+    "awayTeam": "Envigado F.C.",
+    "score": "1-0",
+    "matchId": "5072267",
     "status": "ET",
     "goals": [
-      "11' Angel Correa (1-0)",
-      "",
-      "43' Thiago Silvero (2-0)",
       "",
       "",
-      "61' Diego Alfonso Valdes Contreras (2-1)",
-      "79' Manuel Lanzini (2-2)",
+      "",
+      "",
+      "",
+      "70' Andr\u00e9s Carabal\u00ed (1-0)",
+      "",
       ""
     ]
   },
@@ -870,29 +893,6 @@
       "",
       "72' Matias Gallegos (3-0)",
       "80' Camilo N\u00fa\u00f1ez (3-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "16:01",
-    "start_time": "16:01",
-    "group": "COL D2",
-    "title": "Deportes Quindio 1-0 Envigado F.C.",
-    "homeTeam": "Deportes Quindio",
-    "awayTeam": "Envigado F.C.",
-    "score": "1-0",
-    "matchId": "5072267",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "70' Andr\u00e9s Carabal\u00ed (1-0)",
-      "",
       ""
     ]
   },
@@ -940,29 +940,6 @@
       "",
       "83' Luis Ronaldo Najera Reyna (1-0)",
       "90+3' Carlos Agustin Moreno Luna (1-1)"
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "14:32",
-    "start_time": "14:32",
-    "group": "BRA D1",
-    "title": "Associacao Chapecoense de Futebol 1-0 Sao Paulo FC",
-    "homeTeam": "Associacao Chapecoense de Futebol",
-    "awayTeam": "Sao Paulo FC",
-    "score": "1-0",
-    "matchId": "5006427",
-    "status": "ET",
-    "goals": [
-      "",
-      "26' Bruno de Jesus Pacheco (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -1032,6 +1009,29 @@
       "75' Paulo Roberto (2-0)",
       "",
       "90+3' Raniele Almeida Melo (2-1)"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "16:03",
+    "start_time": "16:03",
+    "group": "USA MLSRv",
+    "title": "Crown Legacy FC 3-1 Chattanooga",
+    "homeTeam": "Crown Legacy FC",
+    "awayTeam": "Chattanooga",
+    "score": "3-1",
+    "matchId": "5029869",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Andrej Suboti\u0107 (1-0)",
+      "",
+      "",
+      "50' Hugo Mbongue (2-0)",
+      "63' Daniel Mangarov (2-1)",
+      "84' Hugo Mbongue (3-1)",
+      ""
     ]
   },
   {
@@ -1175,6 +1175,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "HON D1",
+    "title": "Marathon 1-1 Real Espana",
+    "homeTeam": "Marathon",
+    "awayTeam": "Real Espana",
+    "score": "1-1",
+    "matchId": "5125563",
+    "status": "ET",
+    "goals": [
+      "13' Nicolas Ariel Messiniti (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "67' Darixon Eniel Vuelto Perez (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "14:03",
     "start_time": "14:03",
     "group": "BRA D2",
@@ -1244,46 +1267,23 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "16:03",
-    "start_time": "16:03",
-    "group": "USA MLSRv",
-    "title": "Crown Legacy FC 3-1 Chattanooga",
-    "homeTeam": "Crown Legacy FC",
-    "awayTeam": "Chattanooga",
-    "score": "3-1",
-    "matchId": "5029869",
+    "time": "15:15",
+    "start_time": "15:15",
+    "group": "ARG D1",
+    "title": "River Plate 2-2 Velez Sarsfield",
+    "homeTeam": "River Plate",
+    "awayTeam": "Velez Sarsfield",
+    "score": "2-2",
+    "matchId": "5052552",
     "status": "ET",
     "goals": [
+      "11' Angel Correa (1-0)",
       "",
-      "26' Andrej Suboti\u0107 (1-0)",
-      "",
-      "",
-      "50' Hugo Mbongue (2-0)",
-      "63' Daniel Mangarov (2-1)",
-      "84' Hugo Mbongue (3-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "HON D1",
-    "title": "Marathon 1-1 Real Espana",
-    "homeTeam": "Marathon",
-    "awayTeam": "Real Espana",
-    "score": "1-1",
-    "matchId": "5125563",
-    "status": "ET",
-    "goals": [
-      "13' Nicolas Ariel Messiniti (1-0)",
+      "43' Thiago Silvero (2-0)",
       "",
       "",
-      "",
-      "",
-      "67' Darixon Eniel Vuelto Perez (1-1)",
-      "",
+      "61' Diego Alfonso Valdes Contreras (2-1)",
+      "79' Manuel Lanzini (2-2)",
       ""
     ]
   },

@@ -94,6 +94,52 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "07:00",
+    "start_time": "07:00",
+    "group": "INTERF",
+    "title": "Lebanon(U20) 2-2 Tajikistan(U20)",
+    "homeTeam": "Lebanon(U20)",
+    "awayTeam": "Tajikistan(U20)",
+    "score": "2-2",
+    "matchId": "5172482",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "11:00",
+    "start_time": "11:00",
+    "group": "ARG WD1",
+    "title": "San Lorenzo Women\\s 1-0 Racing Club Women\\s",
+    "homeTeam": "San Lorenzo Women\\s",
+    "awayTeam": "Racing Club Women\\s",
+    "score": "1-0",
+    "matchId": "5170800",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "70' Delfina Pafundi (1-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "08:02",
     "start_time": "08:02",
     "group": "BUL D2",
@@ -117,22 +163,22 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "11:00",
-    "start_time": "11:00",
+    "time": "11:06",
+    "start_time": "11:06",
     "group": "ARG WD1",
-    "title": "San Lorenzo Women\\s 1-0 Racing Club Women\\s",
-    "homeTeam": "San Lorenzo Women\\s",
-    "awayTeam": "Racing Club Women\\s",
-    "score": "1-0",
-    "matchId": "5170800",
+    "title": "Independiente Women\\s 0-2 Social Atletico Television Women\\s",
+    "homeTeam": "Independiente Women\\s",
+    "awayTeam": "Social Atletico Television Women\\s",
+    "score": "0-2",
+    "matchId": "5170985",
     "status": "ET",
     "goals": [
       "",
+      "24' 0-1",
+      "44' 0-2",
       "",
       "",
       "",
-      "",
-      "70' Delfina Pafundi (1-0)",
       "",
       ""
     ]
@@ -163,22 +209,22 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "11:06",
-    "start_time": "11:06",
-    "group": "ARG WD1",
-    "title": "Independiente Women\\s 0-2 Social Atletico Television Women\\s",
-    "homeTeam": "Independiente Women\\s",
-    "awayTeam": "Social Atletico Television Women\\s",
-    "score": "0-2",
-    "matchId": "5170985",
+    "time": "10:58",
+    "start_time": "10:58",
+    "group": "ARG TRFA",
+    "title": "Ezeiza 3-1 Belgrano Zarate",
+    "homeTeam": "Ezeiza",
+    "awayTeam": "Belgrano Zarate",
+    "score": "3-1",
+    "matchId": "5168711",
     "status": "ET",
     "goals": [
-      "",
-      "24' 0-1",
-      "44' 0-2",
-      "",
+      "14' Horacio Maccio (1-0)",
+      "22' Sebasti\u00e1n Kajganich (2-0)",
       "",
       "",
+      "58' Horacio Maccio (3-0)",
+      "75' Benjam\u00edn G\u00f3mez (3-1)",
       "",
       ""
     ]
@@ -203,52 +249,6 @@
       "",
       "63' Mihail Manevski (2-1)<br>69' Miguel Cristovao Pires (3-1)",
       "88' Ediz Spahiu (4-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "10:58",
-    "start_time": "10:58",
-    "group": "ARG TRFA",
-    "title": "Ezeiza 3-1 Belgrano Zarate",
-    "homeTeam": "Ezeiza",
-    "awayTeam": "Belgrano Zarate",
-    "score": "3-1",
-    "matchId": "5168711",
-    "status": "ET",
-    "goals": [
-      "14' Horacio Maccio (1-0)",
-      "22' Sebasti\u00e1n Kajganich (2-0)",
-      "",
-      "",
-      "58' Horacio Maccio (3-0)",
-      "75' Benjam\u00edn G\u00f3mez (3-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "07:00",
-    "start_time": "07:00",
-    "group": "INTERF",
-    "title": "Lebanon(U20) 2-2 Tajikistan(U20)",
-    "homeTeam": "Lebanon(U20)",
-    "awayTeam": "Tajikistan(U20)",
-    "score": "2-2",
-    "matchId": "5172482",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -922,29 +922,6 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "ARM  Cup",
-    "title": "Hayq 0-3 Olympia Yerevan",
-    "homeTeam": "Hayq",
-    "awayTeam": "Olympia Yerevan",
-    "score": "0-3",
-    "matchId": "5120725",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "SWE D2",
@@ -1068,7 +1045,7 @@
     "awayTeam": "Independiente Yumbo",
     "score": "0-0",
     "matchId": "5072268",
-    "status": "22'",
+    "status": "37'",
     "goals": [
       "",
       "",
@@ -1198,29 +1175,6 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "13:00",
-    "start_time": "13:00",
-    "group": "COL D2",
-    "title": "Tigres FC 1-0 Union Magdalena",
-    "homeTeam": "Tigres FC",
-    "awayTeam": "Union Magdalena",
-    "score": "1-0",
-    "matchId": "5072269",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "34' Rodrigo Delvalle (1-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "DEN SASL",
@@ -1252,7 +1206,7 @@
     "awayTeam": "RCD Mallorca",
     "score": "1-0",
     "matchId": "5099318",
-    "status": "62'",
+    "status": "77'",
     "goals": [
       "",
       "20' Pedro Aleman (1-0)",
@@ -1298,7 +1252,7 @@
     "awayTeam": "Deportivo de La Coruna",
     "score": "1-1",
     "matchId": "5097321",
-    "status": "63'",
+    "status": "78'",
     "goals": [
       "",
       "21' Pierre-Emerick Aubameyang (0-1)",
@@ -1344,7 +1298,7 @@
     "awayTeam": "FC Porto B",
     "score": "0-1",
     "matchId": "5104436",
-    "status": "78'",
+    "status": "90+'",
     "goals": [
       "",
       "21' Martim Cunha (0-1)",
@@ -1413,7 +1367,7 @@
     "awayTeam": "Fram Reykjavik",
     "score": "3-4",
     "matchId": "5024363",
-    "status": "82'",
+    "status": "ET",
     "goals": [
       "6' David Ingvarsson (1-0)<br>15' Robert Hauksson (1-1)",
       "17' Haraldur Einar Asgrimsson (1-2)",
@@ -1459,7 +1413,7 @@
     "awayTeam": "Casa Pia AC",
     "score": "2-0",
     "matchId": "5104586",
-    "status": "74'",
+    "status": "89'",
     "goals": [
       "",
       "20' Gil Pinto Martins (1-0)",
@@ -1500,12 +1454,12 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "POR LRU23",
-    "title": "Sporting Braga(U23) 0-0 Gil Vicente U23",
+    "title": "Sporting Braga(U23) 1-0 Gil Vicente U23",
     "homeTeam": "Sporting Braga(U23)",
     "awayTeam": "Gil Vicente U23",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5131077",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1514,7 +1468,7 @@
       "",
       "",
       "",
-      ""
+      "90+4' 1-0"
     ]
   },
   {
@@ -1551,7 +1505,7 @@
     "awayTeam": "AS Sorrento Calcio",
     "score": "1-2",
     "matchId": "5148408",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1559,7 +1513,7 @@
       "",
       "",
       "",
-      "",
+      "89' Riccardo Cargnelutti (1-2)",
       ""
     ]
   },
@@ -1643,7 +1597,7 @@
     "awayTeam": "Foggia",
     "score": "0-1",
     "matchId": "5148394",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "23' Francesco Pio Petito (0-1)",
@@ -1666,7 +1620,7 @@
     "awayTeam": "S.S. Monopoli 1966",
     "score": "1-0",
     "matchId": "5148375",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "15' Giuseppe Simone (1-0)",
       "",
@@ -1735,7 +1689,7 @@
     "awayTeam": "Ravenna",
     "score": "1-1",
     "matchId": "5147595",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1776,12 +1730,12 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "ITA C1-A",
-    "title": "Folgore Caratese 1-1 AC Dolomiti Bellunesi",
+    "title": "Folgore Caratese 1-2 AC Dolomiti Bellunesi",
     "homeTeam": "Folgore Caratese",
     "awayTeam": "AC Dolomiti Bellunesi",
-    "score": "1-1",
+    "score": "1-2",
     "matchId": "5147495",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1790,7 +1744,7 @@
       "52' Thomas Cossalter (0-1)",
       "66' Felice D\\'Amico (1-1)",
       "",
-      ""
+      "90+8' Nicol\u00f2 Gobetti (1-2)"
     ]
   },
   {
@@ -1827,7 +1781,7 @@
     "awayTeam": "Algeria U21",
     "score": "1-3",
     "matchId": "5168597",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "18' Lahlou Akhrib (0-1)",
@@ -1835,7 +1789,7 @@
       "",
       "",
       "65' Issam Abdelhamid Naim (1-1)",
-      "79' Ben Ahmed Kohili (1-2)<br>88' 1-3",
+      "79' Ben Ahmed Kohili (1-2)<br>88' Mohamed Bouderbala (1-3)",
       ""
     ]
   },
@@ -1891,12 +1845,12 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "MGF",
-    "title": "Albania(U21) 2-0 Kosovo(U21)",
+    "title": "Albania(U21) 3-1 Kosovo(U21)",
     "homeTeam": "Albania(U21)",
     "awayTeam": "Kosovo(U21)",
-    "score": "2-0",
+    "score": "3-1",
     "matchId": "5168596",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1905,7 +1859,7 @@
       "50' Ersi Bode (1-0)",
       "73' Valentin Daja (2-0)",
       "",
-      ""
+      "90' Arlind Leshi (3-0)<br>90+3' Edor Hajdini (3-1)"
     ]
   },
   {
@@ -1965,7 +1919,7 @@
     "awayTeam": "North Macedonia(U21)",
     "score": "3-0",
     "matchId": "5168591",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "26' \u00d6zder \u00d6zcan (1-0)",
@@ -1997,6 +1951,29 @@
       "",
       "",
       "87' Hossein Shahabi (0-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "ARM  Cup",
+    "title": "Hayq 0-3 Olympia Yerevan",
+    "homeTeam": "Hayq",
+    "awayTeam": "Olympia Yerevan",
+    "score": "0-3",
+    "matchId": "5120725",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -2057,7 +2034,7 @@
     "awayTeam": "Atletico Rafaela",
     "score": "0-0",
     "matchId": "5013779",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -2103,7 +2080,7 @@
     "awayTeam": "Chelsea F.C.",
     "score": "2-3",
     "matchId": "5081789",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "1' Joao Pedro Junqueira de Jesus (0-1)",
       "23' Josh King (1-1)",
@@ -2486,29 +2463,6 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "ARM  Cup",
-    "title": "Araks Ararat 4-2 FC Cilicia",
-    "homeTeam": "Araks Ararat",
-    "awayTeam": "FC Cilicia",
-    "score": "4-2",
-    "matchId": "5119723",
-    "status": "ET",
-    "goals": [
-      "10' Raffi Matevosyan (0-1)",
-      "19' John Lagbel (1-1)",
-      "32' Raffi Matevosyan (1-2)",
-      "",
-      "",
-      "62' John Lagbel (2-2)<br>72' Edgar Ghulinyan (3-2)",
-      "",
-      "90+5' 4-2"
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
     "time": "11:34",
     "start_time": "11:34",
     "group": "ROM D1",
@@ -2762,6 +2716,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "ARYAN Club 5-0 ASOS Rainbow Athletic Club",
+    "homeTeam": "ARYAN Club",
+    "awayTeam": "ASOS Rainbow Athletic Club",
+    "score": "5-0",
+    "matchId": "5171879",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "02:00",
     "start_time": "02:00",
     "group": "INTERF",
@@ -2870,29 +2847,6 @@
       "",
       "",
       "66' Federico Tonti (0-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "ARYAN Club 5-0 ASOS Rainbow Athletic Club",
-    "homeTeam": "ARYAN Club",
-    "awayTeam": "ASOS Rainbow Athletic Club",
-    "score": "5-0",
-    "matchId": "5171879",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       ""
     ]
@@ -3199,6 +3153,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "ARM  Cup",
+    "title": "Araks Ararat 4-2 FC Cilicia",
+    "homeTeam": "Araks Ararat",
+    "awayTeam": "FC Cilicia",
+    "score": "4-2",
+    "matchId": "5119723",
+    "status": "ET",
+    "goals": [
+      "10' Raffi Matevosyan (0-1)",
+      "19' John Lagbel (1-1)",
+      "32' Raffi Matevosyan (1-2)",
+      "",
+      "",
+      "62' John Lagbel (2-2)<br>72' Edgar Ghulinyan (3-2)",
+      "",
+      "90+5' 4-2"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "08:00",
     "start_time": "08:00",
     "group": "SVK D2",
@@ -3235,6 +3212,29 @@
       "",
       "",
       "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "COL D2",
+    "title": "Tigres FC 1-0 Union Magdalena",
+    "homeTeam": "Tigres FC",
+    "awayTeam": "Union Magdalena",
+    "score": "1-0",
+    "matchId": "5072269",
+    "status": "49'",
+    "goals": [
+      "",
+      "",
+      "34' Rodrigo Delvalle (1-0)",
       "",
       "",
       "",

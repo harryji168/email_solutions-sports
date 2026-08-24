@@ -301,6 +301,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "ARM  Cup",
+    "title": "Hayq 0-3 Olympia Yerevan",
+    "homeTeam": "Hayq",
+    "awayTeam": "Olympia Yerevan",
+    "score": "0-3",
+    "matchId": "5120725",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "KSA PR",
@@ -692,14 +715,14 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "08:05",
-    "start_time": "08:05",
+    "time": "08:06",
+    "start_time": "08:06",
     "group": "URU RL",
-    "title": "Nacional Montevideo Reserve 1-1 CA Juventud de Las Piedras Reserve",
-    "homeTeam": "Nacional Montevideo Reserve",
-    "awayTeam": "CA Juventud de Las Piedras Reserve",
-    "score": "1-1",
-    "matchId": "5173265",
+    "title": "Racing Club Montevideo Reserve 1-4 Boston River Reserve",
+    "homeTeam": "Racing Club Montevideo Reserve",
+    "awayTeam": "Boston River Reserve",
+    "score": "1-4",
+    "matchId": "5173266",
     "status": "ET",
     "goals": [
       "",
@@ -807,14 +830,14 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "08:06",
-    "start_time": "08:06",
+    "time": "08:05",
+    "start_time": "08:05",
     "group": "URU RL",
-    "title": "Racing Club Montevideo Reserve 1-4 Boston River Reserve",
-    "homeTeam": "Racing Club Montevideo Reserve",
-    "awayTeam": "Boston River Reserve",
-    "score": "1-4",
-    "matchId": "5173266",
+    "title": "Nacional Montevideo Reserve 1-1 CA Juventud de Las Piedras Reserve",
+    "homeTeam": "Nacional Montevideo Reserve",
+    "awayTeam": "CA Juventud de Las Piedras Reserve",
+    "score": "1-1",
+    "matchId": "5173265",
     "status": "ET",
     "goals": [
       "",
@@ -968,29 +991,6 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "ARM  Cup",
-    "title": "Araks Ararat 4-2 FC Cilicia",
-    "homeTeam": "Araks Ararat",
-    "awayTeam": "FC Cilicia",
-    "score": "4-2",
-    "matchId": "5119723",
-    "status": "ET",
-    "goals": [
-      "10' Raffi Matevosyan (0-1)",
-      "19' John Lagbel (1-1)",
-      "32' Raffi Matevosyan (1-2)",
-      "",
-      "",
-      "62' John Lagbel (2-2)<br>72' Edgar Ghulinyan (3-2)",
-      "",
-      "90+5' 4-2"
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
     "time": "10:04",
     "start_time": "10:04",
     "group": "POR D2",
@@ -1060,6 +1060,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "13:30",
+    "start_time": "13:30",
+    "group": "COL D2",
+    "title": "Real Santander 0-0 Independiente Yumbo",
+    "homeTeam": "Real Santander",
+    "awayTeam": "Independiente Yumbo",
+    "score": "0-0",
+    "matchId": "5072268",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "SPA D2",
@@ -1114,7 +1137,7 @@
     "awayTeam": "Tacna Heroica",
     "score": "0-0",
     "matchId": "5164135",
-    "status": "17'",
+    "status": "32'",
     "goals": [
       "",
       "",
@@ -1178,16 +1201,16 @@
     "time": "13:00",
     "start_time": "13:00",
     "group": "COL D2",
-    "title": "Tigres FC 0-0 Union Magdalena",
+    "title": "Tigres FC 1-0 Union Magdalena",
     "homeTeam": "Tigres FC",
     "awayTeam": "Union Magdalena",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5072269",
-    "status": "22'",
+    "status": "37'",
     "goals": [
       "",
       "",
-      "",
+      "34' 1-0",
       "",
       "",
       "",
@@ -1229,7 +1252,7 @@
     "awayTeam": "RCD Mallorca",
     "score": "1-0",
     "matchId": "5099318",
-    "status": "HT",
+    "status": "49'",
     "goals": [
       "",
       "20' Pedro Aleman (1-0)",
@@ -1275,7 +1298,7 @@
     "awayTeam": "Deportivo de La Coruna",
     "score": "1-1",
     "matchId": "5097321",
-    "status": "HT",
+    "status": "48'",
     "goals": [
       "",
       "21' Pierre-Emerick Aubameyang (0-1)",
@@ -1306,6 +1329,29 @@
       "45+2' Masih Zahedi (1-0)",
       "59' Mehdi Goudarzi (2-0)",
       "70' Mojtaba Fakhrian (3-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "12:15",
+    "start_time": "12:15",
+    "group": "POR D2",
+    "title": "C.D. Feirense 0-1 FC Porto B",
+    "homeTeam": "C.D. Feirense",
+    "awayTeam": "FC Porto B",
+    "score": "0-1",
+    "matchId": "5104436",
+    "status": "63'",
+    "goals": [
+      "",
+      "21' Martim Cunha (0-1)",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -1362,18 +1408,18 @@
     "time": "12:15",
     "start_time": "12:15",
     "group": "ICE PR",
-    "title": "Breidablik 1-4 Fram Reykjavik",
+    "title": "Breidablik 3-4 Fram Reykjavik",
     "homeTeam": "Breidablik",
     "awayTeam": "Fram Reykjavik",
-    "score": "1-4",
+    "score": "3-4",
     "matchId": "5024363",
-    "status": "52'",
+    "status": "67'",
     "goals": [
       "6' David Ingvarsson (1-0)<br>15' Robert Hauksson (1-1)",
       "17' Haraldur Einar Asgrimsson (1-2)",
       "34' Vuk Oskar Dimitrijevic (1-3)<br>44' Kennie Chopart (1-4)",
       "",
-      "",
+      "56' David Ingvarsson (2-4)<br>59' Thorleifur Ulfarsson (3-4)",
       "",
       "",
       ""
@@ -1413,7 +1459,7 @@
     "awayTeam": "Casa Pia AC",
     "score": "2-0",
     "matchId": "5104586",
-    "status": "HT",
+    "status": "59'",
     "goals": [
       "",
       "20' Gil Pinto Martins (1-0)",
@@ -1459,7 +1505,7 @@
     "awayTeam": "Gil Vicente U23",
     "score": "0-0",
     "matchId": "5131077",
-    "status": "61'",
+    "status": "76'",
     "goals": [
       "",
       "",
@@ -1497,6 +1543,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "12:00",
+    "start_time": "12:00",
+    "group": "Italy C1C",
+    "title": "US Salernitana 1919 1-1 AS Sorrento Calcio",
+    "homeTeam": "US Salernitana 1919",
+    "awayTeam": "AS Sorrento Calcio",
+    "score": "1-1",
+    "matchId": "5148408",
+    "status": "76'",
+    "goals": [
+      "",
+      "",
+      "38' Facundo Lescano (1-0)<br>42' Ernesto Starita (1-1)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "06:00",
     "start_time": "06:00",
     "group": "URU RL",
@@ -1510,29 +1579,6 @@
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "12:00",
-    "start_time": "12:00",
-    "group": "Italy C1C",
-    "title": "US Salernitana 1919 1-1 AS Sorrento Calcio",
-    "homeTeam": "US Salernitana 1919",
-    "awayTeam": "AS Sorrento Calcio",
-    "score": "1-1",
-    "matchId": "5148408",
-    "status": "61'",
-    "goals": [
-      "",
-      "",
-      "38' Facundo Lescano (1-0)<br>42' Ernesto Starita (1-1)",
       "",
       "",
       "",
@@ -1597,7 +1643,7 @@
     "awayTeam": "Foggia",
     "score": "0-1",
     "matchId": "5148394",
-    "status": "62'",
+    "status": "77'",
     "goals": [
       "",
       "23' Francesco Pio Petito (0-1)",
@@ -1620,7 +1666,7 @@
     "awayTeam": "S.S. Monopoli 1966",
     "score": "1-0",
     "matchId": "5148375",
-    "status": "61'",
+    "status": "76'",
     "goals": [
       "",
       "16' Giuseppe Simone (1-0)",
@@ -1689,7 +1735,7 @@
     "awayTeam": "Ravenna",
     "score": "1-0",
     "matchId": "5147595",
-    "status": "60'",
+    "status": "75'",
     "goals": [
       "",
       "",
@@ -1730,19 +1776,19 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "ITA C1-A",
-    "title": "Folgore Caratese 0-1 AC Dolomiti Bellunesi",
+    "title": "Folgore Caratese 1-1 AC Dolomiti Bellunesi",
     "homeTeam": "Folgore Caratese",
     "awayTeam": "AC Dolomiti Bellunesi",
-    "score": "0-1",
+    "score": "1-1",
     "matchId": "5147495",
-    "status": "64'",
+    "status": "79'",
     "goals": [
       "",
       "",
       "",
       "",
       "52' Thomas Cossalter (0-1)",
-      "",
+      "66' Felice D\\'Amico (1-1)",
       "",
       ""
     ]
@@ -1776,19 +1822,19 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "MGF",
-    "title": "Italy U18 0-1 Algeria U21",
+    "title": "Italy U18 1-1 Algeria U21",
     "homeTeam": "Italy U18",
     "awayTeam": "Algeria U21",
-    "score": "0-1",
+    "score": "1-1",
     "matchId": "5168597",
-    "status": "63'",
+    "status": "78'",
     "goals": [
       "",
       "19' Lahlou Akhrib (0-1)",
       "",
       "",
       "",
-      "",
+      "65' Issam Abdelhamid Naim (1-1)",
       "",
       ""
     ]
@@ -1845,12 +1891,12 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "MGF",
-    "title": "Albania(U21) 1-0 Kosovo(U21)",
+    "title": "Albania(U21) 2-0 Kosovo(U21)",
     "homeTeam": "Albania(U21)",
     "awayTeam": "Kosovo(U21)",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5168596",
-    "status": "64'",
+    "status": "79'",
     "goals": [
       "",
       "",
@@ -1914,19 +1960,19 @@
     "time": "12:01",
     "start_time": "12:01",
     "group": "MGF",
-    "title": "Turkiye(U20) 2-0 North Macedonia(U21)",
+    "title": "Turkiye(U20) 3-0 North Macedonia(U21)",
     "homeTeam": "Turkiye(U20)",
     "awayTeam": "North Macedonia(U21)",
-    "score": "2-0",
+    "score": "3-0",
     "matchId": "5168591",
-    "status": "64'",
+    "status": "79'",
     "goals": [
       "",
       "27' \u00d6zder \u00d6zcan (1-0)",
       "42' \u00d6zder \u00d6zcan (2-0)",
       "",
       "",
-      "",
+      "71' 3-0",
       "",
       ""
     ]
@@ -1965,7 +2011,7 @@
     "awayTeam": "Sportivo Luqueno",
     "score": "1-0",
     "matchId": "5168071",
-    "status": "65'",
+    "status": "80'",
     "goals": [
       "12' Roque Santa Cruz (1-0)",
       "",
@@ -2011,7 +2057,7 @@
     "awayTeam": "Atletico Rafaela",
     "score": "0-0",
     "matchId": "5013779",
-    "status": "61'",
+    "status": "76'",
     "goals": [
       "",
       "",
@@ -2057,7 +2103,7 @@
     "awayTeam": "Chelsea F.C.",
     "score": "2-3",
     "matchId": "5081789",
-    "status": "63'",
+    "status": "78'",
     "goals": [
       "1' Joao Pedro Junqueira de Jesus (0-1)",
       "23' Josh King (1-1)",
@@ -2103,7 +2149,7 @@
     "awayTeam": "FC Annecy",
     "score": "3-1",
     "matchId": "5075943",
-    "status": "81'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -2144,12 +2190,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "GERC",
-    "title": "Hallescher FC 1-1 FC Schalke 04",
+    "title": "Hallescher FC 2-2 FC Schalke 04",
     "homeTeam": "Hallescher FC",
     "awayTeam": "FC Schalke 04",
-    "score": "1-1",
+    "score": "2-2",
     "matchId": "5076446",
-    "status": "79'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -2157,8 +2203,8 @@
       "45' Kastull V. (1-0)",
       "",
       "62' Dejan Ljubicic (1-1)",
-      "",
-      ""
+      "81' Edin Dzeko (1-2)",
+      "90+1' Niclas Stierlin (2-2)"
     ]
   },
   {
@@ -2190,12 +2236,12 @@
     "time": "11:47",
     "start_time": "11:47",
     "group": "ITA D1",
-    "title": "AS Roma 3-0 ACF Fiorentina",
+    "title": "AS Roma 4-0 ACF Fiorentina",
     "homeTeam": "AS Roma",
     "awayTeam": "ACF Fiorentina",
-    "score": "3-0",
+    "score": "4-0",
     "matchId": "5072741",
-    "status": "76'",
+    "status": "90+'",
     "goals": [
       "",
       "27' Donyell Malen (1-0)",
@@ -2203,7 +2249,7 @@
       "",
       "52' Donyell Malen (2-0)<br>60' Donyell Malen (3-0)",
       "",
-      "",
+      "86' Niccolo Pisilli (4-0)",
       ""
     ]
   },
@@ -2241,7 +2287,7 @@
     "awayTeam": "UC Dublin (U20)",
     "score": "3-3",
     "matchId": "5173275",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -2310,7 +2356,7 @@
     "awayTeam": "Sassari Torres",
     "score": "2-1",
     "matchId": "5147584",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "30' Lorenzo Di Stefano (0-1)",
@@ -2319,7 +2365,7 @@
       "",
       "",
       "",
-      ""
+      "90+1' Jesus Christ Mawete (2-1)"
     ]
   },
   {
@@ -2356,7 +2402,7 @@
     "awayTeam": "Manisa F.K.",
     "score": "2-2",
     "matchId": "5114988",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "17' Rey Manaj (1-0)",
@@ -2402,7 +2448,7 @@
     "awayTeam": "Amed S.F.K.",
     "score": "2-0",
     "matchId": "5113631",
-    "status": "90'",
+    "status": "ET",
     "goals": [
       "",
       "16' Berkan Kutlu (1-0)",
@@ -2471,7 +2517,7 @@
     "awayTeam": "FC Arges",
     "score": "1-0",
     "matchId": "5093364",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -2572,6 +2618,29 @@
       "52' Trey Samuel-Ogunsuyi (2-0)<br>54' Jack Whittaker (3-0)<br>59' Trey Samuel-Ogunsuyi (4-0)",
       "",
       "83' Timur Tuterov (5-0)<br>86' Lamin Sillah (5-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "ARYAN Club 5-0 ASOS Rainbow Athletic Club",
+    "homeTeam": "ARYAN Club",
+    "awayTeam": "ASOS Rainbow Athletic Club",
+    "score": "5-0",
+    "matchId": "5171879",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -2709,29 +2778,6 @@
       "",
       "",
       "69' Andrei Dumiter (1-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "ARYAN Club 5-0 ASOS Rainbow Athletic Club",
-    "homeTeam": "ARYAN Club",
-    "awayTeam": "ASOS Rainbow Athletic Club",
-    "score": "5-0",
-    "matchId": "5171879",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       ""
     ]
@@ -2946,6 +2992,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "ARM  Cup",
+    "title": "Araks Ararat 4-2 FC Cilicia",
+    "homeTeam": "Araks Ararat",
+    "awayTeam": "FC Cilicia",
+    "score": "4-2",
+    "matchId": "5119723",
+    "status": "ET",
+    "goals": [
+      "10' Raffi Matevosyan (0-1)",
+      "19' John Lagbel (1-1)",
+      "32' Raffi Matevosyan (1-2)",
+      "",
+      "",
+      "62' John Lagbel (2-2)<br>72' Edgar Ghulinyan (3-2)",
+      "",
+      "90+5' 4-2"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "08:00",
     "start_time": "08:00",
     "group": "SLO U19",
@@ -3038,29 +3107,6 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "ARM  Cup",
-    "title": "Hayq 0-3 Olympia Yerevan",
-    "homeTeam": "Hayq",
-    "awayTeam": "Olympia Yerevan",
-    "score": "0-3",
-    "matchId": "5120725",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
     "time": "11:02",
     "start_time": "11:02",
     "group": "URU RL",
@@ -3130,29 +3176,6 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "08:00",
-    "start_time": "08:00",
-    "group": "SLO U19",
-    "title": "NK Aluminij U19 1-6 NK Maribor(U19)",
-    "homeTeam": "NK Aluminij U19",
-    "awayTeam": "NK Maribor(U19)",
-    "score": "1-6",
-    "matchId": "5173162",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "SER D2",
@@ -3170,6 +3193,29 @@
       "",
       "",
       "79' Du\u0161an Risti\u0107 (2-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "08:00",
+    "start_time": "08:00",
+    "group": "SLO U19",
+    "title": "NK Aluminij U19 1-6 NK Maribor(U19)",
+    "homeTeam": "NK Aluminij U19",
+    "awayTeam": "NK Maribor(U19)",
+    "score": "1-6",
+    "matchId": "5173162",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -3211,29 +3257,6 @@
     "goals": [
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "12:15",
-    "start_time": "12:15",
-    "group": "POR D2",
-    "title": "C.D. Feirense 0-1 FC Porto B",
-    "homeTeam": "C.D. Feirense",
-    "awayTeam": "FC Porto B",
-    "score": "0-1",
-    "matchId": "5104436",
-    "status": "48'",
-    "goals": [
-      "",
-      "21' Martim Cunha (0-1)",
       "",
       "",
       "",

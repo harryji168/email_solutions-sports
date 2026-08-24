@@ -2,6 +2,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "19:00",
+    "start_time": "19:00",
+    "group": "USA MLSRv",
+    "title": "Ventura County FC 2-2 Portland Timbers B",
+    "homeTeam": "Ventura County FC",
+    "awayTeam": "Portland Timbers B",
+    "score": "2-2",
+    "matchId": "5029877",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "41' Daniel Cervantes (0-1)",
+      "45' E. Preston (1-1)",
+      "60' E. Preston (2-1)",
+      "67' Daniel Cervantes (2-2)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "14:30",
     "start_time": "14:30",
     "group": "BRA D3",
@@ -18,29 +41,6 @@
       "",
       "",
       "71' Alex Gon\u00e7alves (1-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "14:32",
-    "start_time": "14:32",
-    "group": "BRA D3",
-    "title": "Maranhao MA 4-1 Itabaiana(SE)",
-    "homeTeam": "Maranhao MA",
-    "awayTeam": "Itabaiana(SE)",
-    "score": "4-1",
-    "matchId": "5046002",
-    "status": "ET",
-    "goals": [
-      "6' Jorge Rocha (1-0)<br>12' Luc\u00e3o Gomes (2-0)",
-      "25' Felipe Cruz (3-0)",
-      "35' J\u00falio Henrique de Lacerda de Paula (3-1)",
-      "",
-      "52' Rosivan (4-1)",
-      "",
       "",
       ""
     ]
@@ -117,6 +117,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "14:32",
+    "start_time": "14:32",
+    "group": "BRA D3",
+    "title": "Maranhao MA 4-1 Itabaiana(SE)",
+    "homeTeam": "Maranhao MA",
+    "awayTeam": "Itabaiana(SE)",
+    "score": "4-1",
+    "matchId": "5046002",
+    "status": "ET",
+    "goals": [
+      "6' Jorge Rocha (1-0)<br>12' Luc\u00e3o Gomes (2-0)",
+      "25' Felipe Cruz (3-0)",
+      "35' J\u00falio Henrique de Lacerda de Paula (3-1)",
+      "",
+      "52' Rosivan (4-1)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "14:05",
     "start_time": "14:05",
     "group": "COL D1",
@@ -181,29 +204,6 @@
       "",
       "80' Jes\u00fas Hern\u00e1ndez (3-0)<br>82' Pablo Padilla (3-1)<br>84' \u00d3scar Mazat\u00e1n (3-2)",
       "90+2' Cruz Medina (4-2)"
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
-    "time": "14:15",
-    "start_time": "14:15",
-    "group": "BOL D1",
-    "title": "Club Deportivo Guabira 1-1 Blooming",
-    "homeTeam": "Club Deportivo Guabira",
-    "awayTeam": "Blooming",
-    "score": "1-1",
-    "matchId": "5158753",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "57' Miguel Villarroel (0-1)",
-      "69' Pedro Henrique de Oliveira Correia (1-1)",
-      "",
-      ""
     ]
   },
   {
@@ -439,23 +439,23 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "14:32",
-    "start_time": "14:32",
-    "group": "BRA D1",
-    "title": "Associacao Chapecoense de Futebol 1-0 Sao Paulo FC",
-    "homeTeam": "Associacao Chapecoense de Futebol",
-    "awayTeam": "Sao Paulo FC",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "URU D1",
+    "title": "Club Nacional de Football 1-0 C.A. Progreso",
+    "homeTeam": "Club Nacional de Football",
+    "awayTeam": "C.A. Progreso",
     "score": "1-0",
-    "matchId": "5006427",
+    "matchId": "5163847",
     "status": "ET",
     "goals": [
       "",
-      "26' Bruno de Jesus Pacheco (1-0)",
       "",
       "",
       "",
       "",
       "",
+      "89' Maximiliano Joaquin Silvera Cabo (1-0)",
       ""
     ]
   },
@@ -531,23 +531,23 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "URU D1",
-    "title": "Club Nacional de Football 1-0 C.A. Progreso",
-    "homeTeam": "Club Nacional de Football",
-    "awayTeam": "C.A. Progreso",
-    "score": "1-0",
-    "matchId": "5163847",
+    "time": "14:33",
+    "start_time": "14:33",
+    "group": "BRA D2",
+    "title": "Criciuma Esporte Clube 0-2 Fortaleza Esporte Clube",
+    "homeTeam": "Criciuma Esporte Clube",
+    "awayTeam": "Fortaleza Esporte Clube",
+    "score": "0-2",
+    "matchId": "5036276",
     "status": "ET",
     "goals": [
       "",
       "",
+      "42' Pedro Henrique Konzen Medina da Silva (0-1)",
       "",
       "",
       "",
-      "",
-      "89' Maximiliano Joaquin Silvera Cabo (1-0)",
+      "87' Paulo Henrique Silva Ribeiro (0-2)",
       ""
     ]
   },
@@ -623,29 +623,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "14:33",
-    "start_time": "14:33",
-    "group": "BRA D2",
-    "title": "Criciuma Esporte Clube 0-2 Fortaleza Esporte Clube",
-    "homeTeam": "Criciuma Esporte Clube",
-    "awayTeam": "Fortaleza Esporte Clube",
-    "score": "0-2",
-    "matchId": "5036276",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "42' Pedro Henrique Konzen Medina da Silva (0-1)",
-      "",
-      "",
-      "",
-      "87' Paulo Henrique Silva Ribeiro (0-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "16:15",
     "start_time": "16:15",
     "group": "HON D1",
@@ -715,6 +692,52 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "14:32",
+    "start_time": "14:32",
+    "group": "BRA D1",
+    "title": "Associacao Chapecoense de Futebol 1-0 Sao Paulo FC",
+    "homeTeam": "Associacao Chapecoense de Futebol",
+    "awayTeam": "Sao Paulo FC",
+    "score": "1-0",
+    "matchId": "5006427",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Bruno de Jesus Pacheco (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "14:35",
+    "start_time": "14:35",
+    "group": "BRA D1",
+    "title": "Santos FC 1-1 Mirassol FC",
+    "homeTeam": "Santos FC",
+    "awayTeam": "Mirassol FC",
+    "score": "1-1",
+    "matchId": "5006433",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "36' Carlos Eduardo De Oliveira Alves (0-1)",
+      "",
+      "",
+      "68' Alvaro Barreal (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "16:03",
     "start_time": "16:03",
     "group": "USA MLSRv",
@@ -761,29 +784,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "14:35",
-    "start_time": "14:35",
-    "group": "BRA D1",
-    "title": "Santos FC 1-1 Mirassol FC",
-    "homeTeam": "Santos FC",
-    "awayTeam": "Mirassol FC",
-    "score": "1-1",
-    "matchId": "5006433",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "36' Carlos Eduardo De Oliveira Alves (0-1)",
-      "",
-      "",
-      "68' Alvaro Barreal (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "16:03",
     "start_time": "16:03",
     "group": "USA MLSRv",
@@ -801,7 +801,7 @@
       "",
       "",
       "",
-      ""
+      "90+7' Malachi Molina (1-0)"
     ]
   },
   {
@@ -899,29 +899,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "16:12",
-    "start_time": "16:12",
-    "group": "USA MLS",
-    "title": "Atlanta United FC 2-1 Sporting Kansas City",
-    "homeTeam": "Atlanta United FC",
-    "awayTeam": "Sporting Kansas City",
-    "score": "2-1",
-    "matchId": "5003461",
-    "status": "ET",
-    "goals": [
-      "13' Tomas Jacob (1-0)",
-      "24' Fafa Picault (2-0)",
-      "",
-      "",
-      "",
-      "70' Stephen Afrifa (2-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "15:02",
     "start_time": "15:02",
     "group": "NCA D1",
@@ -945,6 +922,29 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
+    "time": "16:12",
+    "start_time": "16:12",
+    "group": "USA MLS",
+    "title": "Atlanta United FC 2-1 Sporting Kansas City",
+    "homeTeam": "Atlanta United FC",
+    "awayTeam": "Sporting Kansas City",
+    "score": "2-1",
+    "matchId": "5003461",
+    "status": "ET",
+    "goals": [
+      "13' Tomas Jacob (1-0)",
+      "24' Fafa Picault (2-0)",
+      "",
+      "",
+      "",
+      "70' Stephen Afrifa (2-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
     "time": "16:01",
     "start_time": "16:01",
     "group": "CRC D2",
@@ -962,7 +962,7 @@
       "",
       "67' 1-1<br>70' 2-1<br>75' 3-1",
       "",
-      ""
+      "90+5' 3-2"
     ]
   },
   {
@@ -1055,6 +1055,29 @@
       "",
       "",
       "90+8' Ronaldo Royero (1-0)"
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "14:15",
+    "start_time": "14:15",
+    "group": "BOL D1",
+    "title": "Club Deportivo Guabira 1-1 Blooming",
+    "homeTeam": "Club Deportivo Guabira",
+    "awayTeam": "Blooming",
+    "score": "1-1",
+    "matchId": "5158753",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "57' Miguel Villarroel (0-1)",
+      "69' Pedro Henrique de Oliveira Correia (1-1)",
+      "",
+      ""
     ]
   },
   {
@@ -1198,29 +1221,6 @@
   {
     "date": "2026-08-23",
     "day": "Sunday",
-    "time": "15:03",
-    "start_time": "15:03",
-    "group": "MEX WD1",
-    "title": "Pachuca Women\\s 3-1 Chivas Guadalajara Women\\s",
-    "homeTeam": "Pachuca Women\\s",
-    "awayTeam": "Chivas Guadalajara Women\\s",
-    "score": "3-1",
-    "matchId": "5141636",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "34' Kelly Caicedo (0-1)",
-      "",
-      "",
-      "61' Charlyn Corral (1-1)<br>69' Yirleidis Quejada Minota (2-1)",
-      "86' Chinwendu Ihezuo (3-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-23",
-    "day": "Sunday",
     "time": "13:40",
     "start_time": "13:40",
     "group": "USA MLS",
@@ -1261,6 +1261,29 @@
       "50' Hugo Mbongue (2-0)",
       "63' Daniel Mangarov (2-1)",
       "84' Hugo Mbongue (3-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-23",
+    "day": "Sunday",
+    "time": "15:03",
+    "start_time": "15:03",
+    "group": "MEX WD1",
+    "title": "Pachuca Women\\s 3-1 Chivas Guadalajara Women\\s",
+    "homeTeam": "Pachuca Women\\s",
+    "awayTeam": "Chivas Guadalajara Women\\s",
+    "score": "3-1",
+    "matchId": "5141636",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "34' Kelly Caicedo (0-1)",
+      "",
+      "",
+      "61' Charlyn Corral (1-1)<br>69' Yirleidis Quejada Minota (2-1)",
+      "86' Chinwendu Ihezuo (3-1)",
       ""
     ]
   },

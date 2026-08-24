@@ -2,29 +2,6 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "ARG D1",
-    "title": "Tigre 2-1 Central Cordoba de Santiago del Estero",
-    "homeTeam": "Tigre",
-    "awayTeam": "Central Cordoba de Santiago del Estero",
-    "score": "2-1",
-    "matchId": "5052555",
-    "status": "81'",
-    "goals": [
-      "6' Mauro Andres Mendez Acosta (1-0)",
-      "26' Santiago Lopez Grobin (2-0)",
-      "",
-      "",
-      "58' Michael Nicolas Santos Rosadilla (2-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
     "time": "16:01",
     "start_time": "16:01",
     "group": "BRA D1",
@@ -33,7 +10,7 @@
     "awayTeam": "Atletico Paranaense",
     "score": "0-2",
     "matchId": "5006425",
-    "status": "41'",
+    "status": "HT",
     "goals": [
       "11' Joao Victor Machado Cruz (0-1)<br>13' Kevin Stiven Viveros Rodallega (0-2)",
       "",
@@ -51,19 +28,19 @@
     "time": "15:29",
     "start_time": "15:29",
     "group": "COL D2",
-    "title": "Patriotas FC 1-0 Atletico FC",
+    "title": "Patriotas FC 2-0 Atletico FC",
     "homeTeam": "Patriotas FC",
     "awayTeam": "Atletico FC",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5072265",
-    "status": "53'",
+    "status": "68'",
     "goals": [
       "",
       "",
       "43' Fernando Torres (1-0)",
       "",
       "",
-      "",
+      "61' Kevin \u00c1lvarez (2-0)",
       "",
       ""
     ]
@@ -102,79 +79,10 @@
     "awayTeam": "Santiago Wanderers",
     "score": "0-0",
     "matchId": "5027411",
-    "status": "12'",
+    "status": "27'",
     "goals": [
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "16:30",
-    "start_time": "16:30",
-    "group": "CHI D1",
-    "title": "Everton de Vina del Mar 1-1 C.D. Universidad de Concepcion",
-    "homeTeam": "Everton de Vina del Mar",
-    "awayTeam": "C.D. Universidad de Concepcion",
-    "score": "1-1",
-    "matchId": "5021612",
-    "status": "12'",
-    "goals": [
-      "3' Alan Damian Medina Silva (1-0)<br>10' Luis Rojas Zamora (1-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "COL WL",
-    "title": "Millonarios Women\\s 0-1 Internacional de Bogota Women\\s",
-    "homeTeam": "Millonarios Women\\s",
-    "awayTeam": "Internacional de Bogota Women\\s",
-    "score": "0-1",
-    "matchId": "5173063",
-    "status": "42'",
-    "goals": [
-      "1' Wendis Cabrera (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "BRA D2",
-    "title": "Athletic Club MG 0-1 Gremio Novorizontino",
-    "homeTeam": "Athletic Club MG",
-    "awayTeam": "Gremio Novorizontino",
-    "score": "0-1",
-    "matchId": "5036273",
-    "status": "53'",
-    "goals": [
-      "",
-      "19' Nicolas Mores da Cruz (0-1)",
       "",
       "",
       "",
@@ -194,13 +102,82 @@
     "awayTeam": "All Boys",
     "score": "0-0",
     "matchId": "5013783",
-    "status": "39'",
+    "status": "HT",
     "goals": [
       "",
       "",
       "",
       "",
       "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "16:30",
+    "start_time": "16:30",
+    "group": "CHI D1",
+    "title": "Everton de Vina del Mar 2-1 C.D. Universidad de Concepcion",
+    "homeTeam": "Everton de Vina del Mar",
+    "awayTeam": "C.D. Universidad de Concepcion",
+    "score": "2-1",
+    "matchId": "5021612",
+    "status": "28'",
+    "goals": [
+      "3' Alan Damian Medina Silva (1-0)<br>10' Luis Rojas Zamora (1-1)",
+      "23' Nicolas Montiel (2-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "COL WL",
+    "title": "Millonarios Women\\s 0-1 Internacional de Bogota Women\\s",
+    "homeTeam": "Millonarios Women\\s",
+    "awayTeam": "Internacional de Bogota Women\\s",
+    "score": "0-1",
+    "matchId": "5173063",
+    "status": "HT",
+    "goals": [
+      "1' Wendis Cabrera (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "BRA D2",
+    "title": "Athletic Club MG 0-2 Gremio Novorizontino",
+    "homeTeam": "Athletic Club MG",
+    "awayTeam": "Gremio Novorizontino",
+    "score": "0-2",
+    "matchId": "5036273",
+    "status": "69'",
+    "goals": [
+      "",
+      "19' Nicolas Mores da Cruz (0-1)",
+      "",
+      "",
+      "59' Robson dos Santos Fernandes (0-2)",
       "",
       "",
       ""
@@ -217,7 +194,7 @@
     "awayTeam": "America MG",
     "score": "2-0",
     "matchId": "5036282",
-    "status": "53'",
+    "status": "69'",
     "goals": [
       "13' Claudio Coelho Salvatico (1-0)",
       "",
@@ -235,17 +212,17 @@
     "time": "16:08",
     "start_time": "16:08",
     "group": "USLC",
-    "title": "Charleston Battery 1-0 Miami FC",
+    "title": "Charleston Battery 2-0 Miami FC",
     "homeTeam": "Charleston Battery",
     "awayTeam": "Miami FC",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5006847",
-    "status": "34'",
+    "status": "45+'",
     "goals": [
       "",
       "19' Maalique Foster (1-0)",
       "",
-      "",
+      "45+3' Miguel Berry (2-0)",
       "",
       "",
       "",
@@ -271,8 +248,8 @@
       "",
       "49' Liliana Fernandez (0-1)",
       "",
-      "86' Elizabeth Jayline Estrada (1-1)",
-      ""
+      "86' Elizabeth Estrada (1-1)",
+      "90+5' Amandine Henry (1-2)"
     ]
   },
   {
@@ -281,12 +258,12 @@
     "time": "15:00",
     "start_time": "15:00",
     "group": "COL D2",
-    "title": "Orsomarso 1-0 Real Cundinamarca",
+    "title": "Orsomarso 2-0 Real Cundinamarca",
     "homeTeam": "Orsomarso",
     "awayTeam": "Real Cundinamarca",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5072264",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -295,7 +272,7 @@
       "49' Brayan Camp\u00e1z (1-0)",
       "",
       "",
-      ""
+      "90+2' Brayan Camp\u00e1z (2-0)"
     ]
   },
   {
@@ -319,6 +296,29 @@
       "61' Hern\u00e1n P\u00e9rez (2-1)",
       "77' Gast\u00f3n Pinedo (3-1)",
       "90+2' Dar\u00edo Bord\u00f3n (3-2)"
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "ARG D1",
+    "title": "Tigre 2-1 Central Cordoba de Santiago del Estero",
+    "homeTeam": "Tigre",
+    "awayTeam": "Central Cordoba de Santiago del Estero",
+    "score": "2-1",
+    "matchId": "5052555",
+    "status": "ET",
+    "goals": [
+      "6' Mauro Andres Mendez Acosta (1-0)",
+      "26' Santiago Lopez Grobin (2-0)",
+      "",
+      "",
+      "58' Michael Nicolas Santos Rosadilla (2-1)",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -373,12 +373,12 @@
     "time": "15:00",
     "start_time": "15:00",
     "group": "COL D2",
-    "title": "Leones 1-5 Real Cartagena",
+    "title": "Leones 1-6 Real Cartagena",
     "homeTeam": "Leones",
     "awayTeam": "Real Cartagena",
-    "score": "1-5",
+    "score": "1-6",
     "matchId": "5072263",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "10' Cristian Rodr\u00edguez Cespedes (1-0)",
       "18' Edison L\u00f3pez (1-1)",
@@ -386,7 +386,7 @@
       "45' Jarlan Barrera (1-4)",
       "60' Freddy Montero (1-5)",
       "",
-      "",
+      "88' Mauro Manotas (1-6)",
       ""
     ]
   },

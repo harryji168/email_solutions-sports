@@ -2,29 +2,6 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "CRC D2",
-    "title": "Guadalupe FC 0-1 AD Carmelita",
-    "homeTeam": "Guadalupe FC",
-    "awayTeam": "AD Carmelita",
-    "score": "0-1",
-    "matchId": "5141074",
-    "status": "74'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "54' 0-1",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
     "time": "14:29",
     "start_time": "14:29",
     "group": "PAR D2",
@@ -71,6 +48,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "16:03",
+    "start_time": "16:03",
+    "group": "ARG D2",
+    "title": "Ferro Carril Oeste 1-0 All Boys",
+    "homeTeam": "Ferro Carril Oeste",
+    "awayTeam": "All Boys",
+    "score": "1-0",
+    "matchId": "5013783",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "56' Fernando Emanuel Dening (1-0)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "14:29",
     "start_time": "14:29",
     "group": "PAR D1",
@@ -102,7 +102,7 @@
     "awayTeam": "Sporting Kansas City II",
     "score": "3-0",
     "matchId": "5029881",
-    "status": "30'",
+    "status": "45'",
     "goals": [
       "11' Mark Bronnik (1-0)<br>12' Danny Robles (2-0)",
       "20' Xavi Gnaulati (3-0)",
@@ -143,12 +143,12 @@
     "time": "18:01",
     "start_time": "18:01",
     "group": "MEX WD1",
-    "title": "Atlas Women\\s 1-0 Club Tijuana Women\\s",
+    "title": "Atlas Women\\s 2-0 Club Tijuana Women\\s",
     "homeTeam": "Atlas Women\\s",
     "awayTeam": "Club Tijuana Women\\s",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5141642",
-    "status": "71'",
+    "status": "86'",
     "goals": [
       "",
       "",
@@ -156,7 +156,7 @@
       "45' Aitana Mu\u00f1oz Mart\u00ednez (1-0)",
       "",
       "",
-      "",
+      "82' 2-0",
       ""
     ]
   },
@@ -203,29 +203,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "16:08",
-    "start_time": "16:08",
-    "group": "USLC",
-    "title": "Charleston Battery 5-0 Miami FC",
-    "homeTeam": "Charleston Battery",
-    "awayTeam": "Miami FC",
-    "score": "5-0",
-    "matchId": "5006847",
-    "status": "ET",
-    "goals": [
-      "",
-      "19' Maalique Foster (1-0)",
-      "",
-      "45+3' Miguel Berry (2-0)",
-      "47' Miguel Berry (3-0)",
-      "62' Graham Smith (4-0)",
-      "86' Alec Hughes (5-0)",
       ""
     ]
   },
@@ -341,6 +318,29 @@
       "",
       "70' Felipe Pena Biafore (1-0)<br>74' Gaston Nicolas Veron (1-1)",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "16:08",
+    "start_time": "16:08",
+    "group": "USLC",
+    "title": "Charleston Battery 5-0 Miami FC",
+    "homeTeam": "Charleston Battery",
+    "awayTeam": "Miami FC",
+    "score": "5-0",
+    "matchId": "5006847",
+    "status": "ET",
+    "goals": [
+      "",
+      "19' Maalique Foster (1-0)",
+      "",
+      "45+3' Miguel Berry (2-0)",
+      "47' Miguel Berry (3-0)",
+      "62' Graham Smith (4-0)",
+      "86' Alec Hughes (5-0)",
       ""
     ]
   },
@@ -485,38 +485,15 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "16:03",
-    "start_time": "16:03",
-    "group": "ARG D2",
-    "title": "Ferro Carril Oeste 1-0 All Boys",
-    "homeTeam": "Ferro Carril Oeste",
-    "awayTeam": "All Boys",
-    "score": "1-0",
-    "matchId": "5013783",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "56' Fernando Emanuel Dening (1-0)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
     "time": "18:00",
     "start_time": "18:00",
     "group": "PAN D1",
-    "title": "Alianza FC (PAN) 1-0 Tauro FC",
+    "title": "Alianza FC (PAN) 2-0 Tauro FC",
     "homeTeam": "Alianza FC (PAN)",
     "awayTeam": "Tauro FC",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5111771",
-    "status": "76'",
+    "status": "90+'",
     "goals": [
       "10' Alvin Mendoza (1-0)",
       "",
@@ -524,7 +501,7 @@
       "",
       "",
       "",
-      "",
+      "83' Johnjairo Alvarado (2-0)",
       ""
     ]
   },
@@ -539,7 +516,7 @@
     "awayTeam": "Barranquilla FC",
     "score": "1-0",
     "matchId": "5072262",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "8' Kener Gonz\u00e1lez (1-0)",
       "",
@@ -569,6 +546,29 @@
       "",
       "",
       "52' Pedro Juli\u00e1n Rodr\u00edguez Serrano (1-0)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "CRC D2",
+    "title": "Guadalupe FC 0-1 AD Carmelita",
+    "homeTeam": "Guadalupe FC",
+    "awayTeam": "AD Carmelita",
+    "score": "0-1",
+    "matchId": "5141074",
+    "status": "89'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "54' 0-1",
       "",
       "",
       ""

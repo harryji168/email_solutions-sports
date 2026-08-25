@@ -2,6 +2,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "CRC D2",
+    "title": "Guadalupe FC 0-1 AD Carmelita",
+    "homeTeam": "Guadalupe FC",
+    "awayTeam": "AD Carmelita",
+    "score": "0-1",
+    "matchId": "5141074",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "54' 0-1",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "14:29",
     "start_time": "14:29",
     "group": "PAR D2",
@@ -79,7 +102,7 @@
     "awayTeam": "Sporting Kansas City II",
     "score": "4-0",
     "matchId": "5029881",
-    "status": "65'",
+    "status": "79'",
     "goals": [
       "11' Mark Bronnik (1-0)<br>12' Danny Robles (2-0)",
       "20' Xavi Gnaulati (3-0)",
@@ -88,29 +111,6 @@
       "48' Matthew Bell (4-0)",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "16:08",
-    "start_time": "16:08",
-    "group": "USLC",
-    "title": "Charleston Battery 5-0 Miami FC",
-    "homeTeam": "Charleston Battery",
-    "awayTeam": "Miami FC",
-    "score": "5-0",
-    "matchId": "5006847",
-    "status": "ET",
-    "goals": [
-      "",
-      "19' Maalique Foster (1-0)",
-      "",
-      "45+3' Miguel Berry (2-0)",
-      "47' Miguel Berry (3-0)",
-      "62' Graham Smith (4-0)",
-      "86' Alec Hughes (5-0)",
       ""
     ]
   },
@@ -203,29 +203,6 @@
       "",
       "64' Ingrid Vidal (2-1)<br>67' Sofia Garcia Gaviria (2-2)",
       "87' Lu\u00edsa Perez (3-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "17:45",
-    "start_time": "17:45",
-    "group": "COL D2",
-    "title": "Inter Palmira 1-0 Barranquilla FC",
-    "homeTeam": "Inter Palmira",
-    "awayTeam": "Barranquilla FC",
-    "score": "1-0",
-    "matchId": "5072262",
-    "status": "ET",
-    "goals": [
-      "8' Kener Gonz\u00e1lez (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -439,6 +416,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "16:08",
+    "start_time": "16:08",
+    "group": "USLC",
+    "title": "Charleston Battery 5-0 Miami FC",
+    "homeTeam": "Charleston Battery",
+    "awayTeam": "Miami FC",
+    "score": "5-0",
+    "matchId": "5006847",
+    "status": "ET",
+    "goals": [
+      "",
+      "19' Maalique Foster (1-0)",
+      "",
+      "45+3' Miguel Berry (2-0)",
+      "47' Miguel Berry (3-0)",
+      "62' Graham Smith (4-0)",
+      "86' Alec Hughes (5-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "COL D2",
@@ -554,21 +554,21 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "CRC D2",
-    "title": "Guadalupe FC 0-1 AD Carmelita",
-    "homeTeam": "Guadalupe FC",
-    "awayTeam": "AD Carmelita",
-    "score": "0-1",
-    "matchId": "5141074",
+    "time": "17:45",
+    "start_time": "17:45",
+    "group": "COL D2",
+    "title": "Inter Palmira 1-0 Barranquilla FC",
+    "homeTeam": "Inter Palmira",
+    "awayTeam": "Barranquilla FC",
+    "score": "1-0",
+    "matchId": "5072262",
     "status": "ET",
     "goals": [
+      "8' Kener Gonz\u00e1lez (1-0)",
       "",
       "",
       "",
       "",
-      "54' 0-1",
       "",
       "",
       ""

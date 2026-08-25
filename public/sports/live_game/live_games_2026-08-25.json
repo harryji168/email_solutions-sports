@@ -1198,6 +1198,29 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "07:15",
+    "start_time": "07:15",
+    "group": "QAT D2",
+    "title": "Umm Salal SC 1-1 Qatar(U23)",
+    "homeTeam": "Umm Salal SC",
+    "awayTeam": "Qatar(U23)",
+    "score": "1-1",
+    "matchId": "5144858",
+    "status": "ET",
+    "goals": [
+      "",
+      "19' Waleed Al Bahnasawi (1-0)",
+      "37' 1-1",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "INT CF",
@@ -1428,6 +1451,29 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "03:30",
+    "start_time": "03:30",
+    "group": "KOR D1",
+    "title": "Gimcheon Sangmu FC 0-0 Jeonbuk Hyundai Motors",
+    "homeTeam": "Gimcheon Sangmu FC",
+    "awayTeam": "Jeonbuk Hyundai Motors",
+    "score": "0-0",
+    "matchId": "5022661",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "11:02",
     "start_time": "11:02",
     "group": "ARG D2M2",
@@ -1612,29 +1658,6 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "03:30",
-    "start_time": "03:30",
-    "group": "KOR D1",
-    "title": "Jeju SK FC 1-2 Pohang Steelers",
-    "homeTeam": "Jeju SK FC",
-    "awayTeam": "Pohang Steelers",
-    "score": "1-2",
-    "matchId": "5022662",
-    "status": "ET",
-    "goals": [
-      "15' Won Ki Jong (0-1)",
-      "",
-      "",
-      "",
-      "49' Kento Nishiya (0-2)",
-      "",
-      "",
-      "90+1' Julien Celestine (1-2)"
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "ARG RL",
@@ -1721,29 +1744,6 @@
       "",
       "",
       "77' Youba Traor\u00e9 (1-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "03:30",
-    "start_time": "03:30",
-    "group": "KOR D1",
-    "title": "Gimcheon Sangmu FC 0-0 Jeonbuk Hyundai Motors",
-    "homeTeam": "Gimcheon Sangmu FC",
-    "awayTeam": "Jeonbuk Hyundai Motors",
-    "score": "0-0",
-    "matchId": "5022661",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -2348,29 +2348,6 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "07:15",
-    "start_time": "07:15",
-    "group": "QAT D2",
-    "title": "Umm Salal SC 1-1 Qatar(U23)",
-    "homeTeam": "Umm Salal SC",
-    "awayTeam": "Qatar(U23)",
-    "score": "1-1",
-    "matchId": "5144858",
-    "status": "ET",
-    "goals": [
-      "",
-      "19' Waleed Al Bahnasawi (1-0)",
-      "37' 1-1",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
     "time": "11:45",
     "start_time": "11:45",
     "group": "SCO BCC",
@@ -2680,11 +2657,11 @@
     "matchId": "5171914",
     "status": "ET",
     "goals": [
-      "3' 1-0<br>13' 2-0",
+      "3' Matteo Prandelli (1-0)<br>13' Pietro Mengucci (2-0)",
       "",
       "",
       "",
-      "56' 2-1<br>57' 2-2",
+      "56' Filippo Berardi (2-1)<br>57' Matthias Bonetti (2-2)",
       "",
       "",
       ""
@@ -3130,6 +3107,52 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "United Sports Club 3-0 Police AC",
+    "homeTeam": "United Sports Club",
+    "awayTeam": "Police AC",
+    "score": "3-0",
+    "matchId": "5171883",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG FAC",
+    "title": "SE Dons 2-0 Punjab United FC",
+    "homeTeam": "SE Dons",
+    "awayTeam": "Punjab United FC",
+    "score": "2-0",
+    "matchId": "5173143",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "10:30",
     "start_time": "10:30",
     "group": "INT CF",
@@ -3170,6 +3193,29 @@
       "47' Schou Jorgensen M. (0-1)<br>52' Schou Jorgensen M. (0-2)<br>55' Vollerup S. (0-3)<br>60' Kjaergaard A. (0-4)",
       "",
       "82' Larsen R. (0-5)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG FAC",
+    "title": "Faversham Town 4-0 Bedfont",
+    "homeTeam": "Faversham Town",
+    "awayTeam": "Bedfont",
+    "score": "4-0",
+    "matchId": "5173142",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -3245,29 +3291,6 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "United Sports Club 3-0 Police AC",
-    "homeTeam": "United Sports Club",
-    "awayTeam": "Police AC",
-    "score": "3-0",
-    "matchId": "5171883",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
     "time": "10:30",
     "start_time": "10:30",
     "group": "SAPL",
@@ -3309,6 +3332,29 @@
       "74' Poul Kallsberg (0-3)",
       "",
       "90' Oliver Sejer Lauritsen (0-4)"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG FAC",
+    "title": "Milton Keynes Irish 1-1 Slimbridge AFC",
+    "homeTeam": "Milton Keynes Irish",
+    "awayTeam": "Slimbridge AFC",
+    "score": "1-1",
+    "matchId": "5173140",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -3613,6 +3659,29 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "03:30",
+    "start_time": "03:30",
+    "group": "KOR D1",
+    "title": "Jeju SK FC 1-2 Pohang Steelers",
+    "homeTeam": "Jeju SK FC",
+    "awayTeam": "Pohang Steelers",
+    "score": "1-2",
+    "matchId": "5022662",
+    "status": "ET",
+    "goals": [
+      "15' Won Ki Jong (0-1)",
+      "",
+      "",
+      "",
+      "49' Kento Nishiya (0-2)",
+      "",
+      "",
+      "90+1' Julien Celestine (1-2)"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG FAC",
@@ -3860,6 +3929,29 @@
       "60' Khozhimat Erkinov (0-1)",
       "",
       "85' Firdavs Abdurahmonov (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG FAC",
+    "title": "Bourne Town 5-1 Bottesford Town",
+    "homeTeam": "Bourne Town",
+    "awayTeam": "Bottesford Town",
+    "score": "5-1",
+    "matchId": "5173131",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -4418,29 +4510,6 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "10:00",
-    "start_time": "10:00",
-    "group": "DEN Cup",
-    "title": "Skive IK 1-5 Esbjerg FB",
-    "homeTeam": "Skive IK",
-    "awayTeam": "Esbjerg FB",
-    "score": "1-5",
-    "matchId": "5160014",
-    "status": "ET",
-    "goals": [
-      "",
-      "21' Ahmad Adam Mohammad (0-1)<br>29' Ahmad Adam Mohammad (0-2)",
-      "44' Anders Sonderskov (0-3)",
-      "",
-      "52' Muamer Brajanac (0-4)",
-      "67' Christian Kudsk Mortensen (1-4)<br>71' Muamer Brajanac (1-5)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
     "time": "07:30",
     "start_time": "07:30",
     "group": "CRO Cup",
@@ -4464,22 +4533,22 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "ENG LC",
-    "title": "Sheffield Wednesday F.C. 0-2 Wolverhampton Wanderers F.C.",
-    "homeTeam": "Sheffield Wednesday F.C.",
-    "awayTeam": "Wolverhampton Wanderers F.C.",
-    "score": "0-2",
-    "matchId": "5160490",
+    "time": "10:00",
+    "start_time": "10:00",
+    "group": "DEN Cup",
+    "title": "Skive IK 1-5 Esbjerg FB",
+    "homeTeam": "Skive IK",
+    "awayTeam": "Esbjerg FB",
+    "score": "1-5",
+    "matchId": "5160014",
     "status": "ET",
     "goals": [
-      "3' Sil Swinkels (0-1)",
       "",
+      "21' Ahmad Adam Mohammad (0-1)<br>29' Ahmad Adam Mohammad (0-2)",
+      "44' Anders Sonderskov (0-3)",
       "",
-      "45+1' Saheed Olagunju (0-2)",
-      "",
-      "",
+      "52' Muamer Brajanac (0-4)",
+      "67' Christian Kudsk Mortensen (1-4)<br>71' Muamer Brajanac (1-5)",
       "",
       ""
     ]
@@ -4527,6 +4596,29 @@
       "",
       "",
       "83' 1-1",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG LC",
+    "title": "Sheffield Wednesday F.C. 0-2 Wolverhampton Wanderers F.C.",
+    "homeTeam": "Sheffield Wednesday F.C.",
+    "awayTeam": "Wolverhampton Wanderers F.C.",
+    "score": "0-2",
+    "matchId": "5160490",
+    "status": "ET",
+    "goals": [
+      "3' Sil Swinkels (0-1)",
+      "",
+      "",
+      "45+1' Saheed Olagunju (0-2)",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -5180,6 +5272,29 @@
     "time": "12:00",
     "start_time": "12:00",
     "group": "UEFA CL",
+    "title": "LASK 4-1 Celtic F.C.",
+    "homeTeam": "LASK",
+    "awayTeam": "Celtic F.C.",
+    "score": "4-1",
+    "matchId": "5154575",
+    "status": "ET",
+    "goals": [
+      "",
+      "21' Callum McGregor (0-1)",
+      "32' Moses Usor (1-1)",
+      "",
+      "48' Robert Ljubicic (2-1)<br>58' Samuel Oluwabukunmi Adeniran (3-1)",
+      "",
+      "",
+      "90' Florian Flecker (4-1)<br>109' Samuel Oluwabukunmi Adeniran (5-1)"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "12:00",
+    "start_time": "12:00",
+    "group": "UEFA CL",
     "title": "FK Bodo/Glimt 3-0 N.E.C. Nijmegen",
     "homeTeam": "FK Bodo/Glimt",
     "awayTeam": "N.E.C. Nijmegen",
@@ -5461,7 +5576,7 @@
     "awayTeam": "UTC Cajamarca",
     "score": "1-1",
     "matchId": "5122707",
-    "status": "69'",
+    "status": "78'",
     "goals": [
       "15' Adolfo Mu\u00f1oz (0-1)",
       "20' Franchesco Flores (1-1)",
@@ -5484,7 +5599,7 @@
     "awayTeam": "Bogota F.C.",
     "score": "1-1",
     "matchId": "5072261",
-    "status": "48'",
+    "status": "57'",
     "goals": [
       "6' Harold Sandoval (0-1)",
       "29' Juan Cuero (1-1)",
@@ -5507,7 +5622,7 @@
     "awayTeam": "CA Rentistas",
     "score": "0-0",
     "matchId": "5173234",
-    "status": "17'",
+    "status": "26'",
     "goals": [
       "",
       "",
@@ -5525,14 +5640,14 @@
     "time": "14:30",
     "start_time": "14:30",
     "group": "PAR Cup",
-    "title": "Sol de America 0-0 Sportivo Trinidense",
+    "title": "Sol de America 1-0 Sportivo Trinidense",
     "homeTeam": "Sol de America",
     "awayTeam": "Sportivo Trinidense",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5159179",
-    "status": "5'",
+    "status": "14'",
     "goals": [
-      "",
+      "10' 1-0",
       "",
       "",
       "",
@@ -5553,10 +5668,33 @@
     "awayTeam": "Club Guarani",
     "score": "0-0",
     "matchId": "5168075",
-    "status": "5'",
+    "status": "14'",
     "goals": [
       "",
       "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:43",
+    "start_time": "11:43",
+    "group": "SCO BCC",
+    "title": "Hamilton Academical FC 0-1 Edinburgh City F.C.",
+    "homeTeam": "Hamilton Academical FC",
+    "awayTeam": "Edinburgh City F.C.",
+    "score": "0-1",
+    "matchId": "5127748",
+    "status": "ET",
+    "goals": [
+      "",
+      "21' Jack Leitch (0-1)",
       "",
       "",
       "",
@@ -5586,29 +5724,6 @@
       "",
       "",
       "90+2' Jamie Barjonas (3-0)"
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "11:43",
-    "start_time": "11:43",
-    "group": "SCO BCC",
-    "title": "Hamilton Academical FC 0-1 Edinburgh City F.C.",
-    "homeTeam": "Hamilton Academical FC",
-    "awayTeam": "Edinburgh City F.C.",
-    "score": "0-1",
-    "matchId": "5127748",
-    "status": "ET",
-    "goals": [
-      "",
-      "21' Jack Leitch (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -5755,29 +5870,6 @@
     "time": "11:47",
     "start_time": "11:47",
     "group": "ENG-N PR",
-    "title": "Ashton United 1-1 Ilkeston Town",
-    "homeTeam": "Ashton United",
-    "awayTeam": "Ilkeston Town",
-    "score": "1-1",
-    "matchId": "5131017",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "42' Dan Turner (1-0)",
-      "",
-      "",
-      "",
-      "76' Ashley Hunter (1-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "11:47",
-    "start_time": "11:47",
-    "group": "ENG-N PR",
     "title": "Alfreton Town 4-0 Hyde United",
     "homeTeam": "Alfreton Town",
     "awayTeam": "Hyde United",
@@ -5792,6 +5884,29 @@
       "",
       "",
       "83' Siyabonga Ligendza (3-0)<br>87' Jakub Kruszynski (4-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:47",
+    "start_time": "11:47",
+    "group": "ENG-N PR",
+    "title": "Ashton United 1-1 Ilkeston Town",
+    "homeTeam": "Ashton United",
+    "awayTeam": "Ilkeston Town",
+    "score": "1-1",
+    "matchId": "5131017",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "42' Dan Turner (1-0)",
+      "",
+      "",
+      "",
+      "76' Ashley Hunter (1-1)",
       ""
     ]
   },
@@ -5916,29 +6031,6 @@
     "time": "11:47",
     "start_time": "11:47",
     "group": "ENG-N PR",
-    "title": "Warrington Town FC 0-4 Curzon Ashton FC",
-    "homeTeam": "Warrington Town FC",
-    "awayTeam": "Curzon Ashton FC",
-    "score": "0-4",
-    "matchId": "5131024",
-    "status": "ET",
-    "goals": [
-      "12' Alex Curran (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "75' Harvey Roberts (0-2)",
-      "82' Ola Lawal (0-3)",
-      "90+2' Ola Lawal (0-4)"
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "11:47",
-    "start_time": "11:47",
-    "group": "ENG-N PR",
     "title": "Redcar Athletic 0-0 AFC Emley",
     "homeTeam": "Redcar Athletic",
     "awayTeam": "AFC Emley",
@@ -5977,6 +6069,29 @@
       "64' Kai Nugent (1-2)<br>68' Isaac Whitehall (2-2)",
       "88' Joshua Joseph Palmer (3-2)",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:47",
+    "start_time": "11:47",
+    "group": "ENG-N PR",
+    "title": "Warrington Town FC 0-4 Curzon Ashton FC",
+    "homeTeam": "Warrington Town FC",
+    "awayTeam": "Curzon Ashton FC",
+    "score": "0-4",
+    "matchId": "5131024",
+    "status": "ET",
+    "goals": [
+      "12' Alex Curran (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "75' Harvey Roberts (0-2)",
+      "82' Ola Lawal (0-3)",
+      "90+2' Ola Lawal (0-4)"
     ]
   },
   {

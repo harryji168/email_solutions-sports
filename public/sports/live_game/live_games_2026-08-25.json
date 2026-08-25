@@ -784,6 +784,29 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "03:30",
+    "start_time": "03:30",
+    "group": "KOR D1",
+    "title": "Jeju SK FC 1-2 Pohang Steelers",
+    "homeTeam": "Jeju SK FC",
+    "awayTeam": "Pohang Steelers",
+    "score": "1-2",
+    "matchId": "5022662",
+    "status": "ET",
+    "goals": [
+      "15' Won Ki Jong (0-1)",
+      "",
+      "",
+      "",
+      "49' Kento Nishiya (0-2)",
+      "",
+      "",
+      "90+1' Julien Celestine (1-2)"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "01:00",
     "start_time": "01:00",
     "group": "INT CF",
@@ -848,6 +871,29 @@
       "67' Nikita Goldobin (3-3)",
       "76' Kamaev N. (4-3)",
       "90+2' Agureev D. (4-4)"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:30",
+    "start_time": "11:30",
+    "group": "ENG FAC",
+    "title": "Baffins Milton Rovers 1-0 Hartley Wintney",
+    "homeTeam": "Baffins Milton Rovers",
+    "awayTeam": "Hartley Wintney",
+    "score": "1-0",
+    "matchId": "5164234",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -1009,29 +1055,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "03:30",
-    "start_time": "03:30",
-    "group": "KOR D1",
-    "title": "Jeju SK FC 1-2 Pohang Steelers",
-    "homeTeam": "Jeju SK FC",
-    "awayTeam": "Pohang Steelers",
-    "score": "1-2",
-    "matchId": "5022662",
-    "status": "ET",
-    "goals": [
-      "15' Won Ki Jong (0-1)",
-      "",
-      "",
-      "",
-      "49' Kento Nishiya (0-2)",
-      "",
-      "",
-      "90+1' Julien Celestine (1-2)"
     ]
   },
   {
@@ -1474,14 +1497,14 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "07:06",
-    "start_time": "07:06",
-    "group": "ARG RL",
-    "title": "Central Ballester Reserves 0-1 El Porvenir Reserve",
-    "homeTeam": "Central Ballester Reserves",
-    "awayTeam": "El Porvenir Reserve",
-    "score": "0-1",
-    "matchId": "5173565",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "INTERF",
+    "title": "Uzbekistan(U20) 1-0 Korea Republic(U20)",
+    "homeTeam": "Uzbekistan(U20)",
+    "awayTeam": "Korea Republic(U20)",
+    "score": "1-0",
+    "matchId": "5173560",
     "status": "ET",
     "goals": [
       "",
@@ -1490,7 +1513,7 @@
       "",
       "",
       "",
-      "",
+      "78' Davron To\\'laganov (1-0)",
       ""
     ]
   },
@@ -2164,29 +2187,6 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "03:30",
-    "start_time": "03:30",
-    "group": "KOR D1",
-    "title": "Gimcheon Sangmu FC 0-0 Jeonbuk Hyundai Motors",
-    "homeTeam": "Gimcheon Sangmu FC",
-    "awayTeam": "Jeonbuk Hyundai Motors",
-    "score": "0-0",
-    "matchId": "5022661",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
     "time": "11:03",
     "start_time": "11:03",
     "group": "ARG D2M1",
@@ -2647,6 +2647,29 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "SMR SC",
+    "title": "SP Tre Fiori 2-2 SP La Fiorita",
+    "homeTeam": "SP Tre Fiori",
+    "awayTeam": "SP La Fiorita",
+    "score": "2-2",
+    "matchId": "5171914",
+    "status": "ET",
+    "goals": [
+      "3' 1-0<br>13' 2-0",
+      "",
+      "",
+      "",
+      "56' 2-1<br>57' 2-2",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "ENG LC",
@@ -2739,14 +2762,14 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "INTERF",
-    "title": "Uzbekistan(U20) 1-0 Korea Republic(U20)",
-    "homeTeam": "Uzbekistan(U20)",
-    "awayTeam": "Korea Republic(U20)",
-    "score": "1-0",
-    "matchId": "5173560",
+    "time": "07:06",
+    "start_time": "07:06",
+    "group": "ARG RL",
+    "title": "Central Ballester Reserves 0-1 El Porvenir Reserve",
+    "homeTeam": "Central Ballester Reserves",
+    "awayTeam": "El Porvenir Reserve",
+    "score": "0-1",
+    "matchId": "5173565",
     "status": "ET",
     "goals": [
       "",
@@ -2755,7 +2778,7 @@
       "",
       "",
       "",
-      "78' Davron To\\'laganov (1-0)",
+      "",
       ""
     ]
   },
@@ -2802,6 +2825,29 @@
       "",
       "",
       "87' 4-0",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG FAC",
+    "title": "Badshot Lea 0-2 AFC Stoneham",
+    "homeTeam": "Badshot Lea",
+    "awayTeam": "AFC Stoneham",
+    "score": "0-2",
+    "matchId": "5173146",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -3245,23 +3291,46 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "08:00",
-    "start_time": "08:00",
-    "group": "ISR U19",
-    "title": "Hapoel Raanana Roei U19 4-1 Hapoel Hadera U19",
-    "homeTeam": "Hapoel Raanana Roei U19",
-    "awayTeam": "Hapoel Hadera U19",
-    "score": "4-1",
-    "matchId": "5173324",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "ENG U21D2",
+    "title": "Coventry(U21) 1-2 Fleetwood Town(U21)",
+    "homeTeam": "Coventry(U21)",
+    "awayTeam": "Fleetwood Town(U21)",
+    "score": "1-2",
+    "matchId": "5158844",
     "status": "ET",
     "goals": [
-      "12' 1-0",
-      "21' 1-1",
-      "33' 2-1",
+      "6' Liam Roberts (0-1)",
       "",
       "",
-      "68' 3-1",
-      "87' 4-1",
+      "",
+      "54' 1-1",
+      "",
+      "89' 1-2",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "03:30",
+    "start_time": "03:30",
+    "group": "KOR D1",
+    "title": "Gimcheon Sangmu FC 0-0 Jeonbuk Hyundai Motors",
+    "homeTeam": "Gimcheon Sangmu FC",
+    "awayTeam": "Jeonbuk Hyundai Motors",
+    "score": "0-0",
+    "matchId": "5022661",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -3291,23 +3360,23 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "ENG U21D2",
-    "title": "Coventry(U21) 1-2 Fleetwood Town(U21)",
-    "homeTeam": "Coventry(U21)",
-    "awayTeam": "Fleetwood Town(U21)",
-    "score": "1-2",
-    "matchId": "5158844",
+    "time": "08:00",
+    "start_time": "08:00",
+    "group": "ISR U19",
+    "title": "Hapoel Raanana Roei U19 4-1 Hapoel Hadera U19",
+    "homeTeam": "Hapoel Raanana Roei U19",
+    "awayTeam": "Hapoel Hadera U19",
+    "score": "4-1",
+    "matchId": "5173324",
     "status": "ET",
     "goals": [
-      "6' Liam Roberts (0-1)",
+      "12' 1-0",
+      "21' 1-1",
+      "33' 2-1",
       "",
       "",
-      "",
-      "54' 1-1",
-      "",
-      "89' 1-2",
+      "68' 3-1",
+      "87' 4-1",
       ""
     ]
   },
@@ -4165,6 +4234,29 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG LC",
+    "title": "Sheffield Wednesday F.C. 0-2 Wolverhampton Wanderers F.C.",
+    "homeTeam": "Sheffield Wednesday F.C.",
+    "awayTeam": "Wolverhampton Wanderers F.C.",
+    "score": "0-2",
+    "matchId": "5160490",
+    "status": "ET",
+    "goals": [
+      "3' Sil Swinkels (0-1)",
+      "",
+      "",
+      "45+1' Saheed Olagunju (0-2)",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "07:30",
     "start_time": "07:30",
     "group": "CRO Cup",
@@ -4205,29 +4297,6 @@
       "",
       "",
       "83' 1-1",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "ENG LC",
-    "title": "Sheffield Wednesday F.C. 0-2 Wolverhampton Wanderers F.C.",
-    "homeTeam": "Sheffield Wednesday F.C.",
-    "awayTeam": "Wolverhampton Wanderers F.C.",
-    "score": "0-2",
-    "matchId": "5160490",
-    "status": "ET",
-    "goals": [
-      "3' Sil Swinkels (0-1)",
-      "",
-      "",
-      "45+1' Saheed Olagunju (0-2)",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -5162,7 +5231,7 @@
     "awayTeam": "UTC Cajamarca",
     "score": "1-1",
     "matchId": "5122707",
-    "status": "48'",
+    "status": "63'",
     "goals": [
       "15' Adolfo Mu\u00f1oz (0-1)",
       "20' Franchesco Flores (1-1)",
@@ -5185,10 +5254,33 @@
     "awayTeam": "Bogota F.C.",
     "score": "1-1",
     "matchId": "5072261",
-    "status": "44'",
+    "status": "HT",
     "goals": [
       "6' Harold Sandoval (0-1)",
       "29' Juan Cuero (1-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "14:18",
+    "start_time": "14:18",
+    "group": "URU Cup",
+    "title": "Defensor Sporting 0-0 CA Rentistas",
+    "homeTeam": "Defensor Sporting",
+    "awayTeam": "CA Rentistas",
+    "score": "0-0",
+    "matchId": "5173234",
+    "status": "11'",
+    "goals": [
+      "",
+      "",
       "",
       "",
       "",
@@ -5407,6 +5499,29 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "11:47",
+    "start_time": "11:47",
+    "group": "ENG-N PR",
+    "title": "Ashton United 1-1 Ilkeston Town",
+    "homeTeam": "Ashton United",
+    "awayTeam": "Ilkeston Town",
+    "score": "1-1",
+    "matchId": "5131017",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "42' Dan Turner (1-0)",
+      "",
+      "",
+      "",
+      "76' Ashley Hunter (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "11:46",
     "start_time": "11:46",
     "group": "ENG-N PR",
@@ -5447,29 +5562,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "11:47",
-    "start_time": "11:47",
-    "group": "ENG-N PR",
-    "title": "Ashton United 1-1 Ilkeston Town",
-    "homeTeam": "Ashton United",
-    "awayTeam": "Ilkeston Town",
-    "score": "1-1",
-    "matchId": "5131017",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "42' Dan Turner (1-0)",
-      "",
-      "",
-      "",
-      "76' Ashley Hunter (1-1)",
       ""
     ]
   },

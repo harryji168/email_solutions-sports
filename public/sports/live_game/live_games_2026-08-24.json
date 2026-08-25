@@ -97,18 +97,18 @@
     "time": "19:03",
     "start_time": "19:03",
     "group": "USA MLSRv",
-    "title": "Tacoma Defiance 3-0 Sporting Kansas City II",
+    "title": "Tacoma Defiance 4-0 Sporting Kansas City II",
     "homeTeam": "Tacoma Defiance",
     "awayTeam": "Sporting Kansas City II",
-    "score": "3-0",
+    "score": "4-0",
     "matchId": "5029881",
-    "status": "HT",
+    "status": "56'",
     "goals": [
       "11' Mark Bronnik (1-0)<br>12' Danny Robles (2-0)",
       "20' Xavi Gnaulati (3-0)",
       "",
       "",
-      "",
+      "48' Matthew Bell (4-0)<br>50' 4-1",
       "",
       "",
       ""
@@ -301,6 +301,29 @@
   {
     "date": "2026-08-24",
     "day": "Monday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "ECU D1",
+    "title": "Libertad F.C. 1-0 Macara",
+    "homeTeam": "Libertad F.C.",
+    "awayTeam": "Macara",
+    "score": "1-0",
+    "matchId": "5035311",
+    "status": "ET",
+    "goals": [
+      "5' Antony Chere (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-24",
+    "day": "Monday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA D2",
@@ -342,29 +365,6 @@
       "",
       "",
       "90+2' Brayan Camp\u00e1z (2-0)"
-    ]
-  },
-  {
-    "date": "2026-08-24",
-    "day": "Monday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "ECU D1",
-    "title": "Libertad F.C. 1-0 Macara",
-    "homeTeam": "Libertad F.C.",
-    "awayTeam": "Macara",
-    "score": "1-0",
-    "matchId": "5035311",
-    "status": "ET",
-    "goals": [
-      "5' Antony Chere (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {

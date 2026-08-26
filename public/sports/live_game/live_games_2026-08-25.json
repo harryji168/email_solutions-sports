@@ -10,7 +10,7 @@
     "awayTeam": "Real Salt Lake",
     "score": "3-0",
     "matchId": "5166483",
-    "status": "75'",
+    "status": "90+'",
     "goals": [
       "",
       "21' Diber Armando Cambindo Abonia (1-0)",
@@ -71,14 +71,14 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "LIB Cup",
-    "title": "Independiente Del Valle 3-1 Deportes Tolima",
-    "homeTeam": "Independiente Del Valle",
-    "awayTeam": "Deportes Tolima",
-    "score": "3-1",
-    "matchId": "5071269",
+    "time": "17:40",
+    "start_time": "17:40",
+    "group": "CNCF LC",
+    "title": "Monterrey 2-1 Chicago Fire",
+    "homeTeam": "Monterrey",
+    "awayTeam": "Chicago Fire",
+    "score": "2-1",
+    "matchId": "5166482",
     "status": "ET",
     "goals": [
       "",
@@ -242,13 +242,13 @@
     "matchId": "5173064",
     "status": "ET",
     "goals": [
-      "11' Ysaura Viso (1-0)",
-      "21' Izabela Cort\u00e9s (2-0)",
       "",
       "",
       "",
       "",
-      "78' Francelis Graterol (3-0)",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -355,7 +355,7 @@
     "awayTeam": "F.C. Motagua",
     "score": "1-1",
     "matchId": "5077680",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -370,14 +370,14 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "17:40",
-    "start_time": "17:40",
-    "group": "CNCF LC",
-    "title": "Monterrey 2-1 Chicago Fire",
-    "homeTeam": "Monterrey",
-    "awayTeam": "Chicago Fire",
-    "score": "2-1",
-    "matchId": "5166482",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "LIB Cup",
+    "title": "Independiente Del Valle 3-1 Deportes Tolima",
+    "homeTeam": "Independiente Del Valle",
+    "awayTeam": "Deportes Tolima",
+    "score": "3-1",
+    "matchId": "5071269",
     "status": "ET",
     "goals": [
       "",
@@ -401,7 +401,7 @@
     "awayTeam": "CD FAS",
     "score": "2-0",
     "matchId": "5077678",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -409,7 +409,7 @@
       "",
       "",
       "61' Geancarlo Castro (1-0)",
-      "78' Alonso Hern\u00e1ndez (2-0)",
+      "78' Wilber D\u00edaz (2-0)",
       ""
     ]
   },

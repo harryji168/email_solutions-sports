@@ -10,7 +10,7 @@
     "awayTeam": "Real Salt Lake",
     "score": "3-0",
     "matchId": "5166483",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "21' Diber Armando Cambindo Abonia (1-0)",
@@ -25,37 +25,14 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "BRA D2",
-    "title": "Esporte Clube Juventude 2-1 Clube de Regatas Brasil",
-    "homeTeam": "Esporte Clube Juventude",
-    "awayTeam": "Clube de Regatas Brasil",
-    "score": "2-1",
-    "matchId": "5036278",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "17:00",
-    "start_time": "17:00",
-    "group": "BRA Cup",
-    "title": "Cruzeiro (MG) 1-1 Atletico Mineiro (MG)",
-    "homeTeam": "Cruzeiro (MG)",
-    "awayTeam": "Atletico Mineiro (MG)",
-    "score": "1-1",
-    "matchId": "5164122",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "LIB Cup",
+    "title": "Independiente Del Valle 3-1 Deportes Tolima",
+    "homeTeam": "Independiente Del Valle",
+    "awayTeam": "Deportes Tolima",
+    "score": "3-1",
+    "matchId": "5071269",
     "status": "ET",
     "goals": [
       "",
@@ -97,11 +74,34 @@
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA D2",
-    "title": "Atletico Clube Goianiense 3-0 Botafogo Futebol Clube (SP)",
-    "homeTeam": "Atletico Clube Goianiense",
-    "awayTeam": "Botafogo Futebol Clube (SP)",
-    "score": "3-0",
-    "matchId": "5036274",
+    "title": "Esporte Clube Juventude 2-1 Clube de Regatas Brasil",
+    "homeTeam": "Esporte Clube Juventude",
+    "awayTeam": "Clube de Regatas Brasil",
+    "score": "2-1",
+    "matchId": "5036278",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+1' Thiago Fernandes Rodrigues (0-1)",
+      "",
+      "67' Alisson Pelegrini Safira (1-1)",
+      "80' Alan Kardec (2-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "17:00",
+    "start_time": "17:00",
+    "group": "BRA Cup",
+    "title": "Cruzeiro (MG) 1-1 Atletico Mineiro (MG)",
+    "homeTeam": "Cruzeiro (MG)",
+    "awayTeam": "Atletico Mineiro (MG)",
+    "score": "1-1",
+    "matchId": "5164122",
     "status": "ET",
     "goals": [
       "",
@@ -111,6 +111,29 @@
       "",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "BRA D2",
+    "title": "Atletico Clube Goianiense 3-0 Botafogo Futebol Clube (SP)",
+    "homeTeam": "Atletico Clube Goianiense",
+    "awayTeam": "Botafogo Futebol Clube (SP)",
+    "score": "3-0",
+    "matchId": "5036274",
+    "status": "ET",
+    "goals": [
+      "4' Marrony da Silva Liberato (1-0)",
+      "25' Joao Pedro Sousa Silva (2-0)",
+      "",
+      "",
+      "",
+      "",
+      "79' Adriano Martins (3-0)",
       ""
     ]
   },
@@ -152,11 +175,11 @@
     "goals": [
       "",
       "",
+      "36' Luis Alberto Silba (1-0)",
       "",
       "",
       "",
-      "",
-      "",
+      "77' Facundo Giacopuzzi (2-0)",
       ""
     ]
   },
@@ -219,11 +242,11 @@
     "matchId": "5159179",
     "status": "ET",
     "goals": [
+      "10' Jorge Mora (1-0)",
+      "18' Luis Abreu (1-1)",
       "",
       "",
-      "",
-      "",
-      "",
+      "54' Julio Rivarola (2-1)",
       "",
       "",
       ""
@@ -364,29 +387,6 @@
       "",
       "",
       "76' Erik L\u00f3pez (1-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "LIB Cup",
-    "title": "Independiente Del Valle 3-1 Deportes Tolima",
-    "homeTeam": "Independiente Del Valle",
-    "awayTeam": "Deportes Tolima",
-    "score": "3-1",
-    "matchId": "5071269",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },

@@ -10,7 +10,7 @@
     "awayTeam": "Real Salt Lake",
     "score": "1-0",
     "matchId": "5166483",
-    "status": "35'",
+    "status": "HT",
     "goals": [
       "",
       "20' Diber Armando Cambindo Abonia (1-0)",
@@ -186,29 +186,6 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "18:00",
-    "start_time": "18:00",
-    "group": "COL D1",
-    "title": "Cucuta 1-0 Alianza Petrolera",
-    "homeTeam": "Cucuta",
-    "awayTeam": "Alianza Petrolera",
-    "score": "1-0",
-    "matchId": "5072438",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "63' Jaime Peralta (1-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
     "time": "15:04",
     "start_time": "15:04",
     "group": "ARG D2",
@@ -226,6 +203,29 @@
       "",
       "",
       "77' Facundo Giacopuzzi (2-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "18:00",
+    "start_time": "18:00",
+    "group": "COL D1",
+    "title": "Cucuta 1-0 Alianza Petrolera",
+    "homeTeam": "Cucuta",
+    "awayTeam": "Alianza Petrolera",
+    "score": "1-0",
+    "matchId": "5072438",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "63' Jaime Peralta (1-0)",
+      "",
       ""
     ]
   },
@@ -355,7 +355,7 @@
     "awayTeam": "F.C. Motagua",
     "score": "0-1",
     "matchId": "5077680",
-    "status": "45'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -401,7 +401,7 @@
     "awayTeam": "CD FAS",
     "score": "0-0",
     "matchId": "5077678",
-    "status": "45'",
+    "status": "HT",
     "goals": [
       "",
       "",

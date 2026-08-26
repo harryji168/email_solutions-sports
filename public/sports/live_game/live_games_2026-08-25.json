@@ -2,29 +2,6 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "17:40",
-    "start_time": "17:40",
-    "group": "CNCF LC",
-    "title": "Monterrey 1-1 Chicago Fire",
-    "homeTeam": "Monterrey",
-    "awayTeam": "Chicago Fire",
-    "score": "1-1",
-    "matchId": "5166482",
-    "status": "73'",
-    "goals": [
-      "",
-      "",
-      "",
-      "45+4' Victor Guzman (1-0)",
-      "59' Philip Zinckernagel (1-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
     "time": "17:00",
     "start_time": "17:00",
     "group": "BRA Cup",
@@ -74,19 +51,19 @@
     "time": "18:00",
     "start_time": "18:00",
     "group": "COL D1",
-    "title": "Cucuta 0-0 Alianza Petrolera",
+    "title": "Cucuta 1-0 Alianza Petrolera",
     "homeTeam": "Cucuta",
     "awayTeam": "Alianza Petrolera",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5072438",
-    "status": "55'",
+    "status": "70'",
     "goals": [
       "",
       "",
       "",
       "",
       "",
-      "",
+      "63' Jaime Peralta (1-0)",
       "",
       ""
     ]
@@ -111,29 +88,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "15:30",
-    "start_time": "15:30",
-    "group": "BRA D2",
-    "title": "Atletico Clube Goianiense 3-0 Botafogo Futebol Clube (SP)",
-    "homeTeam": "Atletico Clube Goianiense",
-    "awayTeam": "Botafogo Futebol Clube (SP)",
-    "score": "3-0",
-    "matchId": "5036274",
-    "status": "ET",
-    "goals": [
-      "4' Marrony da Silva Liberato (1-0)",
-      "25' Joao Pedro Sousa Silva (2-0)",
-      "",
-      "",
-      "",
-      "",
-      "79' Adriano Martins (3-0)",
       ""
     ]
   },
@@ -194,7 +148,7 @@
     "awayTeam": "Union Santa Fe(R)",
     "score": "2-2",
     "matchId": "5156594",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -255,6 +209,52 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "LIB Cup",
+    "title": "Independiente Del Valle 3-1 Deportes Tolima",
+    "homeTeam": "Independiente Del Valle",
+    "awayTeam": "Deportes Tolima",
+    "score": "3-1",
+    "matchId": "5071269",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "59' Daykol Alejandro Romero Padilla (1-0)",
+      "70' Carlos Gabriel Gonzalez Espindola (2-0)",
+      "84' Junior Alexis Hernandez Angulo (2-1)",
+      "90+5' Matias Perello (3-1)"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "17:40",
+    "start_time": "17:40",
+    "group": "CNCF LC",
+    "title": "Monterrey 2-1 Chicago Fire",
+    "homeTeam": "Monterrey",
+    "awayTeam": "Chicago Fire",
+    "score": "2-1",
+    "matchId": "5166482",
+    "status": "88'",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+4' Victor Guzman (1-0)",
+      "59' Philip Zinckernagel (1-1)",
+      "",
+      "83' Orbelin Pineda Alvarado (2-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "17:03",
     "start_time": "17:03",
     "group": "ARG D2M1",
@@ -272,6 +272,29 @@
       "60' Nicol\u00e1s Damiolini (2-0)",
       "",
       "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "BRA D2",
+    "title": "Atletico Clube Goianiense 3-0 Botafogo Futebol Clube (SP)",
+    "homeTeam": "Atletico Clube Goianiense",
+    "awayTeam": "Botafogo Futebol Clube (SP)",
+    "score": "3-0",
+    "matchId": "5036274",
+    "status": "ET",
+    "goals": [
+      "4' Marrony da Silva Liberato (1-0)",
+      "25' Joao Pedro Sousa Silva (2-0)",
+      "",
+      "",
+      "",
+      "",
+      "79' Adriano Martins (3-0)",
       ""
     ]
   },
@@ -318,29 +341,6 @@
       "",
       "74' Elkin Blanco Rivas (2-0)",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "LIB Cup",
-    "title": "Independiente Del Valle 2-1 Deportes Tolima",
-    "homeTeam": "Independiente Del Valle",
-    "awayTeam": "Deportes Tolima",
-    "score": "2-1",
-    "matchId": "5071269",
-    "status": "87'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "59' Daykol Alejandro Romero Padilla (1-0)",
-      "70' Carlos Gabriel Gonzalez Espindola (2-0)",
-      "84' Junior Alexis Hernandez Angulo (2-1)",
       ""
     ]
   },

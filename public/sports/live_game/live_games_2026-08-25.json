@@ -2,75 +2,6 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
-    "time": "19:40",
-    "start_time": "19:40",
-    "group": "CNCF LC",
-    "title": "Club Leon 3-0 Real Salt Lake",
-    "homeTeam": "Club Leon",
-    "awayTeam": "Real Salt Lake",
-    "score": "3-0",
-    "matchId": "5166483",
-    "status": "ET",
-    "goals": [
-      "",
-      "21' Diber Armando Cambindo Abonia (1-0)",
-      "",
-      "",
-      "",
-      "66' Sebastian Ignacio Vegas Orellana (2-0)<br>72' Diber Armando Cambindo Abonia (3-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "LIB Cup",
-    "title": "Independiente Del Valle 3-1 Deportes Tolima",
-    "homeTeam": "Independiente Del Valle",
-    "awayTeam": "Deportes Tolima",
-    "score": "3-1",
-    "matchId": "5071269",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
-    "time": "17:40",
-    "start_time": "17:40",
-    "group": "CNCF LC",
-    "title": "Monterrey 2-1 Chicago Fire",
-    "homeTeam": "Monterrey",
-    "awayTeam": "Chicago Fire",
-    "score": "2-1",
-    "matchId": "5166482",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-25",
-    "day": "Tuesday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA D2",
@@ -108,8 +39,8 @@
       "",
       "",
       "",
-      "",
-      "",
+      "60' Keny Alexander Arroyo Alvarado (1-0)",
+      "70' Renan Augusto Lodi dos Santos (1-1)",
       "",
       ""
     ]
@@ -201,7 +132,7 @@
       "",
       "",
       "",
-      "",
+      "63' Jaime Peralta (1-0)",
       "",
       ""
     ]
@@ -265,13 +196,13 @@
     "matchId": "5173064",
     "status": "ET",
     "goals": [
+      "11' Ysaura Viso (1-0)",
+      "21' Izabela Cort\u00e9s (2-0)",
       "",
       "",
       "",
       "",
-      "",
-      "",
-      "",
+      "78' Francelis Graterol (3-0)",
       ""
     ]
   },
@@ -311,11 +242,11 @@
     "matchId": "5014696",
     "status": "ET",
     "goals": [
+      "1' Mat\u00edas P\u00f3lvera (1-0)",
       "",
       "",
       "",
-      "",
-      "",
+      "60' Nicol\u00e1s Damiolini (2-0)",
       "",
       "",
       ""
@@ -334,12 +265,12 @@
     "matchId": "5158756",
     "status": "ET",
     "goals": [
+      "8' Esdras Mendoza (1-0)",
       "",
       "",
       "",
       "",
-      "",
-      "",
+      "74' Elkin Blanco Rivas (2-0)",
       "",
       ""
     ]
@@ -393,6 +324,29 @@
   {
     "date": "2026-08-25",
     "day": "Tuesday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "LIB Cup",
+    "title": "Independiente Del Valle 3-1 Deportes Tolima",
+    "homeTeam": "Independiente Del Valle",
+    "awayTeam": "Deportes Tolima",
+    "score": "3-1",
+    "matchId": "5071269",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "59' Daykol Alejandro Romero Padilla (1-0)",
+      "70' Carlos Gabriel Gonzalez Espindola (2-0)",
+      "84' Junior Alexis Hernandez Angulo (2-1)",
+      "90+5' Matias Perello (3-1)"
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
     "time": "19:30",
     "start_time": "19:30",
     "group": "CNCF CACup",
@@ -410,6 +364,52 @@
       "",
       "61' Geancarlo Castro (1-0)",
       "78' Wilber D\u00edaz (2-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "17:40",
+    "start_time": "17:40",
+    "group": "CNCF LC",
+    "title": "Monterrey 2-1 Chicago Fire",
+    "homeTeam": "Monterrey",
+    "awayTeam": "Chicago Fire",
+    "score": "2-1",
+    "matchId": "5166482",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45+4' Victor Guzman (1-0)",
+      "59' Philip Zinckernagel (1-1)",
+      "",
+      "83' Orbelin Pineda Alvarado (2-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-25",
+    "day": "Tuesday",
+    "time": "19:40",
+    "start_time": "19:40",
+    "group": "CNCF LC",
+    "title": "Club Leon 3-0 Real Salt Lake",
+    "homeTeam": "Club Leon",
+    "awayTeam": "Real Salt Lake",
+    "score": "3-0",
+    "matchId": "5166483",
+    "status": "ET",
+    "goals": [
+      "",
+      "21' Diber Armando Cambindo Abonia (1-0)",
+      "",
+      "",
+      "",
+      "66' Sebastian Ignacio Vegas Orellana (2-0)<br>72' Diber Armando Cambindo Abonia (3-0)",
+      "",
       ""
     ]
   },

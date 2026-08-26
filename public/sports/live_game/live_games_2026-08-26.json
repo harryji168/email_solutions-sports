@@ -16,10 +16,10 @@
       "",
       "42' Hebert Vergara (1-0)",
       "",
-      "59' 2-0",
+      "59' Valentin Amoroso (2-0)",
       "",
       "",
-      ""
+      "90+6' Lucas Piriz (2-1)"
     ]
   },
   {
@@ -56,7 +56,7 @@
     "awayTeam": "L.D.U.Portoviejo",
     "score": "0-0",
     "matchId": "5173167",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -79,7 +79,7 @@
     "awayTeam": "Fortaleza C.E.I.F.",
     "score": "0-0",
     "matchId": "5072436",
-    "status": "64'",
+    "status": "79'",
     "goals": [
       "",
       "",
@@ -102,7 +102,7 @@
     "awayTeam": "Alianza San Salvador",
     "score": "1-1",
     "matchId": "5135840",
-    "status": "56'",
+    "status": "71'",
     "goals": [
       "1' Carlos Bogot\u00e1 (1-0)",
       "17' William Parra (1-1)",
@@ -120,18 +120,18 @@
     "time": "14:30",
     "start_time": "14:30",
     "group": "PAR Cup",
-    "title": "Cristobal Colon JAS 2-3 Olimpia Asuncion",
+    "title": "Cristobal Colon JAS 2-4 Olimpia Asuncion",
     "homeTeam": "Cristobal Colon JAS",
     "awayTeam": "Olimpia Asuncion",
-    "score": "2-3",
+    "score": "2-4",
     "matchId": "5159182",
-    "status": "HT",
+    "status": "49'",
     "goals": [
       "",
       "29' Bryan Bentaberry (0-1)",
       "40' Sebasti\u00e1n Ferreira (0-2)<br>42' H\u00e9ctor Ojeda (1-2)<br>44' Richart B\u00e1ez (2-2)",
       "45+1' Hugo Sandoval (2-3)",
-      "",
+      "48' 2-4",
       "",
       "",
       ""
@@ -240,7 +240,7 @@
     "awayTeam": "Club Deportivo Universidad Catolica",
     "score": "0-0",
     "matchId": "5021604",
-    "status": "23'",
+    "status": "38'",
     "goals": [
       "",
       "",
@@ -263,7 +263,7 @@
     "awayTeam": "Sportivo Dock Sud",
     "score": "0-0",
     "matchId": "5014694",
-    "status": "20'",
+    "status": "35'",
     "goals": [
       "",
       "",
@@ -286,7 +286,7 @@
     "awayTeam": "Barquisimeto",
     "score": "0-0",
     "matchId": "5083844",
-    "status": "22'",
+    "status": "37'",
     "goals": [
       "",
       "",
@@ -309,7 +309,7 @@
     "awayTeam": "Goianesia GO",
     "score": "0-1",
     "matchId": "5174853",
-    "status": "23'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -332,7 +332,7 @@
     "awayTeam": "Sociedad Deportiva Aucas",
     "score": "0-0",
     "matchId": "5169809",
-    "status": "23'",
+    "status": "38'",
     "goals": [
       "",
       "",
@@ -355,7 +355,7 @@
     "awayTeam": "Goiatuba",
     "score": "0-0",
     "matchId": "5170202",
-    "status": "13'",
+    "status": "28'",
     "goals": [
       "",
       "",
@@ -373,12 +373,104 @@
     "time": "15:16",
     "start_time": "15:16",
     "group": "ARG Cup",
-    "title": "Club Atletico Aldosivi 0-0 Independiente Rivadavia",
+    "title": "Club Atletico Aldosivi 0-1 Independiente Rivadavia",
     "homeTeam": "Club Atletico Aldosivi",
     "awayTeam": "Independiente Rivadavia",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5135676",
+    "status": "22'",
+    "goals": [
+      "",
+      "18' Gonzalo Rios (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "day": "Wednesday",
+    "time": "15:31",
+    "start_time": "15:31",
+    "group": "BOL D1",
+    "title": "Real Potosi 0-0 Real Tomayapo",
+    "homeTeam": "Real Potosi",
+    "awayTeam": "Real Tomayapo",
+    "score": "0-0",
+    "matchId": "5158758",
     "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "day": "Wednesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "BRA CGD2",
+    "title": "EC Pelotas(RS) 1-0 Gloria RS",
+    "homeTeam": "EC Pelotas(RS)",
+    "awayTeam": "Gloria RS",
+    "score": "1-0",
+    "matchId": "5113278",
+    "status": "8'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "day": "Wednesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "BRA CGD2",
+    "title": "Goiania 0-0 Rio Verde GO",
+    "homeTeam": "Goiania",
+    "awayTeam": "Rio Verde GO",
+    "score": "0-0",
+    "matchId": "5174855",
+    "status": "8'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "day": "Wednesday",
+    "time": "15:30",
+    "start_time": "15:30",
+    "group": "BRA CGD2",
+    "title": "Trindade AC 0-0 Morrinhos GO",
+    "homeTeam": "Trindade AC",
+    "awayTeam": "Morrinhos GO",
+    "score": "0-0",
+    "matchId": "5175028",
+    "status": "8'",
     "goals": [
       "",
       "",

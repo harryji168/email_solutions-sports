@@ -41,7 +41,7 @@
       "",
       "",
       "",
-      "78' Ahmed Mostafa (1-0)<br>86' Mahmoud Mamdouh (2-0)",
+      "78' Ahmed Mostafa Taher (1-0)<br>86' Mahmoud Mamdouh (2-0)",
       ""
     ]
   },
@@ -51,37 +51,14 @@
     "time": "13:05",
     "start_time": "13:05",
     "group": "ICE D2",
-    "title": "Hviti Riddarinn 0-0 Fjolnir",
+    "title": "Hviti Riddarinn 1-0 Fjolnir",
     "homeTeam": "Hviti Riddarinn",
     "awayTeam": "Fjolnir",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5030987",
-    "status": "5'",
+    "status": "23'",
     "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "day": "Thursday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "KAZ D1",
-    "title": "Ekibastuz 2-4 Turan Turkistan",
-    "homeTeam": "Ekibastuz",
-    "awayTeam": "Turan Turkistan",
-    "score": "2-4",
-    "matchId": "5054519",
-    "status": "ET",
-    "goals": [
-      "",
+      "8' 1-0",
       "",
       "",
       "",
@@ -148,7 +125,30 @@
     "awayTeam": "Ferro Carril Oeste Reserve",
     "score": "0-0",
     "matchId": "5156606",
-    "status": "10'",
+    "status": "28'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
+    "time": "10:00",
+    "start_time": "10:00",
+    "group": "ARG RL",
+    "title": "Temperley Reserve 7-0 CA Colegiales  Reserve",
+    "homeTeam": "Temperley Reserve",
+    "awayTeam": "CA Colegiales  Reserve",
+    "score": "7-0",
+    "matchId": "5175218",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -194,9 +194,9 @@
     "awayTeam": "UCV Moquegua",
     "score": "1-0",
     "matchId": "5122705",
-    "status": "9'",
+    "status": "27'",
     "goals": [
-      "5' 1-0",
+      "5' Leonardo Rugel (1-0)",
       "",
       "",
       "",
@@ -327,12 +327,12 @@
     "time": "12:16",
     "start_time": "12:16",
     "group": "ICE D4",
-    "title": "Alftanes 4-0 IH Hafnarfjordur",
+    "title": "Alftanes 7-0 IH Hafnarfjordur",
     "homeTeam": "Alftanes",
     "awayTeam": "IH Hafnarfjordur",
-    "score": "4-0",
+    "score": "7-0",
     "matchId": "5175001",
-    "status": "HT",
+    "status": "55'",
     "goals": [
       "",
       "",
@@ -401,7 +401,7 @@
     "awayTeam": "Arborg",
     "score": "1-1",
     "matchId": "5175000",
-    "status": "HT",
+    "status": "55'",
     "goals": [
       "",
       "",
@@ -470,7 +470,7 @@
     "awayTeam": "Ulfarnir",
     "score": "1-2",
     "matchId": "5174999",
-    "status": "HT",
+    "status": "57'",
     "goals": [
       "",
       "",
@@ -585,7 +585,7 @@
     "awayTeam": "Keflavik Women\\s",
     "score": "0-0",
     "matchId": "5058029",
-    "status": "HT",
+    "status": "53'",
     "goals": [
       "",
       "",
@@ -700,13 +700,13 @@
     "awayTeam": "12 de Octubre",
     "score": "2-2",
     "matchId": "5159183",
-    "status": "51'",
+    "status": "69'",
     "goals": [
       "11' Kevin Salinas (0-1)",
       "22' Jeferson Torales (1-1)",
       "",
       "45+2' Mart\u00edn Amarilla (2-1)",
-      "50' 2-2",
+      "50' Derlis Aquino (2-2)",
       "",
       "",
       ""
@@ -769,7 +769,7 @@
     "awayTeam": "AFC Wimbledon",
     "score": "2-0",
     "matchId": "5160485",
-    "status": "52'",
+    "status": "70'",
     "goals": [
       "",
       "",
@@ -833,18 +833,18 @@
     "time": "12:02",
     "start_time": "12:02",
     "group": "UEFA ECL",
-    "title": "Partizan Belgrade 0-0 Getafe CF",
+    "title": "Partizan Belgrade 1-0 Getafe CF",
     "homeTeam": "Partizan Belgrade",
     "awayTeam": "Getafe CF",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5165207",
-    "status": "47'",
+    "status": "65'",
     "goals": [
       "",
       "",
       "",
       "",
-      "",
+      "53' Jeferson Marinho dos Santos,Jeh (1-0)",
       "",
       "",
       ""
@@ -907,7 +907,7 @@
     "awayTeam": "Lincoln Red Imps F.C.",
     "score": "0-0",
     "matchId": "5165218",
-    "status": "54'",
+    "status": "72'",
     "goals": [
       "",
       "",
@@ -971,18 +971,18 @@
     "time": "12:00",
     "start_time": "12:00",
     "group": "UEFA ECL",
-    "title": "Hibernian F.C. 0-1 K.A.A. Gent",
+    "title": "Hibernian F.C. 1-1 K.A.A. Gent",
     "homeTeam": "Hibernian F.C.",
     "awayTeam": "K.A.A. Gent",
-    "score": "0-1",
+    "score": "1-1",
     "matchId": "5165213",
-    "status": "54'",
+    "status": "72'",
     "goals": [
       "",
       "",
       "39' Josue Vergara (0-1)",
       "",
-      "",
+      "56' Jason Kerr (1-1)",
       "",
       "",
       ""
@@ -1063,19 +1063,19 @@
     "time": "12:00",
     "start_time": "12:00",
     "group": "BOL D1",
-    "title": "Club Always Ready 2-1 Club Aurora",
+    "title": "Club Always Ready 2-2 Club Aurora",
     "homeTeam": "Club Always Ready",
     "awayTeam": "Club Aurora",
-    "score": "2-1",
+    "score": "2-2",
     "matchId": "5158760",
-    "status": "51'",
+    "status": "69'",
     "goals": [
       "7' Enrique Luis Triverio (1-0)<br>11' Enrique Luis Triverio (2-0)",
       "",
       "36' Luis Rene Barboza Quiroz (2-1)",
       "",
       "",
-      "",
+      "69' Leonardo Viviani (2-2)",
       "",
       ""
     ]
@@ -1160,7 +1160,7 @@
     "awayTeam": "Athletic Bilbao",
     "score": "1-0",
     "matchId": "5097302",
-    "status": "HT",
+    "status": "61'",
     "goals": [
       "",
       "",
@@ -1224,12 +1224,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG WPR LC",
-    "title": "Halifax Town Women\\s 2-2 Leeds United FC Women\\s",
+    "title": "Halifax Town Women\\s 2-3 Leeds United FC Women\\s",
     "homeTeam": "Halifax Town Women\\s",
     "awayTeam": "Leeds United FC Women\\s",
-    "score": "2-2",
+    "score": "2-3",
     "matchId": "5175227",
-    "status": "64'",
+    "status": "82'",
     "goals": [
       "8' 0-1",
       "",
@@ -1237,7 +1237,7 @@
       "",
       "59' 2-2",
       "",
-      "",
+      "77' 2-3",
       ""
     ]
   },
@@ -1339,12 +1339,12 @@
     "time": "11:50",
     "start_time": "11:50",
     "group": "ENG WPR LC",
-    "title": "Cheltenham Town Women\\s 0-0 Gwalia United Women\\s",
+    "title": "Cheltenham Town Women\\s 1-1 Gwalia United Women\\s",
     "homeTeam": "Cheltenham Town Women\\s",
     "awayTeam": "Gwalia United Women\\s",
-    "score": "0-0",
+    "score": "1-1",
     "matchId": "5175225",
-    "status": "63'",
+    "status": "81'",
     "goals": [
       "",
       "",
@@ -1408,19 +1408,19 @@
     "time": "11:46",
     "start_time": "11:46",
     "group": "ENG WPR LC",
-    "title": "Wythenshawe FC  Women\\s 0-2 Stoke City Women\\s",
+    "title": "Wythenshawe FC  Women\\s 0-3 Stoke City Women\\s",
     "homeTeam": "Wythenshawe FC  Women\\s",
     "awayTeam": "Stoke City Women\\s",
-    "score": "0-2",
+    "score": "0-3",
     "matchId": "5175224",
-    "status": "66'",
+    "status": "84'",
     "goals": [
       "",
       "23' 0-1",
       "",
       "45+1' 0-2",
       "",
-      "",
+      "67' 0-3",
       "",
       ""
     ]
@@ -1459,7 +1459,7 @@
     "awayTeam": "Middlesbrough Women\\s",
     "score": "0-0",
     "matchId": "5175223",
-    "status": "64'",
+    "status": "82'",
     "goals": [
       "",
       "",
@@ -1505,7 +1505,7 @@
     "awayTeam": "Chesterfield Women\\s",
     "score": "1-0",
     "matchId": "5175222",
-    "status": "64'",
+    "status": "82'",
     "goals": [
       "",
       "",
@@ -1546,19 +1546,19 @@
     "time": "11:49",
     "start_time": "11:49",
     "group": "ENG WPR LC",
-    "title": "Peterborough United Women\\s 4-0 Notts County Women\\s",
+    "title": "Peterborough United Women\\s 6-0 Notts County Women\\s",
     "homeTeam": "Peterborough United Women\\s",
     "awayTeam": "Notts County Women\\s",
-    "score": "4-0",
+    "score": "6-0",
     "matchId": "5175221",
-    "status": "62'",
+    "status": "80'",
     "goals": [
       "",
       "19' 1-0<br>22' 2-0",
       "",
       "",
       "53' 3-0<br>57' 4-0",
-      "",
+      "62' 5-0<br>72' 6-0",
       "",
       ""
     ]
@@ -1597,7 +1597,7 @@
     "awayTeam": "SC Bastia",
     "score": "0-1",
     "matchId": "5101747",
-    "status": "67'",
+    "status": "85'",
     "goals": [
       "3' Cl\u00e9ment Rodrigues (0-1)",
       "",
@@ -1638,12 +1638,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG Conf",
-    "title": "Boreham Wood F.C. 0-1 Boston United F.C.",
+    "title": "Boreham Wood F.C. 1-1 Boston United F.C.",
     "homeTeam": "Boreham Wood F.C.",
     "awayTeam": "Boston United F.C.",
-    "score": "0-1",
+    "score": "1-1",
     "matchId": "5115404",
-    "status": "69'",
+    "status": "87'",
     "goals": [
       "",
       "26' Tom Cursons (0-1)",
@@ -1651,7 +1651,7 @@
       "",
       "",
       "",
-      "",
+      "85' Matt Rush (1-1)",
       ""
     ]
   },
@@ -1670,12 +1670,12 @@
     "goals": [
       "",
       "",
-      "44' Jovan Milosavljevi\u0107 (0-1)",
+      "44' Jovan Milosavljevic (0-1)",
       "",
       "49' Viggo Br\u00f6nner (1-1)<br>60' Bleon Kurtulus (1-2)",
       "67' Bleon Kurtulus (1-3)",
       "",
-      "90+2' Dan\u00edel Gudjohnsen (1-4)<br>90+4' 1-5"
+      "90+2' Daniel Gudjohnsen (1-4)<br>90+4' 1-5"
     ]
   },
   {
@@ -1684,12 +1684,12 @@
     "time": "11:46",
     "start_time": "11:46",
     "group": "UEFA ECL",
-    "title": "HNK Rijeka 1-3 FC Midtjylland",
+    "title": "HNK Rijeka 1-4 FC Midtjylland",
     "homeTeam": "HNK Rijeka",
     "awayTeam": "FC Midtjylland",
-    "score": "1-3",
+    "score": "1-4",
     "matchId": "5165203",
-    "status": "65'",
+    "status": "83'",
     "goals": [
       "4' Daniel Adu Adjei (1-0)",
       "18' Stanley Iheanacho (1-1)",
@@ -1697,7 +1697,7 @@
       "",
       "51' Dario Osorio (1-2)<br>56' Magnus Risgaard Jensen (1-3)",
       "",
-      "",
+      "78' Cho Kyu Seong (1-4)",
       ""
     ]
   },
@@ -1714,7 +1714,7 @@
     "matchId": "5076912",
     "status": "ET",
     "goals": [
-      "6' R\u00f3bert Frosti Thorkelsson (0-1)",
+      "6' Robert Frosti Thorkelsson (0-1)",
       "28' Filip Beckman (0-2)",
       "",
       "45' Filip Beckman (0-3)",
@@ -1735,7 +1735,7 @@
     "awayTeam": "Luton Town F.C.",
     "score": "2-0",
     "matchId": "5160482",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1766,7 +1766,7 @@
       "",
       "",
       "71' Flamur Dzelili (1-4)",
-      "77' Timothe Rupil (1-5)<br>86' Lucas Persson (1-6)<br>89' Flamur Dzelili (2-6)",
+      "77' Timothe Rupil (1-5)<br>86' Lucas Landgren Persson (1-6)<br>89' Flamur Dzelili (2-6)",
       "90' Peiman Eliassi (3-6)"
     ]
   },
@@ -1781,7 +1781,7 @@
     "awayTeam": "SC Braga",
     "score": "0-0",
     "matchId": "5165208",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1845,12 +1845,12 @@
     "time": "11:31",
     "start_time": "11:31",
     "group": "UEFA ECL",
-    "title": "Brighton & Hove Albion F.C. 3-0 Tromso IL",
+    "title": "Brighton & Hove Albion F.C. 4-0 Tromso IL",
     "homeTeam": "Brighton & Hove Albion F.C.",
     "awayTeam": "Tromso IL",
-    "score": "3-0",
+    "score": "4-0",
     "matchId": "5165217",
-    "status": "77'",
+    "status": "ET",
     "goals": [
       "",
       "22' Charalampos Kostoulas (1-0)",
@@ -1858,7 +1858,7 @@
       "",
       "",
       "",
-      "",
+      "86' Olivier Boscagli (4-0)",
       ""
     ]
   },
@@ -1914,12 +1914,12 @@
     "time": "11:30",
     "start_time": "11:30",
     "group": "UEFA ECL",
-    "title": "FK Borac Banja Luka 2-1 Vikingur Reykjavik",
+    "title": "FK Borac Banja Luka 3-1 Vikingur Reykjavik",
     "homeTeam": "FK Borac Banja Luka",
     "awayTeam": "Vikingur Reykjavik",
-    "score": "2-1",
+    "score": "3-1",
     "matchId": "5165215",
-    "status": "81'",
+    "status": "ET",
     "goals": [
       "",
       "16' Damir Hrelja (0-1)",
@@ -1928,7 +1928,7 @@
       "55' Sebastian Herrera Cardona (1-1)",
       "67' Luka Juricic (2-1)",
       "",
-      ""
+      "90+4' Pavle Djajic (3-1)"
     ]
   },
   {
@@ -1960,12 +1960,12 @@
     "time": "11:30",
     "start_time": "11:30",
     "group": "UEFA EL",
-    "title": "Ferencvaros 3-0 Trabzonspor",
+    "title": "Ferencvaros 4-0 Trabzonspor",
     "homeTeam": "Ferencvaros",
     "awayTeam": "Trabzonspor",
-    "score": "3-0",
+    "score": "4-0",
     "matchId": "5165244",
-    "status": "80'",
+    "status": "ET",
     "goals": [
       "",
       "19' Callum Joshua Ryan O\\'Dowda (1-0)",
@@ -1973,7 +1973,7 @@
       "",
       "54' Marius Corbu (2-0)<br>59' Bamidele Yusuf (3-0)",
       "",
-      "",
+      "86' Krisztian Lisztes (4-0)",
       ""
     ]
   },
@@ -2011,7 +2011,7 @@
     "awayTeam": "FC Kairat Almaty",
     "score": "3-0",
     "matchId": "5165237",
-    "status": "79'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -2103,7 +2103,7 @@
     "awayTeam": "CA Osasuna",
     "score": "1-2",
     "matchId": "5168384",
-    "status": "81'",
+    "status": "ET",
     "goals": [
       "14' Iago Aspas Juncal (1-0)",
       "",
@@ -2233,24 +2233,24 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "ASOS Rainbow Athletic Club 1-6 Peerless",
-    "homeTeam": "ASOS Rainbow Athletic Club",
-    "awayTeam": "Peerless",
-    "score": "1-6",
-    "matchId": "5175080",
+    "time": "11:00",
+    "start_time": "11:00",
+    "group": "GER ONI",
+    "title": "Holzheimer SG 2-4 Juchen Garzweiler",
+    "homeTeam": "Holzheimer SG",
+    "awayTeam": "Juchen Garzweiler",
+    "score": "2-4",
+    "matchId": "5124674",
     "status": "ET",
     "goals": [
+      "10' Kevin Rubaszewski (0-1)",
+      "17' Kevin Rubaszewski (0-2)<br>29' Emre-Ilhan Caraj (1-2)",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "69' Josan Kim (2-2)",
+      "87' Tom Nilgen (2-3)",
+      "90+3' 2-4"
     ]
   },
   {
@@ -2555,29 +2555,6 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
-    "time": "00:58",
-    "start_time": "00:58",
-    "group": "INT CF",
-    "title": "AD Union Adarve 2-2 Getafe B",
-    "homeTeam": "AD Union Adarve",
-    "awayTeam": "Getafe B",
-    "score": "2-2",
-    "matchId": "5173550",
-    "status": "ET",
-    "goals": [
-      "15' 1-0",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "88' 1-1",
-      "90+3' 2-1<br>90+5' 2-2"
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "day": "Thursday",
     "time": "11:04",
     "start_time": "11:04",
     "group": "ARG RL",
@@ -2831,6 +2808,29 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
+    "time": "00:58",
+    "start_time": "00:58",
+    "group": "INT CF",
+    "title": "AD Union Adarve 2-2 Getafe B",
+    "homeTeam": "AD Union Adarve",
+    "awayTeam": "Getafe B",
+    "score": "2-2",
+    "matchId": "5173550",
+    "status": "ET",
+    "goals": [
+      "15' 1-0",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "88' 1-1",
+      "90+3' 2-1<br>90+5' 2-2"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
     "time": "08:30",
     "start_time": "08:30",
     "group": "SWE Cup",
@@ -3031,6 +3031,29 @@
       "",
       "",
       "68' Patrik Walemark (2-2)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "KAZ D1",
+    "title": "Ekibastuz 2-4 Turan Turkistan",
+    "homeTeam": "Ekibastuz",
+    "awayTeam": "Turan Turkistan",
+    "score": "2-4",
+    "matchId": "5054519",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -3245,6 +3268,29 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "ASOS Rainbow Athletic Club 1-6 Peerless",
+    "homeTeam": "ASOS Rainbow Athletic Club",
+    "awayTeam": "Peerless",
+    "score": "1-6",
+    "matchId": "5175080",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
     "time": "08:23",
     "start_time": "08:23",
     "group": "QAT D1",
@@ -3284,7 +3330,7 @@
       "45' Carlos Iury Silva (2-0)",
       "",
       "61' Taisei Marukawa (3-0)",
-      "83' Egy Maulana (4-0)",
+      "83' Egy Maulana Vikri (4-0)",
       ""
     ]
   },

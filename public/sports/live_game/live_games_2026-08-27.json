@@ -2,6 +2,29 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
+    "time": "01:02",
+    "start_time": "01:02",
+    "group": "SVK U19",
+    "title": "DAC Dunajska Streda(U19) 0-1 Zemplin Michalovce(U19)",
+    "homeTeam": "DAC Dunajska Streda(U19)",
+    "awayTeam": "Zemplin Michalovce(U19)",
+    "score": "0-1",
+    "matchId": "5175205",
+    "status": "8'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
     "time": "00:38",
     "start_time": "00:38",
     "group": "IND SSL",
@@ -10,7 +33,7 @@
     "awayTeam": "Nongrah",
     "score": "1-1",
     "matchId": "5175021",
-    "status": "20'",
+    "status": "32'",
     "goals": [
       "",
       "",
@@ -33,7 +56,53 @@
     "awayTeam": "Lawsohtun SC",
     "score": "2-0",
     "matchId": "5175011",
-    "status": "HT",
+    "status": "50'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
+    "time": "01:03",
+    "start_time": "01:03",
+    "group": "INTERF",
+    "title": "Spain U18 0-0 Uzbekistan(U17)",
+    "homeTeam": "Spain U18",
+    "awayTeam": "Uzbekistan(U17)",
+    "score": "0-0",
+    "matchId": "5175130",
+    "status": "7'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
+    "time": "00:58",
+    "start_time": "00:58",
+    "group": "INT CF",
+    "title": "AD Union Adarve 0-0 Getafe B",
+    "homeTeam": "AD Union Adarve",
+    "awayTeam": "Getafe B",
+    "score": "0-0",
+    "matchId": "5173550",
+    "status": "12'",
     "goals": [
       "",
       "",

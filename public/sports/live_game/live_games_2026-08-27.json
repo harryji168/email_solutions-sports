@@ -79,7 +79,7 @@
     "awayTeam": "San Sebastian Reyes",
     "score": "0-0",
     "matchId": "5173554",
-    "status": "3'",
+    "status": "6'",
     "goals": [
       "",
       "",
@@ -171,7 +171,7 @@
     "awayTeam": "UD Gijon Industrial",
     "score": "0-0",
     "matchId": "5171931",
-    "status": "6'",
+    "status": "9'",
     "goals": [
       "",
       "",
@@ -194,7 +194,7 @@
     "awayTeam": "Mamelodi Sundowns Women\\s",
     "score": "0-0",
     "matchId": "5175249",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -240,7 +240,7 @@
     "awayTeam": "DJK Ammerthal",
     "score": "0-0",
     "matchId": "5086540",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -347,6 +347,29 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
+    "time": "10:09",
+    "start_time": "10:09",
+    "group": "ARG RL",
+    "title": "Claypole Reserve 0-0 General Lamadrid Reserve",
+    "homeTeam": "Claypole Reserve",
+    "awayTeam": "General Lamadrid Reserve",
+    "score": "0-0",
+    "matchId": "5175217",
+    "status": "1'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
     "time": "06:30",
     "start_time": "06:30",
     "group": "EGY D2A",
@@ -378,7 +401,7 @@
     "awayTeam": "Leones de Rosario Reserve",
     "score": "0-0",
     "matchId": "5175203",
-    "status": "5'",
+    "status": "8'",
     "goals": [
       "",
       "",
@@ -447,7 +470,7 @@
     "awayTeam": "Newells Old Boys Reserve",
     "score": "0-0",
     "matchId": "5156601",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -516,7 +539,7 @@
     "awayTeam": "FC Hapoel Bnei Ashdod",
     "score": "0-0",
     "matchId": "5175252",
-    "status": "6'",
+    "status": "9'",
     "goals": [
       "",
       "",
@@ -562,7 +585,7 @@
     "awayTeam": "Gottne IF",
     "score": "0-0",
     "matchId": "5094595",
-    "status": "6'",
+    "status": "9'",
     "goals": [
       "",
       "",
@@ -631,7 +654,7 @@
     "awayTeam": "Abo Qair Semad",
     "score": "0-0",
     "matchId": "5156314",
-    "status": "6'",
+    "status": "9'",
     "goals": [
       "",
       "",
@@ -677,7 +700,7 @@
     "awayTeam": "Al Masry SC",
     "score": "0-0",
     "matchId": "5156313",
-    "status": "5'",
+    "status": "8'",
     "goals": [
       "",
       "",
@@ -723,7 +746,7 @@
     "awayTeam": "KI Klaksvik",
     "score": "0-0",
     "matchId": "5166348",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -746,7 +769,7 @@
     "awayTeam": "Hajduk Split",
     "score": "0-1",
     "matchId": "5165206",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "1' Ron Raci (0-1)",
       "",
@@ -810,14 +833,14 @@
     "time": "10:02",
     "start_time": "10:02",
     "group": "UEFA ECL",
-    "title": "Pafos FC 0-0 FC Dinamo City",
+    "title": "Pafos FC 0-1 FC Dinamo City",
     "homeTeam": "Pafos FC",
     "awayTeam": "FC Dinamo City",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5165209",
-    "status": "5'",
+    "status": "8'",
     "goals": [
-      "",
+      "9' 0-1",
       "",
       "",
       "",
@@ -838,7 +861,7 @@
     "awayTeam": "PAOK FC",
     "score": "0-0",
     "matchId": "5165221",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -907,7 +930,7 @@
     "awayTeam": "FC Drita",
     "score": "0-0",
     "matchId": "5165211",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -930,7 +953,7 @@
     "awayTeam": "Panathinaikos F.C.",
     "score": "0-0",
     "matchId": "5165220",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -976,7 +999,7 @@
     "awayTeam": "Inter Turku",
     "score": "0-0",
     "matchId": "5165210",
-    "status": "5'",
+    "status": "8'",
     "goals": [
       "",
       "",
@@ -1014,6 +1037,29 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "ASOS Rainbow Athletic Club 1-6 Peerless",
+    "homeTeam": "ASOS Rainbow Athletic Club",
+    "awayTeam": "Peerless",
+    "score": "1-6",
+    "matchId": "5175080",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
     "time": "10:00",
     "start_time": "10:00",
     "group": "UEFA EL",
@@ -1022,7 +1068,7 @@
     "awayTeam": "KF Egnatia Rrogozhine",
     "score": "0-0",
     "matchId": "5165240",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -1068,7 +1114,7 @@
     "awayTeam": "Mjallby AIF",
     "score": "0-0",
     "matchId": "5165238",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -1091,7 +1137,7 @@
     "awayTeam": "Sint-Truidense V.V.",
     "score": "0-0",
     "matchId": "5165243",
-    "status": "6'",
+    "status": "9'",
     "goals": [
       "",
       "",
@@ -1099,6 +1145,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "KAZ D1",
+    "title": "FK Kaspiy Aktau B 1-2 Akademiya Ontustik",
+    "homeTeam": "FK Kaspiy Aktau B",
+    "awayTeam": "Akademiya Ontustik",
+    "score": "1-2",
+    "matchId": "5054521",
+    "status": "ET",
+    "goals": [
+      "8' Bakir Dzhamalov (0-1)",
+      "",
+      "",
+      "45+1' Bakir Dzhamalov (0-2)",
+      "",
+      "69' Almas Armenov (1-2)",
       "",
       ""
     ]
@@ -1114,7 +1183,7 @@
     "awayTeam": "Besiktas JK",
     "score": "0-0",
     "matchId": "5165245",
-    "status": "7'",
+    "status": "10'",
     "goals": [
       "",
       "",
@@ -1155,42 +1224,19 @@
     "time": "10:00",
     "start_time": "10:00",
     "group": "UEFA EL",
-    "title": "FC Viktoria Plzen 0-0 Crvena Zvezda",
+    "title": "FC Viktoria Plzen 1-0 Crvena Zvezda",
     "homeTeam": "FC Viktoria Plzen",
     "awayTeam": "Crvena Zvezda",
-    "score": "0-0",
+    "score": "1-0",
     "matchId": "5163744",
-    "status": "7'",
+    "status": "10'",
     "goals": [
+      "8' Prince Kwabena Adu (1-0)",
       "",
       "",
       "",
       "",
       "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "day": "Thursday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "KAZ D1",
-    "title": "FK Kaspiy Aktau B 1-2 Akademiya Ontustik",
-    "homeTeam": "FK Kaspiy Aktau B",
-    "awayTeam": "Akademiya Ontustik",
-    "score": "1-2",
-    "matchId": "5054521",
-    "status": "ET",
-    "goals": [
-      "8' Bakir Dzhamalov (0-1)",
-      "",
-      "",
-      "45+1' Bakir Dzhamalov (0-2)",
-      "",
-      "69' Almas Armenov (1-2)",
       "",
       ""
     ]
@@ -1206,7 +1252,7 @@
     "awayTeam": "Gornik Zabrze",
     "score": "0-0",
     "matchId": "5165216",
-    "status": "21'",
+    "status": "24'",
     "goals": [
       "",
       "",
@@ -1247,15 +1293,15 @@
     "time": "09:45",
     "start_time": "09:45",
     "group": "UEFA ECL",
-    "title": "SC Freiburg 1-0 Motherwell FC",
+    "title": "SC Freiburg 1-1 Motherwell FC",
     "homeTeam": "SC Freiburg",
     "awayTeam": "Motherwell FC",
-    "score": "1-0",
+    "score": "1-1",
     "matchId": "5165202",
-    "status": "22'",
+    "status": "25'",
     "goals": [
       "6' Derry Scherhant (1-0)",
-      "",
+      "22' Mbule Longelo Emmanuel (1-1)",
       "",
       "",
       "",
@@ -1298,7 +1344,7 @@
     "awayTeam": "Hapoel Hod HaSharon",
     "score": "0-0",
     "matchId": "5175255",
-    "status": "36'",
+    "status": "39'",
     "goals": [
       "",
       "",
@@ -1321,7 +1367,7 @@
     "awayTeam": "Malmo FF",
     "score": "0-0",
     "matchId": "5076916",
-    "status": "36'",
+    "status": "39'",
     "goals": [
       "",
       "",
@@ -1344,7 +1390,7 @@
     "awayTeam": "GAIS",
     "score": "0-2",
     "matchId": "5076912",
-    "status": "36'",
+    "status": "39'",
     "goals": [
       "6' R\u00f3bert Frosti Thorkelsson (0-1)",
       "28' Filip Beckman (0-2)",
@@ -1408,12 +1454,12 @@
     "time": "09:31",
     "start_time": "09:31",
     "group": "SWE Cup",
-    "title": "Primetime 0-0 Helsingborgs IF",
+    "title": "Primetime 0-1 Helsingborgs IF",
     "homeTeam": "Primetime",
     "awayTeam": "Helsingborgs IF",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5076906",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -1436,7 +1482,7 @@
     "awayTeam": "Al Rayyan",
     "score": "0-0",
     "matchId": "5130628",
-    "status": "37'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -1459,7 +1505,7 @@
     "awayTeam": "FK Murom",
     "score": "0-1",
     "matchId": "5165316",
-    "status": "33'",
+    "status": "36'",
     "goals": [
       "14' Saidov A. (0-1)",
       "",
@@ -1482,7 +1528,30 @@
     "awayTeam": "Dynamo Vologda",
     "score": "0-0",
     "matchId": "5165310",
-    "status": "39'",
+    "status": "42'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "KAZ D1",
+    "title": "Ekibastuz 2-4 Turan Turkistan",
+    "homeTeam": "Ekibastuz",
+    "awayTeam": "Turan Turkistan",
+    "score": "2-4",
+    "matchId": "5054519",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1620,7 +1689,7 @@
     "awayTeam": "Rayo Cantabria",
     "score": "0-1",
     "matchId": "5173553",
-    "status": "47'",
+    "status": "50'",
     "goals": [
       "6' 0-1",
       "",
@@ -1643,30 +1712,7 @@
     "awayTeam": "Victoriano Arenas Reserves",
     "score": "0-1",
     "matchId": "5175213",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "day": "Thursday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "ASOS Rainbow Athletic Club 1-6 Peerless",
-    "homeTeam": "ASOS Rainbow Athletic Club",
-    "awayTeam": "Peerless",
-    "score": "1-6",
-    "matchId": "5175080",
-    "status": "ET",
+    "status": "47'",
     "goals": [
       "",
       "",
@@ -1689,7 +1735,7 @@
     "awayTeam": "MS Jerusalem",
     "score": "2-1",
     "matchId": "5175251",
-    "status": "46'",
+    "status": "49'",
     "goals": [
       "",
       "",
@@ -1735,7 +1781,7 @@
     "awayTeam": "Bnei Jaffa Orthodox",
     "score": "1-1",
     "matchId": "5175250",
-    "status": "HT",
+    "status": "48'",
     "goals": [
       "",
       "",
@@ -1745,29 +1791,6 @@
       "",
       "",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "day": "Thursday",
-    "time": "00:58",
-    "start_time": "00:58",
-    "group": "INT CF",
-    "title": "AD Union Adarve 2-2 Getafe B",
-    "homeTeam": "AD Union Adarve",
-    "awayTeam": "Getafe B",
-    "score": "2-2",
-    "matchId": "5173550",
-    "status": "ET",
-    "goals": [
-      "15' 1-0",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "88' 1-1",
-      "90+3' 2-1<br>90+5' 2-2"
     ]
   },
   {
@@ -1827,7 +1850,7 @@
     "awayTeam": "Al Khaldiya",
     "score": "0-5",
     "matchId": "5155261",
-    "status": "HT",
+    "status": "46'",
     "goals": [
       "14' Walid Sabbar (0-1)",
       "20' Othman Al-Haj (0-2)",
@@ -1842,6 +1865,29 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
+    "time": "00:58",
+    "start_time": "00:58",
+    "group": "INT CF",
+    "title": "AD Union Adarve 2-2 Getafe B",
+    "homeTeam": "AD Union Adarve",
+    "awayTeam": "Getafe B",
+    "score": "2-2",
+    "matchId": "5173550",
+    "status": "ET",
+    "goals": [
+      "15' 1-0",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "88' 1-1",
+      "90+3' 2-1<br>90+5' 2-2"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
     "time": "08:59",
     "start_time": "08:59",
     "group": "UEFA ECL",
@@ -1850,7 +1896,7 @@
     "awayTeam": "Rangers F.C.",
     "score": "0-0",
     "matchId": "5165205",
-    "status": "53'",
+    "status": "56'",
     "goals": [
       "",
       "",
@@ -1873,7 +1919,7 @@
     "awayTeam": "FC Lugano",
     "score": "0-0",
     "matchId": "5165219",
-    "status": "51'",
+    "status": "54'",
     "goals": [
       "",
       "",
@@ -1919,7 +1965,7 @@
     "awayTeam": "Jagiellonia Bialystok",
     "score": "1-1",
     "matchId": "5165241",
-    "status": "49'",
+    "status": "52'",
     "goals": [
       "",
       "",
@@ -1942,7 +1988,7 @@
     "awayTeam": "CS Universitatea Craiova",
     "score": "0-0",
     "matchId": "5165239",
-    "status": "51'",
+    "status": "54'",
     "goals": [
       "",
       "",
@@ -1965,7 +2011,7 @@
     "awayTeam": "Al Sulaibikhat",
     "score": "1-0",
     "matchId": "5172488",
-    "status": "60'",
+    "status": "63'",
     "goals": [
       "",
       "",
@@ -1988,7 +2034,7 @@
     "awayTeam": "All Boys Reserve",
     "score": "0-1",
     "matchId": "5175216",
-    "status": "78'",
+    "status": "81'",
     "goals": [
       "",
       "",
@@ -2011,34 +2057,11 @@
     "awayTeam": "Brommapojkarna",
     "score": "2-1",
     "matchId": "5076902",
-    "status": "81'",
+    "status": "84'",
     "goals": [
       "",
       "",
       "34' Tom\u00e1s Javier Borquez (1-0)<br>40' Anton Kurochkin (1-1)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "day": "Thursday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "KAZ D1",
-    "title": "Ekibastuz 2-4 Turan Turkistan",
-    "homeTeam": "Ekibastuz",
-    "awayTeam": "Turan Turkistan",
-    "score": "2-4",
-    "matchId": "5054519",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
       "",
       "",
       "",

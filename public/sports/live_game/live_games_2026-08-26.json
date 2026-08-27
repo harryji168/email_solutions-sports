@@ -2,6 +2,29 @@
   {
     "date": "2026-08-26",
     "day": "Wednesday",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "VEN Cup",
+    "title": "Caracas FC 3-1 Barquisimeto",
+    "homeTeam": "Caracas FC",
+    "awayTeam": "Barquisimeto",
+    "score": "3-1",
+    "matchId": "5083844",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "42' Sebasti\u00e1n Gonz\u00e1lez (1-0)",
+      "",
+      "",
+      "68' Lucciano Reinoso (2-0)",
+      "76' Luis Maestre (3-0)",
+      "90+1' Fabi\u00e1n Romero (3-1)"
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "day": "Wednesday",
     "time": "17:30",
     "start_time": "17:30",
     "group": "CON CSA",
@@ -19,6 +42,29 @@
       "52' Sebastian Driussi (1-0)",
       "",
       "80' Franco Misael Fagundez Rosa (1-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "day": "Wednesday",
+    "time": "15:00",
+    "start_time": "15:00",
+    "group": "BRA CGD2",
+    "title": "Gremio Anapolis 1-2 Goianesia GO",
+    "homeTeam": "Gremio Anapolis",
+    "awayTeam": "Goianesia GO",
+    "score": "1-2",
+    "matchId": "5174853",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -186,24 +232,24 @@
   {
     "date": "2026-08-26",
     "day": "Wednesday",
-    "time": "13:30",
-    "start_time": "13:30",
-    "group": "URU Cup",
-    "title": "Plaza Colonia 2-1 Cerro Largo F.C.",
-    "homeTeam": "Plaza Colonia",
-    "awayTeam": "Cerro Largo F.C.",
-    "score": "2-1",
-    "matchId": "5173233",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "CHI Cup",
+    "title": "Colo-Colo 3-0 Union Espanola",
+    "homeTeam": "Colo-Colo",
+    "awayTeam": "Union Espanola",
+    "score": "3-0",
+    "matchId": "5097287",
     "status": "ET",
     "goals": [
       "",
+      "22' Maximiliano Samuel Romero (1-0)",
       "",
-      "42' Hebert Vergara (1-0)",
+      "45+4' Marco Bolados (2-0)",
+      "51' Felipe Raipan (3-0)",
       "",
-      "59' Valentin Amoroso (2-0)",
       "",
-      "",
-      "90+6' Lucas Piriz (2-1)"
+      ""
     ]
   },
   {
@@ -250,6 +296,29 @@
       "67' Gonzalo G\u00f3mez (0-2)",
       "",
       "90+4' Emanuel Quinteros (1-2)"
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "day": "Wednesday",
+    "time": "13:30",
+    "start_time": "13:30",
+    "group": "URU Cup",
+    "title": "Plaza Colonia 2-1 Cerro Largo F.C.",
+    "homeTeam": "Plaza Colonia",
+    "awayTeam": "Cerro Largo F.C.",
+    "score": "2-1",
+    "matchId": "5173233",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "42' Hebert Vergara (1-0)",
+      "",
+      "59' Valentin Amoroso (2-0)",
+      "",
+      "",
+      "90+6' Lucas Piriz (2-1)"
     ]
   },
   {
@@ -600,29 +669,6 @@
   {
     "date": "2026-08-26",
     "day": "Wednesday",
-    "time": "15:01",
-    "start_time": "15:01",
-    "group": "VEN Cup",
-    "title": "Caracas FC 3-1 Barquisimeto",
-    "homeTeam": "Caracas FC",
-    "awayTeam": "Barquisimeto",
-    "score": "3-1",
-    "matchId": "5083844",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "42' Sebasti\u00e1n Gonz\u00e1lez (1-0)",
-      "",
-      "",
-      "68' Lucciano Reinoso (2-0)",
-      "76' Luis Maestre (3-0)",
-      "90+1' Fabi\u00e1n Romero (3-1)"
-    ]
-  },
-  {
-    "date": "2026-08-26",
-    "day": "Wednesday",
     "time": "14:30",
     "start_time": "14:30",
     "group": "PAR Cup",
@@ -641,29 +687,6 @@
       "",
       "",
       "90+4' Derlis Alberto Gonzalez Galeano (3-5)"
-    ]
-  },
-  {
-    "date": "2026-08-26",
-    "day": "Wednesday",
-    "time": "15:00",
-    "start_time": "15:00",
-    "group": "BRA CGD2",
-    "title": "Gremio Anapolis 1-2 Goianesia GO",
-    "homeTeam": "Gremio Anapolis",
-    "awayTeam": "Goianesia GO",
-    "score": "1-2",
-    "matchId": "5174853",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -700,7 +723,7 @@
     "awayTeam": "Columbus Crew",
     "score": "2-0",
     "matchId": "5166485",
-    "status": "HT",
+    "status": "49'",
     "goals": [
       "11' Raphael Cavalcante Veiga (1-0)",
       "",
@@ -718,12 +741,12 @@
     "time": "19:30",
     "start_time": "19:30",
     "group": "CNCF CACup",
-    "title": "Liga Deportiva Alajuelense 2-1 Plaza Amador",
+    "title": "Liga Deportiva Alajuelense 3-1 Plaza Amador",
     "homeTeam": "Liga Deportiva Alajuelense",
     "awayTeam": "Plaza Amador",
-    "score": "2-1",
+    "score": "3-1",
     "matchId": "5077644",
-    "status": "68'",
+    "status": "83'",
     "goals": [
       "",
       "",
@@ -731,7 +754,7 @@
       "",
       "49' John Ruiz (1-0)<br>50' Everardo Ernesto Rose Clarke (1-1)",
       "62' Ronaldo Cisneros (2-1)",
-      "",
+      "79' Ronaldo Cisneros (3-1)",
       ""
     ]
   },
@@ -746,7 +769,7 @@
     "awayTeam": "Luis Angel Firpo",
     "score": "1-1",
     "matchId": "5077643",
-    "status": "67'",
+    "status": "82'",
     "goals": [
       "12' Diego Casas (1-0)",
       "21' Diego Alexis Ortez Argueta (1-1)",
@@ -800,29 +823,6 @@
       "",
       "",
       "64' Marlos Moreno Duran (2-0)<br>74' Nicolas Benedetti (2-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-26",
-    "day": "Wednesday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "CHI Cup",
-    "title": "Colo-Colo 3-0 Union Espanola",
-    "homeTeam": "Colo-Colo",
-    "awayTeam": "Union Espanola",
-    "score": "3-0",
-    "matchId": "5097287",
-    "status": "ET",
-    "goals": [
-      "",
-      "22' Maximiliano Samuel Romero (1-0)",
-      "",
-      "45+4' Marco Bolados (2-0)",
-      "51' Felipe Raipan (3-0)",
-      "",
       "",
       ""
     ]

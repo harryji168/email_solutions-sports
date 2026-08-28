@@ -2,29 +2,6 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
-    "time": "17:10",
-    "start_time": "17:10",
-    "group": "BRA D4",
-    "title": "Nacional(AM) 3-1 Centro Sportivo Alagoano",
-    "homeTeam": "Nacional(AM)",
-    "awayTeam": "Centro Sportivo Alagoano",
-    "score": "3-1",
-    "matchId": "5170204",
-    "status": "ET",
-    "goals": [
-      "2' Sass\u00e1 (1-0)",
-      "16' Renanzinho (2-0)<br>19' Matheus Melo (2-1)",
-      "34' Rafa Marcos (3-1)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "day": "Thursday",
     "time": "16:10",
     "start_time": "16:10",
     "group": "COL D1",
@@ -43,29 +20,6 @@
       "",
       "82' Andrey Estupinan Quinones (0-2)",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "day": "Thursday",
-    "time": "18:06",
-    "start_time": "18:06",
-    "group": "ECU D2",
-    "title": "Cuenca Juniors 1-1 9 de Octubre",
-    "homeTeam": "Cuenca Juniors",
-    "awayTeam": "9 de Octubre",
-    "score": "1-1",
-    "matchId": "5173171",
-    "status": "ET",
-    "goals": [
-      "10' Edwin Zambrano (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "90+5' Luis Moreira (1-1)"
     ]
   },
   {
@@ -186,6 +140,29 @@
   {
     "date": "2026-08-27",
     "day": "Thursday",
+    "time": "13:30",
+    "start_time": "13:30",
+    "group": "ECU D2",
+    "title": "Vinotinto FC 1-0 Atletico Futbol Club",
+    "homeTeam": "Vinotinto FC",
+    "awayTeam": "Atletico Futbol Club",
+    "score": "1-0",
+    "matchId": "5173170",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' Bruno Guelfi (1-0)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
     "time": "17:15",
     "start_time": "17:15",
     "group": "ARG Cup",
@@ -235,16 +212,39 @@
     "time": "13:30",
     "start_time": "13:30",
     "group": "ECU D2",
-    "title": "Vinotinto FC 1-0 Atletico Futbol Club",
-    "homeTeam": "Vinotinto FC",
-    "awayTeam": "Atletico Futbol Club",
-    "score": "1-0",
-    "matchId": "5173170",
+    "title": "San Antonio FC(ECU) 0-0 Independiente Juniors",
+    "homeTeam": "San Antonio FC(ECU)",
+    "awayTeam": "Independiente Juniors",
+    "score": "0-0",
+    "matchId": "5173169",
     "status": "ET",
     "goals": [
       "",
       "",
-      "40' Bruno Guelfi (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
+    "time": "17:10",
+    "start_time": "17:10",
+    "group": "BRA D4",
+    "title": "Nacional(AM) 3-1 Centro Sportivo Alagoano",
+    "homeTeam": "Nacional(AM)",
+    "awayTeam": "Centro Sportivo Alagoano",
+    "score": "3-1",
+    "matchId": "5170204",
+    "status": "ET",
+    "goals": [
+      "2' Sass\u00e1 (1-0)",
+      "16' Renanzinho (2-0)<br>19' Matheus Melo (2-1)",
+      "34' Rafa Marcos (3-1)",
       "",
       "",
       "",
@@ -272,29 +272,6 @@
       "",
       "",
       "77' Jos\u00e9 Rodr\u00edguez (1-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-27",
-    "day": "Thursday",
-    "time": "13:30",
-    "start_time": "13:30",
-    "group": "ECU D2",
-    "title": "San Antonio FC(ECU) 0-0 Independiente Juniors",
-    "homeTeam": "San Antonio FC(ECU)",
-    "awayTeam": "Independiente Juniors",
-    "score": "0-0",
-    "matchId": "5173169",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       ""
     ]
   },
@@ -386,8 +363,31 @@
       "",
       "",
       "",
-      "84' Jorge Morel (0-1)",
+      "84' Jorge Emanuel Morel Barrios (0-1)",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "day": "Thursday",
+    "time": "18:06",
+    "start_time": "18:06",
+    "group": "ECU D2",
+    "title": "Cuenca Juniors 1-1 9 de Octubre",
+    "homeTeam": "Cuenca Juniors",
+    "awayTeam": "9 de Octubre",
+    "score": "1-1",
+    "matchId": "5173171",
+    "status": "ET",
+    "goals": [
+      "10' Edwin Zambrano (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "90+5' Luis Moreira (1-1)"
     ]
   },
   {
@@ -401,7 +401,7 @@
     "awayTeam": "Alianza FC (PAN)",
     "score": "1-0",
     "matchId": "5077665",
-    "status": "48'",
+    "status": "63'",
     "goals": [
       "4' Nicolas Martinez Vargas (1-0)",
       "",
@@ -493,7 +493,7 @@
     "awayTeam": "Deportivo Saprissa",
     "score": "1-0",
     "matchId": "5077664",
-    "status": "46'",
+    "status": "61'",
     "goals": [
       "12' Emanuel Hern\u00e1ndez (1-0)",
       "",

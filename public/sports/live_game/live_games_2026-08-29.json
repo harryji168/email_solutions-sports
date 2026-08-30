@@ -255,6 +255,29 @@
   {
     "date": "2026-08-29",
     "day": "Saturday",
+    "time": "14:25",
+    "start_time": "14:25",
+    "group": "COL D1",
+    "title": "Jaguares de Cordoba 2-2 America de Cali",
+    "homeTeam": "Jaguares de Cordoba",
+    "awayTeam": "America de Cali",
+    "score": "2-2",
+    "matchId": "5072463",
+    "status": "ET",
+    "goals": [
+      "7' Andres Yair Renteria Morelo (1-0)",
+      "",
+      "44' Josen Escobar (1-1)",
+      "45+5' Jerson Andres Malagon Piracun (2-1)",
+      "",
+      "",
+      "",
+      "90' Yeison Guzman (2-2)"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "day": "Saturday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "PAR WD1",
@@ -631,7 +654,7 @@
     "awayTeam": "Gold Coast Knights(U23)",
     "score": "0-1",
     "matchId": "5175228",
-    "status": "16'",
+    "status": "25'",
     "goals": [
       "",
       "",
@@ -677,9 +700,9 @@
     "awayTeam": "Pine Hills",
     "score": "0-1",
     "matchId": "5174957",
-    "status": "10'",
+    "status": "19'",
     "goals": [
-      "",
+      "9' 0-1",
       "",
       "",
       "",
@@ -723,12 +746,12 @@
     "awayTeam": "Newcastle Croatia",
     "score": "1-1",
     "matchId": "5171368",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "10' 1-0",
       "",
       "",
-      "",
+      "45+3' 1-1",
       "",
       "",
       "",
@@ -769,14 +792,14 @@
     "awayTeam": "Cruz Azul Women\\s",
     "score": "1-0",
     "matchId": "5141649",
-    "status": "78'",
+    "status": "87'",
     "goals": [
       "",
       "",
       "",
       "",
       "",
-      "74' 1-0",
+      "74' Aisha Keshy Sol\u00f3rzano Garc\u00eda (1-0)",
       "",
       ""
     ]
@@ -815,7 +838,7 @@
     "awayTeam": "Tigres UANL",
     "score": "0-0",
     "matchId": "5077288",
-    "status": "71'",
+    "status": "80'",
     "goals": [
       "",
       "",
@@ -948,12 +971,12 @@
     "time": "20:05",
     "start_time": "20:05",
     "group": "AUS NSWU20",
-    "title": "Rockdale Ilinden(U20) 2-0 UNSW FC (U20)",
+    "title": "Rockdale Ilinden(U20) 2-1 UNSW FC (U20)",
     "homeTeam": "Rockdale Ilinden(U20)",
     "awayTeam": "UNSW FC (U20)",
-    "score": "2-0",
+    "score": "2-1",
     "matchId": "5072581",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -999,7 +1022,7 @@
     "awayTeam": "NWS Spirit FC (U20)",
     "score": "1-0",
     "matchId": "5072579",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1221,29 +1244,6 @@
   {
     "date": "2026-08-29",
     "day": "Saturday",
-    "time": "14:02",
-    "start_time": "14:02",
-    "group": "ECU D1",
-    "title": "Guayaquil City F.C. 2-1 Liga Deportiva Universitaria",
-    "homeTeam": "Guayaquil City F.C.",
-    "awayTeam": "Liga Deportiva Universitaria",
-    "score": "2-1",
-    "matchId": "5035316",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "39' Yerlin Quinonez (0-1)",
-      "45' Miller Alejandro Bolanos Reascos (1-1)",
-      "",
-      "",
-      "86' Diego Dorregaray (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-29",
-    "day": "Saturday",
     "time": "16:05",
     "start_time": "16:05",
     "group": "USL L1",
@@ -1308,6 +1308,29 @@
       "",
       "",
       "90+7' Joshua Kirkland (1-2)"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "day": "Saturday",
+    "time": "14:02",
+    "start_time": "14:02",
+    "group": "ECU D1",
+    "title": "Guayaquil City F.C. 2-1 Liga Deportiva Universitaria",
+    "homeTeam": "Guayaquil City F.C.",
+    "awayTeam": "Liga Deportiva Universitaria",
+    "score": "2-1",
+    "matchId": "5035316",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "39' Yerlin Quinonez (0-1)",
+      "45' Miller Alejandro Bolanos Reascos (1-1)",
+      "",
+      "",
+      "86' Diego Dorregaray (2-1)",
+      ""
     ]
   },
   {
@@ -1796,29 +1819,6 @@
   {
     "date": "2026-08-29",
     "day": "Saturday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "GUA D2",
-    "title": "AFF Guatemala 0-3 Deportivo Mictlan",
-    "homeTeam": "AFF Guatemala",
-    "awayTeam": "Deportivo Mictlan",
-    "score": "0-3",
-    "matchId": "5175197",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-29",
-    "day": "Saturday",
     "time": "18:30",
     "start_time": "18:30",
     "group": "HON D1",
@@ -2118,6 +2118,29 @@
   {
     "date": "2026-08-29",
     "day": "Saturday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "GUA D2",
+    "title": "AFF Guatemala 0-3 Deportivo Mictlan",
+    "homeTeam": "AFF Guatemala",
+    "awayTeam": "Deportivo Mictlan",
+    "score": "0-3",
+    "matchId": "5175197",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "day": "Saturday",
     "time": "17:59",
     "start_time": "17:59",
     "group": "NCA D1",
@@ -2205,29 +2228,6 @@
       "",
       "79' Jhon Mart\u00ednez (0-2)<br>84' Luis Palacios (0-3)",
       ""
-    ]
-  },
-  {
-    "date": "2026-08-29",
-    "day": "Saturday",
-    "time": "14:25",
-    "start_time": "14:25",
-    "group": "COL D1",
-    "title": "Jaguares de Cordoba 2-2 America de Cali",
-    "homeTeam": "Jaguares de Cordoba",
-    "awayTeam": "America de Cali",
-    "score": "2-2",
-    "matchId": "5072463",
-    "status": "ET",
-    "goals": [
-      "7' Andres Yair Renteria Morelo (1-0)",
-      "",
-      "44' Josen Escobar (1-1)",
-      "45+5' Jerson Andres Malagon Piracun (2-1)",
-      "",
-      "",
-      "",
-      "90' Yeison Guzman (2-2)"
     ]
   },
   {
@@ -2534,20 +2534,20 @@
     "day": "Saturday",
     "time": "15:00",
     "start_time": "15:00",
-    "group": "MEX D3A",
-    "title": "Real Refineros 0-2 Artesanos Metepec",
-    "homeTeam": "Real Refineros",
-    "awayTeam": "Artesanos Metepec",
-    "score": "0-2",
-    "matchId": "5171516",
+    "group": "COL WL",
+    "title": "Deportivo Cali Women\\s 3-0 Independiente Santa Fe Women\\s",
+    "homeTeam": "Deportivo Cali Women\\s",
+    "awayTeam": "Independiente Santa Fe Women\\s",
+    "score": "3-0",
+    "matchId": "5173068",
     "status": "ET",
     "goals": [
       "",
+      "24' Ingrid Guerra (1-0)",
+      "33' Liceth Valeria C\u00e1rdenas (2-0)",
       "",
       "",
-      "",
-      "",
-      "",
+      "72' Karla Daniela Viancha Guti\u00e9rrez (3-0)",
       "",
       ""
     ]
@@ -2672,20 +2672,20 @@
     "day": "Saturday",
     "time": "15:00",
     "start_time": "15:00",
-    "group": "COL WL",
-    "title": "Deportivo Cali Women\\s 3-0 Independiente Santa Fe Women\\s",
-    "homeTeam": "Deportivo Cali Women\\s",
-    "awayTeam": "Independiente Santa Fe Women\\s",
-    "score": "3-0",
-    "matchId": "5173068",
+    "group": "MEX D3A",
+    "title": "Real Refineros 0-2 Artesanos Metepec",
+    "homeTeam": "Real Refineros",
+    "awayTeam": "Artesanos Metepec",
+    "score": "0-2",
+    "matchId": "5171516",
     "status": "ET",
     "goals": [
       "",
-      "24' Ingrid Guerra (1-0)",
-      "33' Liceth Valeria C\u00e1rdenas (2-0)",
       "",
       "",
-      "72' Karla Daniela Viancha Guti\u00e9rrez (3-0)",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -26468,7 +26468,7 @@
       "",
       "60' Oliver Colloty (3-0)",
       "",
-      "78' Brown C. (4-0)",
+      "78' Cameron Brown (4-0)",
       ""
     ]
   },

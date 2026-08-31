@@ -10,7 +10,7 @@
     "awayTeam": "Deportivo Mixco",
     "score": "1-0",
     "matchId": "5083717",
-    "status": "40'",
+    "status": "HT",
     "goals": [
       "",
       "25' Ricardo Marquez (1-0)",
@@ -33,7 +33,7 @@
     "awayTeam": "Racing Club de Avellaneda",
     "score": "1-1",
     "matchId": "5052565",
-    "status": "53'",
+    "status": "68'",
     "goals": [
       "",
       "20' Matko Miljevic (0-1)",
@@ -41,29 +41,6 @@
       "",
       "",
       "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
-    "time": "17:02",
-    "start_time": "17:02",
-    "group": "CHI D1",
-    "title": "Coquimbo Unido 0-1 Huachipato FC",
-    "homeTeam": "Coquimbo Unido",
-    "awayTeam": "Huachipato FC",
-    "score": "0-1",
-    "matchId": "5021620",
-    "status": "82'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "66' Sergio Fabian Nunez Rosas (0-1)",
       "",
       ""
     ]
@@ -79,7 +56,7 @@
     "awayTeam": "Cusco FC",
     "score": "1-2",
     "matchId": "5072001",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "10' Lucas Colitto (0-1)",
       "",
@@ -102,7 +79,7 @@
     "awayTeam": "Escorpiones Belen",
     "score": "2-1",
     "matchId": "5075755",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -125,7 +102,7 @@
     "awayTeam": "FC Juarez",
     "score": "4-0",
     "matchId": "5077289",
-    "status": "81'",
+    "status": "90+'",
     "goals": [
       "10' Helio Junio Nunes de Castro, Helinho (1-0)",
       "",
@@ -134,29 +111,6 @@
       "",
       "73' Oswaldo Michel Virgen Urena (3-0)",
       "79' Federico Sebastian Vinas Barboza (4-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
-    "time": "16:30",
-    "start_time": "16:30",
-    "group": "URU D2",
-    "title": "Oriental La Paz 2-0 Plaza Colonia",
-    "homeTeam": "Oriental La Paz",
-    "awayTeam": "Plaza Colonia",
-    "score": "2-0",
-    "matchId": "5173292",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "32' Renato Alexandrino (1-0)",
-      "",
-      "",
-      "63' Mat\u00edas Rigoleto (2-0)",
-      "",
       ""
     ]
   },
@@ -186,6 +140,29 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
+    "time": "16:30",
+    "start_time": "16:30",
+    "group": "URU D2",
+    "title": "Oriental La Paz 2-0 Plaza Colonia",
+    "homeTeam": "Oriental La Paz",
+    "awayTeam": "Plaza Colonia",
+    "score": "2-0",
+    "matchId": "5173292",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "32' Renato Alexandrino (1-0)",
+      "",
+      "",
+      "63' Mat\u00edas Rigoleto (2-0)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
     "time": "18:06",
     "start_time": "18:06",
     "group": "SLV D1",
@@ -194,7 +171,7 @@
     "awayTeam": "Luis Angel Firpo",
     "score": "3-1",
     "matchId": "5135808",
-    "status": "82'",
+    "status": "90+'",
     "goals": [
       "3' Yan  Maciel (1-0)",
       "",
@@ -204,6 +181,29 @@
       "",
       "76' V\u00edctor Garc\u00eda (3-1)",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "PAN D1",
+    "title": "Union Cocle 2-2 Alianza FC (PAN)",
+    "homeTeam": "Union Cocle",
+    "awayTeam": "Alianza FC (PAN)",
+    "score": "2-2",
+    "matchId": "5111777",
+    "status": "ET",
+    "goals": [
+      "6' David Hunt (1-0)",
+      "",
+      "",
+      "",
+      "49' Jameel Lynch (2-0)",
+      "70' Yeison Ortega (2-1)",
+      "",
+      "90+4' Carlos Rodr\u00edguez (2-2)"
     ]
   },
   {
@@ -301,29 +301,6 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "14:02",
-    "start_time": "14:02",
-    "group": "NCA D1",
-    "title": "Sport Sebaco 0-5 Real Esteli",
-    "homeTeam": "Sport Sebaco",
-    "awayTeam": "Real Esteli",
-    "score": "0-5",
-    "matchId": "5119020",
-    "status": "ET",
-    "goals": [
-      "2' Ricardo Blanco (0-1)",
-      "",
-      "",
-      "45+6' Byron Bonilla (0-2)",
-      "52' Byron Bonilla (0-3)",
-      "62' Widman Talavera (0-4)<br>71' Edgar Castillo (0-5)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "SLV D1",
@@ -393,29 +370,6 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "16:02",
-    "start_time": "16:02",
-    "group": "MEX WD1",
-    "title": "Atletico San Luis Women\\s 6-1 Atlas Women\\s",
-    "homeTeam": "Atletico San Luis Women\\s",
-    "awayTeam": "Atlas Women\\s",
-    "score": "6-1",
-    "matchId": "5141655",
-    "status": "ET",
-    "goals": [
-      "11' Enyerliannys Higuera (1-0)<br>15' Enyerliannys Higuera (2-0)",
-      "26' Amina Bello (3-0)",
-      "34' Rebeca Ivonne (4-0)",
-      "45' Michelle Guti\u00e9rrez (5-0)<br>45+2' Rebeca Ivonne (6-0)",
-      "52' Aitana Montoya (6-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
     "time": "14:17",
     "start_time": "14:17",
     "group": "BOL LFPB",
@@ -439,6 +393,29 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
+    "time": "16:02",
+    "start_time": "16:02",
+    "group": "MEX WD1",
+    "title": "Atletico San Luis Women\\s 6-1 Atlas Women\\s",
+    "homeTeam": "Atletico San Luis Women\\s",
+    "awayTeam": "Atlas Women\\s",
+    "score": "6-1",
+    "matchId": "5141655",
+    "status": "ET",
+    "goals": [
+      "11' Enyerliannys Higuera (1-0)<br>15' Enyerliannys Higuera (2-0)",
+      "26' Amina Bello (3-0)",
+      "34' Rebeca Ivonne (4-0)",
+      "45' Michelle Guti\u00e9rrez (5-0)<br>45+2' Rebeca Ivonne (6-0)",
+      "52' Aitana Montoya (6-1)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
     "time": "16:00",
     "start_time": "16:00",
     "group": "NCA D1",
@@ -456,29 +433,6 @@
       "",
       "64' \u00c1ngel Olier (1-0)",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
-    "time": "16:03",
-    "start_time": "16:03",
-    "group": "USA MLSRv",
-    "title": "Vancouver Whitecaps B 5-1 Sporting Kansas City II",
-    "homeTeam": "Vancouver Whitecaps B",
-    "awayTeam": "Sporting Kansas City II",
-    "score": "5-1",
-    "matchId": "5029910",
-    "status": "ET",
-    "goals": [
-      "",
-      "19' Cristiano Bruletti (1-0)",
-      "",
-      "45+1' Carson Rassak (2-0)",
-      "50' Johnny Selemani (3-0)",
-      "69' Trevor Wright (4-0)",
-      "83' Missael Rodriguez (4-1)<br>86' Johnny Selemani (5-1)",
       ""
     ]
   },
@@ -511,20 +465,20 @@
     "time": "16:03",
     "start_time": "16:03",
     "group": "USA MLSRv",
-    "title": "Orlando City B 3-2 Crown Legacy FC",
-    "homeTeam": "Orlando City B",
-    "awayTeam": "Crown Legacy FC",
-    "score": "3-2",
-    "matchId": "5029909",
+    "title": "Vancouver Whitecaps B 5-1 Sporting Kansas City II",
+    "homeTeam": "Vancouver Whitecaps B",
+    "awayTeam": "Sporting Kansas City II",
+    "score": "5-1",
+    "matchId": "5029910",
     "status": "ET",
     "goals": [
-      "5' Adrian Gutierrez (0-1)",
       "",
-      "31' Issah Haruna (1-1)",
+      "19' Cristiano Bruletti (1-0)",
       "",
-      "46' Matthew Belgodere (2-1)<br>48' Gustavo Caraballo (3-1)<br>54' Ignacio G\u00f3mez (3-2)",
-      "",
-      "",
+      "45+1' Carson Rassak (2-0)",
+      "50' Johnny Selemani (3-0)",
+      "69' Trevor Wright (4-0)",
+      "83' Missael Rodriguez (4-1)<br>86' Johnny Selemani (5-1)",
       ""
     ]
   },
@@ -546,6 +500,29 @@
       "44' Francisco Javier Meza Palma (2-1)",
       "",
       "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
+    "time": "16:03",
+    "start_time": "16:03",
+    "group": "USA MLSRv",
+    "title": "Orlando City B 3-2 Crown Legacy FC",
+    "homeTeam": "Orlando City B",
+    "awayTeam": "Crown Legacy FC",
+    "score": "3-2",
+    "matchId": "5029909",
+    "status": "ET",
+    "goals": [
+      "5' Adrian Gutierrez (0-1)",
+      "",
+      "31' Issah Haruna (1-1)",
+      "",
+      "46' Matthew Belgodere (2-1)<br>48' Gustavo Caraballo (3-1)<br>54' Ignacio G\u00f3mez (3-2)",
       "",
       "",
       ""
@@ -648,12 +625,12 @@
     "day": "Sunday",
     "time": "16:00",
     "start_time": "16:00",
-    "group": "VEN D1",
-    "title": "Carabobo F.C. 0-0 Zamora FC Barinas",
-    "homeTeam": "Carabobo F.C.",
-    "awayTeam": "Zamora FC Barinas",
-    "score": "0-0",
-    "matchId": "5174781",
+    "group": "ARG TRFA",
+    "title": "Parana San Pedro 0-1 Mitre San Pedro",
+    "homeTeam": "Parana San Pedro",
+    "awayTeam": "Mitre San Pedro",
+    "score": "0-1",
+    "matchId": "5179438",
     "status": "ET",
     "goals": [
       "",
@@ -685,6 +662,29 @@
       "",
       "",
       "71' Bryan Quinonez (1-2)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "VEN D1",
+    "title": "Carabobo F.C. 0-0 Zamora FC Barinas",
+    "homeTeam": "Carabobo F.C.",
+    "awayTeam": "Zamora FC Barinas",
+    "score": "0-0",
+    "matchId": "5174781",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ]
@@ -784,6 +784,29 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "BRA D1",
+    "title": "Mirassol FC 1-1 Palmeiras",
+    "homeTeam": "Mirassol FC",
+    "awayTeam": "Palmeiras",
+    "score": "1-1",
+    "matchId": "5006441",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "50' Carlos Eduardo De Oliveira Alves (1-0)",
+      "75' Mauricio Magalhaes Prado (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "VEN D1",
@@ -830,29 +853,6 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "PAN D1",
-    "title": "Union Cocle 2-2 Alianza FC (PAN)",
-    "homeTeam": "Union Cocle",
-    "awayTeam": "Alianza FC (PAN)",
-    "score": "2-2",
-    "matchId": "5111777",
-    "status": "ET",
-    "goals": [
-      "6' David Hunt (1-0)",
-      "",
-      "",
-      "",
-      "49' Jameel Lynch (2-0)",
-      "70' Yeison Ortega (2-1)",
-      "",
-      "90+4' Carlos Rodr\u00edguez (2-2)"
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
     "time": "14:01",
     "start_time": "14:01",
     "group": "VEN D1",
@@ -876,29 +876,6 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA D1",
-    "title": "Mirassol FC 1-1 Palmeiras",
-    "homeTeam": "Mirassol FC",
-    "awayTeam": "Palmeiras",
-    "score": "1-1",
-    "matchId": "5006441",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "50' Carlos Eduardo De Oliveira Alves (1-0)",
-      "75' Mauricio Magalhaes Prado (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
     "time": "15:15",
     "start_time": "15:15",
     "group": "ARG D1",
@@ -914,6 +891,29 @@
       "42' Esteban Fernandez (0-1)",
       "",
       "53' Facundo Lencioni (0-2)<br>60' Facundo Lencioni (0-3)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
+    "time": "14:32",
+    "start_time": "14:32",
+    "group": "BRA D1",
+    "title": "Gremio FBPA 3-1 Associacao Chapecoense de Futebol",
+    "homeTeam": "Gremio FBPA",
+    "awayTeam": "Associacao Chapecoense de Futebol",
+    "score": "3-1",
+    "matchId": "5006440",
+    "status": "ET",
+    "goals": [
+      "15' Mauricio Garcez de Jesus (0-1)",
+      "18' Gustavo Martins de Souza Santos (1-1)<br>28' Cristian Pavon (2-1)",
+      "",
+      "",
+      "56' Gustavo Martins de Souza Santos (3-1)",
       "",
       "",
       ""
@@ -968,52 +968,6 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "14:32",
-    "start_time": "14:32",
-    "group": "PAR D1",
-    "title": "Club Guarani 1-1 Sportivo Ameliano",
-    "homeTeam": "Club Guarani",
-    "awayTeam": "Sportivo Ameliano",
-    "score": "1-1",
-    "matchId": "5168096",
-    "status": "ET",
-    "goals": [
-      "",
-      "16' C. Ocampos (0-1)",
-      "",
-      "",
-      "52' Mat\u00edas L\u00f3pez (1-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
-    "time": "14:32",
-    "start_time": "14:32",
-    "group": "BRA D1",
-    "title": "Gremio FBPA 3-1 Associacao Chapecoense de Futebol",
-    "homeTeam": "Gremio FBPA",
-    "awayTeam": "Associacao Chapecoense de Futebol",
-    "score": "3-1",
-    "matchId": "5006440",
-    "status": "ET",
-    "goals": [
-      "15' Mauricio Garcez de Jesus (0-1)",
-      "18' Gustavo Martins de Souza Santos (1-1)<br>28' Cristian Pavon (2-1)",
-      "",
-      "",
-      "56' Gustavo Martins de Souza Santos (3-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
     "time": "15:01",
     "start_time": "15:01",
     "group": "URU D1",
@@ -1031,29 +985,6 @@
       "51' Axel Pandiani (1-1)",
       "",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "GUA D1",
-    "title": "Deportivo San Pedro 4-3 Antigua GFC",
-    "homeTeam": "Deportivo San Pedro",
-    "awayTeam": "Antigua GFC",
-    "score": "4-3",
-    "matchId": "5083714",
-    "status": "ET",
-    "goals": [
-      "3' Matos Y. (1-0)<br>9' Sebastian Colon (2-0)",
-      "21' Agustin Maziero (2-1)",
-      "",
-      "45+9' Emerson Garcia (3-1)",
-      "47' Emerson Garcia (4-1)<br>59' Diego Fernandez (4-2)",
-      "",
-      "79' Jose Agustin Ardon Castellanos (4-3)",
       ""
     ]
   },
@@ -1078,6 +1009,29 @@
       "",
       "",
       "90+4' Amferny Sinclair (1-2)"
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "GUA D1",
+    "title": "Deportivo San Pedro 4-3 Antigua GFC",
+    "homeTeam": "Deportivo San Pedro",
+    "awayTeam": "Antigua GFC",
+    "score": "4-3",
+    "matchId": "5083714",
+    "status": "ET",
+    "goals": [
+      "3' Matos Y. (1-0)<br>9' Sebastian Colon (2-0)",
+      "21' Agustin Maziero (2-1)",
+      "",
+      "45+9' Emerson Garcia (3-1)",
+      "47' Emerson Garcia (4-1)<br>59' Diego Fernandez (4-2)",
+      "",
+      "79' Jose Agustin Ardon Castellanos (4-3)",
+      ""
     ]
   },
   {
@@ -1167,6 +1121,29 @@
       "",
       "",
       "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
+    "time": "14:32",
+    "start_time": "14:32",
+    "group": "PAR D1",
+    "title": "Club Guarani 1-1 Sportivo Ameliano",
+    "homeTeam": "Club Guarani",
+    "awayTeam": "Sportivo Ameliano",
+    "score": "1-1",
+    "matchId": "5168096",
+    "status": "ET",
+    "goals": [
+      "",
+      "16' C. Ocampos (0-1)",
+      "",
+      "",
+      "52' Mat\u00edas L\u00f3pez (1-1)",
       "",
       "",
       ""
@@ -1267,6 +1244,29 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
+    "time": "14:02",
+    "start_time": "14:02",
+    "group": "NCA D1",
+    "title": "Sport Sebaco 0-5 Real Esteli",
+    "homeTeam": "Sport Sebaco",
+    "awayTeam": "Real Esteli",
+    "score": "0-5",
+    "matchId": "5119020",
+    "status": "ET",
+    "goals": [
+      "2' Ricardo Blanco (0-1)",
+      "",
+      "",
+      "45+6' Byron Bonilla (0-2)",
+      "52' Byron Bonilla (0-3)",
+      "62' Widman Talavera (0-4)<br>71' Edgar Castillo (0-5)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
     "time": "13:31",
     "start_time": "13:31",
     "group": "VEN D1",
@@ -1313,29 +1313,6 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "15:01",
-    "start_time": "15:01",
-    "group": "CHI D4",
-    "title": "Comunal Cabrero 4-0 Municipal Puente Alto",
-    "homeTeam": "Comunal Cabrero",
-    "awayTeam": "Municipal Puente Alto",
-    "score": "4-0",
-    "matchId": "5168656",
-    "status": "ET",
-    "goals": [
-      "7' David Sidan N\u00fa\u00f1ez (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "71' Mateo Toro (2-0)",
-      "82' Jes\u00fas Arancibia (3-0)",
-      "90+3' Mateo Toro (4-0)"
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
     "time": "14:03",
     "start_time": "14:03",
     "group": "ARG D2",
@@ -1359,6 +1336,29 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "CHI D4",
+    "title": "Comunal Cabrero 4-0 Municipal Puente Alto",
+    "homeTeam": "Comunal Cabrero",
+    "awayTeam": "Municipal Puente Alto",
+    "score": "4-0",
+    "matchId": "5168656",
+    "status": "ET",
+    "goals": [
+      "7' David Sidan N\u00fa\u00f1ez (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "71' Mateo Toro (2-0)",
+      "82' Jes\u00fas Arancibia (3-0)",
+      "90+3' Mateo Toro (4-0)"
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
     "time": "18:34",
     "start_time": "18:34",
     "group": "USA MLSRv",
@@ -1367,7 +1367,7 @@
     "awayTeam": "Tacoma Defiance",
     "score": "0-0",
     "matchId": "5029902",
-    "status": "9'",
+    "status": "24'",
     "goals": [
       "",
       "",
@@ -1413,7 +1413,7 @@
     "awayTeam": "Atletico Bucaramanga",
     "score": "0-0",
     "matchId": "5072454",
-    "status": "23'",
+    "status": "38'",
     "goals": [
       "",
       "",
@@ -1436,7 +1436,7 @@
     "awayTeam": "Managua FC",
     "score": "0-1",
     "matchId": "5119027",
-    "status": "43'",
+    "status": "HT",
     "goals": [
       "7' Jos\u00e9 Mart\u00ednez (0-1)",
       "",

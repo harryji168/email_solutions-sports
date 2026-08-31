@@ -301,6 +301,29 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
+    "time": "14:17",
+    "start_time": "14:17",
+    "group": "BOL LFPB",
+    "title": "Club Bolivar 4-2 The Strongest",
+    "homeTeam": "Club Bolivar",
+    "awayTeam": "The Strongest",
+    "score": "4-2",
+    "matchId": "5159242",
+    "status": "ET",
+    "goals": [
+      "3' Erwin Mario Saavedra Flores (1-0)<br>4' Jaime Dario Arrascaita Iriondo (1-1)<br>14' Dorny Alexander Romero Chalas (2-1)",
+      "24' Lucas Leonidas Chavez Cruz (3-1)",
+      "",
+      "",
+      "51' Carlos Leonardo Sejas Albis (4-1)",
+      "",
+      "87' Gabriel Sotomayor (4-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
     "time": "14:00",
     "start_time": "14:00",
     "group": "SLV D1",
@@ -347,23 +370,23 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "14:17",
-    "start_time": "14:17",
-    "group": "BOL LFPB",
-    "title": "Club Bolivar 4-2 The Strongest",
-    "homeTeam": "Club Bolivar",
-    "awayTeam": "The Strongest",
-    "score": "4-2",
-    "matchId": "5159242",
+    "time": "14:02",
+    "start_time": "14:02",
+    "group": "NCA D1",
+    "title": "Sport Sebaco 0-5 Real Esteli",
+    "homeTeam": "Sport Sebaco",
+    "awayTeam": "Real Esteli",
+    "score": "0-5",
+    "matchId": "5119020",
     "status": "ET",
     "goals": [
-      "3' Erwin Mario Saavedra Flores (1-0)<br>4' Jaime Dario Arrascaita Iriondo (1-1)<br>14' Dorny Alexander Romero Chalas (2-1)",
-      "24' Lucas Leonidas Chavez Cruz (3-1)",
+      "2' Ricardo Blanco (0-1)",
       "",
       "",
-      "51' Carlos Leonardo Sejas Albis (4-1)",
+      "45+6' Byron Bonilla (0-2)",
+      "52' Byron Bonilla (0-3)",
+      "62' Widman Talavera (0-4)<br>71' Edgar Castillo (0-5)",
       "",
-      "87' Gabriel Sotomayor (4-2)",
       ""
     ]
   },
@@ -416,29 +439,6 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "NCA D1",
-    "title": "San Marcos 1-0 Walter Ferretti",
-    "homeTeam": "San Marcos",
-    "awayTeam": "Walter Ferretti",
-    "score": "1-0",
-    "matchId": "5119023",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "64' \u00c1ngel Olier (1-0)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
     "time": "14:10",
     "start_time": "14:10",
     "group": "COL D1",
@@ -455,6 +455,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "NCA D1",
+    "title": "San Marcos 1-0 Walter Ferretti",
+    "homeTeam": "San Marcos",
+    "awayTeam": "Walter Ferretti",
+    "score": "1-0",
+    "matchId": "5119023",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "64' \u00c1ngel Olier (1-0)",
       "",
       ""
     ]
@@ -876,6 +899,29 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
+    "time": "14:30",
+    "start_time": "14:30",
+    "group": "BRA D1",
+    "title": "Mirassol FC 1-1 Palmeiras",
+    "homeTeam": "Mirassol FC",
+    "awayTeam": "Palmeiras",
+    "score": "1-1",
+    "matchId": "5006441",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "50' Carlos Eduardo De Oliveira Alves (1-0)",
+      "75' Mauricio Magalhaes Prado (1-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "CRC D1",
@@ -922,52 +968,6 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "14:00",
-    "start_time": "14:00",
-    "group": "PAN D1",
-    "title": "Union Cocle 2-2 Alianza FC (PAN)",
-    "homeTeam": "Union Cocle",
-    "awayTeam": "Alianza FC (PAN)",
-    "score": "2-2",
-    "matchId": "5111777",
-    "status": "ET",
-    "goals": [
-      "6' David Hunt (1-0)",
-      "",
-      "",
-      "",
-      "49' Jameel Lynch (2-0)",
-      "70' Yeison Ortega (2-1)",
-      "",
-      "90+4' Carlos Rodr\u00edguez (2-2)"
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
-    "time": "14:30",
-    "start_time": "14:30",
-    "group": "BRA D1",
-    "title": "Mirassol FC 1-1 Palmeiras",
-    "homeTeam": "Mirassol FC",
-    "awayTeam": "Palmeiras",
-    "score": "1-1",
-    "matchId": "5006441",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "50' Carlos Eduardo De Oliveira Alves (1-0)",
-      "75' Mauricio Magalhaes Prado (1-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
     "time": "15:00",
     "start_time": "15:00",
     "group": "ARG D2",
@@ -985,6 +985,29 @@
       "",
       "",
       "82' Fernando Ariel Brandan (0-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-30",
+    "day": "Sunday",
+    "time": "14:32",
+    "start_time": "14:32",
+    "group": "BRA D1",
+    "title": "Gremio FBPA 3-1 Associacao Chapecoense de Futebol",
+    "homeTeam": "Gremio FBPA",
+    "awayTeam": "Associacao Chapecoense de Futebol",
+    "score": "3-1",
+    "matchId": "5006440",
+    "status": "ET",
+    "goals": [
+      "15' Mauricio Garcez de Jesus (0-1)",
+      "18' Gustavo Martins de Souza Santos (1-1)<br>28' Cristian Pavon (2-1)",
+      "",
+      "",
+      "56' Gustavo Martins de Souza Santos (3-1)",
+      "",
+      "",
       ""
     ]
   },
@@ -1055,29 +1078,6 @@
       "75' Ryan Telfer (2-3)",
       "85' D. Konincks (3-3)",
       "90+2' D. Konincks (4-3)"
-    ]
-  },
-  {
-    "date": "2026-08-30",
-    "day": "Sunday",
-    "time": "14:32",
-    "start_time": "14:32",
-    "group": "BRA D1",
-    "title": "Gremio FBPA 3-1 Associacao Chapecoense de Futebol",
-    "homeTeam": "Gremio FBPA",
-    "awayTeam": "Associacao Chapecoense de Futebol",
-    "score": "3-1",
-    "matchId": "5006440",
-    "status": "ET",
-    "goals": [
-      "15' Mauricio Garcez de Jesus (0-1)",
-      "18' Gustavo Martins de Souza Santos (1-1)<br>28' Cristian Pavon (2-1)",
-      "",
-      "",
-      "56' Gustavo Martins de Souza Santos (3-1)",
-      "",
-      "",
-      ""
     ]
   },
   {
@@ -1336,24 +1336,24 @@
   {
     "date": "2026-08-30",
     "day": "Sunday",
-    "time": "14:02",
-    "start_time": "14:02",
-    "group": "NCA D1",
-    "title": "Sport Sebaco 0-5 Real Esteli",
-    "homeTeam": "Sport Sebaco",
-    "awayTeam": "Real Esteli",
-    "score": "0-5",
-    "matchId": "5119020",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "PAN D1",
+    "title": "Union Cocle 2-2 Alianza FC (PAN)",
+    "homeTeam": "Union Cocle",
+    "awayTeam": "Alianza FC (PAN)",
+    "score": "2-2",
+    "matchId": "5111777",
     "status": "ET",
     "goals": [
-      "2' Ricardo Blanco (0-1)",
+      "6' David Hunt (1-0)",
       "",
       "",
-      "45+6' Byron Bonilla (0-2)",
-      "52' Byron Bonilla (0-3)",
-      "62' Widman Talavera (0-4)<br>71' Edgar Castillo (0-5)",
       "",
-      ""
+      "49' Jameel Lynch (2-0)",
+      "70' Yeison Ortega (2-1)",
+      "",
+      "90+4' Carlos Rodr\u00edguez (2-2)"
     ]
   },
   {
@@ -1362,15 +1362,15 @@
     "time": "19:34",
     "start_time": "19:34",
     "group": "USA MLSRv",
-    "title": "San Jose Earthquakes B 1-0 Los Angeles FC II",
+    "title": "San Jose Earthquakes B 2-0 Los Angeles FC II",
     "homeTeam": "San Jose Earthquakes B",
     "awayTeam": "Los Angeles FC II",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5029900",
-    "status": "24'",
+    "status": "39'",
     "goals": [
       "",
-      "18' Kaedren Spivey (1-0)",
+      "18' Kaedren Spivey (1-0)<br>24' Zachary Bohane (2-0)",
       "",
       "",
       "",
@@ -1390,7 +1390,7 @@
     "awayTeam": "Atletico San Luis",
     "score": "0-2",
     "matchId": "5077290",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "5' David Rodriguez (0-1)",
       "",
@@ -1413,7 +1413,7 @@
     "awayTeam": "Tacoma Defiance",
     "score": "1-0",
     "matchId": "5029902",
-    "status": "67'",
+    "status": "82'",
     "goals": [
       "",
       "",
@@ -1459,7 +1459,7 @@
     "awayTeam": "Atletico Bucaramanga",
     "score": "0-1",
     "matchId": "5072454",
-    "status": "81'",
+    "status": "90+'",
     "goals": [
       "",
       "",

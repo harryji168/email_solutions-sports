@@ -2,6 +2,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "00:32",
+    "start_time": "00:32",
+    "group": "IND SSL",
+    "title": "Lawsohtun SC 0-0 Umrynjah",
+    "homeTeam": "Lawsohtun SC",
+    "awayTeam": "Umrynjah",
+    "score": "0-0",
+    "matchId": "5179693",
+    "status": "15'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "23:00",
     "start_time": "23:00",
     "group": "IND MPL",
@@ -10,14 +33,14 @@
     "awayTeam": "Saikhamakawn",
     "score": "0-3",
     "matchId": "5179638",
-    "status": "73'",
+    "status": "88'",
     "goals": [
       "",
       "",
       "",
-      "",
-      "",
-      "",
+      "45+3' 0-1",
+      "53' 0-2",
+      "69' 0-3",
       "",
       ""
     ]

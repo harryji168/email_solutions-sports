@@ -25,6 +25,29 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "BRA WT",
+    "title": "Bahia de Feira BA Women\\s 1-1 Palmeiras SP Women\\s",
+    "homeTeam": "Bahia de Feira BA Women\\s",
+    "awayTeam": "Palmeiras SP Women\\s",
+    "score": "1-1",
+    "matchId": "5173596",
+    "status": "ET",
+    "goals": [
+      "",
+      "29' Brena (0-1)",
+      "44' Wendy Carballo (1-1)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "day": "Monday",
     "time": "18:05",
     "start_time": "18:05",
     "group": "COL D1",
@@ -97,16 +120,39 @@
     "time": "19:00",
     "start_time": "19:00",
     "group": "OFC U19",
-    "title": "Samoa U19 0-3 New Caledonia(U19)",
+    "title": "Samoa U19 1-4 New Caledonia(U19)",
     "homeTeam": "Samoa U19",
     "awayTeam": "New Caledonia(U19)",
-    "score": "0-3",
+    "score": "1-4",
     "matchId": "5174975",
-    "status": "HT",
+    "status": "58'",
     "goals": [
       "3' Ezekiel Wamowe (0-1)<br>9' Fabrice Iopue (0-2)",
       "22' Kyllian Wiako (0-3)",
       "",
+      "",
+      "48' Landry Thupaco (0-4)<br>51' Isaiah Afamasaga (1-4)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "day": "Monday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "COL D1",
+    "title": "Deportivo Pasto 1-2 Deportivo Pereira",
+    "homeTeam": "Deportivo Pasto",
+    "awayTeam": "Deportivo Pereira",
+    "score": "1-2",
+    "matchId": "5072457",
+    "status": "ET",
+    "goals": [
+      "5' Jordy Monroy (0-1)",
+      "21' Santiago Jimenez Mejia (1-1)",
+      "41' Jhon Largacha (1-2)",
       "",
       "",
       "",
@@ -186,29 +232,6 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "BRA WT",
-    "title": "Bahia de Feira BA Women\\s 1-1 Palmeiras SP Women\\s",
-    "homeTeam": "Bahia de Feira BA Women\\s",
-    "awayTeam": "Palmeiras SP Women\\s",
-    "score": "1-1",
-    "matchId": "5173596",
-    "status": "ET",
-    "goals": [
-      "",
-      "29' Brena (0-1)",
-      "44' Wendy Carballo (1-1)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "day": "Monday",
     "time": "16:00",
     "start_time": "16:00",
     "group": "BRA CP",
@@ -227,6 +250,29 @@
       "",
       "89' Filipinho (2-0)",
       ""
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "day": "Monday",
+    "time": "17:04",
+    "start_time": "17:04",
+    "group": "ARG D2",
+    "title": "Gimnasia y Esgrima de Jujuy 1-1 Agropecuario Argentino",
+    "homeTeam": "Gimnasia y Esgrima de Jujuy",
+    "awayTeam": "Agropecuario Argentino",
+    "score": "1-1",
+    "matchId": "5013800",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "69' Cristian Menendez (1-0)",
+      "",
+      "90+3' Juan Cruz Vega (1-1)"
     ]
   },
   {
@@ -278,24 +324,24 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
-    "time": "17:04",
-    "start_time": "17:04",
-    "group": "ARG D2",
-    "title": "Gimnasia y Esgrima de Jujuy 1-1 Agropecuario Argentino",
-    "homeTeam": "Gimnasia y Esgrima de Jujuy",
-    "awayTeam": "Agropecuario Argentino",
-    "score": "1-1",
-    "matchId": "5013800",
+    "time": "16:31",
+    "start_time": "16:31",
+    "group": "VEN D1",
+    "title": "Academia Puerto Cabello 3-0 Anzoategui FC",
+    "homeTeam": "Academia Puerto Cabello",
+    "awayTeam": "Anzoategui FC",
+    "score": "3-0",
+    "matchId": "5174787",
     "status": "ET",
     "goals": [
+      "4' Edwuin Alexander Pernia Martinez (1-0)",
+      "23' Jean Franco Castillo Castillo (2-0)",
       "",
       "",
       "",
       "",
-      "",
-      "69' Cristian Menendez (1-0)",
-      "",
-      "90+3' Juan Cruz Vega (1-1)"
+      "80' Diego German Osorio Hidalgo (3-0)",
+      ""
     ]
   },
   {
@@ -341,29 +387,6 @@
       "58' Facundo Velazco (1-0)",
       "",
       "78' Gustavo Gotti (2-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "day": "Monday",
-    "time": "16:31",
-    "start_time": "16:31",
-    "group": "VEN D1",
-    "title": "Academia Puerto Cabello 3-0 Anzoategui FC",
-    "homeTeam": "Academia Puerto Cabello",
-    "awayTeam": "Anzoategui FC",
-    "score": "3-0",
-    "matchId": "5174787",
-    "status": "ET",
-    "goals": [
-      "4' Edwuin Alexander Pernia Martinez (1-0)",
-      "23' Jean Franco Castillo Castillo (2-0)",
-      "",
-      "",
-      "",
-      "",
-      "80' Diego German Osorio Hidalgo (3-0)",
       ""
     ]
   },
@@ -416,6 +439,29 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
+    "time": "14:58",
+    "start_time": "14:58",
+    "group": "ARG D1",
+    "title": "Estudiantes de La Plata 0-0 Newell\\s Old Boys",
+    "homeTeam": "Estudiantes de La Plata",
+    "awayTeam": "Newell\\s Old Boys",
+    "score": "0-0",
+    "matchId": "5052562",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "day": "Monday",
     "time": "14:30",
     "start_time": "14:30",
     "group": "PAR D2",
@@ -439,14 +485,14 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
-    "time": "14:58",
-    "start_time": "14:58",
+    "time": "15:01",
+    "start_time": "15:01",
     "group": "ARG D1",
-    "title": "Estudiantes de La Plata 0-0 Newell\\s Old Boys",
-    "homeTeam": "Estudiantes de La Plata",
-    "awayTeam": "Newell\\s Old Boys",
-    "score": "0-0",
-    "matchId": "5052562",
+    "title": "Defensa y Justicia 1-0 Club Atletico Platense",
+    "homeTeam": "Defensa y Justicia",
+    "awayTeam": "Club Atletico Platense",
+    "score": "1-0",
+    "matchId": "5052560",
     "status": "ET",
     "goals": [
       "",
@@ -454,7 +500,7 @@
       "",
       "",
       "",
-      "",
+      "75' Hector David Martinez (1-0)",
       "",
       ""
     ]
@@ -479,29 +525,6 @@
       "58' Prisca Chilufya (1-4)",
       "66' Maiara Carolina Niehues (1-5)",
       "88' A\u00efssata Traor\u00e9 (2-5)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "day": "Monday",
-    "time": "15:01",
-    "start_time": "15:01",
-    "group": "ARG D1",
-    "title": "Defensa y Justicia 1-0 Club Atletico Platense",
-    "homeTeam": "Defensa y Justicia",
-    "awayTeam": "Club Atletico Platense",
-    "score": "1-0",
-    "matchId": "5052560",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "75' Hector David Martinez (1-0)",
-      "",
       ""
     ]
   },
@@ -572,29 +595,6 @@
       "",
       "",
       "90+6' Vict\u00f3ria Kristine Albuquerque de Miranda (0-1)"
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "COL D1",
-    "title": "Deportivo Pasto 1-2 Deportivo Pereira",
-    "homeTeam": "Deportivo Pasto",
-    "awayTeam": "Deportivo Pereira",
-    "score": "1-2",
-    "matchId": "5072457",
-    "status": "ET",
-    "goals": [
-      "5' Jordy Monroy (0-1)",
-      "21' Santiago Jimenez Mejia (1-1)",
-      "41' Jhon Largacha (1-2)",
-      "",
-      "",
-      "",
-      "",
-      ""
     ]
   },
   {

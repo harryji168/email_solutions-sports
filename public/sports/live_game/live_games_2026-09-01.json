@@ -462,6 +462,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "07:00",
+    "start_time": "07:00",
+    "group": "SCO YTHL",
+    "title": "Kilmarnock(U20) 2-1 Motherwell FC(U20)",
+    "homeTeam": "Kilmarnock(U20)",
+    "awayTeam": "Motherwell FC(U20)",
+    "score": "2-1",
+    "matchId": "5140204",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG D1",
@@ -1635,29 +1658,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "07:00",
-    "start_time": "07:00",
-    "group": "SCO YTHL",
-    "title": "Kilmarnock(U20) 2-1 Motherwell FC(U20)",
-    "homeTeam": "Kilmarnock(U20)",
-    "awayTeam": "Motherwell FC(U20)",
-    "score": "2-1",
-    "matchId": "5140204",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "ENG U21D2",
@@ -2187,6 +2187,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "COL WL",
+    "title": "Orsomarso Women\\s 0-0 Deportivo Cali Women\\s",
+    "homeTeam": "Orsomarso Women\\s",
+    "awayTeam": "Deportivo Cali Women\\s",
+    "score": "0-0",
+    "matchId": "5173071",
+    "status": "56'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "ARG RL",
@@ -2256,6 +2279,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "13:00",
+    "start_time": "13:00",
+    "group": "COL D2",
+    "title": "Envigado F.C. 0-1 Union Magdalena",
+    "homeTeam": "Envigado F.C.",
+    "awayTeam": "Union Magdalena",
+    "score": "0-1",
+    "matchId": "5072233",
+    "status": "57'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "49' 0-1",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "ARG RL",
@@ -2297,6 +2343,29 @@
       "68' 0-3",
       "",
       "90' 0-4"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "13:01",
+    "start_time": "13:01",
+    "group": "PER D1",
+    "title": "Atletico Grau 0-0 FBC Melgar",
+    "homeTeam": "Atletico Grau",
+    "awayTeam": "FBC Melgar",
+    "score": "0-0",
+    "matchId": "5072005",
+    "status": "50'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -2348,6 +2417,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "12:00",
+    "start_time": "12:00",
+    "group": "POR LRU23",
+    "title": "Penafiel(U23) 1-1 Leixoes(U23)",
+    "homeTeam": "Penafiel(U23)",
+    "awayTeam": "Leixoes(U23)",
+    "score": "1-1",
+    "matchId": "5131101",
+    "status": "ET",
+    "goals": [
+      "12' Moroni Nogueira Leal Penido (0-1)",
+      "28' 1-1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "URU Cup",
@@ -2387,6 +2479,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "12:00",
+    "start_time": "12:00",
+    "group": "ITA PRO LC",
+    "title": "Ravenna 2-1 Forli FC",
+    "homeTeam": "Ravenna",
+    "awayTeam": "Forli FC",
+    "score": "2-1",
+    "matchId": "5170297",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "59' Nicol\u00f2 Tordiglione (0-1)",
+      "64' Joshua Tenkorang (1-1)<br>67' Cristian Spini (2-1)",
       "",
       ""
     ]
@@ -2486,6 +2601,52 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "12:00",
+    "start_time": "12:00",
+    "group": "ITA PRO LC",
+    "title": "SSC Bari 1-1 Picerno",
+    "homeTeam": "SSC Bari",
+    "awayTeam": "Picerno",
+    "score": "1-1",
+    "matchId": "5170281",
+    "status": "ET",
+    "goals": [
+      "4' Mirko Elia (1-0)",
+      "",
+      "31' Giuseppe Coppola (1-1)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "03:10",
+    "start_time": "03:10",
+    "group": "IND SSL",
+    "title": "Meghalaya Police 0-2 Lajong B",
+    "homeTeam": "Meghalaya Police",
+    "awayTeam": "Lajong B",
+    "score": "0-2",
+    "matchId": "5179643",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "38' Ricky Kharkongor (0-1)",
+      "",
+      "54' Lalmuansanga (0-2)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "ROM Cup",
@@ -2525,6 +2686,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "12:00",
+    "start_time": "12:00",
+    "group": "ITA PRO LC",
+    "title": "S.S.D. Potenza Calcio 1-1 S.S. Monopoli 1966",
+    "homeTeam": "S.S.D. Potenza Calcio",
+    "awayTeam": "S.S. Monopoli 1966",
+    "score": "1-1",
+    "matchId": "5166346",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "39' Skirmantas Paukstys (0-1)",
+      "",
+      "",
+      "67' Jacopo Murano (1-1)",
       "",
       ""
     ]
@@ -2701,7 +2885,7 @@
     "awayTeam": "AC Monza",
     "score": "0-1",
     "matchId": "5167949",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -3199,29 +3383,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "08:02",
-    "start_time": "08:02",
-    "group": "GRE Cup",
-    "title": "Volos NFC 2-2 Kalamata AO",
-    "homeTeam": "Volos NFC",
-    "awayTeam": "Kalamata AO",
-    "score": "2-2",
-    "matchId": "5175287",
-    "status": "ET",
-    "goals": [
-      "",
-      "26' Jovanny David Bolivar Alvarado (0-1)",
-      "38' Julian Bonetto (0-2)",
-      "",
-      "",
-      "74' Jan Carlos Hurtado Anchico (1-2)",
-      "83' Matias Gonzalez (2-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "11:45",
     "start_time": "11:45",
     "group": "INT CF",
@@ -3262,6 +3423,29 @@
       "51' 2-1<br>56' 3-1",
       "",
       "83' 4-1",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "08:02",
+    "start_time": "08:02",
+    "group": "GRE Cup",
+    "title": "Volos NFC 2-2 Kalamata AO",
+    "homeTeam": "Volos NFC",
+    "awayTeam": "Kalamata AO",
+    "score": "2-2",
+    "matchId": "5175287",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Jovanny David Bolivar Alvarado (0-1)",
+      "38' Julian Bonetto (0-2)",
+      "",
+      "",
+      "74' Jan Carlos Hurtado Anchico (1-2)",
+      "83' Matias Gonzalez (2-2)",
       ""
     ]
   },
@@ -3513,29 +3697,6 @@
       "",
       "",
       "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "03:10",
-    "start_time": "03:10",
-    "group": "IND SSL",
-    "title": "Meghalaya Police 0-2 Lajong B",
-    "homeTeam": "Meghalaya Police",
-    "awayTeam": "Lajong B",
-    "score": "0-2",
-    "matchId": "5179643",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "38' Ricky Kharkongor (0-1)",
-      "",
-      "54' Lalmuansanga (0-2)",
       "",
       "",
       ""
@@ -4326,29 +4487,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "10:30",
-    "start_time": "10:30",
-    "group": "SUI D2",
-    "title": "Stade Lausanne Ouchy 3-0 Etoile Carouge",
-    "homeTeam": "Stade Lausanne Ouchy",
-    "awayTeam": "Etoile Carouge",
-    "score": "3-0",
-    "matchId": "5079826",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45' Malko Sartoretti (1-0)",
-      "",
-      "72' Ronaldo Freitas (2-0)",
-      "",
-      "90' Julen Carrasco (3-0)"
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "08:03",
     "start_time": "08:03",
     "group": "ISR Cup",
@@ -4372,24 +4510,24 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "08:02",
-    "start_time": "08:02",
-    "group": "TFF 1. Lig",
-    "title": "Umraniyespor 0-1 Muglaspor",
-    "homeTeam": "Umraniyespor",
-    "awayTeam": "Muglaspor",
-    "score": "0-1",
-    "matchId": "5115010",
+    "time": "10:30",
+    "start_time": "10:30",
+    "group": "SUI D2",
+    "title": "Stade Lausanne Ouchy 3-0 Etoile Carouge",
+    "homeTeam": "Stade Lausanne Ouchy",
+    "awayTeam": "Etoile Carouge",
+    "score": "3-0",
+    "matchId": "5079826",
     "status": "ET",
     "goals": [
       "",
-      "26' Mamady Diarra (0-1)",
       "",
       "",
+      "45' Malko Sartoretti (1-0)",
       "",
+      "72' Ronaldo Freitas (2-0)",
       "",
-      "",
-      ""
+      "90' Julen Carrasco (3-0)"
     ]
   },
   {
@@ -4418,6 +4556,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "08:02",
+    "start_time": "08:02",
+    "group": "TFF 1. Lig",
+    "title": "Umraniyespor 0-1 Muglaspor",
+    "homeTeam": "Umraniyespor",
+    "awayTeam": "Muglaspor",
+    "score": "0-1",
+    "matchId": "5115010",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Mamady Diarra (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "10:30",
     "start_time": "10:30",
     "group": "SAPL",
@@ -4441,109 +4602,17 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "12:00",
-    "start_time": "12:00",
-    "group": "ITA PRO LC",
-    "title": "Ravenna 2-1 Forli FC",
-    "homeTeam": "Ravenna",
-    "awayTeam": "Forli FC",
-    "score": "2-1",
-    "matchId": "5170297",
-    "status": "ET",
+    "time": "14:00",
+    "start_time": "14:00",
+    "group": "URU Cup",
+    "title": "Montevideo Wanderers 0-1 Club Atletico Cerro",
+    "homeTeam": "Montevideo Wanderers",
+    "awayTeam": "Club Atletico Cerro",
+    "score": "0-1",
+    "matchId": "5173243",
+    "status": "15'",
     "goals": [
-      "",
-      "",
-      "",
-      "",
-      "59' Nicol\u00f2 Tordiglione (0-1)",
-      "64' Joshua Tenkorang (1-1)<br>67' Cristian Spini (2-1)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "12:00",
-    "start_time": "12:00",
-    "group": "POR LRU23",
-    "title": "Penafiel(U23) 1-1 Leixoes(U23)",
-    "homeTeam": "Penafiel(U23)",
-    "awayTeam": "Leixoes(U23)",
-    "score": "1-1",
-    "matchId": "5131101",
-    "status": "ET",
-    "goals": [
-      "12' Moroni Nogueira Leal Penido (0-1)",
-      "28' 1-1",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "13:01",
-    "start_time": "13:01",
-    "group": "PER D1",
-    "title": "Atletico Grau 0-0 FBC Melgar",
-    "homeTeam": "Atletico Grau",
-    "awayTeam": "FBC Melgar",
-    "score": "0-0",
-    "matchId": "5072005",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "13:00",
-    "start_time": "13:00",
-    "group": "COL D2",
-    "title": "Envigado F.C. 0-0 Union Magdalena",
-    "homeTeam": "Envigado F.C.",
-    "awayTeam": "Union Magdalena",
-    "score": "0-0",
-    "matchId": "5072233",
-    "status": "HT",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "13:00",
-    "start_time": "13:00",
-    "group": "COL WL",
-    "title": "Orsomarso Women\\s 0-0 Deportivo Cali Women\\s",
-    "homeTeam": "Orsomarso Women\\s",
-    "awayTeam": "Deportivo Cali Women\\s",
-    "score": "0-0",
-    "matchId": "5173071",
-    "status": "HT",
-    "goals": [
-      "",
+      "3' 0-1",
       "",
       "",
       "",

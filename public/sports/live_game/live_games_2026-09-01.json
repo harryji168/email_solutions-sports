@@ -5,35 +5,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG D2",
-    "title": "Crewe Alexandra F.C. 1-2 Walsall",
-    "homeTeam": "Crewe Alexandra F.C.",
-    "awayTeam": "Walsall",
-    "score": "1-2",
-    "matchId": "5090716",
-    "status": "86'",
-    "goals": [
-      "",
-      "",
-      "42' Aaron Pressley (0-1)",
-      "",
-      "50' Josh March (1-1)<br>57' Aaron Pressley (1-2)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "ENG D2",
     "title": "Chesterfield F.C. 1-1 Gillingham",
     "homeTeam": "Chesterfield F.C.",
     "awayTeam": "Gillingham",
     "score": "1-1",
     "matchId": "5090714",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "",
       "22' Joshua Abdulai Koroma (1-0)",
@@ -48,61 +25,15 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "10:30",
-    "start_time": "10:30",
-    "group": "SAPL",
-    "title": "Kruger United 0-4 Orlando Pirates F.C.",
-    "homeTeam": "Kruger United",
-    "awayTeam": "Orlando Pirates F.C.",
-    "score": "0-4",
-    "matchId": "5136149",
-    "status": "ET",
-    "goals": [
-      "4' Ghampani Lungu (0-1)",
-      "",
-      "",
-      "",
-      "54' Boitumelo Radiopane (0-2)",
-      "",
-      "79' Yanela Mbuthuma (0-3)",
-      "90+2' Yanela Mbuthuma (0-4)"
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "07:00",
-    "start_time": "07:00",
-    "group": "SCO YTHL",
-    "title": "Kilmarnock(U20) 2-1 Motherwell FC(U20)",
-    "homeTeam": "Kilmarnock(U20)",
-    "awayTeam": "Motherwell FC(U20)",
-    "score": "2-1",
-    "matchId": "5140204",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "11:47",
     "start_time": "11:47",
     "group": "ENG D2",
-    "title": "Cheltenham Town F.C. 2-2 York City F.C.",
+    "title": "Cheltenham Town F.C. 3-2 York City F.C.",
     "homeTeam": "Cheltenham Town F.C.",
     "awayTeam": "York City F.C.",
-    "score": "2-2",
+    "score": "3-2",
     "matchId": "5090713",
-    "status": "83'",
+    "status": "90+'",
     "goals": [
       "12' Ollie Pearce (0-1)",
       "17' Jake Evans (1-1)",
@@ -110,7 +41,7 @@
       "",
       "",
       "65' Jake Evans (2-1)<br>73' Jovan Malcolm (2-2)",
-      "",
+      "86' Charlie McCann (3-2)",
       ""
     ]
   },
@@ -143,12 +74,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG D2",
-    "title": "Bristol Rovers F.C. 1-0 Colchester United F.C.",
+    "title": "Bristol Rovers F.C. 2-0 Colchester United F.C.",
     "homeTeam": "Bristol Rovers F.C.",
     "awayTeam": "Colchester United F.C.",
-    "score": "1-0",
+    "score": "2-0",
     "matchId": "5090711",
-    "status": "83'",
+    "status": "90+'",
     "goals": [
       "",
       "27' Tom James (1-0)",
@@ -157,7 +88,7 @@
       "",
       "",
       "",
-      ""
+      "90+3' Ellis Harrison (2-0)"
     ]
   },
   {
@@ -194,7 +125,7 @@
     "awayTeam": "Grimsby Town F.C.",
     "score": "2-2",
     "matchId": "5090709",
-    "status": "78'",
+    "status": "90+'",
     "goals": [
       "6' Joseph Anderson (0-1)",
       "",
@@ -240,7 +171,7 @@
     "awayTeam": "Sheffield Wednesday F.C.",
     "score": "1-2",
     "matchId": "5089359",
-    "status": "85'",
+    "status": "90+'",
     "goals": [
       "6' Cauley Martin Woodrow-Patching (1-0)<br>11' Louie Barry (1-1)",
       "",
@@ -309,7 +240,7 @@
     "awayTeam": "Stevenage F.C.",
     "score": "0-0",
     "matchId": "5089357",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -378,7 +309,7 @@
     "awayTeam": "Plymouth Argyle F.C.",
     "score": "2-0",
     "matchId": "5089355",
-    "status": "84'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -447,7 +378,7 @@
     "awayTeam": "Oxford United F.C.",
     "score": "3-1",
     "matchId": "5089354",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -516,7 +447,7 @@
     "awayTeam": "Notts County F.C.",
     "score": "1-1",
     "matchId": "5089353",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -580,12 +511,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG D1",
-    "title": "Bromley F.C. 0-4 Leyton Orient F.C.",
+    "title": "Bromley F.C. 0-5 Leyton Orient F.C.",
     "homeTeam": "Bromley F.C.",
     "awayTeam": "Leyton Orient F.C.",
-    "score": "0-4",
+    "score": "0-5",
     "matchId": "5089351",
-    "status": "86'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -594,7 +525,7 @@
       "46' Yusuf Akhamrich (0-2)<br>51' Yusuf Akhamrich (0-3)",
       "66' Jaze Kabia (0-4)",
       "",
-      ""
+      "90+1' Armando Dobra (0-5)"
     ]
   },
   {
@@ -649,12 +580,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG D1",
-    "title": "Bradford City A.F.C. 1-1 Cambridge United F.C.",
+    "title": "Bradford City A.F.C. 1-2 Cambridge United F.C.",
     "homeTeam": "Bradford City A.F.C.",
     "awayTeam": "Cambridge United F.C.",
-    "score": "1-1",
+    "score": "1-2",
     "matchId": "5089350",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -662,7 +593,7 @@
       "",
       "58' Sullay Kaikai (0-1)",
       "",
-      "76' Bobby Pointon (1-1)",
+      "76' Bobby Pointon (1-1)<br>88' Ben Knight (1-2)",
       ""
     ]
   },
@@ -723,7 +654,7 @@
     "awayTeam": "Hartlepool United F.C.",
     "score": "1-0",
     "matchId": "5115415",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -784,38 +715,15 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "POR LRU23",
-    "title": "Farense(U23) 4-3 FC Famalicao(U23)",
-    "homeTeam": "Farense(U23)",
-    "awayTeam": "FC Famalicao(U23)",
-    "score": "4-3",
-    "matchId": "5131102",
-    "status": "ET",
-    "goals": [
-      "9' Duarte Furtado (1-0)",
-      "25' Jonas (1-1)",
-      "",
-      "45+2' Martim Beijoca (2-1)",
-      "58' Jo\u00e3o Costa (3-1)",
-      "68' Gon\u00e7alo Almeida (4-1)",
-      "86' Lamine B\u00e8ye (4-2)",
-      "90' Lamine B\u00e8ye (4-3)"
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "11:50",
     "start_time": "11:50",
     "group": "BOS PL",
-    "title": "Zrinjski Mostar 2-1 FK BSK Banja Luka",
+    "title": "Zrinjski Mostar 3-1 FK BSK Banja Luka",
     "homeTeam": "Zrinjski Mostar",
     "awayTeam": "FK BSK Banja Luka",
-    "score": "2-1",
+    "score": "3-1",
     "matchId": "5111597",
-    "status": "80'",
+    "status": "90+'",
     "goals": [
       "",
       "",
@@ -823,7 +731,7 @@
       "",
       "47' Nemanja Bilbija (1-0)<br>54' Mario Cuze (2-0)",
       "66' Goran Karacic (2-1)",
-      "",
+      "88' Antonio Ilic (3-1)",
       ""
     ]
   },
@@ -876,6 +784,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "POR LRU23",
+    "title": "Farense(U23) 4-3 FC Famalicao(U23)",
+    "homeTeam": "Farense(U23)",
+    "awayTeam": "FC Famalicao(U23)",
+    "score": "4-3",
+    "matchId": "5131102",
+    "status": "ET",
+    "goals": [
+      "9' Duarte Furtado (1-0)",
+      "25' Jonas (1-1)",
+      "",
+      "45+2' Martim Beijoca (2-1)",
+      "58' Jo\u00e3o Costa (3-1)",
+      "68' Gon\u00e7alo Almeida (4-1)",
+      "86' Lamine B\u00e8ye (4-2)",
+      "90' Lamine B\u00e8ye (4-3)"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "11:46",
     "start_time": "11:46",
     "group": "ENG LCH",
@@ -884,7 +815,7 @@
     "awayTeam": "Wolverhampton Wanderers F.C.",
     "score": "4-2",
     "matchId": "5090198",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -953,7 +884,7 @@
     "awayTeam": "Watford F.C.",
     "score": "2-0",
     "matchId": "5090196",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "8' Eom Ji Sung (1-0)",
       "29' Adam Uche Idah (2-0)",
@@ -1017,12 +948,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG LCH",
-    "title": "Sheffield United F.C. 2-2 Bolton Wanderers F.C.",
+    "title": "Sheffield United F.C. 3-2 Bolton Wanderers F.C.",
     "homeTeam": "Sheffield United F.C.",
     "awayTeam": "Bolton Wanderers F.C.",
-    "score": "2-2",
+    "score": "3-2",
     "matchId": "5090192",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "1' Xavier Simons (0-1)<br>4' Japhet Tanganga (1-1)",
       "",
@@ -1031,30 +962,7 @@
       "",
       "67' Sam Dalby (1-2)<br>68' Patrick James Bamford (2-2)",
       "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "ENG U21D2",
-    "title": "Bristol City(U21) 3-1 Sheffield United(U21)",
-    "homeTeam": "Bristol City(U21)",
-    "awayTeam": "Sheffield United(U21)",
-    "score": "3-1",
-    "matchId": "5158854",
-    "status": "ET",
-    "goals": [
-      "9' Billy Blacker (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "64' Ruebin Sheppard (1-1)",
-      "84' Seb Naylor (2-1)",
-      "90' Seb Naylor (3-1)"
+      "90+3' Romelle Donovan (3-2)"
     ]
   },
   {
@@ -1114,7 +1022,7 @@
     "awayTeam": "Bristol City",
     "score": "1-3",
     "matchId": "5090190",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "4' Scott Twine (0-1)",
       "",
@@ -1124,6 +1032,29 @@
       "",
       "79' Eissat Lisav Naif (1-2)<br>86' Dominic Ballard (1-3)",
       ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "ENG U21D2",
+    "title": "Bristol City(U21) 3-1 Sheffield United(U21)",
+    "homeTeam": "Bristol City(U21)",
+    "awayTeam": "Sheffield United(U21)",
+    "score": "3-1",
+    "matchId": "5158854",
+    "status": "ET",
+    "goals": [
+      "9' Billy Blacker (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "64' Ruebin Sheppard (1-1)",
+      "84' Seb Naylor (2-1)",
+      "90' Seb Naylor (3-1)"
     ]
   },
   {
@@ -1183,7 +1114,7 @@
     "awayTeam": "Derby County F.C.",
     "score": "0-2",
     "matchId": "5090188",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "",
       "16' Sammie Szmodics (0-1)",
@@ -1252,7 +1183,7 @@
     "awayTeam": "Blackburn Rovers F.C.",
     "score": "0-0",
     "matchId": "5090186",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1313,52 +1244,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "08:02",
-    "start_time": "08:02",
-    "group": "TFF 1. Lig",
-    "title": "Umraniyespor 0-1 Muglaspor",
-    "homeTeam": "Umraniyespor",
-    "awayTeam": "Muglaspor",
-    "score": "0-1",
-    "matchId": "5115010",
-    "status": "ET",
-    "goals": [
-      "",
-      "26' Mamady Diarra (0-1)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "04:35",
-    "start_time": "04:35",
-    "group": "CHA FACup",
-    "title": "Dalian Yingbo F.C. 1-0 Shanghai Shenhua",
-    "homeTeam": "Dalian Yingbo F.C.",
-    "awayTeam": "Shanghai Shenhua",
-    "score": "1-0",
-    "matchId": "5135770",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "54' Nicolae Claudiu Stanciu (1-0)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "11:45",
     "start_time": "11:45",
     "group": "GERC",
@@ -1367,7 +1252,7 @@
     "awayTeam": "Borussia Dortmund",
     "score": "0-5",
     "matchId": "5076466",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -1420,6 +1305,29 @@
       "",
       "",
       "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "04:35",
+    "start_time": "04:35",
+    "group": "CHA FACup",
+    "title": "Dalian Yingbo F.C. 1-0 Shanghai Shenhua",
+    "homeTeam": "Dalian Yingbo F.C.",
+    "awayTeam": "Shanghai Shenhua",
+    "score": "1-0",
+    "matchId": "5135770",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "54' Nicolae Claudiu Stanciu (1-0)",
       "",
       "",
       ""
@@ -1514,7 +1422,7 @@
       "",
       "",
       "",
-      "90+6' Mbaye Ndiaye (3-0)"
+      "90+5' Mbaye Ndiaye (3-0)"
     ]
   },
   {
@@ -1536,29 +1444,6 @@
       "45' Jakub Wilczynski (2-1)",
       "49' Patryk Kielis (2-2)",
       "64' Jakub Wilczynski (3-2)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "04:00",
-    "start_time": "04:00",
-    "group": "UEFA WUEC",
-    "title": "Metalist 1925 Kharkiv Women\\s 5-0 KFF Mitrovica Women\\s",
-    "homeTeam": "Metalist 1925 Kharkiv Women\\s",
-    "awayTeam": "KFF Mitrovica Women\\s",
-    "score": "5-0",
-    "matchId": "5163956",
-    "status": "ET",
-    "goals": [
-      "8' Daryna Apanashchenko (1-0)",
-      "18' Viktoriya Hiryn (2-0)",
-      "",
-      "",
-      "47' Olha Basanska (3-0)<br>59' Tamila Khimych (4-0)",
-      "69' Viktoriya Hiryn (5-0)",
       "",
       ""
     ]
@@ -1628,6 +1513,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "04:00",
+    "start_time": "04:00",
+    "group": "UEFA WUEC",
+    "title": "Metalist 1925 Kharkiv Women\\s 5-0 KFF Mitrovica Women\\s",
+    "homeTeam": "Metalist 1925 Kharkiv Women\\s",
+    "awayTeam": "KFF Mitrovica Women\\s",
+    "score": "5-0",
+    "matchId": "5163956",
+    "status": "ET",
+    "goals": [
+      "8' Daryna Apanashchenko (1-0)",
+      "18' Viktoriya Hiryn (2-0)",
+      "",
+      "",
+      "47' Olha Basanska (3-0)<br>59' Tamila Khimych (4-0)",
+      "69' Viktoriya Hiryn (5-0)",
       "",
       ""
     ]
@@ -1750,23 +1658,23 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "06:00",
-    "start_time": "06:00",
-    "group": "ROM Cup",
-    "title": "Progresul Spartac 2-5 CS Concordia Chiajna",
-    "homeTeam": "Progresul Spartac",
-    "awayTeam": "CS Concordia Chiajna",
-    "score": "2-5",
-    "matchId": "5173020",
+    "time": "05:30",
+    "start_time": "05:30",
+    "group": "POL Cup",
+    "title": "Korona Kielce B 0-1 Radomiak Radom",
+    "homeTeam": "Korona Kielce B",
+    "awayTeam": "Radomiak Radom",
+    "score": "0-1",
+    "matchId": "5158818",
     "status": "ET",
     "goals": [
-      "11' Nicolae Carnat (0-1)",
-      "25' Alexandru Daniel Jipa (0-2)",
-      "33' Alexandru Daniel Jipa (0-3)<br>38' Mirea R. (1-3)",
       "",
       "",
-      "65' Dumitrescu D. (2-3)<br>73' Robert Ion (2-4)",
-      "84' Sebastian Banu (2-5)",
+      "31' Ronaldo Lumungo Afonso (0-1)",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -1842,29 +1750,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "03:30",
-    "start_time": "03:30",
-    "group": "CZE U19",
-    "title": "SK Sigma Olomouc(U19) 5-3 Sparta Praha(U19)",
-    "homeTeam": "SK Sigma Olomouc(U19)",
-    "awayTeam": "Sparta Praha(U19)",
-    "score": "5-3",
-    "matchId": "5088755",
-    "status": "ET",
-    "goals": [
-      "1' Tom\u00e1\u0161 Pa\u0159enica (1-0)<br>11' Maty\u00e1\u0161 Amler (1-1)",
-      "",
-      "",
-      "",
-      "48' Patrik Lakom\u00fd (2-1)<br>59' Tom\u00e1\u0161 Pa\u0159enica (3-1)",
-      "67' David Ledvinka (4-1)",
-      "80' Maty\u00e1\u0161 Amler (4-2)<br>86' Matej Fejfar (5-2)<br>87' Adam \u0160kop (5-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "BRA CGD2",
@@ -1911,23 +1796,46 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "05:30",
-    "start_time": "05:30",
-    "group": "POL Cup",
-    "title": "Korona Kielce B 0-1 Radomiak Radom",
-    "homeTeam": "Korona Kielce B",
-    "awayTeam": "Radomiak Radom",
-    "score": "0-1",
-    "matchId": "5158818",
+    "time": "06:00",
+    "start_time": "06:00",
+    "group": "ROM Cup",
+    "title": "Progresul Spartac 2-5 CS Concordia Chiajna",
+    "homeTeam": "Progresul Spartac",
+    "awayTeam": "CS Concordia Chiajna",
+    "score": "2-5",
+    "matchId": "5173020",
     "status": "ET",
     "goals": [
+      "11' Nicolae Carnat (0-1)",
+      "25' Alexandru Daniel Jipa (0-2)",
+      "33' Alexandru Daniel Jipa (0-3)<br>38' Mirea R. (1-3)",
       "",
       "",
-      "31' Ronaldo Lumungo Afonso (0-1)",
+      "65' Dumitrescu D. (2-3)<br>73' Robert Ion (2-4)",
+      "84' Sebastian Banu (2-5)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "03:30",
+    "start_time": "03:30",
+    "group": "CZE U19",
+    "title": "SK Sigma Olomouc(U19) 5-3 Sparta Praha(U19)",
+    "homeTeam": "SK Sigma Olomouc(U19)",
+    "awayTeam": "Sparta Praha(U19)",
+    "score": "5-3",
+    "matchId": "5088755",
+    "status": "ET",
+    "goals": [
+      "1' Tom\u00e1\u0161 Pa\u0159enica (1-0)<br>11' Maty\u00e1\u0161 Amler (1-1)",
       "",
       "",
       "",
-      "",
+      "48' Patrik Lakom\u00fd (2-1)<br>59' Tom\u00e1\u0161 Pa\u0159enica (3-1)",
+      "67' David Ledvinka (4-1)",
+      "80' Maty\u00e1\u0161 Amler (4-2)<br>86' Matej Fejfar (5-2)<br>87' Adam \u0160kop (5-3)",
       ""
     ]
   },
@@ -1949,9 +1857,9 @@
       "",
       "",
       "51' 0-1",
-      "69' 1-1",
+      "69' Gabriela Valdez Funes (1-1)",
       "",
-      "90+1' 2-1"
+      "90+1' Tatiana Sarmiento (2-1)"
     ]
   },
   {
@@ -2026,29 +1934,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "03:00",
-    "start_time": "03:00",
-    "group": "POR LRU23",
-    "title": "Moreirense(U23) 0-0 Portimonense(U23)",
-    "homeTeam": "Moreirense(U23)",
-    "awayTeam": "Portimonense(U23)",
-    "score": "0-0",
-    "matchId": "5131100",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "11:00",
     "start_time": "11:00",
     "group": "ARG RL",
@@ -2090,6 +1975,29 @@
       "64' Jaime Costa (2-1)",
       "",
       "90+5' Kelian Baruti (2-2)"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "03:00",
+    "start_time": "03:00",
+    "group": "POR LRU23",
+    "title": "Moreirense(U23) 0-0 Portimonense(U23)",
+    "homeTeam": "Moreirense(U23)",
+    "awayTeam": "Portimonense(U23)",
+    "score": "0-0",
+    "matchId": "5131100",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -2233,29 +2141,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "Railway FC 5-2 Kidderpore SC",
-    "homeTeam": "Railway FC",
-    "awayTeam": "Kidderpore SC",
-    "score": "5-2",
-    "matchId": "5176443",
-    "status": "ET",
-    "goals": [
-      "14' 0-1",
-      "17' 1-1",
-      "35' 1-2",
-      "45+3' 2-2",
-      "52' 3-2",
-      "",
-      "77' 4-2",
-      "90' 5-2"
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "13:00",
     "start_time": "13:00",
     "group": "COL WL",
@@ -2264,7 +2149,7 @@
     "awayTeam": "Deportivo Cali Women\\s",
     "score": "0-0",
     "matchId": "5173071",
-    "status": "28'",
+    "status": "41'",
     "goals": [
       "",
       "",
@@ -2325,6 +2210,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "Railway FC 5-2 Kidderpore SC",
+    "homeTeam": "Railway FC",
+    "awayTeam": "Kidderpore SC",
+    "score": "5-2",
+    "matchId": "5176443",
+    "status": "ET",
+    "goals": [
+      "14' 0-1",
+      "17' 1-1",
+      "35' 1-2",
+      "45+3' 2-2",
+      "52' 3-2",
+      "",
+      "77' 4-2",
+      "90' 5-2"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "13:00",
     "start_time": "13:00",
     "group": "COL D2",
@@ -2333,7 +2241,7 @@
     "awayTeam": "Union Magdalena",
     "score": "0-0",
     "matchId": "5072233",
-    "status": "28'",
+    "status": "41'",
     "goals": [
       "",
       "",
@@ -2402,7 +2310,7 @@
     "awayTeam": "FBC Melgar",
     "score": "0-0",
     "matchId": "5072005",
-    "status": "27'",
+    "status": "40'",
     "goals": [
       "",
       "",
@@ -2463,6 +2371,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "07:00",
+    "start_time": "07:00",
+    "group": "SCO YTHL",
+    "title": "Kilmarnock(U20) 2-1 Motherwell FC(U20)",
+    "homeTeam": "Kilmarnock(U20)",
+    "awayTeam": "Motherwell FC(U20)",
+    "score": "2-1",
+    "matchId": "5140204",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "12:00",
     "start_time": "12:00",
     "group": "POR LRU23",
@@ -2471,7 +2402,7 @@
     "awayTeam": "Leixoes(U23)",
     "score": "1-1",
     "matchId": "5131101",
-    "status": "69'",
+    "status": "82'",
     "goals": [
       "12' Moroni Nogueira Leal Penido (0-1)",
       "28' 1-1",
@@ -2503,6 +2434,75 @@
       "50' Mat\u00edas Cabrera (1-2)",
       "64' Ramiro Quintana (2-2)<br>70' Jorge Gonz\u00e1lez (2-3)",
       "80' Ramiro Quintana (3-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "08:45",
+    "start_time": "08:45",
+    "group": "IRN PR",
+    "title": "Shams Azar F.C. 0-0 Tractor S.C.",
+    "homeTeam": "Shams Azar F.C.",
+    "awayTeam": "Tractor S.C.",
+    "score": "0-0",
+    "matchId": "5171454",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "12:00",
+    "start_time": "12:00",
+    "group": "ITA PRO LC",
+    "title": "Ravenna 2-1 Forli FC",
+    "homeTeam": "Ravenna",
+    "awayTeam": "Forli FC",
+    "score": "2-1",
+    "matchId": "5170297",
+    "status": "82'",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "59' Nicol\u00f2 Tordiglione (0-1)",
+      "64' Joshua Tenkorang (1-1)<br>67' Cristian Spini (2-1)",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "11:00",
+    "start_time": "11:00",
+    "group": "KSA PR",
+    "title": "Al Hilal SFC 3-0 Al-Ahli Saudi FC",
+    "homeTeam": "Al Hilal SFC",
+    "awayTeam": "Al-Ahli Saudi FC",
+    "score": "3-0",
+    "matchId": "5141897",
+    "status": "ET",
+    "goals": [
+      "9' Sergej Milinkovic-Savic (1-0)",
+      "23' Crysencio Summerville (2-0)",
+      "",
+      "",
+      "",
+      "",
+      "86' Ollie Watkins (3-0)",
       ""
     ]
   },
@@ -2555,75 +2555,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "08:45",
-    "start_time": "08:45",
-    "group": "IRN PR",
-    "title": "Shams Azar F.C. 0-0 Tractor S.C.",
-    "homeTeam": "Shams Azar F.C.",
-    "awayTeam": "Tractor S.C.",
-    "score": "0-0",
-    "matchId": "5171454",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "12:00",
-    "start_time": "12:00",
-    "group": "ITA PRO LC",
-    "title": "Ravenna 2-1 Forli FC",
-    "homeTeam": "Ravenna",
-    "awayTeam": "Forli FC",
-    "score": "2-1",
-    "matchId": "5170297",
-    "status": "69'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "59' Nicol\u00f2 Tordiglione (0-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "11:00",
-    "start_time": "11:00",
-    "group": "KSA PR",
-    "title": "Al Hilal SFC 3-0 Al-Ahli Saudi FC",
-    "homeTeam": "Al Hilal SFC",
-    "awayTeam": "Al-Ahli Saudi FC",
-    "score": "3-0",
-    "matchId": "5141897",
-    "status": "ET",
-    "goals": [
-      "9' Sergej Milinkovic-Savic (1-0)",
-      "23' Crysencio Summerville (2-0)",
-      "",
-      "",
-      "",
-      "",
-      "86' Ollie Watkins (3-0)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "08:41",
     "start_time": "08:41",
     "group": "KSA D1",
@@ -2655,7 +2586,7 @@
     "awayTeam": "Picerno",
     "score": "1-1",
     "matchId": "5170281",
-    "status": "70'",
+    "status": "83'",
     "goals": [
       "4' Mirko Elia (1-0)",
       "",
@@ -2716,52 +2647,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "ARM D2",
-    "title": "BKMA II Yerevan 2-0 Bentonit Idzhevan",
-    "homeTeam": "BKMA II Yerevan",
-    "awayTeam": "Bentonit Idzhevan",
-    "score": "2-0",
-    "matchId": "5142972",
-    "status": "ET",
-    "goals": [
-      "5' Hamlet Asoyan (1-0)",
-      "",
-      "40' Artur Manukyan (2-0)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "04:35",
-    "start_time": "04:35",
-    "group": "CHA FACup",
-    "title": "Shandong Taishan F.C. 0-3 Shanghai Port F.C.",
-    "homeTeam": "Shandong Taishan F.C.",
-    "awayTeam": "Shanghai Port F.C.",
-    "score": "0-3",
-    "matchId": "5135771",
-    "status": "ET",
-    "goals": [
-      "",
-      "18' Liu Zhurun (0-1)<br>22' Prince Obeng Ampem (0-2)",
-      "",
-      "",
-      "",
-      "",
-      "79' Yang Xi (0-3)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "12:01",
     "start_time": "12:01",
     "group": "ITA PRO LC",
@@ -2770,14 +2655,14 @@
     "awayTeam": "S.S. Monopoli 1966",
     "score": "1-1",
     "matchId": "5166346",
-    "status": "69'",
+    "status": "82'",
     "goals": [
       "",
       "",
       "39' Skirmantas Paukstys (0-1)",
       "",
       "",
-      "",
+      "67' Jacopo Murano (1-1)",
       "",
       ""
     ]
@@ -2831,22 +2716,68 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "ARM D2",
+    "title": "BKMA II Yerevan 2-0 Bentonit Idzhevan",
+    "homeTeam": "BKMA II Yerevan",
+    "awayTeam": "Bentonit Idzhevan",
+    "score": "2-0",
+    "matchId": "5142972",
+    "status": "ET",
+    "goals": [
+      "5' Hamlet Asoyan (1-0)",
+      "",
+      "40' Artur Manukyan (2-0)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "04:35",
+    "start_time": "04:35",
+    "group": "CHA FACup",
+    "title": "Shandong Taishan F.C. 0-3 Shanghai Port F.C.",
+    "homeTeam": "Shandong Taishan F.C.",
+    "awayTeam": "Shanghai Port F.C.",
+    "score": "0-3",
+    "matchId": "5135771",
+    "status": "ET",
+    "goals": [
+      "",
+      "18' Liu Zhurun (0-1)<br>22' Prince Obeng Ampem (0-2)",
+      "",
+      "",
+      "",
+      "",
+      "79' Yang Xi (0-3)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "12:00",
     "start_time": "12:00",
     "group": "PAR D1",
-    "title": "Club Rubio Nu 2-1 Sportivo San Lorenzo",
+    "title": "Club Rubio Nu 3-1 Sportivo San Lorenzo",
     "homeTeam": "Club Rubio Nu",
     "awayTeam": "Sportivo San Lorenzo",
-    "score": "2-1",
+    "score": "3-1",
     "matchId": "5171343",
-    "status": "69'",
+    "status": "82'",
     "goals": [
       "",
       "25' Javier Vallejos (1-0)",
       "39' M. Ferreira (1-1)",
       "",
       "",
-      "61' Estiven P\u00e9rez (2-1)",
+      "61' Estiven P\u00e9rez (2-1)<br>70' Estiven P\u00e9rez (3-1)",
       "",
       ""
     ]
@@ -2870,7 +2801,7 @@
       "",
       "",
       "69' Nordin Zoufri (2-1)<br>70' Nordin Zoufri (3-1)",
-      "87' 4-1",
+      "",
       ""
     ]
   },
@@ -2908,7 +2839,7 @@
     "awayTeam": "AC Monza",
     "score": "0-1",
     "matchId": "5167949",
-    "status": "67'",
+    "status": "80'",
     "goals": [
       "",
       "",
@@ -2969,6 +2900,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "03:10",
+    "start_time": "03:10",
+    "group": "IND SSL",
+    "title": "Meghalaya Police 0-2 Lajong B",
+    "homeTeam": "Meghalaya Police",
+    "awayTeam": "Lajong B",
+    "score": "0-2",
+    "matchId": "5179643",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "38' Ricky Kharkongor (0-1)",
+      "",
+      "54' Lalmuansanga (0-2)",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "12:00",
     "start_time": "12:00",
     "group": "ENG LCH",
@@ -2977,7 +2931,7 @@
     "awayTeam": "Norwich City",
     "score": "1-0",
     "matchId": "5090194",
-    "status": "70'",
+    "status": "83'",
     "goals": [
       "13' Ethan Galbraith (1-0)",
       "",
@@ -3038,29 +2992,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "02:00",
-    "start_time": "02:00",
-    "group": "MAS FAC",
-    "title": "UM-Damansara United 1-4 Johor Darul Ta\\zim F.C.",
-    "homeTeam": "UM-Damansara United",
-    "awayTeam": "Johor Darul Ta\\zim F.C.",
-    "score": "1-4",
-    "matchId": "5175721",
-    "status": "ET",
-    "goals": [
-      "3' Jairo de Macedo da Silva (0-1)",
-      "29' Bolt Dani (0-2)",
-      "42' Manuel Federico Hidalgo Gasparini (0-3)",
-      "",
-      "54' Manuel Federico Hidalgo Gasparini (0-4)",
-      "",
-      "",
-      "90+1' Amirul Akmal (1-4)"
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "12:00",
     "start_time": "12:00",
     "group": "ENG LCH",
@@ -3069,7 +3000,7 @@
     "awayTeam": "Southampton F.C.",
     "score": "1-1",
     "matchId": "5090183",
-    "status": "71'",
+    "status": "82'",
     "goals": [
       "",
       "",
@@ -3130,29 +3061,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "02:00",
-    "start_time": "02:00",
-    "group": "MAS FAC",
-    "title": "Perak 0-1 Kuala Lumpur City",
-    "homeTeam": "Perak",
-    "awayTeam": "Kuala Lumpur City",
-    "score": "0-1",
-    "matchId": "5175725",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "86' Paulo Josue Stuurmer dos Reis (0-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "05:00",
     "start_time": "05:00",
     "group": "ENG U21D2",
@@ -3171,6 +3079,29 @@
       "",
       "",
       ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "02:00",
+    "start_time": "02:00",
+    "group": "MAS FAC",
+    "title": "UM-Damansara United 1-4 Johor Darul Ta\\zim F.C.",
+    "homeTeam": "UM-Damansara United",
+    "awayTeam": "Johor Darul Ta\\zim F.C.",
+    "score": "1-4",
+    "matchId": "5175721",
+    "status": "ET",
+    "goals": [
+      "3' Jairo de Macedo da Silva (0-1)",
+      "29' Bolt Dani (0-2)",
+      "42' Manuel Federico Hidalgo Gasparini (0-3)",
+      "",
+      "54' Manuel Federico Hidalgo Gasparini (0-4)",
+      "",
+      "",
+      "90+1' Amirul Akmal (1-4)"
     ]
   },
   {
@@ -3199,6 +3130,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "02:00",
+    "start_time": "02:00",
+    "group": "MAS FAC",
+    "title": "Perak 0-1 Kuala Lumpur City",
+    "homeTeam": "Perak",
+    "awayTeam": "Kuala Lumpur City",
+    "score": "0-1",
+    "matchId": "5175725",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "86' Paulo Josue Stuurmer dos Reis (0-1)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "08:30",
     "start_time": "08:30",
     "group": "POL Cup",
@@ -3214,29 +3168,6 @@
       "",
       "",
       "52' Patryk Szysz (1-1)<br>60' Michal Feliks (2-1)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "00:32",
-    "start_time": "00:32",
-    "group": "IND SSL",
-    "title": "Lawsohtun SC 1-1 Umrynjah",
-    "homeTeam": "Lawsohtun SC",
-    "awayTeam": "Umrynjah",
-    "score": "1-1",
-    "matchId": "5179693",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
       "",
       "",
       ""
@@ -3276,6 +3207,29 @@
     "awayTeam": "Deportivo Muniz Reserve",
     "score": "0-0",
     "matchId": "5179682",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "00:32",
+    "start_time": "00:32",
+    "group": "IND SSL",
+    "title": "Lawsohtun SC 1-1 Umrynjah",
+    "homeTeam": "Lawsohtun SC",
+    "awayTeam": "Umrynjah",
+    "score": "1-1",
+    "matchId": "5179693",
     "status": "ET",
     "goals": [
       "",
@@ -3337,23 +3291,23 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "08:00",
-    "start_time": "08:00",
-    "group": "LIT Cup",
-    "title": "Minija Kretinga 3-2 DFK Dainava Alytus",
-    "homeTeam": "Minija Kretinga",
-    "awayTeam": "DFK Dainava Alytus",
-    "score": "3-2",
-    "matchId": "5089598",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "INT CF",
+    "title": "Glentoran FC 3-1 Linfield F.C.",
+    "homeTeam": "Glentoran FC",
+    "awayTeam": "Linfield F.C.",
+    "score": "3-1",
+    "matchId": "5179647",
     "status": "ET",
     "goals": [
-      "11' Gustas Zabita (0-1)",
       "",
       "",
       "",
-      "52' Diba Nwegbo (1-1)",
-      "69' Sow Abou (1-2)<br>71' Linas Zingertas (2-2)",
-      "80' Diba Nwegbo (3-2)",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -3383,15 +3337,84 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "08:00",
+    "start_time": "08:00",
+    "group": "LIT Cup",
+    "title": "Minija Kretinga 3-2 DFK Dainava Alytus",
+    "homeTeam": "Minija Kretinga",
+    "awayTeam": "DFK Dainava Alytus",
+    "score": "3-2",
+    "matchId": "5089598",
+    "status": "ET",
+    "goals": [
+      "11' Gustas Zabita (0-1)",
+      "",
+      "",
+      "",
+      "52' Diba Nwegbo (1-1)",
+      "69' Sow Abou (1-2)<br>71' Linas Zingertas (2-2)",
+      "80' Diba Nwegbo (3-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "08:02",
+    "start_time": "08:02",
+    "group": "GRE Cup",
+    "title": "Volos NFC 2-2 Kalamata AO",
+    "homeTeam": "Volos NFC",
+    "awayTeam": "Kalamata AO",
+    "score": "2-2",
+    "matchId": "5175287",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Jovanny David Bolivar Alvarado (0-1)",
+      "38' Julian Bonetto (0-2)",
+      "",
+      "",
+      "74' Jan Carlos Hurtado Anchico (1-2)",
+      "83' Matias Gonzalez (2-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "11:01",
+    "start_time": "11:01",
+    "group": "HOLC",
+    "title": "AFC 34 4-1 VV Scherpenzeel",
+    "homeTeam": "AFC 34",
+    "awayTeam": "VV Scherpenzeel",
+    "score": "4-1",
+    "matchId": "5160513",
+    "status": "ET",
+    "goals": [
+      "",
+      "23' Pernelly Biya (0-1)<br>30' 1-1",
+      "",
+      "",
+      "51' 2-1<br>56' 3-1",
+      "",
+      "83' 4-1",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "11:45",
     "start_time": "11:45",
     "group": "INT CF",
-    "title": "Glentoran FC 3-1 Linfield F.C.",
-    "homeTeam": "Glentoran FC",
-    "awayTeam": "Linfield F.C.",
-    "score": "3-1",
-    "matchId": "5179647",
-    "status": "88'",
+    "title": "Ballymacash Rangers 0-6 Ballymena United F.C.",
+    "homeTeam": "Ballymacash Rangers",
+    "awayTeam": "Ballymena United F.C.",
+    "score": "0-6",
+    "matchId": "5179646",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -3432,81 +3455,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "INT CF",
-    "title": "Ballymacash Rangers 0-6 Ballymena United F.C.",
-    "homeTeam": "Ballymacash Rangers",
-    "awayTeam": "Ballymena United F.C.",
-    "score": "0-6",
-    "matchId": "5179646",
-    "status": "87'",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "11:01",
-    "start_time": "11:01",
-    "group": "HOLC",
-    "title": "AFC 34 4-1 VV Scherpenzeel",
-    "homeTeam": "AFC 34",
-    "awayTeam": "VV Scherpenzeel",
-    "score": "4-1",
-    "matchId": "5160513",
-    "status": "ET",
-    "goals": [
-      "",
-      "23' Pernelly Biya (0-1)<br>30' 1-1",
-      "",
-      "",
-      "51' 2-1<br>56' 3-1",
-      "",
-      "83' 4-1",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "08:02",
-    "start_time": "08:02",
-    "group": "GRE Cup",
-    "title": "Volos NFC 2-2 Kalamata AO",
-    "homeTeam": "Volos NFC",
-    "awayTeam": "Kalamata AO",
-    "score": "2-2",
-    "matchId": "5175287",
-    "status": "ET",
-    "goals": [
-      "",
-      "26' Jovanny David Bolivar Alvarado (0-1)",
-      "38' Julian Bonetto (0-2)",
-      "",
-      "",
-      "74' Jan Carlos Hurtado Anchico (1-2)",
-      "83' Matias Gonzalez (2-2)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "INT CF",
-    "title": "Crusaders F.C. 2-1 Carrick Rangers F.C.",
+    "title": "Crusaders F.C. 2-2 Carrick Rangers F.C.",
     "homeTeam": "Crusaders F.C.",
     "awayTeam": "Carrick Rangers F.C.",
-    "score": "2-1",
+    "score": "2-2",
     "matchId": "5179645",
-    "status": "89'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -3552,7 +3506,7 @@
     "awayTeam": "Ards FC",
     "score": "4-5",
     "matchId": "5179644",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -3621,7 +3575,7 @@
     "awayTeam": "Killester Donnycarney FC",
     "score": "0-1",
     "matchId": "5179677",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -3685,12 +3639,12 @@
     "time": "11:48",
     "start_time": "11:48",
     "group": "IRE LSL",
-    "title": "Wayside Celtic 3-2 Montpelier FC",
+    "title": "Wayside Celtic 5-2 Montpelier FC",
     "homeTeam": "Wayside Celtic",
     "awayTeam": "Montpelier FC",
-    "score": "3-2",
+    "score": "5-2",
     "matchId": "5179642",
-    "status": "83'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -3751,29 +3705,6 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "05:00",
-    "start_time": "05:00",
-    "group": "ARM D2",
-    "title": "Olympia Yerevan 2-1 Araks Ararat",
-    "homeTeam": "Olympia Yerevan",
-    "awayTeam": "Araks Ararat",
-    "score": "2-1",
-    "matchId": "5142983",
-    "status": "ET",
-    "goals": [
-      "13' Narek Aleksanyan (1-0)",
-      "",
-      "33' Ransford Amoako Boadu (1-1)",
-      "",
-      "",
-      "",
-      "81' Denilson Carvalho Da Silva (2-1)",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "11:47",
     "start_time": "11:47",
     "group": "ENG-SLCD",
@@ -3782,7 +3713,7 @@
     "awayTeam": "Leamington",
     "score": "0-2",
     "matchId": "5131689",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "5' Kyle Finn (0-1)",
       "",
@@ -3790,7 +3721,30 @@
       "",
       "",
       "",
-      "76' 0-2",
+      "76' Cameron Eubank (0-2)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "02:00",
+    "start_time": "02:00",
+    "group": "IND MPL",
+    "title": "MLS FC Lawngtlai 0-4 Chanmari FC",
+    "homeTeam": "MLS FC Lawngtlai",
+    "awayTeam": "Chanmari FC",
+    "score": "0-4",
+    "matchId": "5179674",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "40' F C Lalhmunmawia (0-1)",
+      "",
+      "55' Lalruatsanga (0-2)<br>56' Lalruatsanga (0-3)",
+      "",
+      "79' Malsawmtluanga Pautu (0-4)",
       ""
     ]
   },
@@ -3851,7 +3805,7 @@
     "awayTeam": "Warrington Town FC",
     "score": "1-2",
     "matchId": "5131054",
-    "status": "85'",
+    "status": "ET",
     "goals": [
       "11' Jack Goodwin (0-1)<br>12' Jack Griffiths (1-1)",
       "",
@@ -3912,23 +3866,23 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "02:00",
-    "start_time": "02:00",
-    "group": "IND MPL",
-    "title": "MLS FC Lawngtlai 0-4 Chanmari FC",
-    "homeTeam": "MLS FC Lawngtlai",
-    "awayTeam": "Chanmari FC",
-    "score": "0-4",
-    "matchId": "5179674",
+    "time": "05:00",
+    "start_time": "05:00",
+    "group": "ARM D2",
+    "title": "Olympia Yerevan 2-1 Araks Ararat",
+    "homeTeam": "Olympia Yerevan",
+    "awayTeam": "Araks Ararat",
+    "score": "2-1",
+    "matchId": "5142983",
     "status": "ET",
     "goals": [
+      "13' Narek Aleksanyan (1-0)",
+      "",
+      "33' Ransford Amoako Boadu (1-1)",
       "",
       "",
-      "40' F C Lalhmunmawia (0-1)",
       "",
-      "55' Lalruatsanga (0-2)<br>56' Lalruatsanga (0-3)",
-      "",
-      "79' Malsawmtluanga Pautu (0-4)",
+      "81' Denilson Carvalho Da Silva (2-1)",
       ""
     ]
   },
@@ -3938,12 +3892,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "SCO BCC",
-    "title": "Stranraer F.C. 3-3 Celtic 2",
+    "title": "Stranraer F.C. 3-4 Celtic 2",
     "homeTeam": "Stranraer F.C.",
     "awayTeam": "Celtic 2",
-    "score": "3-3",
+    "score": "3-4",
     "matchId": "5126718",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -3951,7 +3905,7 @@
       "",
       "47' Lucas Clearie (1-1)<br>51' Aaron Healy (2-1)<br>57' Robbie Foster (3-1)<br>60' Lucas Clearie (3-2)",
       "",
-      "",
+      "85' Lucas Clearie (3-3)<br>86' Sean Mcardle (3-4)",
       ""
     ]
   },
@@ -4004,38 +3958,15 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "03:10",
-    "start_time": "03:10",
-    "group": "IND SSL",
-    "title": "Meghalaya Police 0-2 Lajong B",
-    "homeTeam": "Meghalaya Police",
-    "awayTeam": "Lajong B",
-    "score": "0-2",
-    "matchId": "5179643",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "38' Ricky Kharkongor (0-1)",
-      "",
-      "54' Lalmuansanga (0-2)",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG D2",
-    "title": "Tranmere Rovers F.C. 2-1 Rotherham United F.C.",
+    "title": "Tranmere Rovers F.C. 2-2 Rotherham United F.C.",
     "homeTeam": "Tranmere Rovers F.C.",
     "awayTeam": "Rotherham United F.C.",
-    "score": "2-1",
+    "score": "2-2",
     "matchId": "5090736",
-    "status": "87'",
+    "status": "ET",
     "goals": [
       "",
       "16' Zane Okoro (1-0)",
@@ -4044,7 +3975,7 @@
       "",
       "",
       "84' Aaron Nemane (1-1)<br>87' Thomas Ince (2-1)",
-      ""
+      "90+6' Tom Bradshaw (2-2)"
     ]
   },
   {
@@ -4068,29 +3999,6 @@
       "75' Patrik Twardzik (5-0)",
       "",
       "90+2' Len Wilkesmann (6-0)"
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "02:30",
-    "start_time": "02:30",
-    "group": "IND CFL",
-    "title": "Bidhannagar 0-4 Kalighat Milan Sangha",
-    "homeTeam": "Bidhannagar",
-    "awayTeam": "Kalighat Milan Sangha",
-    "score": "0-4",
-    "matchId": "5176441",
-    "status": "ET",
-    "goals": [
-      "6' 0-1<br>10' 0-2",
-      "",
-      "",
-      "",
-      "56' 0-3",
-      "",
-      "86' 0-4",
-      ""
     ]
   },
   {
@@ -4122,12 +4030,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG D2",
-    "title": "Swindon Town F.C. 2-1 Port Vale F.C.",
+    "title": "Swindon Town F.C. 3-1 Port Vale F.C.",
     "homeTeam": "Swindon Town F.C.",
     "awayTeam": "Port Vale F.C.",
-    "score": "2-1",
+    "score": "3-1",
     "matchId": "5090735",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "2' Oliver Lynch (0-1)<br>13' Aaron Drinan (1-1)",
       "",
@@ -4136,7 +4044,7 @@
       "",
       "71' Ben Middlemas (2-1)",
       "",
-      ""
+      "90+4' Louis Millard (3-1)"
     ]
   },
   {
@@ -4160,6 +4068,29 @@
       "75' Yassin Ben Balla (2-1)",
       "",
       "90+2' Luke Fahrenhorst (3-1)"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "02:30",
+    "start_time": "02:30",
+    "group": "IND CFL",
+    "title": "Bidhannagar 0-4 Kalighat Milan Sangha",
+    "homeTeam": "Bidhannagar",
+    "awayTeam": "Kalighat Milan Sangha",
+    "score": "0-4",
+    "matchId": "5176441",
+    "status": "ET",
+    "goals": [
+      "6' 0-1<br>10' 0-2",
+      "",
+      "",
+      "",
+      "56' 0-3",
+      "",
+      "86' 0-4",
+      ""
     ]
   },
   {
@@ -4191,12 +4122,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG D2",
-    "title": "Salford City F.C. 1-1 Newport County A.F.C.",
+    "title": "Salford City F.C. 2-1 Newport County A.F.C.",
     "homeTeam": "Salford City F.C.",
     "awayTeam": "Newport County A.F.C.",
-    "score": "1-1",
+    "score": "2-1",
     "matchId": "5090734",
-    "status": "86'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -4205,7 +4136,7 @@
       "",
       "71' Harrison Biggins (0-1)",
       "83' Taylor Allen (1-1)",
-      ""
+      "90' Kelly N\\'Mai (2-1)"
     ]
   },
   {
@@ -4257,24 +4188,24 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "07:00",
-    "start_time": "07:00",
-    "group": "ARM D2",
-    "title": "Ararat-Armenia B 1-1 MIKA Ashtarak",
-    "homeTeam": "Ararat-Armenia B",
-    "awayTeam": "MIKA Ashtarak",
-    "score": "1-1",
-    "matchId": "5142969",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG D2",
+    "title": "Rochdale A.F.C. 3-0 Shrewsbury Town F.C.",
+    "homeTeam": "Rochdale A.F.C.",
+    "awayTeam": "Shrewsbury Town F.C.",
+    "score": "3-0",
+    "matchId": "5090726",
     "status": "ET",
     "goals": [
       "",
       "",
-      "32' Davit Petrosyanc (1-0)",
+      "33' Adeeko Babajide (1-0)<br>43' Luke Hannant (2-0)",
       "",
       "",
       "",
-      "",
-      "90+4' Nairi Harutyunyan (1-1)"
+      "80' Jonny Smith (3-0)",
+      ""
     ]
   },
   {
@@ -4303,45 +4234,45 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "ENG D2",
-    "title": "Rochdale A.F.C. 3-0 Shrewsbury Town F.C.",
-    "homeTeam": "Rochdale A.F.C.",
-    "awayTeam": "Shrewsbury Town F.C.",
-    "score": "3-0",
-    "matchId": "5090726",
-    "status": "86'",
+    "time": "07:00",
+    "start_time": "07:00",
+    "group": "ARM D2",
+    "title": "Ararat-Armenia B 1-1 MIKA Ashtarak",
+    "homeTeam": "Ararat-Armenia B",
+    "awayTeam": "MIKA Ashtarak",
+    "score": "1-1",
+    "matchId": "5142969",
+    "status": "ET",
     "goals": [
       "",
       "",
-      "33' Adeeko Babajide (1-0)<br>43' Luke Hannant (2-0)",
+      "32' Davit Petrosyanc (1-0)",
       "",
       "",
       "",
-      "80' Jonny Smith (3-0)",
-      ""
+      "",
+      "90+4' Nairi Harutyunyan (1-1)"
     ]
   },
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "11:45",
-    "start_time": "11:45",
-    "group": "ENG D2",
-    "title": "Northampton Town F.C. 1-1 Crawley Town F.C.",
-    "homeTeam": "Northampton Town F.C.",
-    "awayTeam": "Crawley Town F.C.",
-    "score": "1-1",
-    "matchId": "5090723",
-    "status": "87'",
+    "time": "08:10",
+    "start_time": "08:10",
+    "group": "ARG RL",
+    "title": "CA San Miguel Reserve 1-0 Nueva Chicago Reserve",
+    "homeTeam": "CA San Miguel Reserve",
+    "awayTeam": "Nueva Chicago Reserve",
+    "score": "1-0",
+    "matchId": "5179733",
+    "status": "ET",
     "goals": [
       "",
       "",
-      "38' Nathaniel Opoku (1-0)",
       "",
       "",
-      "67' Dion Pereira (1-1)",
+      "",
+      "",
       "",
       ""
     ]
@@ -4372,45 +4303,22 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "08:10",
-    "start_time": "08:10",
-    "group": "ARG RL",
-    "title": "CA San Miguel Reserve 1-0 Nueva Chicago Reserve",
-    "homeTeam": "CA San Miguel Reserve",
-    "awayTeam": "Nueva Chicago Reserve",
-    "score": "1-0",
-    "matchId": "5179733",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG D2",
+    "title": "Northampton Town F.C. 1-1 Crawley Town F.C.",
+    "homeTeam": "Northampton Town F.C.",
+    "awayTeam": "Crawley Town F.C.",
+    "score": "1-1",
+    "matchId": "5090723",
     "status": "ET",
     "goals": [
       "",
       "",
+      "38' Nathaniel Opoku (1-0)",
       "",
       "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "23:00",
-    "start_time": "23:00",
-    "group": "IND MPL",
-    "title": "Dinthar 0-3 Saikhamakawn",
-    "homeTeam": "Dinthar",
-    "awayTeam": "Saikhamakawn",
-    "score": "0-3",
-    "matchId": "5179638",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "",
-      "47' 0-1<br>53' 0-2",
-      "69' 0-3",
+      "67' Dion Pereira (1-1)",
       "",
       ""
     ]
@@ -4421,12 +4329,12 @@
     "time": "11:45",
     "start_time": "11:45",
     "group": "ENG D2",
-    "title": "Fleetwood Town F.C. 0-1 Oldham Athletic A.F.C.",
+    "title": "Fleetwood Town F.C. 1-1 Oldham Athletic A.F.C.",
     "homeTeam": "Fleetwood Town F.C.",
     "awayTeam": "Oldham Athletic A.F.C.",
-    "score": "0-1",
+    "score": "1-1",
     "matchId": "5090720",
-    "status": "86'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -4434,7 +4342,7 @@
       "45' Kane Drummond (0-1)",
       "",
       "",
-      "",
+      "88' Ronan Coughlan (1-1)",
       ""
     ]
   },
@@ -4487,22 +4395,22 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
-    "time": "08:03",
-    "start_time": "08:03",
-    "group": "ISR Cup",
-    "title": "Hapoel Hod HaSharon 0-2 Beitar Petah Tikva",
-    "homeTeam": "Hapoel Hod HaSharon",
-    "awayTeam": "Beitar Petah Tikva",
-    "score": "0-2",
-    "matchId": "5179689",
+    "time": "23:00",
+    "start_time": "23:00",
+    "group": "IND MPL",
+    "title": "Dinthar 0-3 Saikhamakawn",
+    "homeTeam": "Dinthar",
+    "awayTeam": "Saikhamakawn",
+    "score": "0-3",
+    "matchId": "5179638",
     "status": "ET",
     "goals": [
       "",
       "",
       "",
       "",
-      "",
-      "",
+      "47' 0-1<br>53' 0-2",
+      "69' 0-3",
       "",
       ""
     ]
@@ -4518,7 +4426,7 @@
     "awayTeam": "Barnet F.C.",
     "score": "1-1",
     "matchId": "5090718",
-    "status": "84'",
+    "status": "ET",
     "goals": [
       "",
       "",
@@ -4551,6 +4459,98 @@
       "72' Ronaldo Freitas (2-0)",
       "",
       "90' Julen Carrasco (3-0)"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "08:03",
+    "start_time": "08:03",
+    "group": "ISR Cup",
+    "title": "Hapoel Hod HaSharon 0-2 Beitar Petah Tikva",
+    "homeTeam": "Hapoel Hod HaSharon",
+    "awayTeam": "Beitar Petah Tikva",
+    "score": "0-2",
+    "matchId": "5179689",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "08:02",
+    "start_time": "08:02",
+    "group": "TFF 1. Lig",
+    "title": "Umraniyespor 0-1 Muglaspor",
+    "homeTeam": "Umraniyespor",
+    "awayTeam": "Muglaspor",
+    "score": "0-1",
+    "matchId": "5115010",
+    "status": "ET",
+    "goals": [
+      "",
+      "26' Mamady Diarra (0-1)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "11:45",
+    "start_time": "11:45",
+    "group": "ENG D2",
+    "title": "Crewe Alexandra F.C. 2-2 Walsall",
+    "homeTeam": "Crewe Alexandra F.C.",
+    "awayTeam": "Walsall",
+    "score": "2-2",
+    "matchId": "5090716",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "42' Aaron Pressley (0-1)",
+      "",
+      "50' Josh March (1-1)<br>57' Aaron Pressley (1-2)",
+      "",
+      "",
+      "90+2' Reece Hutchinson (2-2)"
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "10:30",
+    "start_time": "10:30",
+    "group": "SAPL",
+    "title": "Kruger United 0-4 Orlando Pirates F.C.",
+    "homeTeam": "Kruger United",
+    "awayTeam": "Orlando Pirates F.C.",
+    "score": "0-4",
+    "matchId": "5136149",
+    "status": "ET",
+    "goals": [
+      "4' Ghampani Lungu (0-1)",
+      "",
+      "",
+      "",
+      "54' Boitumelo Radiopane (0-2)",
+      "",
+      "79' Yanela Mbuthuma (0-3)",
+      "90+2' Yanela Mbuthuma (0-4)"
     ]
   },
   {

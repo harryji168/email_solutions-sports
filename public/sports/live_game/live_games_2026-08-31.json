@@ -2,6 +2,29 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
+    "time": "18:06",
+    "start_time": "18:06",
+    "group": "MEX WD1",
+    "title": "Santos Laguna Women\\s 1-0 Atlante Women\\s",
+    "homeTeam": "Santos Laguna Women\\s",
+    "awayTeam": "Atlante Women\\s",
+    "score": "1-0",
+    "matchId": "5141659",
+    "status": "ET",
+    "goals": [
+      "",
+      "",
+      "",
+      "45' Judith Felix (1-0)",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "day": "Monday",
     "time": "18:05",
     "start_time": "18:05",
     "group": "COL D1",
@@ -71,29 +94,6 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
-    "time": "19:00",
-    "start_time": "19:00",
-    "group": "OFC U19",
-    "title": "Samoa U19 2-4 New Caledonia(U19)",
-    "homeTeam": "Samoa U19",
-    "awayTeam": "New Caledonia(U19)",
-    "score": "2-4",
-    "matchId": "5174975",
-    "status": "82'",
-    "goals": [
-      "3' Ezekiel Wamowe (0-1)<br>9' Fabrice Iopue (0-2)",
-      "22' Kyllian Wiako (0-3)",
-      "",
-      "",
-      "48' Landry Thupaco (0-4)<br>51' Isaiah Afamasaga (1-4)",
-      "72' Javier Arratia-Pio (2-4)",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "day": "Monday",
     "time": "17:45",
     "start_time": "17:45",
     "group": "CHI D1",
@@ -117,22 +117,22 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
-    "time": "17:30",
-    "start_time": "17:30",
-    "group": "BRA WT",
-    "title": "Bahia de Feira BA Women\\s 1-1 Palmeiras SP Women\\s",
-    "homeTeam": "Bahia de Feira BA Women\\s",
-    "awayTeam": "Palmeiras SP Women\\s",
-    "score": "1-1",
-    "matchId": "5173596",
-    "status": "ET",
+    "time": "19:00",
+    "start_time": "19:00",
+    "group": "OFC U19",
+    "title": "Samoa U19 2-4 New Caledonia(U19)",
+    "homeTeam": "Samoa U19",
+    "awayTeam": "New Caledonia(U19)",
+    "score": "2-4",
+    "matchId": "5174975",
+    "status": "90+'",
     "goals": [
-      "",
-      "29' Brena (0-1)",
-      "44' Wendy Carballo (1-1)",
-      "",
+      "3' Ezekiel Wamowe (0-1)<br>9' Fabrice Iopue (0-2)",
+      "22' Kyllian Wiako (0-3)",
       "",
       "",
+      "48' Landry Thupaco (0-4)<br>51' Isaiah Afamasaga (1-4)",
+      "72' Javier Arratia-Pio (2-4)",
       "",
       ""
     ]
@@ -209,29 +209,6 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
-    "time": "18:06",
-    "start_time": "18:06",
-    "group": "MEX WD1",
-    "title": "Santos Laguna Women\\s 1-0 Atlante Women\\s",
-    "homeTeam": "Santos Laguna Women\\s",
-    "awayTeam": "Atlante Women\\s",
-    "score": "1-0",
-    "matchId": "5141659",
-    "status": "ET",
-    "goals": [
-      "",
-      "",
-      "",
-      "45' Judith Felix (1-0)",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "day": "Monday",
     "time": "16:31",
     "start_time": "16:31",
     "group": "VEN D1",
@@ -249,6 +226,29 @@
       "",
       "",
       "80' Diego German Osorio Hidalgo (3-0)",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "day": "Monday",
+    "time": "17:30",
+    "start_time": "17:30",
+    "group": "BRA WT",
+    "title": "Bahia de Feira BA Women\\s 1-1 Palmeiras SP Women\\s",
+    "homeTeam": "Bahia de Feira BA Women\\s",
+    "awayTeam": "Palmeiras SP Women\\s",
+    "score": "1-1",
+    "matchId": "5173596",
+    "status": "ET",
+    "goals": [
+      "",
+      "29' Brena (0-1)",
+      "44' Wendy Carballo (1-1)",
+      "",
+      "",
+      "",
+      "",
       ""
     ]
   },
@@ -273,29 +273,6 @@
       "62' Samuel Alejandro Sosa Cordero (2-1)",
       "81' Juan Alegria (3-1)",
       "90+3' Juan Alegria (4-1)"
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "BRA CP",
-    "title": "Comercial SP 2-0 EC Sao Bernardo",
-    "homeTeam": "Comercial SP",
-    "awayTeam": "EC Sao Bernardo",
-    "score": "2-0",
-    "matchId": "5175333",
-    "status": "ET",
-    "goals": [
-      "",
-      "17' Filipinho (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "89' Filipinho (2-0)",
-      ""
     ]
   },
   {
@@ -337,6 +314,29 @@
       "",
       "30' Mailton dos Santos de Sa (1-0)",
       "33' Angel Yesid Torres Quinones (1-1)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "day": "Monday",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "COL D1",
+    "title": "Deportivo Pasto 1-2 Deportivo Pereira",
+    "homeTeam": "Deportivo Pasto",
+    "awayTeam": "Deportivo Pereira",
+    "score": "1-2",
+    "matchId": "5072457",
+    "status": "ET",
+    "goals": [
+      "5' Jordy Monroy (0-1)",
+      "21' Santiago Jimenez Mejia (1-1)",
+      "41' Jhon Largacha (1-2)",
       "",
       "",
       "",
@@ -554,29 +554,6 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
-    "time": "16:00",
-    "start_time": "16:00",
-    "group": "COL D1",
-    "title": "Deportivo Pasto 1-2 Deportivo Pereira",
-    "homeTeam": "Deportivo Pasto",
-    "awayTeam": "Deportivo Pereira",
-    "score": "1-2",
-    "matchId": "5072457",
-    "status": "ET",
-    "goals": [
-      "5' Jordy Monroy (0-1)",
-      "21' Santiago Jimenez Mejia (1-1)",
-      "41' Jhon Largacha (1-2)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-08-31",
-    "day": "Monday",
     "time": "15:15",
     "start_time": "15:15",
     "group": "BRA WT",
@@ -595,6 +572,29 @@
       "",
       "",
       "90+6' Vict\u00f3ria Kristine Albuquerque de Miranda (0-1)"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "day": "Monday",
+    "time": "15:02",
+    "start_time": "15:02",
+    "group": "OFC U19",
+    "title": "Solomon Islands(U19) 1-0 Papua New Guinea(U19)",
+    "homeTeam": "Solomon Islands(U19)",
+    "awayTeam": "Papua New Guinea(U19)",
+    "score": "1-0",
+    "matchId": "5174973",
+    "status": "ET",
+    "goals": [
+      "",
+      "16' Wilkenson Siosi (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ]
   },
   {
@@ -623,23 +623,23 @@
   {
     "date": "2026-08-31",
     "day": "Monday",
-    "time": "15:02",
-    "start_time": "15:02",
-    "group": "OFC U19",
-    "title": "Solomon Islands(U19) 1-0 Papua New Guinea(U19)",
-    "homeTeam": "Solomon Islands(U19)",
-    "awayTeam": "Papua New Guinea(U19)",
-    "score": "1-0",
-    "matchId": "5174973",
+    "time": "16:00",
+    "start_time": "16:00",
+    "group": "BRA CP",
+    "title": "Comercial SP 2-0 EC Sao Bernardo",
+    "homeTeam": "Comercial SP",
+    "awayTeam": "EC Sao Bernardo",
+    "score": "2-0",
+    "matchId": "5175333",
     "status": "ET",
     "goals": [
       "",
-      "16' Wilkenson Siosi (1-0)",
+      "17' Filipinho (1-0)",
       "",
       "",
       "",
       "",
-      "",
+      "89' Filipinho (2-0)",
       ""
     ]
   },

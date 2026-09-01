@@ -2,6 +2,29 @@
   {
     "date": "2026-09-01",
     "day": "Tuesday",
+    "time": "16:01",
+    "start_time": "16:01",
+    "group": "BOL LFPB",
+    "title": "F.C. Universitario de Vinto 1-0 Club Aurora",
+    "homeTeam": "F.C. Universitario de Vinto",
+    "awayTeam": "Club Aurora",
+    "score": "1-0",
+    "matchId": "5159248",
+    "status": "35'",
+    "goals": [
+      "8' Cabrera Suarez L. (1-0)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
     "time": "15:30",
     "start_time": "15:30",
     "group": "BRA CGD2",
@@ -10,7 +33,7 @@
     "awayTeam": "Passo Fundo RS",
     "score": "0-1",
     "matchId": "5113314",
-    "status": "45+'",
+    "status": "HT",
     "goals": [
       "",
       "",
@@ -33,7 +56,7 @@
     "awayTeam": "Danubio F.C.",
     "score": "0-0",
     "matchId": "5173231",
-    "status": "4'",
+    "status": "20'",
     "goals": [
       "",
       "",
@@ -51,15 +74,15 @@
     "time": "16:06",
     "start_time": "16:06",
     "group": "CFUCC",
-    "title": "Defence Force FC 0-0 Club Sando",
+    "title": "Defence Force FC 0-1 Club Sando",
     "homeTeam": "Defence Force FC",
     "awayTeam": "Club Sando",
-    "score": "0-0",
+    "score": "0-1",
     "matchId": "5077710",
-    "status": "14'",
+    "status": "30'",
     "goals": [
       "",
-      "",
+      "24' L. Phillip (0-1)",
       "",
       "",
       "",
@@ -79,7 +102,30 @@
     "awayTeam": "Veranopolis RS",
     "score": "0-0",
     "matchId": "5113310",
-    "status": "45+'",
+    "status": "HT",
+    "goals": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "16:33",
+    "start_time": "16:33",
+    "group": "USA MLSRv",
+    "title": "Inter Miami CF B 0-0 New York City FC B",
+    "homeTeam": "Inter Miami CF B",
+    "awayTeam": "New York City FC B",
+    "score": "0-0",
+    "matchId": "5029606",
+    "status": "3'",
     "goals": [
       "",
       "",
@@ -125,7 +171,7 @@
     "awayTeam": "CE Lajeadense",
     "score": "0-0",
     "matchId": "5113307",
-    "status": "18'",
+    "status": "34'",
     "goals": [
       "",
       "",
@@ -133,6 +179,29 @@
       "",
       "",
       "",
+      "",
+      ""
+    ]
+  },
+  {
+    "date": "2026-09-01",
+    "day": "Tuesday",
+    "time": "15:01",
+    "start_time": "15:01",
+    "group": "OFC U19",
+    "title": "Fiji(U19) 5-1 Vanuatu(U19)",
+    "homeTeam": "Fiji(U19)",
+    "awayTeam": "Vanuatu(U19)",
+    "score": "5-1",
+    "matchId": "5174980",
+    "status": "74'",
+    "goals": [
+      "15' Rohan Masauvakalo (0-1)",
+      "26' Abdullah Khairati (1-1)",
+      "",
+      "",
+      "46' Ibraheem Afazal (2-1)<br>57' Jovesa Uqe (3-1)",
+      "67' Ryan Naresh (4-1)<br>71' Ryan Naresh (5-1)",
       "",
       ""
     ]
@@ -148,7 +217,7 @@
     "awayTeam": "Boca Juniors De Cali",
     "score": "1-1",
     "matchId": "5072271",
-    "status": "HT",
+    "status": "48'",
     "goals": [
       "4' Pablo Urrutia (0-1)",
       "22' Philippe Oviedo (1-1)",
@@ -171,59 +240,13 @@
     "awayTeam": "Esporte Clube Juventude",
     "score": "0-0",
     "matchId": "5036289",
-    "status": "HT",
+    "status": "49'",
     "goals": [
       "",
       "",
       "",
       "",
       "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "16:01",
-    "start_time": "16:01",
-    "group": "BOL LFPB",
-    "title": "F.C. Universitario de Vinto 1-0 Club Aurora",
-    "homeTeam": "F.C. Universitario de Vinto",
-    "awayTeam": "Club Aurora",
-    "score": "1-0",
-    "matchId": "5159248",
-    "status": "19'",
-    "goals": [
-      "8' Cabrera Suarez L. (1-0)",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "date": "2026-09-01",
-    "day": "Tuesday",
-    "time": "15:01",
-    "start_time": "15:01",
-    "group": "OFC U19",
-    "title": "Fiji(U19) 3-1 Vanuatu(U19)",
-    "homeTeam": "Fiji(U19)",
-    "awayTeam": "Vanuatu(U19)",
-    "score": "3-1",
-    "matchId": "5174980",
-    "status": "58'",
-    "goals": [
-      "15' Rohan Masauvakalo (0-1)",
-      "26' Abdullah Khairati (1-1)",
-      "",
-      "",
-      "46' Ibraheem Afazal (2-1)",
       "",
       "",
       ""
@@ -240,7 +263,7 @@
     "awayTeam": "Trindade AC",
     "score": "0-0",
     "matchId": "5179664",
-    "status": "HT",
+    "status": "47'",
     "goals": [
       "",
       "",
@@ -258,12 +281,12 @@
     "time": "16:10",
     "start_time": "16:10",
     "group": "BRA CGD2",
-    "title": "Gloria RS 1-1 Esportivo (RS)",
+    "title": "Gloria RS 2-1 Esportivo (RS)",
     "homeTeam": "Gloria RS",
     "awayTeam": "Esportivo (RS)",
-    "score": "1-1",
+    "score": "2-1",
     "matchId": "5113317",
-    "status": "55'",
+    "status": "71'",
     "goals": [
       "",
       "",
@@ -286,7 +309,7 @@
     "awayTeam": "Forge FC",
     "score": "1-0",
     "matchId": "5176420",
-    "status": "51'",
+    "status": "67'",
     "goals": [
       "",
       "",
@@ -309,7 +332,7 @@
     "awayTeam": "Gramadense",
     "score": "2-0",
     "matchId": "5113303",
-    "status": "59'",
+    "status": "75'",
     "goals": [
       "",
       "",
@@ -327,12 +350,12 @@
     "time": "14:30",
     "start_time": "14:30",
     "group": "PAR D1",
-    "title": "Club 2 de Mayo 2-1 Sportivo Luqueno",
+    "title": "Club 2 de Mayo 2-2 Sportivo Luqueno",
     "homeTeam": "Club 2 de Mayo",
     "awayTeam": "Sportivo Luqueno",
-    "score": "2-1",
+    "score": "2-2",
     "matchId": "5171338",
-    "status": "90+'",
+    "status": "ET",
     "goals": [
       "",
       "18' Tom\u00e1s Muro (0-1)",
@@ -341,7 +364,7 @@
       "59' Fernando C\u00e1ceres (1-1)",
       "",
       "81' M. Moya (2-1)",
-      ""
+      "90+4' Lucas Morales (2-2)"
     ]
   },
   {
@@ -355,7 +378,7 @@
     "awayTeam": "Brujas de Salamanca",
     "score": "0-0",
     "matchId": "5140988",
-    "status": "58'",
+    "status": "74'",
     "goals": [
       "",
       "",
@@ -378,7 +401,7 @@
     "awayTeam": "C.D. Tecnico Universitario",
     "score": "1-0",
     "matchId": "5035323",
-    "status": "88'",
+    "status": "ET",
     "goals": [
       "",
       "",
